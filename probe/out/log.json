@@ -1,0 +1,142 @@
+{
+ "/Redaktion/DE/Artikel/Wirtschaft/Projektionen-der-Bundesregierung/projektionen-der-bundesregierung-herbst-2026.html": 200,
+ "/Redaktion/DE/Artikel/Wirtschaft/Projektionen-der-Bundesregierung/projektionen-der-bundesregierung-fruehjahrsprojektion-2026.html": 200,
+ "/Redaktion/DE/Artikel/Wirtschaft/Projektionen-der-Bundesregierung/projektionen-der-bundesregierung.html": 200,
+ "/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials-herbst-2023.html": 200,
+ "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials-2024.zip": {
+  "status": 200,
+  "ctype": "text/html;charset=utf-8",
+  "bytes": 135953,
+  "ziplinks": [
+   "/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials-2024.zip?__blob=publicationFile&amp;v=1"
+  ]
+ },
+ "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials-fruehjahr-2024.zip": {
+  "status": 200,
+  "ctype": "text/html;charset=utf-8",
+  "bytes": 135752,
+  "ziplinks": [
+   "/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials-fruehjahr-2024.zip?__blob=publicationFile&amp;v=1"
+  ]
+ },
+ "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials-fruehjahr-2026.zip": {
+  "status": 200,
+  "ctype": "text/html;charset=utf-8",
+  "bytes": 134640,
+  "ziplinks": [
+   "/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials-fruehjahr-2026.zip?__blob=publicationFile&amp;v=1"
+  ]
+ },
+ "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials-fruehjahrsprojektion-2026.zip": {
+  "status": 404,
+  "ctype": "text/html;charset=utf-8",
+  "bytes": 133671
+ },
+ "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials-herbst-2025.zip": {
+  "status": 200,
+  "ctype": "text/html;charset=utf-8",
+  "bytes": 131247,
+  "ziplinks": [
+   "/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials-herbst-2025.zip?__blob=publicationFile&amp;v=1"
+  ]
+ },
+ "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials-herbst-2026.zip": {
+  "status": 404,
+  "ctype": "text/html;charset=utf-8",
+  "bytes": 133568
+ },
+ "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials-herbstprojektion-2026.zip": {
+  "status": 404,
+  "ctype": "text/html;charset=utf-8",
+  "bytes": 133568
+ },
+ "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials-jahresprojektion-2026.zip": {
+  "status": 404,
+  "ctype": "text/html;charset=utf-8",
+  "bytes": 133568
+ },
+ "eurostat_gdp": {
+  "status": 200,
+  "bytes": 3638,
+  "head": "{\"version\":\"2.0\",\"class\":\"dataset\",\"label\":\"Gross domestic product (GDP) and main components (output, expenditure and income) - quarterly data\",\"source\":\"ESTAT\",\"updated\":\"2026-10-30T23:00:00+0100\",\"value\":{\"0\":0.2,\"1\":-0.1,\"2\":0.1,\"3\":0.2,\"4\":0.1,\"5\":0.0,\"6\":0.0,\"7\":0.3,\"8\":0.4,\"9\":0.3,\"10\":0.2},\"s"
+ },
+ "ameco_zip": {
+  "status": 200,
+  "bytes": 7134059,
+  "head": "PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000YÂ\\ D@íæ\u0002\u0000¡\u0014\u000e\u0000\n\u0000\u0000\u0000AMECO1.TXTìÝIäæy'ð{EÔwè£|0âÝÀ\"©eDµ\u0015\\¬±/\u0012ÕA1L5\u0019Íno}\u000e\u0013¿\u0007EÍ°dÙ¦ÔRdÍ\u0002\n\td\"³\u0012ïû,ÿåí¿{çÝóí¿ûèéïÿÃùÁG?üÛ·òÖ/>|÷ýóÃ~øÞ»çGOúá÷H~d?\u001fÕæG÷cø1ýX~ì3ïééééééééééååååååååååííííííííí½ÏRò#ûQü¨~4?º\u001fÃéÇòÃ\u0019Ù\u0019Ù\u0019Ù\u0019Ù\u0019Ù\u0019Ù\u0019Ù\u0019Ù\u0019Ù\u0019Ù\u0019Å\u0019Å\u0019Å\u0019Å\u0019Å\u0019Å\u0019Å\u0019e·7ï~Tæ",
+  "files": [
+   [
+    "AMECO1.TXT",
+    922785
+   ],
+   [
+    "AMECO2.TXT",
+    2510037
+   ],
+   [
+    "AMECO3.TXT",
+    3935004
+   ],
+   [
+    "AMECO4.TXT",
+    1489212
+   ],
+   [
+    "AMECO5.TXT",
+    1420110
+   ],
+   [
+    "AMECO6.TXT",
+    3753873
+   ],
+   [
+    "AMECO7.TXT",
+    2204334
+   ],
+   [
+    "AMECO8.TXT",
+    564711
+   ],
+   [
+    "AMECO9.TXT",
+    2282838
+   ],
+   [
+    "AMECO10.TXT",
+    1096587
+   ],
+   [
+    "AMECO11.TXT",
+    405567
+   ],
+   [
+    "AMECO12.TXT",
+    4088913
+   ],
+   [
+    "AMECO13.TXT",
+    624540
+   ],
+   [
+    "AMECO14.TXT",
+    1482930
+   ],
+   [
+    "AMECO15.TXT",
+    1472460
+   ],
+   [
+    "AMECO16.TXT",
+    7281216
+   ],
+   [
+    "AMECO17.TXT",
+    636954
+   ],
+   [
+    "AMECO18.TXT",
+    661035
+   ]
+  ]
+ }
+}

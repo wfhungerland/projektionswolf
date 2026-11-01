@@ -116,6 +116,8 @@ def extract_vintage(src: Path, dst_root: Path = BMWE_DIR) -> str | None:
         read_gap_data(nawru).to_csv(dst / "gap_nawru.csv")
     if (tfp := find(r"^GAP50.*TFP.*\.xls$")) is not None:
         read_gap_data(tfp).to_csv(dst / "gap_tfp.csv")
+    if (mat := find(r"^priors.*\.mat$")) is not None:
+        (dst / "priors.mat").write_bytes(mat.read_bytes())
     if (prg := find(r"\.prg$")) is not None:
         (dst / "potenzial.prg").write_bytes(prg.read_bytes())
     return code

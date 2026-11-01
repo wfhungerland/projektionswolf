@@ -11,52 +11,33 @@ def get(url, **kw):
     return r
 
 BMWE = "https://www.bundeswirtschaftsministerium.de"
-pages = [
- "/Redaktion/DE/Artikel/Wirtschaft/Projektionen-der-Bundesregierung/projektionen-der-bundesregierung-herbst-2026.html",
- "/Redaktion/DE/Artikel/Wirtschaft/Projektionen-der-Bundesregierung/projektionen-der-bundesregierung-fruehjahrsprojektion-2026.html",
- "/Redaktion/DE/Artikel/Wirtschaft/Projektionen-der-Bundesregierung/projektionen-der-bundesregierung.html",
- "/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials-herbst-2023.html",
-]
-links = set()
-for p in pages:
-    try:
-        r = get(BMWE + p)
-        log[p] = r.status_code
-        (OUT / (p.rsplit("/", 1)[-1] + ".txt")).write_text(r.text[:400000])
-        for m in re.findall(r'href="([^"]+)"', r.text):
-            if any(k in m.lower() for k in ("produktionspotenzial", "eckwert", "projektion", ".zip", ".xlsx", ".pdf")):
-                links.add(m if m.startswith("http") else BMWE + m)
-    except Exception as e:
-        log[p] = repr(e)
-(OUT / "links.txt").write_text("\n".join(sorted(links)))
-
-# Kandidaten-ZIPs der Rechengrundlagen
-cands = [l for l in links if "produktionspotenzial" in l.lower()]
-guess = [f"{BMWE}/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials-{s}.zip"
-         for s in ("herbst-2026", "herbstprojektion-2026", "fruehjahr-2026", "fruehjahrsprojektion-2026", "jahresprojektion-2026", "herbst-2025", "2024", "fruehjahr-2024")]
-for url in sorted(set(cands + guess)):
-    try:
-        r = get(url, allow_redirects=True)
-        ent = {"status": r.status_code, "ctype": r.headers.get("content-type"), "bytes": len(r.content)}
-        if r.ok and r.content[:2] == b"PK":
-            z = zipfile.ZipFile(io.BytesIO(r.content))
-            ent["files"] = [(i.filename, i.file_size) for i in z.infolist()]
-            d = OUT / ("zip_" + url.rsplit("/", 1)[-1].replace(".zip", "").replace(".html", ""))
-            d.mkdir(exist_ok=True)
-            for i in z.infolist():
-                if i.file_size < 3_000_000 and not i.is_dir():
-                    (d / pathlib.Path(i.filename).name).write_bytes(z.read(i))
-        elif r.ok and "html" in (r.headers.get("content-type") or ""):
-            for m in re.findall(r'href="([^"]+\.zip[^"]*)"', r.text):
-                ent.setdefault("ziplinks", []).append(m)
-        log[url] = ent
-    except Exception as e:
-        log[url] = repr(e)
+PFX = BMWE + "/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials-"
+vint = ["herbst-2026", "herbstprojektion-2026", "2026", "jahresprojektion-2026", "fruehjahr-2026",
+        "herbst-2025", "2025", "jahresprojektion-2025", "fruehjahr-2025",
+        "herbst-2024", "2024", "fruehjahr-2024", "herbst-2023", "jahresprojektion-2023", "fruehjahr-2023"]
+for v in vint:
+    for ext in (".zip", ".html"):
+        url = PFX + v + ext
+        try:
+            r = get(url + "?__blob=publicationFile&v=1", allow_redirects=True)
+            ent = {"status": r.status_code, "ctype": r.headers.get("content-type"), "bytes": len(r.content)}
+            if r.ok and r.content[:2] == b"PK":
+                z = zipfile.ZipFile(io.BytesIO(r.content))
+                ent["files"] = [(i.filename, i.file_size) for i in z.infolist()]
+                d = OUT / ("zip_" + v); d.mkdir(exist_ok=True)
+                for i in z.infolist():
+                    if i.file_size < 4_000_000 and not i.is_dir():
+                        (d / pathlib.Path(i.filename).name).write_bytes(z.read(i))
+            elif r.ok:
+                ent["blobs"] = sorted(set(re.findall(r'href="([^"]*blob=publicationFile[^"]*)"', r.text)))
+            log[url] = ent
+        except Exception as e:
+            log[url] = repr(e)
 
 # Eurostat und AMECO
 tests = {
  "eurostat_gdp": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/namq_10_gdp?geo=DE&unit=CLV_PCH_PRE&s_adj=SCA&na_item=B1GQ&sinceTimePeriod=2024-Q1",
- "ameco_zip": "https://ec.europa.eu/economy_finance/db_indicators/ameco/documents/ameco0.zip",
+ 
 }
 for k, url in tests.items():
     try:

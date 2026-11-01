@@ -1,4 +1,4 @@
-# projektionswolf: Lauf vom 2026-11-01 22:49 UTC
+# projektionswolf: Lauf vom 2026-11-01 22:52 UTC
 
 ## Nachbau der Potenzialschätzung
 Nachgerechnet: 7 Runden (FP24, HP24, JP25, FP25, HP25, JP26, FP26). Größte Abweichung der Produktionslücke: 7.1e-08 Prozentpunkte.
@@ -23,19 +23,19 @@ Nachgerechnet: 7 Runden (FP24, HP24, JP25, FP25, HP25, JP26, FP26). Größte Abw
 ### Eigene Filter statt GAP (letzte Runde)
 | jahr | Potenzialwachstum: Bundesregierung (GAP) | Potenzialwachstum: beide eigenen Filter | Lücke: Bundesregierung (GAP) | Lücke: beide eigenen Filter |
 |---|---|---|---|---|
-| 2018 | 1.30 | 1.24 | 1.88 | 1.93 |
-| 2019 | 1.14 | 1.04 | 1.72 | 1.86 |
-| 2020 | 0.81 | 0.74 | -3.27 | -3.06 |
-| 2021 | 0.68 | 0.59 | -0.17 | 0.14 |
-| 2022 | 0.76 | 0.71 | 0.87 | 1.23 |
-| 2023 | 0.78 | 0.76 | -0.78 | -0.41 |
-| 2024 | 0.59 | 0.55 | -1.84 | -1.44 |
-| 2025 | 0.43 | 0.38 | -2.03 | -1.57 |
-| 2026 | 0.31 | 0.24 | -1.84 | -1.31 |
-| 2027 | 0.36 | 0.24 | -1.26 | -0.62 |
-| 2028 | 0.41 | 0.19 | -0.80 | 0.06 |
-| 2029 | 0.45 | 0.18 | -0.38 | 0.75 |
-| 2030 | 0.49 | 0.18 | -0.00 | 1.44 |
+| 2018 | 1.30 | 1.23 | 1.88 | 2.02 |
+| 2019 | 1.14 | 1.04 | 1.72 | 1.96 |
+| 2020 | 0.81 | 0.74 | -3.27 | -2.97 |
+| 2021 | 0.68 | 0.59 | -0.17 | 0.23 |
+| 2022 | 0.76 | 0.72 | 0.87 | 1.32 |
+| 2023 | 0.78 | 0.78 | -0.78 | -0.34 |
+| 2024 | 0.59 | 0.57 | -1.84 | -1.40 |
+| 2025 | 0.43 | 0.40 | -2.03 | -1.55 |
+| 2026 | 0.31 | 0.26 | -1.84 | -1.31 |
+| 2027 | 0.36 | 0.27 | -1.26 | -0.64 |
+| 2028 | 0.41 | 0.21 | -0.80 | 0.02 |
+| 2029 | 0.45 | 0.21 | -0.38 | 0.68 |
+| 2030 | 0.49 | 0.20 | -0.00 | 1.35 |
 
 ## Nowcast
 |  | BIP q/q Ist | DFM | Bridge |
@@ -52,6 +52,14 @@ Nachgerechnet: 7 Runden (FP24, HP24, JP25, FP25, HP25, JP26, FP26). Größte Abw
 
 Jahreswachstum 2026 (kalenderbereinigt) aus dem Faktormodell: 1.06 %. Datenstand Monatsindikatoren: 2026-10.
 Setzt man dieses Wachstum in die Frühjahrsprojektion 2026 ein (0.51 % dort), ändert sich die Lücke 2026 von -1.84 auf -1.30 % des Potenzials.
+
+### Backtest Nowcast (ohne Corona-Quartale)
+|  | RMSE | MAE | n | RMSE relativ zu AR(1) |
+|---|---|---|---|---|
+| DFM | 0.453 | 0.323 | 46.000 | 0.813 |
+| ar1 | 0.557 | 0.405 | 46.000 | 1.000 |
+| mittelwert | 0.537 | 0.386 | 46.000 | 0.964 |
+| bridge | 0.544 | 0.367 | 46.000 | 0.976 |
 
 ## Backtest BIP-Projektionen der Bundesregierung
 | horizont | n | mittlerer_fehler | RMSE | MAE |

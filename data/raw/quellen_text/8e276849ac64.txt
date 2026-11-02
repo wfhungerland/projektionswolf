@@ -1,4 +1,4 @@
-
+      
  
  
    
@@ -1947,7 +1947,17 @@
 
  		
 
-  
-  '0.1611909866333 sec diw2_start (nach gefundenem Cache)',
+ 
+  '0.14982986450195 sec diw2_start (nach nicht gefundenem Cache, vor Neurendering)',
+  1 => '0.14985585212708 sec diw2_start (nach möglicher Backend- Ausgabe)',
+  2 => '0.2445068359375 sec diw2_start (nach diw2_header_html)',
+  3 => '0.24561882019043 sec diw2_start (nach diw2_header_nav)',
+  4 => '0.36394882202148 sec diw2_modul_drehscheibe_list_list (NACH diw2_textabschnitt_start / id 880731)',
+  5 => '0.39478802680969 sec diw2_modul_drehscheibe_list_list (NACH diw2_textabschnitt_start / id 880731)',
+  6 => '0.40683102607727 sec diw2_modul_drehscheibe_list_list (NACH diw2_textabschnitt_start / id 880731)',
+  7 => '0.41765093803406 sec diw2_modul_drehscheibe_list_list (NACH diw2_textabschnitt_start / id 880731)',
+  8 => '0.42497086524963 sec diw2_modul_drehscheibe_list_list (NACH diw2_textabschnitt_start / id 880731)',
+  9 => '0.63030385971069 sec diw2_start (nach start_template_modul)',
+  10 => '0.64138197898865 sec diw2_start (nach diw2_footer_html)',
 ) --> 
    

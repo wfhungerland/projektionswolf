@@ -49,11 +49,27 @@ def _variants(v: float) -> list[str]:
     return sorted(out)
 
 
+SHRINK = r"(schrumpf|sink|sank|rückgang|rückläufig|zurückgeh|zurückgang|minus|contract|declin|shrink|fall)"
+STAGNATE = r"(stagn|unverändert|stagnat)"
+
+
 def found(text: str, v: float) -> bool:
     lb = r"(?<![\d,.])" if v < 0 else r"(?<![\d,.\-−–])"  # positive Werte nicht als Teil von "−0,2" zählen
     for s in _variants(v):
         if re.search(lb + re.escape(s) + r"(?![\d])", text):
             return True
+    if v < 0:  # "schrumpft um 0,5 Prozent": Betrag in der Nähe eines Schrumpfungsworts
+        for s in _variants(abs(v)):
+            for m in re.finditer(r"(?<![\d,.])" + re.escape(s) + r"(?![\d])", text):
+                ctx = text[max(0, m.start() - 120): m.end() + 60].lower()
+                if re.search(SHRINK, ctx):
+                    return True
+    if float(v).is_integer():  # "6 Prozent", "jeweils 2 %"
+        k = str(int(abs(v)))
+        if re.search(r"(?<![\d,.])" + k + r"\s?(Prozent|%|percent)", text):
+            return True
+    if v == 0 and re.search(STAGNATE, text, flags=re.I):
+        return True
     return False
 
 
@@ -106,7 +122,10 @@ def verify(path: Path = PROGNOSEN, out: Path = OUT, pause: float = 0.5) -> pd.Da
         vals = {c: v for c, v in vals.items() if pd.notna(v)}
         hits = {c: found(text, float(v)) for c, v in vals.items()}
         n = sum(hits.values())
-        status = "bestätigt" if vals and n == len(vals) else ("teilweise" if n else "nicht gefunden")
+        if not vals:
+            rows.append({"zeile": i, "pruefung": "keine Werte"})
+            continue
+        status = "bestätigt" if n == len(vals) else ("teilweise" if n else "nicht gefunden")
         rows.append({"zeile": i, "pruefung": status, "fehlend": ", ".join(c for c, h in hits.items() if not h)})
     res = df.join(pd.DataFrame(rows).set_index("zeile"))
     import hashlib

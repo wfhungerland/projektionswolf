@@ -48,3 +48,11 @@ def test_prognosen_table_is_clean():
         assert not bad.any(), f"Nicht-Zahl in {c}: Zeilen {list(d.index[bad])}"
     assert pd.to_datetime(d["veroeffentlicht"], format="mixed", errors="coerce").notna().all()
     assert d["quelle"].str.startswith("http").all()
+
+
+def test_verify_value_matching():
+    from projektionswolf import verify
+
+    t = "Das BIP schrumpft um 0,5 Prozent. 2026 wächst es um 1,3 %. Inflation jeweils 2 Prozent. 11,3 und −0,2."
+    assert verify.found(t, -0.5) and verify.found(t, 1.3) and verify.found(t, 2.0) and verify.found(t, -0.2)
+    assert not verify.found(t, 0.2) and not verify.found(t, 1.1) and not verify.found(t, 3.0)

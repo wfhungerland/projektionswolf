@@ -18,6 +18,7 @@ dependencies = [
   "openpyxl>=3.1",
   "python-calamine>=0.2",
   "XlsxWriter>=3.1",
+  "pypdf>=4.0",
 ]
 
 [project.optional-dependencies]
@@ -25,6 +26,9 @@ dev = ["pytest>=8"]
 
 [tool.setuptools]
 packages = ["projektionswolf"]
+
+[tool.setuptools.package-data]
+projektionswolf = ["templates/*.html", "static/*.js"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

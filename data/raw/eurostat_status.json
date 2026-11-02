@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-02T07:37:29Z",
+ "retrieved_at": "2026-11-02T10:11:24Z",
  "series": {
   "gdp_qoq": {
    "ok": true,
@@ -23,8 +23,8 @@
   },
   "retail": {
    "ok": true,
-   "n": 392,
-   "last": "2026-08"
+   "n": 393,
+   "last": "2026-09"
   },
   "esi": {
    "ok": true,

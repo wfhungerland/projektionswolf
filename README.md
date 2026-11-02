@@ -8,7 +8,10 @@ Nachbau der Potenzialschätzung der Bundesregierung in Python, ergänzt um eigen
 | [`output/bericht.md`](output/bericht.md) | Kurzbericht des letzten Laufs |
 | `data/bmwe/<Runde>/` | Rechengrundlagen des BMWE je Projektionsrunde als CSV (Eingangsdaten, Ergebnisse, GAP-Daten, EViews-Programm) |
 | `data/raw/` | Eurostat-Monatsindikatoren, AMECO-Reihen, Abrufstatus |
-| `data/manuell/` | Eckwerte, die noch nicht als Rechengrundlage vorliegen (z. B. Herbstprojektion 2026) |
+| `data/manuell/prognosen.csv` | Prognosen von GD, Bundesbank, ifo, IfW, DIW, RWI und IWH seit 2023, je Wert mit Quellenlink |
+| `data/manuell/eckwerte_projektionen.csv` | Eckwerte der Bundesregierung, die noch nicht als Rechengrundlage vorliegen |
+| `data/raw/prognosen_pruefung.csv` | Ergebnis der automatischen Quellenprüfung je Prognosewert |
+| Webseite | GitHub Pages, gebaut bei jedem Lauf auf `main` |
 
 ## Was die Bausteine leisten
 
@@ -16,6 +19,7 @@ Nachbau der Potenzialschätzung der Bundesregierung in Python, ergänzt um eigen
 2. **Eigene Filter** (`projektionswolf/filters.py`): Die Bundesregierung übernimmt NAWRU und TFP-Trend aus dem EU-Programm GAP. Hier stehen dieselben Modelle als Zustandsraummodelle. Der TFP-Trend ist wie in GAP der Posterior-Mittelwert einer MCMC-Kette (20.000 Ziehungen, 10.000 Burn-in) mit den EU-Prioren für Deutschland aus `priorsDE_<Runde>.mat`. Sein Wachstum trifft die Werte der Bundesregierung seit 2020 auf rund 0,04 Prozentpunkte, Mittelfrist eingeschlossen. Die NAWRU ist per Maximum Likelihood in den GAP-Parametergrenzen geschätzt. Mit beiden eigenen Filtern weicht die Produktionslücke der letzten Runde in keinem Jahr mehr als 0,07 Punkte ab.
 3. **Nowcast** (`projektionswolf/nowcast.py`): dynamisches Faktormodell mit gemischten Frequenzen (Produktion, Bau, Einzelhandel, EU-Umfragen, Arbeitslosigkeit; Quartals-BIP), dazu eine Bridge-Gleichung als Gegenprobe. Corona-Monate gehen als fehlend in die Schätzung ein.
 4. **Backtests** (`projektionswolf/pipeline.py`): BIP-Projektionen der Bundesregierung je Runde gegen den letzten Datenstand; Nowcast in Pseudo-Echtzeit seit 2014 gegen AR(1) und Mittelwert.
+5. **Prognosevergleich** (`projektionswolf/prognosen.py`, `projektionswolf/verify.py`): Projektionen der Bundesregierung neben GD, Bundesbank und Instituten, mit Treffsicherheit je Institution. `verify` lädt jede Quelle und prüft, ob die eingetragenen Zahlen dort stehen. Seiten mit Bot-Schutz (derzeit ifo) gelten als nicht abrufbar; ihre Werte bleiben als „offen“ markiert.
 
 ## Start
 
@@ -35,7 +39,7 @@ python -m projektionswolf run
 python -m projektionswolf check
 ```
 
-`fetch` lädt AMECO, Eurostat und die BMWE-Rechengrundlagen und wandelt sie in CSV um. `run` schätzt alles und schreibt Workbook und Bericht; `--quick` lässt den Nowcast-Backtest weg. `check` vergleicht den Nachbau mit den BMWE-Ergebnissen und endet mit Exit-Code 1 bei Abweichung. Tests: `pytest -q`.
+`python -m projektionswolf verify` prüft die Prognosetabelle an den Quellen. `fetch` lädt AMECO, Eurostat und die BMWE-Rechengrundlagen und wandelt sie in CSV um. `run` schätzt alles und schreibt Workbook und Bericht; `--quick` lässt den Nowcast-Backtest weg. `check` vergleicht den Nachbau mit den BMWE-Ergebnissen und endet mit Exit-Code 1 bei Abweichung. Tests: `pytest -q`.
 
 ## Grenzen
 

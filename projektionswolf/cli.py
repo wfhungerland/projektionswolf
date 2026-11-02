@@ -28,7 +28,10 @@ def cmd_run(args) -> int:
     res = pipeline.run(backtest_nowcast=not args.quick)
     x = report.write_excel(res)
     md = report.write_markdown(res)
-    logging.info("geschrieben: %s, %s", x, md)
+    from . import site
+
+    html = site.write_site(res)
+    logging.info("geschrieben: %s, %s, %s", x, md, html)
     return 0
 
 
@@ -42,6 +45,15 @@ def cmd_check(args) -> int:
     return int(bool((done["max. Abw. Lücke (Pp.)"] > 1e-4).any()))
 
 
+def cmd_verify(args) -> int:
+    """Prognosetabelle an den Quellen gegenprüfen (braucht Netz)."""
+    from . import verify
+
+    res = verify.verify()
+    print(res["pruefung"].value_counts().to_string())
+    return 0
+
+
 def main(argv=None) -> int:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
     ap = argparse.ArgumentParser(prog="projektionswolf")
@@ -50,5 +62,6 @@ def main(argv=None) -> int:
     r = sub.add_parser("run", help="Schätzen und Excel/Bericht schreiben")
     r.add_argument("--quick", action="store_true", help="ohne Nowcast-Backtest")
     sub.add_parser("check", help="Nachbau gegen BMWE-Ergebnisse prüfen")
+    sub.add_parser("verify", help="Prognosetabelle an den Quellen gegenprüfen")
     args = ap.parse_args(argv)
-    return {"fetch": cmd_fetch, "run": cmd_run, "check": cmd_check}[args.cmd](args)
+    return {"fetch": cmd_fetch, "run": cmd_run, "check": cmd_check, "verify": cmd_verify}[args.cmd](args)

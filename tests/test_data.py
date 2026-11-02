@@ -27,3 +27,32 @@ def test_annual_growth_and_carry_over():
     # Niveau 2024: 1,1,1,1.01; 2025: 1.01 durchgehend
     assert np.isclose(a[2025], 100 * (1.01 / 1.0025 - 1))
     assert np.isclose(nowcast.carry_over(q, 2025), a[2025])
+
+
+def test_site_clean_handles_missing():
+    from projektionswolf import site
+
+    assert site._clean(pd.NaT) is None
+    assert site._clean(float("nan")) is None
+    assert site._clean(pd.Timestamp("2026-10-08")) == "2026-10-08"
+    assert site._clean({"a": np.float64(1.23456)}) == {"a": 1.2346}
+
+
+def test_prognosen_table_is_clean():
+    from projektionswolf import prognosen
+
+    d = pd.read_csv(prognosen.PROGNOSEN)
+    assert list(d.columns) == prognosen.COLUMNS
+    for c in ["zieljahr", "bip", "bip_kalenderbereinigt", "inflation", "potenzialwachstum", "produktionsluecke"]:
+        bad = d[c].notna() & pd.to_numeric(d[c], errors="coerce").isna()
+        assert not bad.any(), f"Nicht-Zahl in {c}: Zeilen {list(d.index[bad])}"
+    assert pd.to_datetime(d["veroeffentlicht"], format="mixed", errors="coerce").notna().all()
+    assert d["quelle"].str.startswith("http").all()
+
+
+def test_verify_value_matching():
+    from projektionswolf import verify
+
+    t = "Das BIP schrumpft um 0,5 Prozent. 2026 wächst es um 1,3 %. Inflation jeweils 2 Prozent. 11,3 und −0,2."
+    assert verify.found(t, -0.5) and verify.found(t, 1.3) and verify.found(t, 2.0) and verify.found(t, -0.2)
+    assert not verify.found(t, 0.2) and not verify.found(t, 1.1) and not verify.found(t, 3.0)

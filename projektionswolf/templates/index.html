@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>projektionswolf: Potenzial und Prognosen</title>
+<script src="plotly.min.js" charset="utf-8"></script>
+<style>
+  :root {
+    --bg: #f7f7f5; --card: #ffffff; --text: #1d232b; --muted: #5d6673; --line: #dfe3e8;
+    --accent: #1f5fbf; --warn: #a33a00;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { --bg: #12161c; --card: #1b2129; --text: #e6e9ee; --muted: #9aa4b1; --line: #2c3540; --accent: #7fb0ff; --warn: #ffb085; }
+  }
+  :root[data-theme="dark"] { --bg: #12161c; --card: #1b2129; --text: #e6e9ee; --muted: #9aa4b1; --line: #2c3540; --accent: #7fb0ff; --warn: #ffb085; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 15px/1.45 "Palatino Linotype", Palatino, "Book Antiqua", "URW Palladio L", serif;
+         background: var(--bg); color: var(--text); }
+  header { position: sticky; top: 0; z-index: 5; background: var(--card); border-bottom: 1px solid var(--line); }
+  .bar { max-width: 1280px; margin: 0 auto; padding: 10px 16px; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+  .bar h1 { font-size: 18px; margin: 0 4px 0 0; }
+  .stand { color: var(--muted); font-size: 13px; }
+  nav { display: flex; gap: 6px; flex-wrap: wrap; flex: 1; }
+  nav a, .btn { color: var(--text); text-decoration: none; padding: 5px 10px; border: 1px solid var(--line);
+                border-radius: 6px; background: transparent; font: inherit; font-size: 14px; cursor: pointer; }
+  nav a:hover, .btn:hover { border-color: var(--accent); }
+  .btn.on { background: var(--accent); color: var(--card); border-color: var(--accent); }
+  main { max-width: 1280px; margin: 0 auto; padding: 16px; }
+  section { margin: 0 0 36px; scroll-margin-top: 70px; }
+  section > h2 { font-size: 20px; margin: 8px 0 4px; }
+  .lead { color: var(--muted); font-size: 14px; margin: 0 0 12px; max-width: 900px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 560px), 1fr)); gap: 16px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px 8px; min-width: 0; }
+  .card h3 { font-size: 16px; margin: 0 0 2px; }
+  .card .sub { color: var(--muted); font-size: 13px; margin: 0 0 6px; font-family: "Arial Narrow", Arial, sans-serif; }
+  .chart { width: 100%; height: 340px; }
+  .kpis { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; margin: 4px 0 28px; }
+  .kpi { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; }
+  .kpi .v { font-size: 26px; font-weight: bold; }
+  .kpi .l { color: var(--muted); font-size: 13px; }
+  .tablewrap { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; font-family: "Arial Narrow", Arial, sans-serif; }
+  th { text-align: right; font-weight: normal; color: var(--muted); font-size: 12px; border-bottom: 1px solid var(--line); padding: 3px 8px; white-space: nowrap; }
+  td { text-align: right; padding: 4px 8px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+  th:first-child, td:first-child { text-align: left; }
+  td a { color: var(--accent); }
+  .controls { display: flex; gap: 6px; flex-wrap: wrap; margin: 0 0 10px; }
+  .note { color: var(--muted); font-size: 13px; }
+  .warn { color: var(--warn); }
+  footer { max-width: 1280px; margin: 0 auto; padding: 16px; color: var(--muted); font-size: 13px; }
+  footer a, .lead a { color: var(--accent); }
+  @media (max-width: 600px) { .chart { height: 280px; } .kpi .v { font-size: 22px; } }
+</style>
+</head>
+<body>
+<header><div class="bar">
+  <h1>projektionswolf</h1>
+  <span class="stand" id="stand"></span>
+  <nav>
+    <a href="#prognosen">Prognosen</a><a href="#treffer">Treffsicherheit</a><a href="#potenzial">Potenzial</a>
+    <a href="#revisionen">Revisionen</a><a href="#filter">Eigene Filter</a><a href="#nowcast">Nowcast</a><a href="#methodik">Methodik</a>
+  </nav>
+  <a class="btn" href="projektionswolf.xlsx">Excel</a>
+</div></header>
+<main>
+  <div class="kpis" id="kpis"></div>
+
+  <section id="prognosen">
+    <h2>Prognosen im Vergleich</h2>
+    <p class="lead">BIP-Wachstum (real, unbereinigt) für ein Zieljahr, wie es die Bundesregierung, die Gemeinschaftsdiagnose, die Bundesbank und die Institute zu verschiedenen Zeitpunkten erwartet haben. Jeder Punkt ist eine Veröffentlichung; gefüllt heißt, der Wert ist automatisch an der Quelle bestätigt, hohl heißt ungeprüft. Die gestrichelte Linie ist das Ist, sobald es vorliegt.</p>
+    <div class="controls" id="zieljahre"></div>
+    <div class="grid">
+      <div class="card"><h3 id="prog-title"></h3><p class="sub">in %, nach Datum der Veröffentlichung</p><div class="chart" id="c-prog"></div></div>
+      <div class="card"><h3>Jüngste Veröffentlichung je Institution</h3><p class="sub">BIP-Wachstum in %; Prüfung: Wert automatisch an der Quelle gefunden (geprüft) oder nicht (offen)</p><div class="tablewrap" id="t-latest"></div></div>
+    </div>
+  </section>
+
+  <section id="treffer">
+    <h2>Treffsicherheit</h2>
+    <p class="lead">Mittlerer absoluter Fehler der BIP-Prognose in Prozentpunkten, getrennt nach Prognosen für das laufende Jahr und das Folgejahr. Ist laut letztem Datenstand der Bundesregierung. Wenige Beobachtungen je Institution: Unterschiede unter 0,2 Punkten sind kaum aussagekräftig.</p>
+    <div class="grid">
+      <div class="card"><h3>Mittlerer absoluter Fehler</h3><p class="sub">in Prozentpunkten</p><div class="chart" id="c-mae"></div></div>
+      <div class="card"><h3>Kennzahlen</h3><p class="sub">Fehler = Prognose minus Ist; positiv heißt zu optimistisch</p><div class="tablewrap" id="t-fehler"></div></div>
+    </div>
+  </section>
+
+  <section id="potenzial">
+    <h2>Produktionspotenzial der Bundesregierung</h2>
+    <p class="lead" id="pot-lead"></p>
+    <div class="grid">
+      <div class="card"><h3>Potenzialwachstum und Beiträge</h3><p class="sub">in % bzw. Prozentpunkten</p><div class="chart" id="c-pot"></div></div>
+      <div class="card"><h3>Produktionslücke</h3><p class="sub">in % des Produktionspotenzials</p><div class="chart" id="c-gap"></div></div>
+    </div>
+  </section>
+
+  <section id="revisionen">
+    <h2>Revisionen der Produktionslücke</h2>
+    <p class="lead">Wie sich die Schätzung der Lücke von Runde zu Runde verschoben hat. Die Lücke bestimmt die Konjunkturkomponente der Schuldenbremse.</p>
+    <div class="card"><h3>Produktionslücke je Projektionsrunde</h3><p class="sub">in % des Produktionspotenzials</p><div class="chart" id="c-rev"></div></div>
+  </section>
+
+  <section id="filter">
+    <h2>Eigene Filter statt GAP</h2>
+    <p class="lead">NAWRU und TFP-Trend selbst geschätzt, mit derselben Modellstruktur und den EU-Prioren wie im EU-Programm GAP. Liegen die Linien übereinander, ist das Ergebnis der Bundesregierung reproduzierbar.</p>
+    <div class="grid">
+      <div class="card"><h3>Produktionslücke</h3><p class="sub">in % des Potenzials, letzte Runde</p><div class="chart" id="c-own-gap"></div></div>
+      <div class="card"><h3>Wachstum des TFP-Trends</h3><p class="sub">in %, eigene Schätzung mit 90-%-Band</p><div class="chart" id="c-tfp"></div></div>
+      <div class="card"><h3>NAWRU</h3><p class="sub">in %</p><div class="chart" id="c-nawru"></div></div>
+    </div>
+  </section>
+
+  <section id="nowcast">
+    <h2>Nowcast</h2>
+    <p class="lead" id="nc-lead"></p>
+    <div class="grid">
+      <div class="card"><h3>BIP gegenüber Vorquartal</h3><p class="sub">in %, preis-, saison- und kalenderbereinigt</p><div class="chart" id="c-nc"></div></div>
+      <div class="card"><h3>Backtest seit 2014</h3><p class="sub">Pseudo-Echtzeit, ohne Corona-Quartale; RMSE relativ zu AR(1) unter 1 heißt besser</p><div class="tablewrap" id="t-nc"></div></div>
+    </div>
+  </section>
+
+  <section id="methodik">
+    <h2>Methodik und Quellen</h2>
+    <ul class="lead">
+      <li>Produktionspotenzial: Python-Nachbau des EViews-Programms von BMWE und BMF; trifft die veröffentlichten Ergebnisse aller Runden seit Frühjahr 2024 auf Rundungsgenauigkeit. Eingangsdaten: <a href="https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Dossier/produktionspotenzial.html">BMWE, Ergänzende Unterlagen je Projektionsrunde</a>.</li>
+      <li>Eigene Filter: NAWRU per Maximum Likelihood, TFP-Trend als Posterior-Mittelwert per MCMC mit den EU-Prioren für Deutschland.</li>
+      <li>Nowcast: dynamisches Faktormodell aus Produktion, Bau, Einzelhandel, EU-Umfragen und Arbeitslosigkeit (Eurostat).</li>
+      <li>Prognosen der GD, der Bundesbank und der Institute: gepflegte Tabelle mit Quellenlink je Wert; nicht selbst gelesene Primärquellen sind in der Tabelle markiert.</li>
+      <li>Code und Daten: <a href="https://github.com/wfhungerland/projektionswolf">github.com/wfhungerland/projektionswolf</a>.</li>
+    </ul>
+  </section>
+</main>
+<footer id="foot"></footer>
+<script>
+const DATA = /*__DATA__*/null;
+const PALETTE = ["#002060", "#0070C0", "#00B0F0", "#51154A", "#7030A0", "#D86DCD", "#47D359", "#C55A11"];
+const INST_COLOR = { "Bundesregierung": "#C00000", "GD": "#002060", "Bundesbank": "#0070C0", "ifo": "#00B0F0",
+                     "IfW": "#51154A", "DIW": "#7030A0", "RWI": "#D86DCD", "IWH": "#47D359" };
+const HS = { font: '"Arial Narrow", "Arial Nova Cond", "Liberation Sans Narrow", Arial, sans-serif',
+             gridH: "#BFBFBF", zero: "#FF0000", band: "rgba(0, 112, 192, 0.15)", line: 3 };
+const TOUCH = window.matchMedia("(pointer: coarse)").matches;
+const num = (v, d = 1) => v == null ? "–" : v.toLocaleString("de-DE", { minimumFractionDigits: d, maximumFractionDigits: d });
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function layout(extra = {}) {
+  return Object.assign({
+    margin: { l: 8, r: 8, t: 30, b: 30 }, hovermode: "x unified",
+    font: { family: HS.font, size: 13, color: "#000" }, paper_bgcolor: "#fff", plot_bgcolor: "#fff", separators: ",.",
+    legend: { orientation: "h", x: 0, y: 1, yanchor: "bottom", bgcolor: "rgba(0,0,0,0)", font: { size: TOUCH ? 11 : 12 } },
+    xaxis: { showgrid: false, zeroline: false, fixedrange: TOUCH },
+    yaxis: { side: "right", showgrid: true, gridcolor: HS.gridH, gridwidth: 0.5, zeroline: true, zerolinecolor: HS.zero,
+             zerolinewidth: 0.5, automargin: true, fixedrange: TOUCH, ticksuffix: " " },
+    barmode: "relative", dragmode: TOUCH ? false : "zoom",
+  }, extra);
+}
+function plot(id, traces, extra) {
+  Plotly.newPlot(id, traces, layout(extra), { responsive: true, displaylogo: false, displayModeBar: false, locale: "de" });
+}
+function table(id, head, rows) {
+  document.getElementById(id).innerHTML = "<table><thead><tr>" + head.map(h => `<th>${esc(h)}</th>`).join("") +
+    "</tr></thead><tbody>" + rows.map(r => "<tr>" + r.map(c => `<td>${c}</td>`).join("") + "</tr>").join("") + "</tbody></table>";
+}
+
+// Kopf und Kennzahlen
+document.getElementById("stand").textContent = `Stand ${DATA.stand} · letzte Rechengrundlage: ${DATA.latest}`;
+const NM = DATA.nowcast_meta || {}, P = DATA.potenzial;
+const yr = NM["Jahr"];
+const iy = P.jahre.indexOf(yr);
+const ncQ = DATA.nowcast.q.find((q, i) => DATA.nowcast["BIP q/q Ist"][i] == null);
+const ncV = DATA.nowcast.DFM[DATA.nowcast.q.indexOf(ncQ)];
+const latestBreg = DATA.prognosen.filter(p => p.institution === "Bundesregierung" && p.zieljahr === yr).slice(-1)[0];
+document.getElementById("kpis").innerHTML = [
+  [num(ncV, 2) + " %", `Nowcast BIP ${ncQ} gg. Vorquartal`],
+  [num(NM["Jahreswachstum aus DFM-Pfad (SCA, %)"], 1) + " %", `BIP ${yr} laut Nowcast (kalenderbereinigt)`],
+  [latestBreg ? num(latestBreg.bip, 1) + " %" : "–", `BIP ${yr} laut Bundesregierung (${latestBreg ? esc(latestBreg.runde) : ""})`],
+  [num(P["Potenzialwachstum"][iy], 2) + " %", `Potenzialwachstum ${yr} (${esc(DATA.latest)})`],
+  [num(P["Produktionslücke"][iy], 1) + " %", `Produktionslücke ${yr} (${esc(DATA.latest)})`],
+].map(([v, l]) => `<div class="kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
+
+// Prognosen im Vergleich
+const years = [...new Set(DATA.prognosen.map(p => p.zieljahr))].filter(y => y >= 2023).sort();
+const thisYear = new Date().getFullYear();
+let ziel = years.includes(thisYear) ? thisYear : years[years.length - 1];
+function drawProg() {
+  document.getElementById("prog-title").textContent = `Prognosen für ${ziel}`;
+  document.getElementById("zieljahre").innerHTML = years.map(y =>
+    `<button class="btn${y === ziel ? " on" : ""}" data-y="${y}">${y}</button>`).join("");
+  document.querySelectorAll("#zieljahre .btn").forEach(b => b.onclick = () => { ziel = +b.dataset.y; drawProg(); });
+  const traces = DATA.institutionen.map(inst => {
+    const pts = DATA.prognosen.filter(p => p.institution === inst && p.zieljahr === ziel && p.bip != null && p.veroeffentlicht)
+      .sort((a, b) => a.veroeffentlicht.localeCompare(b.veroeffentlicht));
+    return { x: pts.map(p => p.veroeffentlicht), y: pts.map(p => p.bip), name: inst, type: "scatter", mode: "lines+markers",
+             line: { color: INST_COLOR[inst] || "#7F7F7F", width: inst === "Bundesregierung" ? HS.line : 1.6, shape: "hv" },
+             marker: { size: inst === "Bundesregierung" ? 8 : 6, symbol: pts.map(p => p.pruefung === "bestätigt" || p.pruefung === "amtliche Rechengrundlage" ? "circle" : "circle-open") },
+             text: pts.map(p => `${p.runde}; ${p.pruefung}`), hovertemplate: "%{y:.1f} % (%{text})<extra>" + inst + "</extra>" };
+  }).filter(t => t.x.length);
+  const ist = DATA.ist[String(ziel)];
+  const shapes = ist == null ? [] : [{ type: "line", xref: "paper", x0: 0, x1: 1, y0: ist, y1: ist,
+                                       line: { color: "#000", width: 1.5, dash: "dash" } }];
+  const ann = ist == null ? [] : [{ xref: "paper", x: 0, y: ist, text: `Ist ${num(ist)} %`, showarrow: false, yshift: 9, xanchor: "left",
+                                    font: { size: 11 } }];
+  plot("c-prog", traces, { hovermode: "closest", shapes, annotations: ann, xaxis: { type: "date", showgrid: false, tickformat: "%m/%Y" } });
+}
+drawProg();
+(function latestTable() {
+  const by = {};
+  DATA.prognosen.forEach(p => { if (!p.veroeffentlicht) return;
+    const cur = by[p.institution]; if (!cur || p.veroeffentlicht > cur.d) by[p.institution] = { d: p.veroeffentlicht, rows: [] }; });
+  DATA.prognosen.forEach(p => { const b = by[p.institution]; if (b && p.veroeffentlicht === b.d) b.rows.push(p); });
+  const y0 = thisYear, y1 = thisYear + 1;
+  const rows = DATA.institutionen.filter(i => by[i]).map(i => {
+    const r = by[i].rows, f = y => r.find(p => p.zieljahr === y) || {};
+    const src = r[0].quelle && r[0].quelle.startsWith("http") ? `<a href="${esc(r[0].quelle)}">Quelle</a>` : esc(r[0].quelle || "");
+    return [esc(i), `${esc(r[0].runde)}<br><span class="note">${r[0].veroeffentlicht.split("-").reverse().join(".")}</span>`,
+            num(f(y0).bip), num(f(y1).bip), ({"bestätigt": "geprüft", "amtliche Rechengrundlage": "amtlich"}[f(y0).pruefung || r[0].pruefung] || "offen"), src];
+  });
+  table("t-latest", ["", "Runde", `BIP ${y0}`, `BIP ${y1}`, "Prüfung", ""], rows);
+})();
+
+// Treffsicherheit
+(function () {
+  const F = DATA.fehler;
+  const insts = DATA.institutionen.filter(i => F.some(f => f.institution === i));
+  plot("c-mae", [0, 1].map((h, k) => ({
+    x: insts, y: insts.map(i => (F.find(f => f.institution === i && f.horizont === h) || {}).MAE ?? null),
+    name: h === 0 ? "laufendes Jahr" : "Folgejahr", type: "bar", marker: { color: PALETTE[k * 2] },
+    hovertemplate: "%{y:.2f} Pp.<extra>%{fullData.name}</extra>",
+  })), { barmode: "group", hovermode: "closest" });
+  table("t-fehler", ["", "Horizont", "n", "mittl. Fehler", "MAE", "RMSE"],
+    F.map(f => [esc(f.institution), f.horizont === 0 ? "laufendes Jahr" : "Folgejahr", f.n, num(f["mittlerer Fehler"], 2), num(f.MAE, 2), num(f.RMSE, 2)]));
+})();
+
+// Potenzial
+document.getElementById("pot-lead").textContent =
+  `${DATA.latest}, Python-Nachbau des EViews-Programms von BMWE und BMF. Ab dem Ende der Kurzfristprojektion folgt die Mittelfristprojektion, an deren Ende die Lücke per Annahme geschlossen ist.`;
+plot("c-pot", [
+  ...[["Beitrag Arbeit", PALETTE[2]], ["Beitrag Kapital", PALETTE[1]], ["Beitrag TFP", PALETTE[4]]].map(([k, c]) =>
+    ({ x: P.jahre, y: P[k], name: k.replace("Beitrag ", ""), type: "bar", marker: { color: c }, hovertemplate: "%{y:.2f}<extra>" + k + "</extra>" })),
+  { x: P.jahre, y: P["Potenzialwachstum"], name: "Potenzialwachstum", type: "scatter", mode: "lines+markers",
+    line: { color: PALETTE[0], width: HS.line }, hovertemplate: "%{y:.2f} %<extra>Potenzial</extra>" },
+], { xaxis: { dtick: 1, showgrid: false } });
+plot("c-gap", [{ x: P.jahre, y: P["Produktionslücke"], type: "bar", name: "Lücke",
+  marker: { color: P["Produktionslücke"].map(v => v < 0 ? PALETTE[1] : PALETTE[3]) }, hovertemplate: "%{y:.2f} %<extra></extra>" }],
+  { xaxis: { dtick: 1, showgrid: false }, showlegend: false });
+
+// Revisionen
+(function () {
+  const keys = Object.keys(DATA.revisionen);
+  plot("c-rev", keys.map((k, i) => ({
+    x: DATA.revisionen[k].x, y: DATA.revisionen[k].y, name: DATA.revisionen_labels[k], type: "scatter", mode: "lines",
+    line: { color: i === keys.length - 1 ? PALETTE[0] : `rgba(0,112,192,${0.25 + 0.6 * i / keys.length})`, width: i === keys.length - 1 ? HS.line : 1.5 },
+    hovertemplate: "%{y:.2f} %<extra>" + DATA.revisionen_labels[k] + "</extra>",
+  })), { xaxis: { dtick: 1, showgrid: false } });
+})();
+
+// Eigene Filter
+const E = DATA.eigene, T = DATA.tfp, N = DATA.nawru;
+plot("c-own-gap", [
+  { x: E.jahre, y: E.luecke_breg, name: "Bundesregierung (GAP)", type: "scatter", mode: "lines", line: { color: PALETTE[0], width: HS.line } },
+  { x: E.jahre, y: E.luecke_eigen, name: "eigene Filter", type: "scatter", mode: "lines", line: { color: PALETTE[2], width: 2, dash: "dash" } },
+], { xaxis: { dtick: 2, showgrid: false } });
+plot("c-tfp", [
+  { x: T.jahre, y: T["eigen P95"], type: "scatter", mode: "lines", line: { width: 0 }, showlegend: false, hoverinfo: "skip" },
+  { x: T.jahre, y: T["eigen P5"], type: "scatter", mode: "lines", line: { width: 0 }, fill: "tonexty", fillcolor: HS.band, name: "90-%-Band", hoverinfo: "skip" },
+  { x: T.jahre, y: T.bundesregierung, name: "Bundesregierung (GAP)", type: "scatter", mode: "lines", line: { color: PALETTE[0], width: HS.line } },
+  { x: T.jahre, y: T.eigen, name: "eigen", type: "scatter", mode: "lines", line: { color: PALETTE[2], width: 2, dash: "dash" } },
+], { xaxis: { dtick: 4, showgrid: false } });
+plot("c-nawru", [
+  { x: N.jahre, y: N.bundesregierung, name: "Bundesregierung (GAP)", type: "scatter", mode: "lines", line: { color: PALETTE[0], width: HS.line } },
+  { x: N.jahre, y: N.eigen, name: "eigen", type: "scatter", mode: "lines", line: { color: PALETTE[2], width: 2, dash: "dash" } },
+], { xaxis: { dtick: 4, showgrid: false } });
+
+// Nowcast
+const NC = DATA.nowcast;
+document.getElementById("nc-lead").textContent =
+  `Dynamisches Faktormodell aus Monatsindikatoren (Datenstand ${NM["Datenstand Monate"] || "–"}), dazu eine Bridge-Gleichung als Gegenprobe. ` +
+  `Jahreswachstum ${yr} aus dem Quartalspfad: ${num(NM["Jahreswachstum aus DFM-Pfad (SCA, %)"], 2)} % (kalenderbereinigt; die Bundesregierung nennt unbereinigte Raten).`;
+plot("c-nc", [
+  { x: NC.q, y: NC["BIP q/q Ist"], name: "Ist", type: "bar", marker: { color: PALETTE[1] }, hovertemplate: "%{y:.1f} %<extra>Ist</extra>" },
+  { x: NC.q, y: NC.DFM, name: "Faktormodell", type: "bar", marker: { color: PALETTE[2], pattern: { shape: "/" } }, hovertemplate: "%{y:.2f} %<extra>Faktormodell</extra>" },
+  { x: NC.q, y: NC.Bridge, name: "Bridge", type: "scatter", mode: "markers", marker: { color: PALETTE[3], size: 9, symbol: "diamond" }, hovertemplate: "%{y:.2f} %<extra>Bridge</extra>" },
+], { barmode: "overlay", xaxis: { type: "category", showgrid: false, tickangle: 0,
+       tickvals: NC.q.filter(q => q.endsWith("Q1")), ticktext: NC.q.filter(q => q.endsWith("Q1")).map(q => q.slice(0, 4)) } });
+if (DATA.nowcast_bt) {
+  const lbl = { DFM: "Faktormodell", bridge: "Bridge", ar1: "AR(1)", mittelwert: "Mittelwert (10 Jahre)" };
+  table("t-nc", ["Modell", "RMSE", "MAE", "n", "relativ zu AR(1)"],
+    DATA.nowcast_bt.map(r => [esc(lbl[r.modell] || r.modell), num(r.RMSE, 2), num(r.MAE, 2), r.n, num(r["RMSE relativ zu AR(1)"], 2)]));
+}
+document.getElementById("foot").innerHTML = `Erstellt mit <a href="https://github.com/wfhungerland/projektionswolf">projektionswolf</a> · Stand ${DATA.stand}`;
+</script>
+</body>
+</html>

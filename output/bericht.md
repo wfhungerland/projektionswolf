@@ -1,4 +1,4 @@
-# projektionswolf: Lauf vom 2026-11-02 09:46 UTC
+# projektionswolf: Lauf vom 2026-11-02 09:53 UTC
 
 ## Nachbau der Potenzialschätzung
 Nachgerechnet: 7 Runden (FP24, HP24, JP25, FP25, HP25, JP26, FP26). Größte Abweichung der Produktionslücke: 7.1e-08 Prozentpunkte.

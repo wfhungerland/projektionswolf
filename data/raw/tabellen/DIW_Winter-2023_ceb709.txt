@@ -1,0 +1,129 @@
+=== Seite 7
+GERMAN ECONOMY
+Table 2
+Quarterly data on the development of use and value added components of real GDP in Germany
+In percent (quarter-on-quarter, seasonally and calendar adjusted)
+2022 2023 2024 2025
+I II III IV I II III IV I II III IV I II III IV
+Private consumption 0.5 −0.3 1.4 −1.1 −0.8 0.2 −0.3 0.2 0.3 0.4 0.4 0.3 0.3 0.3 0.2 0.2
+Public consumption expenditure 1.1 0.4 −1.4 −0.1 −1.4 −0.4 0.2 0.2 0.5 0.3 0.2 0.3 0.3 0.3 0.3 0.4
+Gross capital formation 2.2 −1.6 1.0 −1.3 1.7 −0.3 0.6 −1.1 −0.7 −0.3 0.2 0.4 0.5 0.7 0.6 0.6
+Construction 3.3 −3.9 −0.6 −2.0 2.7 −0.9 0.4 −1.4 −0.6 −0.2 0.2 0.3 0.5 0.6 0.5 0.5
+Equipment 1.9 1.6 4.2 −1.5 2.1 0.7 1.1 −1.2 −1.3 −0.8 0.2 0.5 0.6 0.7 0.7 0.6
+Other investment −0.6 0.3 0.1 0.8 −1.6 0.0 0.3 0.3 0.1 0.1 0.2 0.3 0.5 0.7 0.8 0.8
+Change in inventories1 0.2 0.8 0.2 0.1 −0.6 0.7 −0.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Domestic consumption 1.2 0.5 0.8 −0.7 −1.0 0.7 −0.4 0.0 0.1 0.2 0.2 0.4 0.3 0.3 0.3 0.3
+Net exports −0.1 −0.6 −0.4 0.3 1.0 −0.5 0.2 0.1 0.1 0.1 0.1 0.0 0.0 0.0 0.0 0.0
+Exports −0.1 0.9 1.0 −1.1 −0.2 −0.9 −0.8 −0.1 0.4 0.7 0.9 0.9 0.9 0.9 0.8 0.8
+Imports 0.0 2.3 2.1 −1.8 −2.2 0.1 −1.3 −0.3 0.2 0.5 0.9 1.1 1.1 1.1 1.0 1.0
+GDP 1.0 −0.1 0.4 −0.4 0.0 0.1 −0.1 0.1 0.2 0.3 0.3 0.3 0.3 0.3 0.2 0.2
+Gross value added 0.6 0.3 0.7 −0.6 0.3 −0.2 0.1 0.1 0.2 0.3 0.3 0.3 0.3 0.3 0.2 0.2
+Manufacturing −1.3 0.5 0.7 0.4 −0.1 0.2 −0.9 −0.2 0.2 0.3 0.2 0.2 0.3 0.3 0.3 0.3
+Construction 0.7 −2.7 −2.1 −2.4 5.2 −0.7 0.4 −1.3 −0.6 −0.2 0.1 0.2 0.3 0.5 0.4 0.4
+Trade, hospitality, transport −0.3 0.1 1.2 −1.2 −0.4 0.1 1.7 0.4 0.5 0.5 0.5 0.5 0.5 0.5 0.4 0.4
+Professional services providers 1.8 −0.7 0.2 0.2 −0.2 0.4 0.1 0.2 0.3 0.3 0.3 0.3 0.3 0.3 0.2 0.2
+Public services, education, health 1.9 0.7 1.4 −0.5 0.9 −0.7 −0.2 0.3 0.4 0.3 0.3 0.3 0.2 0.2 0.2 0.2
+1 Contribution to growth in percentage points.
+Note: Forecast from the fourth quarter of 2023 onwards.
+Sources: Federal Statistical Office; DIW Berlin Economic Outlook Winter 2023.
+© DIW Berlin 2023
+that can afford to continue to wait and save a good portion of industrial production (minus 0.3 percentage points), result-
+their income are doing so; this is suggested by the fact that ing in a slight overall increase in value added.
+the savings rate has recently remained high.
+Corporate sentiment has brightened since August. The
+Investments have recently been unexpectedly good, primarily Purchasing Managers’ Index remains below the threshold of
+due to public investment in public fixed capital formation and expansion at 50 index points, but recently increased slightly.
+commercial construction. Although private fixed capital for- Although it remains at a low level, the mood in the manufac-
+mation also increased slightly by 0.4 percent, it could hardly turing industry in particular has recovered from its slump
+compensate for restrained consumption. Together with con- in July. The mood in the services sector is also increasingly
+siderable inventory reductions, domestic use has shrunk by improving. Since September, the ifo Business Climate Index
+0.4 percent recently. That the decline in GDP in the autumn has been rising again across the board. The economic sit-
+was even lower was due to the fact that the imports declined uation as well as business expectations in the manufactur-
+somewhat stronger than the exports, and thus the positive ing sector, as well as industry and the consumer-related ser-
+trade balance provided support. vices sector are continually being evaluated more positively.
+Although new orders in the manufacturing sector declined
+In contrast, production increased slightly in the third quar- somewhat recently, this was primarily due to a decline in
+ter, shaped by two different developments: On the one hand, bulk orders; the existing stock of orders is still very large.
+industrial production at minus one percent was clearly in
+the red. While construction output increased by 0.4 per- Private households, in contrast, are still pessimistic about the
+cent, production in the manufacturing sector declined by future. For example, the GfK-Konsumklima declined slightly
+0.9 percent, dragging overall output into the negatives. On up until November 2023. However, both the strong growth
+the other hand, value added in the services sector increased in disposable income and the recent marked increase in rev-
+in almost all branches. For example, production in whole- enue in the services sector paint a much more positive pic-
+sale and retail trade, transport, accommodation and food ser- ture for the development of private consumption.
+vice activities increased by 1.7 percent. Financial and insur-
+ance services also recorded a marked increase at 1.1 per- This means that signs for an economic recovery in the com-
+cent. Overall, services contributed 0.4 percentage points to ing quarters are a go. For the time being, however, the budget
+value added, compensating for the negative contribution of consolidation is likely to slow down the German economy. It
+is therefore expected to only grow moderately until the end of
+DIW Weekly Report 50+51+52/2023 311
+=== Seite 8
+GERMAN ECONOMY
+Table 3
+WSF, will still be implemented in 2023. These measures will
+Key economic indicators for the German economy be canceled in 2024, but they would have been minimal any-
+way; even without the Federal Court ruling, the energy com-
+2022 2023 2024 2025 pensation payments to private households would still have
+GDP1 1.8 −0.3 0.6 1.0 been considerably lower than originally estimated due to the
+Employed2 (1,000 persons) 45,596 45,950 46,071 46,082 continued decline in energy prices. Further strong nominal
+Unemployed (1,000 persons) 2,418 2,608 2,713 2,559 wage increases, which should continue into 2024, will sup-
+Unemployment rate3 (Federal Employ-
+5.3 5.7 5.9 5.5 port the recovery of private consumption. However, these
+ment Agency concept, in percent)
+Consumer prices4 6.9 5.9 2.4 2.0 increases will probably be somewhat lower than recently
+Unit labor costs5 3.4 6.3 4.0 2.4 expected, as the sluggish economy is likely to weigh on
+Government budget balance6 employment growth and thus lead to lower wage agree-
+in billions of euros −96.9 −87.1 −45.0 −27.4 ments. Overall, the real income losses suffered by private
+in percent of nominal GDP −2.5 −2.1 −1.1 −0.6 households over the past years will be increasingly compen-
+Current account balance
+sated for during the forecast period. As inflation continues
+in billions of euros 145.1 256.2 299.6 301.9
+to fall and the labor market remains largely robust, the wage
+in percent of nominal GDP 3.7 6.2 7.1 7.0
+development should support purchasing power and increase
+1 Price adjusted. Year-on-year change in percent. private households’ propensity to consume.
+2 Domestic concept.
+3 Unemployed as a percentage of the civilian labor force (definition according to the Federal Employment Agency).
+4 Year-on-year change. However, after a slight increase at the end of 2023, there is
+5 Compensation of employees per hour worked in Germany as a percentage of real GDP per hour worked. unlikely to be lively recovery over the further course, mainly
+6 As defined in the national accounts (volkswirtschaftliche Gesamtrechnungen).
+due to the restrictive fiscal policy. A gradual increase in pri-
+Note: Forecast from 2023 onwards. vate consumption will lift the German economy out of its
+Sources: Federal Statistical Office; DIW Berlin Economic Outlook Winter 2023. slump in 2024, but growth will be dampened by declining
+investments until the middle of 2024 and a weak investment
+© DIW Berlin 2023
+development thereafter. Nevertheless investment activity
+should benefit from the turnaround in interest rates in 2024.
+In this forecast, it is assumed that the European Central Bank
+the year. In addition to the assumed public expenditure cuts, (ECB) will keep interest rates constant until early summer
+the increased uncertainty surrounding the debate on future 2024 and then will gradually decrease them. This is in line
+budgetary policy is dampening the economy. Weakening with the declining inflation rates of the past months: The
+investments will weigh on the manufacturing industry in increase in food prices has recently slowed and energy prices
+particular. Moreover, for the time being, positive stimuli are even decreasing. Moreover, the inflation rate declined
+from foreign demand are lacking. The only gradual recov- much more quickly than expected and is likely to decrease
+ery of important trade partners in the euro area, such as further, although less rapidly than before, as the base effects
+France, and the ongoing slump in the Chinese economy will due to the sharp price increases in 2022 are slowly disappear-
+for now probably weigh on German equipment exports in ing. In the final quarter of 2024, inflation is likely to be at two
+particular. Construction output should increase somewhat percent again. However, the core rate, which excludes energy
+due to the large amount of planned and approved construc- and food prices, is likely to fall much more slowly than the
+tion projects. However, as the number of building applica- overall inflation rate. This is because the rise in wages and
+tions has been falling sharply for some time, a decline is to the broad-based price pressure outside of energy and food
+be expected from 2024 onward. components are likely to be noticeable.
+The public subsidy cuts and the uncertainty are likely to Fiscal policy is likely to be more restrictive than was
+curb private investment immediately as well as in the com- recently expected. Certain important measures such as the
+ing quarters. While it is assumed that other public funds Inflationsausgleichgesetz, from which private households
+or another funding source will be used to finance projects benefit, will continue to support the economic develop-
+that have already been approved, new investment projects, ment. However, the Federal Constitutional Court’s ruling
+or those that have been planned but have not yet started, is expected to require considerable cutbacks and the delayed
+will probably be shelved or only partially realized due to less political reaction is creating uncertainty about specific future
+favorable financing conditions and increased uncertainty. funding opportunities. The design of the energy transition is
+Imports will be accordingly weaker, as a majority of invest- also subject to even greater political uncertainties. This would
+ments in Germany are realized through advance services likely stall companies’ and households’ propensity to buy.
+from abroad, apart from construction projects. As exports are One ray of hope for the coming two years is the anticipated
+developing somewhat more robustly, a positive trade balance more dynamic development in the euro area, which should
+should cushion the impact of the investment crisis (Table 2). boost foreign trade and thus support investment activity and
+production in Germany.
+Despite the consequences of the ruling and the most recent
+budget deal, private consumption is likely to recover cau- All in all, price-adjusted GDP will likely decline by 0.3 per-
+tiously. Measures already passed, including those from the cent in 2023 due to the weak winter months and following
+312 DIW Weekly Report 50+51+52/2023

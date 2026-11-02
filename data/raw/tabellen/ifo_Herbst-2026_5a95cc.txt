@@ -1,0 +1,467 @@
+=== Seite 9
+ifo Konjunkturprognose Herbst 2026
+Tab. 2
+Quartalsdaten zur Entwicklung der Verwendungskomponenten des realen Bruttoinlandsproduktsa
+Veränderung ggü. Vorquartal in %
+2026 2027 2028
+I II III IV I II III IV I II III IV
+Bruttoinlandsprodukt 0,4 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,2 0,2
+Private Konsumausgaben -0,6 0,1 0,1 0,1 0,0 0,1 0,2 0,2 0,2 0,2 0,3 0,3
+Konsumausgaben des Staates 0,9 0,1 0,1 0,2 0,4 0,4 0,4 0,4 0,4 0,4 0,3 0,3
+Bauten -1,8 0,1 0,6 0,5 0,2 0,2 0,3 0,3 0,4 0,4 0,4 0,4
+Ausrüstungen -1,7 -1,4 3,6 2,6 1,0 1,0 1,1 1,1 0,7 0,7 0,7 0,7
+Sonstige Anlagen 0,3 0,8 0,8 0,8 0,8 0,8 0,8 0,8 0,7 0,7 0,7 0,7
+Vorratsinvestitionenb 0,1 0,1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Inländische Verwendung -0,3 0,1 0,3 0,4 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3
+Außenbeitragb 0,7 0,2 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Exporte 2,4 2,0 0,2 0,4 0,4 0,4 0,4 0,4 0,3 0,3 0,3 0,3
+Importe 0,5 1,5 0,3 0,5 0,5 0,5 0,5 0,5 0,4 0,4 0,4 0,4
+a Saison- und kalenderbereinigte Werte. b Beitrag zur Veränderung des Bruttoinlandsprodukts in Prozentpunkten (Lundberg-Komponenten).
+Quelle: Statistisches Bundesamt; ab III/2026: Prognose des ifo Instituts. © ifo Institut Sept. 2026
+Die expansive Finanzpolitik wird die Konjunktur im gesamten Prognosezeitraum anschieben. Die
+staatlichen Mehrausgaben für Infrastruktur, Klimaneutralität und Verteidigung treiben die öffent-
+lichen Konsum- und Investitionsausgaben weiter in die Höhe. Im laufenden Jahr summieren sich
+die finanzpolitischen Impulse auf knapp 40 Mrd. Euro (oder 0,8% des Bruttoinlandsprodukts). In
+den kommenden beiden Jahren nehmen die Impulse zwar etwas ab, dürften aber die Wirtschaft
+mit 27 bzw. 18 Mrd. Euro (0,6 bzw. 0,4% des Bruttoinlandsprodukts) dennoch stimulieren. Im
+Vergleich zur Sommerprognose fallen die Impulse in beiden Jahren etwas weniger expansiv aus,
+da vor allem das Sparpaket bei der gesetzlichen Krankenversicherung mit höheren Beitragssät-
+zen und Ausgabenkürzungen stärker berücksichtigt wurde. Der expansive Kurs der Finanzpolitik
+lässt die Finanzierungsdefizite des Staates in diesem und in den kommenden beiden Jahren
+kräftig anschwellen von 3,0% des Bruttoinlandsprodukts im Jahr 2025 auf 4,6% im Jahr 2028
+(vgl. Tab. 3). Im selben Zeitraum wird der Bruttoschuldenstand voraussichtlich von 62,7% auf
+67,9% der Wirtschaftsleistung steigen.
+Die Konsumkonjunktur dürfte zunächst weiter gedämpft bleiben. Aufgrund der hohen Inflation
+nimmt die Kaufkraft der privaten Haushalte im Prognosezeitraum nur wenig zu – zumal höhere
+Abgabensätze zu den beiden Jahreswechseln zusätzlich belasten. Zwar dürfte der von Heizöl
+und Kraftstoffen ausgehende Inflationsdruck als Folge des im weiteren Prognoseverlauf unter-
+stellten Rückgangs der Rohölpreise allmählich ausklingen. Allerdings dürften im kommenden
+Winter insbesondere die Verbraucherpreise für Strom und Gas von den Energieversorgern an-
+gehoben werden, da sie derzeit ihre zukünftigen Lieferungen an den Terminmärkten zu spürbar
+höheren Preisen beschaffen. Inflationstreibend wirken aber auch die unterstellten Anhebungen
+des CO -Preises und der Tabaksteuer. Insgesamt wird die Inflationsrate in diesem und im kom-
+2
+menden Jahr voraussichtlich bei 2,8% bzw. 3,0% liegen und sich erst im Jahr 2028 mit 2,3%
+allmählich in Richtung des Zielwerts der Europäischen Zentralbank bewegen. Die Zunahme im
+kommenden Jahr ist dabei vor allem auf die Kerninflationsrate, also die Veränderung der Ver-
+braucherpreise für Dienstleistungen und Waren ohne Energie, zurückzuführen. Aufgrund der
+verzögerten Weitergabe der gestiegenen Energiepreise steigt sie von 2,2% in diesem Jahr auf
+2,9% im kommenden Jahr.
+5
+=== Seite 10
+ifo Schnelldienst digital 15 | 2026
+Tab. 3
+Eckdaten der Prognose für Deutschland
+2025 2026 2027 2028 2025 2026 2027 2028
+Differenz zur ifo Konjunkturprognose
+Veränderung ggü. Vorjahr in %a
+Sommer 2026
+Bruttoinlandsprodukt 0,2 1,4 1,2 0,8 0,0 0,6 0,4
+Private Konsumausgaben 1,3 0,4 0,5 0,6 0,0 0,0 -0,1
+Konsumausgaben des Staates 1,7 2,6 1,2 1,5 0,2 0,2 -0,1
+Bruttoanlageinvestitionen -0,6 0,9 3,4 1,7 -0,4 -0,5 0,2
+Bauten -1,0 -0,8 1,7 0,8 -0,2 -0,6 -0,6
+Ausrüstungen -1,3 2,8 6,3 2,6 0,3 0,2 1,6
+Sonstige Anlagen 1,7 2,3 3,2 2,9 -2,1 -1,1 -0,2
+Inländische Verwendung 1,8 0,9 1,3 1,0 0,0 0,3 0,2
+Exporte -0,9 3,9 2,1 0,8 0,0 1,9 1,5
+Importe 2,9 2,9 2,3 1,3 -0,2 1,4 0,9
+Erwerbstätigeb (1 000 Personen) 45 878 45 687 45 764 45 938 -99 -150 -136
+Arbeitslose (1 000 Personen) 2 948 2 984 2 838 2 552 0 +5 -19
+Arbeitslosenquote BAc (in %) 6,3 6,3 6,0 5,4 0,0 0,0 -0,1
+Verbraucherpreised (Veränderung ggü. Vorjahr in %)
+- Gesamtinflationsrate 2,2 2,8 3,0 2,3 0,0 -0,1 0,3
+- Kerninflationsratee 2,6 2,2 2,9 2,4 0,0 -0,2 0,2
+Finanzierungssaldo des Staatesf
+- in Mrd. EUR -136,5 -191,0 -229,6 -234,5 -12,9 -1,8 4,5
+- in % des Bruttoinlandsprodukts -3,0 -4,0 -4,6 -4,6 -0,2 0,1 0,3
+Leistungsbilanzsaldo
+- in Mrd. EUR 202,1 212,4 224,9 254,6 -0,6 12,5 35,4
+- in % des Bruttoinlandsprodukts 4,5 4,5 4,6 5,0 0,0 0,2 0,6
+a Preis-, nicht-kalenderbereinigte Angaben. b Inlandskonzept. c Arbeitslose in % der zivilen Erwerbspersonen (Definition gemäß Bundesagentur für Arbeit).
+d Verbraucherpreisindex (2020 = 100). e Ohne Energie (Haushaltsenergie und Kraftstoffe). f In der Abgrenzung der Volkswirtschaftlichen Gesamtrechnungen (ESVG 2010).
+Quelle: Statistisches Bundesamt; Bundesagentur für Arbeit; Deutsche Bundesbank; 2026 bis 2028: Prognose des ifo Instituts. © ifo Institut Sept. 2026
+Alles in allem dürfte sich die Erholung der deutschen Wirtschaft in der zweiten Jahreshälfte 2026
+fortsetzen und bis zum Ende des Prognosezeitraums anhalten (vgl. Abb. 2) Das preisbereinigte
+Bruttoinlandsprodukt wird im laufenden Jahr voraussichtlich um 1,4%, im kommenden Jahr um
+1,2% und im Jahr 2028 um 0,8% zunehmen. Dabei wird der Anstieg der Wirtschaftsleistung in
+diesem und im kommenden Jahr durch eine höhere Anzahl an Arbeitstagen um 0,3 bzw. 0,1
+Prozentpunkte überzeichnet und im Jahr 2028 durch eine geringere Anzahl an Arbeitstagen um
+0,2 Prozentpunkte unterzeichnet (vgl. Tab. 4). Kalenderbereinigt liegen die Zuwächse des preis-
+bereinigten Bruttoinlandsprodukts in allen drei Prognosejahren bei 1,1%. Im Vergleich zur ifo
+Konjunkturprognose Sommer 2026 (Wollmershäuser et al. 2026) wurde die Wachstumsrate für
+das laufende Jahr um 0,6 Prozentpunkte und für das kommende Jahr um 0,4 Prozentpunkte
+angehoben. Zur Aufwärtskorrektur für dieses Jahr hat mit 0,2 Prozentpunkten eine Revision ver-
+gangener Daten durch das Statistische Bundesamt beigetragen, im Zuge derer sowohl das Ende
+des Jahres 2025 als auch das erste Quartal 2026 dynamischer ausfielen. als beim Datenstand
+der Sommerprognose (vgl. Tab. 5). Zusätzlich nahm im zweiten Quartal 2026 das preisberei-
+nigte Bruttoinlandsprodukt mit 0,3% zu, während bei der Sommerprognose als Folge des Ener-
+giepreisschocks nur eine Stagnation erwartet wurde. Eine Analyse der Datenrevision und des
+Prognosefehlers offenbarte, dass in der Sommerprognose vor allem die konjunkturellen Schub-
+kräfte – also die Impulse durch die Finanzpolitik und aus dem Ausland – unterschätzt und die
+Bremswirkungen des Energiepreisschocks überschätzt wurden. Daher wurde die konjunkturelle
+Grunddynamik in der zweiten Jahreshälfte und im weiteren Prognosezeitraum angehoben.
+6
+=== Seite 12
+ifo Schnelldienst digital 15 | 2026
+des Jahres 2027 ausgeschöpft sein und die deutsche Wirtschaft im Jahr 2028 in eine Über-
+auslastung geraten.
+Tab. 5
+Zerlegung der Prognosekorrektur für das Jahr 2026
+In Prozentpunkten
+Prognose-
+Prognose- Revisionb
+Revisionb
+Prognose-
+anpassungd
+korrektura Überhang fehlerc
+Q1 2026 Q3 & Q4
+(insgesamt) aus 2025 Q2 2026
+2026
+Bruttoinlandsprodukt 0,56 0,07 0,10 0,25 0,14
+Inländische Verwendung 0,34 -0,55 0,64 0,15 0,11
+Private Konsumausgaben -0,02 0,30 -0,62 0,24 0,06
+Konsumausgaben des Staates 0,24 -0,07 -0,22 0,48 0,05
+Bauten -0,67 -0,15 0,71 -1,03 -0,19
+Ausrüstungen 0,19 0,27 -0,45 -0,97 1,34
+Sonstige Anlageinvestitionen -1,03 -0,67 -0,29 -0,03 -0,05
+Exporte 1,87 1,18 -0,91 1,43 0,17
+Importe 1,44 -0,32 0,44 1,24 0,08
+a Näherungsweise Zerlegung der Prognosekorrektur. Abweichungen in den Summen sind rundungsbedingt. b Revision: Beitrag der Revision
+der Volkswirtschaftlichen Gesamtrechnungen durch das Statistische Bundesamt. c Prognosefehler: Beitrag der Differenz zwischen der
+Prognose für das zweite Quartal 2026 aus der ifo Konjunkturprognose Sommer 2026 und den aktuellen Volkswirtschaftlichen
+Gesamtrechnungen. d Prognoseanpassung: Beitrag der Prognoseanpassung für das dritte und vierte Quartal des laufenden Jahres.
+Quelle: Statistisches Bundesamt; Berechnungen und Prognose des ifo Instituts. © ifo Institut Sept. 2026
+Zu den Auswirkungen des Niedrigwassers auf die Produktion im Verarbeitenden
+Gewerbe
+Die Wasserpegel der deutschen Flüsse haben in diesem Sommer Rekordniedrigstände erreicht.
+Am für die Rheinschifffahrt besonders wichtigen Mittelrhein bei Kaub wurden am 16. und
+17. August mit 7 cm so niedrige Pegelstände gemessen wie nie seit Beginn der Aufzeichnungen
+Ende 1969. Als Richtwert für die Definition von Niedrigwasser gilt der von der
+Zentralkommission für die Rheinschifffahrt festgelegte flussspezifische sogenannte
+gleichwertige Wasserstand (GlW). Sinkt der Wasserstand am Pegel unter diesen Richtwert, ist
+der mögliche Tiefgang – und damit die Frachtkapazität der Schiffe – deutlich vermindert.
+Ausgehend von dem seit Januar 2023 für den Pegel Kaub geltenden Richtwert von 77 cm
+herrscht somit seit dem 10. Juli fast durchgehend Niedrigwasser. Auch die meisten anderen
+Flüsse in Deutschland waren im Juli und August nur noch eingeschränkt schiffbar.
+Insgesamt spielt der Güterverkehr auf deutschen Binnengewässern nur eine geringe Rolle. Im
+Jahr 2024 wurde lediglich 4% der Gütermenge auf Binnenschiffen transportiert; im Jahr 2000
+waren es immerhin noch 6%. Zu den transportierten Gütern zählen vor allem schwere und
+massenhafte Vorprodukte wie etwa Erze, Kohle, Mineralölprodukte, chemische Grundstoffe
+sowie Sand und Kies. Kommt es infolge von Niedrigwasser zu Einschränkungen beim
+Schiffsverkehr, sind daher nur die Zweige des Produzierenden Gewerbes unmittelbar betroffen,
+die auf die Lieferung dieser Produkte angewiesen sind.
+8
+=== Seite 18
+ifo Schnelldienst digital 15 | 2026
+Hauptaggregate der Sektoren
+Mrd. EUR
+2026
+Nichtfinanzielle
+Gegenstand der Nachweisung Private
+Gesamte Volks- und finanzielle
+Staat Haushalte und Übrige Welt
+wirtschaft Kapital-
+private Org. o.E.
+gesellschaften
+S 1 S 11/S12 S 13 S 14/S 15 S 2
+1 = Bruttowertschöpfung ........................................................... 4 288,3 2 860,7 522,4 905,1 -
+2 – Abschreibungen .................................................................... 960,9 519,5 134,0 307,4 -
+3 = Nettowertschöpfung 1) ....................................................... 3 327,4 2 341,2 388,5 597,7 – 109,8
+4 – Geleistete Arbeitnehmerentgelte ....................................... 2 556,2 1 856,3 396,7 303,1 21,9
+5 – Geleistete sonstige Produktionsabgaben ........................ 44,4 32,5 0,4 11,5 -
+6 + Empfangene sonstige Subventionen ................................ 62,1 59,7 0,2 2,2 -
+7 = Betriebsüberschuss/Selbstständigeneinkommen .......... 789,0 512,1 – 8,4 285,3 – 131,7
+8 + Empfangene Arbeitnehmerentgelte .................................. 2 562,7 - - 2 562,7 15,4
+9 – Geleistete Subventionen ...................................................... 57,8 - 57,8 - 4,3
+10 + Empfangene Produktions- und Importabgaben ............. 471,8 - 471,8 - 5,5
+11 – Geleistete Vermögenseinkommen .................................... 1 124,1 1 023,0 53,1 48,0 405,4
+12 + Empfangene Vermögenseinkommen ............................... 1 289,7 733,4 29,3 527,0 239,8
+13 = Primäreinkommen (Nettonationaleinkommen) ............... 3 931,3 222,4 381,8 3 327,1 – 280,8
+14 – Geleistete Einkommen- und Vermögensteuern .............. 578,5 126,9 - 451,6 14,2
+15 + Empfangene Einkommen- und Vermögensteuern ......... 591,9 - 591,9 - 0,8
+16 – Geleistete Nettosozialbeiträge 2) ...................................... 1 034,6 - - 1 034,6 4,1
+17 + Empfangene Nettosozialbeiträge 2) ................................. 1 033,1 174,7 857,5 0,9 5,6
+18 – Geleistete monetäre Sozialleistungen ............................... 885,0 99,3 784,8 0,9 0,6
+19 + Empfangene monetäre Sozialleistungen .......................... 875,4 - - 875,4 10,2
+20 – Geleistete sonstige laufende Transfers ............................. 523,0 298,9 106,3 117,7 108,8
+21 + Empfangene sonstige laufende Transfers ........................ 454,0 270,5 31,4 152,1 177,8
+22 = Verfügbares Einkommen (Ausgabenkonzept) ................ 3 864,7 142,5 971,6 2 750,6 – 214,2
+23 – Konsumausgaben ................................................................. 3 600,9 - 1 072,0 2 528,9 -
+24 + Zunahme betrieblicher Versorgungsansprüche .............. - – 61,8 - 61,8 -
+25 = Sparen ..................................................................................... 263,8 80,7 – 100,4 283,6 – 214,2
+26 – Geleistete Vermögenstransfers ......................................... 117,9 12,7 87,0 18,3 8,8
+27 + Empfangene Vermögenstransfers ..................................... 94,7 57,2 21,5 15,9 32,0
+28 – Bruttoinvestitionen ................................................................ 1 010,5 559,7 159,8 291,0 -
+29 + Abschreibungen .................................................................... 960,9 519,5 134,0 307,4 -
+30 – Nettozugang an nichtprod. Vermögensgütern ............... 20,8 21,2 – 0,7 0,4 – 20,8
+31 = Finanzierungssaldo ............................................................... 170,1 63,9 – 191,0 297,2 – 170,1
+Nachrichtlich:
+34 Verfügbares Einkommen (Ausgabenkonzept) ................ 3 864,7 142,5 971,6 2 750,6 – 214,2
+35 – Geleistete soziale Sachtransfers ........................................ 677,5 - 677,5 - -
+36 + Empfangene soziale Sachtransfers ................................... 677,5 - - 677,5 -
+37 = Verfügbares Einkommen (Verbrauchskonzept) .............. 3 864,7 142,5 294,1 3 428,1 – 214,2
+38 – Konsum 3) .............................................................................. 3 600,9 - 394,5 3 206,4 -
+39 + Zunahme betrieblicher Versorgungsansprüche .............. - – 61,8 - 61,8 -
+40 = Sparen ..................................................................................... 263,8 80,7 – 100,4 283,6 – 214,2
+1) Für den Sektor übrige Welt Importe abzügl. Exporte aus der bzw. an die übrige Welt.
+2) Sozialbeiträge einschl. Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.
+3) Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte undprivate Organisationen o. E. Individualkonsum (einschl.
+Konsumausgaben des Staates für den Individualverbrauch, d.h. einschl. sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt; 2026 bis 2028: Prognose des ifo Instituts.
+14
+=== Seite 19
+ifo Konjunkturprognose Herbst 2026
+Hauptaggregate der Sektoren
+Mrd. EUR
+2027
+Nichtfinanzielle
+Gegenstand der Nachweisung Private
+Gesamte Volks- und finanzielle
+Staat Haushalte und Übrige Welt
+wirtschaft Kapital-
+private Org. o.E.
+gesellschaften
+S 1 S 11/S12 S 13 S 14/S 15 S 2
+1 = Bruttowertschöpfung ........................................................... 4 490,1 3 005,4 544,5 940,2 -
+2 – Abschreibungen .................................................................... 1 007,7 544,8 140,1 322,8 -
+3 = Nettowertschöpfung 1) ....................................................... 3 482,4 2 460,6 404,4 617,4 – 118,4
+4 – Geleistete Arbeitnehmerentgelte ....................................... 2 659,2 1 934,8 412,9 311,5 22,8
+5 – Geleistete sonstige Produktionsabgaben ........................ 45,3 32,9 0,4 12,0 -
+6 + Empfangene sonstige Subventionen ................................ 63,0 60,6 0,2 2,3 -
+7 = Betriebsüberschuss/Selbstständigeneinkommen .......... 841,0 553,5 – 8,8 296,2 – 141,2
+8 + Empfangene Arbeitnehmerentgelte .................................. 2 666,0 - - 2 666,0 16,0
+9 – Geleistete Subventionen ...................................................... 58,7 - 58,7 - 4,3
+10 + Empfangene Produktions- und Importabgaben ............. 490,1 - 490,1 - 5,4
+11 – Geleistete Vermögenseinkommen .................................... 1 203,0 1 085,4 67,4 50,2 422,9
+12 + Empfangene Vermögenseinkommen ............................... 1 376,1 795,3 30,0 550,9 249,8
+13 = Primäreinkommen (Nettonationaleinkommen) ............... 4 111,4 263,3 385,2 3 462,9 – 297,1
+14 – Geleistete Einkommen- und Vermögensteuern .............. 599,3 131,2 - 468,1 14,4
+15 + Empfangene Einkommen- und Vermögensteuern ......... 612,8 - 612,8 - 0,9
+16 – Geleistete Nettosozialbeiträge 2) ...................................... 1 091,0 - - 1 091,0 4,3
+17 + Empfangene Nettosozialbeiträge 2) ................................. 1 089,5 182,8 905,9 0,9 5,8
+18 – Geleistete monetäre Sozialleistungen ............................... 918,0 101,3 815,8 0,9 0,6
+19 + Empfangene monetäre Sozialleistungen .......................... 907,9 - - 907,9 10,7
+20 – Geleistete sonstige laufende Transfers ............................. 537,1 304,9 111,1 121,1 113,2
+21 + Empfangene sonstige laufende Transfers ........................ 464,7 276,0 31,3 157,4 185,6
+22 = Verfügbares Einkommen (Ausgabenkonzept) ................ 4 041,0 184,6 1 008,3 2 848,0 – 226,7
+23 – Konsumausgaben ................................................................. 3 745,4 - 1 125,9 2 619,5 -
+24 + Zunahme betrieblicher Versorgungsansprüche .............. - – 62,5 - 62,5 -
+25 = Sparen ..................................................................................... 295,6 122,2 – 117,5 291,0 – 226,7
+26 – Geleistete Vermögenstransfers ......................................... 124,1 13,1 92,1 18,9 9,1
+27 + Empfangene Vermögenstransfers ..................................... 101,1 61,7 23,1 16,3 32,0
+28 – Bruttoinvestitionen ................................................................ 1 076,7 583,9 183,9 308,8 -
+29 + Abschreibungen .................................................................... 1 007,7 544,8 140,1 322,8 -
+30 – Nettozugang an nichtprod. Vermögensgütern ............... 21,0 21,4 – 0,7 0,4 – 21,0
+31 = Finanzierungssaldo ............................................................... 182,7 110,3 – 229,6 302,1 – 182,7
+Nachrichtlich:
+34 Verfügbares Einkommen (Ausgabenkonzept) ................ 4 041,0 184,6 1 008,3 2 848,0 – 226,7
+35 – Geleistete soziale Sachtransfers ........................................ 714,4 - 714,4 - -
+36 + Empfangene soziale Sachtransfers ................................... 714,4 - - 714,4 -
+37 = Verfügbares Einkommen (Verbrauchskonzept) .............. 4 041,0 184,6 294,0 3 562,4 – 226,7
+38 – Konsum 3) .............................................................................. 3 745,4 - 411,5 3 333,8 -
+39 + Zunahme betrieblicher Versorgungsansprüche .............. - – 62,5 - 62,5 -
+40 = Sparen ..................................................................................... 295,6 122,2 – 117,5 291,0 – 226,7
+1) Für den Sektor übrige Welt Importe abzügl. Exporte aus der bzw. an die übrige Welt.
+2) Sozialbeiträge einschl. Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.
+3) Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte undprivate Organisationen o. E. Individualkonsum (einschl.
+Konsumausgaben des Staates für den Individualverbrauch, d.h. einschl. sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt; 2026 bis 2028: Prognose des ifo Instituts.
+15
+=== Seite 20
+ifo Schnelldienst digital 15 | 2026
+Hauptaggregate der Sektoren
+Mrd. EUR
+2028
+Nichtfinanzielle
+Gegenstand der Nachweisung Private
+Gesamte Volks- und finanzielle
+Staat Haushalte und Übrige Welt
+wirtschaft Kapital-
+private Org. o.E.
+gesellschaften
+S 1 S 11/S12 S 13 S 14/S 15 S 2
+1 = Bruttowertschöpfung ........................................................... 4 676,8 3 138,4 568,3 970,1 -
+2 – Abschreibungen .................................................................... 1 050,1 567,9 146,2 336,0 -
+3 = Nettowertschöpfung 1) ....................................................... 3 626,7 2 570,5 422,1 634,1 – 139,3
+4 – Geleistete Arbeitnehmerentgelte ....................................... 2 776,8 2 024,1 430,8 321,8 23,8
+5 – Geleistete sonstige Produktionsabgaben ........................ 45,8 33,2 0,4 12,1 -
+6 + Empfangene sonstige Subventionen ................................ 61,8 59,3 0,2 2,3 -
+7 = Betriebsüberschuss/Selbstständigeneinkommen .......... 865,9 572,4 – 8,9 302,4 – 163,2
+8 + Empfangene Arbeitnehmerentgelte .................................. 2 783,9 - - 2 783,9 16,7
+9 – Geleistete Subventionen ...................................................... 57,4 - 57,4 - 4,3
+10 + Empfangene Produktions- und Importabgaben ............. 502,8 - 502,8 - 6,2
+11 – Geleistete Vermögenseinkommen .................................... 1 273,8 1 143,0 79,5 51,3 438,9
+12 + Empfangene Vermögenseinkommen ............................... 1 454,6 846,7 30,6 577,3 258,1
+13 = Primäreinkommen (Nettonationaleinkommen) ............... 4 276,0 276,2 387,5 3 612,3 – 325,3
+14 – Geleistete Einkommen- und Vermögensteuern .............. 627,1 132,8 - 494,3 14,6
+15 + Empfangene Einkommen- und Vermögensteuern ......... 640,7 - 640,7 - 1,0
+16 – Geleistete Nettosozialbeiträge 2) ...................................... 1 169,7 - - 1 169,7 4,4
+17 + Empfangene Nettosozialbeiträge 2) ................................. 1 168,1 190,9 976,3 0,9 6,0
+18 – Geleistete monetäre Sozialleistungen ............................... 956,5 103,4 852,2 0,9 0,6
+19 + Empfangene monetäre Sozialleistungen .......................... 945,9 - - 945,9 11,2
+20 – Geleistete sonstige laufende Transfers ............................. 546,7 311,0 111,3 124,3 117,8
+21 + Empfangene sonstige laufende Transfers ........................ 476,2 281,5 31,7 163,0 188,3
+22 = Verfügbares Einkommen (Ausgabenkonzept) ................ 4 207,0 201,4 1 072,7 2 932,9 – 256,4
+23 – Konsumausgaben ................................................................. 3 877,0 - 1 180,6 2 696,4 -
+24 + Zunahme betrieblicher Versorgungsansprüche .............. - – 63,1 - 63,1 -
+25 = Sparen ..................................................................................... 330,0 138,3 – 107,9 299,6 – 256,4
+26 – Geleistete Vermögenstransfers ......................................... 130,3 13,5 97,3 19,5 9,4
+27 + Empfangene Vermögenstransfers ..................................... 106,8 66,4 23,7 16,8 32,9
+28 – Bruttoinvestitionen ................................................................ 1 123,8 603,5 200,0 320,3 -
+29 + Abschreibungen .................................................................... 1 050,1 567,9 146,2 336,0 -
+30 – Nettozugang an nichtprod. Vermögensgütern ............... 21,3 21,7 – 0,7 0,4 – 21,3
+31 = Finanzierungssaldo ............................................................... 211,5 133,9 – 234,5 312,2 – 211,5
+Nachrichtlich:
+34 Verfügbares Einkommen (Ausgabenkonzept) ................ 4 207,0 201,4 1 072,7 2 932,9 – 256,4
+35 – Geleistete soziale Sachtransfers ........................................ 750,6 - 750,6 - -
+36 + Empfangene soziale Sachtransfers ................................... 750,6 - - 750,6 -
+37 = Verfügbares Einkommen (Verbrauchskonzept) .............. 4 207,0 201,4 322,1 3 683,5 – 256,4
+38 – Konsum 3) .............................................................................. 3 877,0 - 430,0 3 447,0 -
+39 + Zunahme betrieblicher Versorgungsansprüche .............. - – 63,1 - 63,1 -
+40 = Sparen ..................................................................................... 330,0 138,3 – 107,9 299,6 – 256,4
+1) Für den Sektor übrige Welt Importe abzügl. Exporte aus der bzw. an die übrige Welt.
+2) Sozialbeiträge einschl. Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.
+3) Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte undprivate Organisationen o. E. Individualkonsum (einschl.
+Konsumausgaben des Staates für den Individualverbrauch, d.h. einschl. sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt; 2026 bis 2028: Prognose des ifo Instituts.
+16
+=== Seite 21
+ifo Konjunkturprognose Herbst 2026
+Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnungen für Deutschland
+Vorausschätzung für die Jahre 2026 bis 2028
+2026 (2) 2027 (2) 2028 (2) 2026 2027 (2) 2028 (2)
+1.Hj. (1) 2.Hj. (2) 1.Hj. 2.Hj. 1.Hj. 2.Hj.
+1. Entstehung des Inlandsprodukts
+Veränderung in % gegenüber Vorjahr
+Zahl der Erwerbstätigen -0,4 0,2 0,4 -0,4 -0,4 0,0 0,4 0,4 0,3
+Arbeitsstunden je Erwerbstätigen 3) 0,4 0,2 -0,3 0,1 0,6 0,0 0,3 0,5 -1,0
+Arbeitsvolumen 0,0 0,3 0,1 -0,3 0,2 0,0 0,6 0,9 -0,7
+Produktivität (4) 1,4 0,9 0,7 1,2 1,6 1,4 0,4 0,4 1,1
+Bruttoinlandsprodukt, preisbereinigt 1,4 1,2 0,8 0,9 1,8 1,4 1,1 1,3 0,4
+2. Verwendung des Inlandsprodukts in jeweiligen Preisen
+a) Mrd. EUR
+Konsumausgaben 3 600,9 3 745,4 3 877,0 1 748,6 1 852,3 1 822,1 1 923,2 1 891,9 1 985,1
+Private Konsumausgaben 5) 2 528,9 2 619,5 2 696,4 1 228,7 1 300,2 1 275,5 1 343,9 1 318,6 1 377,8
+Konsumausgaben des Staates 1 072,0 1 125,9 1 180,6 519,9 552,1 546,6 579,3 573,3 607,3
+Bruttoanlageinvestitionen 957,6 1 025,9 1 073,9 453,1 504,5 490,6 535,4 518,6 555,3
+Bauten 485,1 514,3 536,0 233,1 252,0 250,1 264,3 262,8 273,3
+Ausrüstungen 285,2 313,6 329,6 130,9 154,3 146,3 167,3 156,6 173,0
+Sonstige Anlagen 187,3 198,0 208,3 89,2 98,1 94,2 103,9 99,3 109,1
+Vorratsveränderungen 6) 52,9 50,7 49,9 38,0 14,9 35,9 14,8 36,3 13,6
+Inländische Verwendung 4 611,4 4 822,0 5 000,8 2 239,7 2 371,7 2 348,6 2 473,4 2 446,8 2 554,0
+Außenbeitrag 109,8 118,4 139,3 66,6 43,2 67,0 51,4 80,0 59,3
+Nachrichtlich: in Relation zum BIP % 2,3 2,4 2,7 2,9 1,8 2,8 2,0 3,2 2,3
+Exporte 1 955,3 2 039,8 2 089,2 955,2 1 000,1 1 007,9 1 031,9 1 042,8 1 046,5
+Importe 1 845,5 1 921,4 1 949,9 888,6 956,9 940,9 980,5 962,8 987,1
+Bruttoinlandsprodukt 4 721,2 4 940,4 5 140,1 2 306,3 2 414,9 2 415,6 2 524,9 2 526,8 2 613,3
+b) Veränderung in % gegenüber Vorjahr
+Konsumausgaben 4,0 4,0 3,5 3,8 4,2 4,2 3,8 3,8 3,2
+Private Konsumausgaben 5) 3,3 3,6 2,9 2,9 3,6 3,8 3,4 3,4 2,5
+Konsumausgaben des Staates 5,8 5,0 4,9 6,0 5,7 5,1 4,9 4,9 4,8
+Bruttoanlageinvestitionen 4,6 7,1 4,7 2,7 6,5 8,3 6,1 5,7 3,7
+Bauten 4,1 6,0 4,2 1,9 6,2 7,3 4,8 5,1 3,4
+Ausrüstungen 5,4 10,0 5,1 2,8 7,6 11,8 8,4 7,0 3,4
+Sonstige Anlagen 5,0 5,7 5,2 4,5 5,5 5,6 5,9 5,4 5,0
+Inländische Verwendung 4,1 4,6 3,7 3,7 4,5 4,9 4,3 4,2 3,3
+Exporte 7,7 4,3 2,4 4,8 10,6 5,5 3,2 3,5 1,4
+Importe 7,6 4,1 1,5 4,8 10,2 5,9 2,5 2,3 0,7
+Bruttoinlandsprodukt 4,2 4,6 4,0 3,7 4,8 4,7 4,6 4,6 3,5
+3. Verwendung des Inlandsprodukts, verkettete Volumenangaben (Referenzjahr 2020)
+a) Mrd. EUR
+Konsumausgaben 2 847,3 2 868,4 2 894,4 1 401,9 1 445,3 1 410,5 1 457,9 1 426,9 1 467,5
+Private Konsumausgaben 5) 1 994,7 2 005,3 2 018,1 978,2 1 016,4 982,8 1 022,5 992,2 1 025,8
+Konsumausgaben des Staates 853,1 863,7 876,9 424,0 429,2 428,1 435,7 434,9 442,0
+Bruttoanlageinvestitionen 716,7 740,9 753,7 341,8 374,9 356,0 385,0 365,3 388,4
+Bauten 323,0 328,5 331,0 157,1 165,9 160,8 167,7 163,3 167,7
+Ausrüstungen 233,2 248,0 254,3 107,5 125,8 116,0 132,0 120,9 133,4
+Sonstige Anlagen 166,4 171,8 176,8 79,5 86,9 82,0 89,8 84,5 92,3
+Inländische Verwendung 3 602,7 3 649,0 3 687,1 1 770,8 1 832,0 1 794,5 1 854,5 1 820,7 1 866,3
+Exporte 1 552,0 1 584,7 1 597,6 765,3 786,7 786,0 798,8 800,5 797,0
+Importe 1 447,6 1 480,7 1 500,3 707,2 740,4 725,9 754,8 742,2 758,1
+Bruttoinlandsprodukt 3 704,0 3 749,7 3 781,1 1 827,2 1 876,8 1 852,9 1 896,9 1 877,2 1 903,9
+b) Veränderung in % gegenüber Vorjahr
+Konsumausgaben 1,0 0,7 0,9 1,2 0,9 0,6 0,9 1,2 0,7
+Private Konsumausgaben 5) 0,4 0,5 0,6 0,3 0,4 0,5 0,6 1,0 0,3
+Konsumausgaben des Staates 2,6 1,2 1,5 3,4 1,9 1,0 1,5 1,6 1,5
+Bruttoanlageinvestitionen 0,9 3,4 1,7 -0,5 2,2 4,1 2,7 2,6 0,9
+Bauten -0,8 1,7 0,8 -2,2 0,5 2,3 1,1 1,5 0,0
+Ausrüstungen 2,8 6,3 2,6 0,8 4,6 7,9 4,9 4,2 1,1
+Sonstige Anlagen 2,3 3,2 2,9 2,0 2,6 3,2 3,3 3,0 2,8
+Inländische Verwendung 0,9 1,3 1,0 0,9 1,0 1,3 1,2 1,5 0,6
+Exporte 3,9 2,1 0,8 2,1 5,7 2,7 1,5 1,9 -0,2
+Importe 2,9 2,3 1,3 2,1 3,8 2,6 1,9 2,2 0,4
+Bruttoinlandsprodukt 1,4 1,2 0,8 0,9 1,8 1,4 1,1 1,3 0,4
+17
+=== Seite 22
+ifo Schnelldienst digital 15 | 2026
+noch: Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnungen für Deutschland
+2026 (2) 2027 (2) 2028 (2) 2026 2027 (2) 2028 (2)
+1.Hj. (1) 2.Hj. (2) 1.Hj. 2.Hj. 1.Hj. 2.Hj.
+4. Preisniveau der Verwendungsseite des Inlandsprodukts (2020=100)
+Veränderung in % gegenüber Vorjahr
+Konsumausgaben 3,0 3,2 2,6 2,6 3,3 3,6 2,9 2,6 2,5
+Private Konsumausgaben 5) 2,9 3,0 2,3 2,6 3,1 3,3 2,8 2,4 2,2
+Konsumausgaben des Staates 3,2 3,7 3,3 2,5 3,8 4,1 3,4 3,2 3,3
+Bruttoanlageinvestitionen 3,7 3,6 2,9 3,2 4,2 4,0 3,3 3,0 2,8
+Bauten 4,9 4,2 3,4 4,2 5,6 4,8 3,7 3,5 3,4
+Ausrüstungen 2,4 3,4 2,5 2,0 2,8 3,6 3,3 2,7 2,3
+Sonstige Anlagen 2,6 2,4 2,2 2,4 2,8 2,4 2,5 2,3 2,1
+Inländische Verwendung 3,1 3,2 2,6 2,8 3,5 3,5 3,0 2,7 2,6
+Exporte 3,6 2,2 1,6 2,6 4,6 2,7 1,6 1,6 1,6
+Importe 4,5 1,8 0,2 2,7 6,2 3,2 0,5 0,1 0,2
+Bruttoinlandsprodukt 2,8 3,4 3,2 2,7 2,9 3,3 3,4 3,3 3,1
+5. Einkommensentstehung und -verteilung
+a) Mrd. EUR
+Primäreinkommen der privaten Haushalte3 327,1 3 462,9 3 612,3 1 619,1 1 708,0 1 684,4 1 778,4 1 763,3 1 849,0
+Sozialbeiträge der Arbeitgeber 455,6 482,5 516,9 220,6 235,0 233,6 248,9 250,2 266,7
+Bruttolöhne und -gehälter 2 107,1 2 183,5 2 267,0 1 009,2 1 097,9 1 045,7 1 137,8 1 085,1 1 182,0
+Übrige Primäreinkommen der privaten Haus 7ha6l4te, 4 796,9 828,4 389,3 375,1 405,1 391,8 428,0 400,4
+Primäreinkommen der übrigen Sektoren 604,2 648,6 663,7 282,2 322,0 304,7 343,8 319,2 344,5
+Nettonationaleinkommen (Primäreinkom3m 9e3n1),3 4 111,4 4 276,0 1 901,4 2 030,0 1 989,2 2 122,3 2 082,5 2 193,5
+Abschreibungen 960,9 1 007,7 1 050,1 475,1 485,8 499,7 508,0 521,2 529,0
+Bruttonationaleinkommen 4 892,2 5 119,2 5 326,1 2 376,4 2 515,8 2 488,9 2 630,3 2 603,7 2 722,5
+nachrichtlich:
+Volkseinkommen 3 517,3 3 680,0 3 830,6 1 692,7 1 824,6 1 770,9 1 909,1 1 856,2 1 974,4
+Arbeitnehmerentgelte 2 562,7 2 666,0 2 783,9 1 229,8 1 332,9 1 279,3 1 386,7 1 335,3 1 448,6
+Unternehmens- und Vermögenseinkommen 9 54,6 1 014,0 1 046,6 462,9 491,7 491,6 522,4 520,9 525,7
+b) Veränderung in % gegenüber Vorjahr
+Primäreinkommen der privaten Haushalte 3,2 4,1 4,3 2,9 3,5 4,0 4,1 4,7 4,0
+Sozialbeiträge der Arbeitgeber 3,5 5,9 7,1 3,6 3,5 5,9 5,9 7,1 7,1
+Bruttolöhne und -gehälter 3,7 3,6 3,8 3,9 3,5 3,6 3,6 3,8 3,9
+Bruttolöhne und -gehälter je Beschäftigten 4,0 3,3 3,3 4,3 3,8 3,5 3,1 3,2 3,4
+Nettolöhne und -gehälter je Beschäftigten 4,0 2,8 2,0 4,3 3,7 3,3 2,4 1,9 2,2
+Übrige Primäreinkommen der privaten Haushal1te, 7 4,2 4,0 -0,2 3,7 4,0 4,5 5,6 2,2
+Primäreinkommen der übrigen Sektoren 10,2 7,3 2,3 8,9 11,3 8,0 6,8 4,8 0,2
+Nettonationaleinkommen (Primäreinkommen4),2 4,6 4,0 3,7 4,7 4,6 4,5 4,7 3,4
+Abschreibungen 4,6 4,9 4,2 4,0 5,3 5,2 4,6 4,3 4,1
+Bruttonationaleinkommen 4,3 4,6 4,0 3,8 4,8 4,7 4,6 4,6 3,5
+nachrichtlich:
+Volkseinkommen 4,4 4,6 4,1 4,0 4,8 4,6 4,6 4,8 3,4
+Arbeitnehmerentgelte 3,7 4,0 4,4 3,9 3,5 4,0 4,0 4,4 4,5
+Unternehmens- und Vermögenseinkommen 6,5 6,2 3,2 4,5 8,5 6,2 6,2 6,0 0,6
+6. Einkommen und Einkommensverwendung der privaten Haushalte und priv. Org. o.E.
+a) Mrd. EUR
+Masseneinkommen 2 130,6 2 198,5 2 259,0 1 027,2 1 103,3 1 063,3 1 135,2 1 092,3 1 166,7
+Nettolöhne und -gehälter 1 454,7 1 500,2 1 538,2 690,8 763,8 714,2 786,0 731,8 806,4
+Monetäre Sozialleistungen 875,4 907,9 945,9 434,7 440,6 452,3 455,6 471,2 474,6
+abz. Abgaben auf soziale Leistungen,
+verbrauchsnahe Steuern 199,5 209,6 225,1 98,3 101,1 103,2 106,4 110,7 114,4
+Übrige Primäreinkommen der privaten Haush 7a6lte4 ,4 796,9 828,4 389,3 375,1 405,1 391,8 428,0 400,4
+Sonstige Transfers (Saldo) - 144,3 - 147,3 - 154,5 - 66,4 - 77,9 - 67,6 - 79,7 - 72,0 - 82,5
+Verfügbares Einkommen 2 750,6 2 848,0 2 932,9 1 350,2 1 400,4 1 400,8 1 447,2 1 448,3 1 484,6
+Zunahme betriebl. Versorgungsansprüche 61,8 62,5 63,1 29,9 31,9 30,2 32,3 30,5 32,6
+Private Konsumausgaben 5) 2 528,9 2 619,5 2 696,4 1 228,7 1 300,2 1 275,5 1 343,9 1 318,6 1 377,8
+Sparen 283,6 291,0 299,6 151,4 132,2 155,5 135,5 160,2 139,3
+Sparquote 7) 10,1 10,0 10,0 11,0 9,2 10,9 9,2 10,8 9,2
+b) Veränderung in % gegenüber Vorjahr
+Masseneinkommen 4,0 3,2 2,8 4,2 3,8 3,5 2,9 2,7 2,8
+Nettolöhne und -gehälter 3,7 3,1 2,5 4,0 3,4 3,4 2,9 2,5 2,6
+Monetäre Sozialleistungen 4,8 3,7 4,2 5,0 4,6 4,0 3,4 4,2 4,2
+abz. Abgaben auf soziale Leistungen,
+verbrauchsnahe Steuern 5,5 5,1 7,4 6,3 4,8 4,9 5,2 7,3 7,5
+Übrige Primäreinkommen der privaten Haushalte1 ,7 4,2 4,0 -0,2 3,7 4,0 4,5 5,6 2,2
+Verfügbares Einkommen 3,3 3,5 3,0 3,0 3,5 3,8 3,3 3,4 2,6
+Private Konsumausgaben 5) 3,3 3,6 2,9 2,9 3,6 3,8 3,4 3,4 2,5
+Sparen 2,9 2,6 2,9 3,4 2,5 2,7 2,5 3,1 2,8
+18

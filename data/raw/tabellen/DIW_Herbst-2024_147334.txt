@@ -1,0 +1,764 @@
+=== Seite 1
+DIW Wochenbericht 36 4202
+AUF EINEN BLICK
+DIW-Konjunkturprognose: Industrie stottert
+weltweit – Deutsche Wirtschaft stagniert
+Von den DIW-Konjunkturforscher*innen
+• Deutsche Wirtschaft tritt weiter auf der Stelle: Nach positivem Jahresbeginn Rückschlag im
+zweiten Quartal – Erholung setzt frühestens zum Jahresende ein
+• Trotz steigender Reallöhne und Inflation im Zwei-Prozent-Bereich halten Bürger*innen ihr Geld
+bisher zusammen, auch Exporte und Investitionen straucheln
+• DIW Berlin prognostiziert für deutsche Wirtschaft Stagnation in diesem Jahr und Wachstum von
+0,9 und 1,4 Prozent in kommenden beiden Jahren
+• Privater Konsum dürfte dann Hauptstütze sein, aber langsamer als zunächst erwartet steigen –
+Weltweit sinkende Zinsen beleben Außenhandel und Investitionen
+• Weltwirtschaft weiter auf Erholungskurs (in diesem Jahr wohl 3,8 Prozent Wachstum), zuletzt aber
+ebenfalls etwas abgeschwächt – Wachstum in China stockt, USA vor Abkühlung
+Privater Konsum stützt deutsche Wirtschaft 2025 und 2026 – keine Impulse vom Außenhandel
+Wachstumsbeiträge der einzelnen Komponenten des Bruttoinlandsprodukts in Prozentpunkten
+8
+Prognose
+6
+4 3,7
+2
+1,0 1,4 0,9 1,4
+0 –0,3 0,0
+–2
+–4 –4,1
+–6
+–8
+2019 2020 2021 2022 2023 2024 2025 2026
+Konsum Investitionen Exporte Importe Veränderung des Bruttoinlandsprodukts im Vergleich
+zum jeweiligen Vorjahr in Prozent
+Quelle: DIW-Konjunkturprognose Herbst 2024. © DIW Berlin 2024
+ZITAT MEDIATHEK
+„Die Nachfrage nach deutschen Industriegütern ist im In- und Ausland nach wie vor
+schwach, der Auftragsmangel wird zunehmend zum Problem. Es bleibt aber zu hoffen,
+dass eine langsam anziehende Investitionstätigkeit im Ausland auch die deutsche Indus-
+trieproduktion wieder etwas in Gang bringt – trotz der starken Konkurrenz aus China.“
+Audio-Interview mit Geradline Dany-Knedlik
+— Geraldine Dany-Knedlik —
+www.diw.de/mediathek
+=== Seite 2
+DIW-KONJUNKTURPROGNOSE
+DIW-Konjunkturprognose: Industrie
+stottert weltweit – Deutsche Wirtschaft
+stagniert
+Von Geraldine Dany-Knedlik, Nina Maria Brehl, Hella Engerer, Angelina Hackmann, Pia Hüttl, Konstantin Kholodilin,
+Frederik Kurcz, Laura Pagenhardt, Marie Rullière, Jan-Christopher Scherer, Teresa Schildmann, Ruben Staffa und Kristin Trautmann
+Weltwirtschaft: Weitere Erholung erwartet,
+ABSTRACT
+nur die Wirtschaft in den USA kühlt ab
+Die deutsche Wirtschaft tritt weiter auf der Stelle. Nachdem
+Das Wachstum der Weltwirtschaft hat sich im zweiten Quar-
+es zu Jahresbeginn noch so aussah, als spränge der Konjunk-
+tal 2024 abgeschwächt; sie legte um 0,7 Prozent zu, nach
+turmotor endlich an, gab es im zweiten Quartal einen kleinen 1,0 Prozent im vorherigen Quartal (Abbildung 1). Insbe-
+Rückschlag. Obwohl die Einkommen steigen und die Inflation sondere in den Schwellenländern geriet das Wachstum ins
+Stocken. Grund war die Entwicklung in China, wo die Bin-
+mittlerweile nahe der Zielmarke von zwei Prozent liegt, halten
+nennachfrage weiterhin gedämpft ist. Etwas mehr Schwung
+die Menschen in Deutschland ihr Geld zusammen. Da die
+kam hingegen aus den fortgeschrittenen Volkswirtschaften,
+schwächelnde Industrie die Investitionen und Exporte strau- insbesondere aus den USA und dem Euroraum. Dort gin-
+cheln ließ, ist der Aufschwung erst einmal verschoben – in gen die Inflationsraten weiter zurück, was im Euroraum im
+Juni zu einer ersten Zinssenkung führte.
+diesem Jahr dürfte die Wirtschaftsleistung insgesamt stag-
+nieren. Ab dem Jahresende wird es dann aber wohl aufwärts
+Getragen von Konsum und Exporten wuchs die Wirtschaft
+gehen, für die Jahre 2025 und 2026 ist ein Wachstum von in den fortgeschrittenen Volkswirtschaften im zweiten Quar-
+0,9 beziehungsweise 1,4 Prozent zu erwarten. Hauptstütze tal um 0,6 Prozent. Im Euroraum setzte die Wirtschaft ihre
+Erholung fort und legte erneut um 0,3 Prozent zu. Vor allem
+dürfte der private Konsum sein, der zwar langsamer als erwar-
+der Außenhandel leistete dank steigender Exporte einen posi-
+tet steigen wird, aber dennoch Impulse gibt. Solche entfalten
+tiven Beitrag. Mit einem Wachstum von 0,8 beziehungsweise
+im Zuge weltweit weiter sinkender Zinsen auch der Außen- 1,0 Prozent stützten Spanien und die Niederlande die wirt-
+handel und die Investitionen. Die Weltwirtschaft ist weiter auf schaftliche Belebung im Euroraum besonders stark. Auch
+Frankreich und Italien legten jeweils ein positives Quartals-
+Erholungskurs, hat sich im zweiten Quartal aber ebenfalls
+wachstum von 0,2 Prozent vor. Lediglich Deutschland trug
+etwas schwächer als im ersten Quartal entwickelt. Insbeson-
+unter den großen Euroländern mit –0,1 Prozent negativ
+dere das Wachstum in China ist etwas ins Stocken geraten. zum Wachstum des Euroraums bei. Im Vereinigten König-
+Auch in den USA gibt es Anzeichen für eine bevorstehende reich stieg die Wirtschaftsleistung weiterhin deutlich um
+0,6 Prozent, was vor allem durch einen starken Lagerauf-
+konjunkturelle Abkühlung. Nach 3,8 Prozent in diesem Jahr
+bau gestützt wurde.
+dürfte die Weltwirtschaft 2025 nur noch um 3,5 Prozent wach-
+sen und sich erst 2026 wieder etwas dynamischer entwickeln. Auch in den USA legte die Wirtschaft im zweiten Quartal
+mit 0,7 Prozent kräftig zu, weiterhin getrieben von robus-
+ten Konsumausgaben und Unternehmensinvestitionen.
+In Japan verzeichnete das Bruttoinlandsprodukt (BIP) mit
+einem Anstieg um 0,8 Prozent eine deutliche Gegenbewe-
+gung zum negativen Jahresauftakt. Steuererleichterungen
+und Reallohnzuwächse dank großer Lohnerhöhungen kur-
+belten den privaten Konsum an.
+Unter den Schwellenländern, die insgesamt um 0,8 Prozent
+zulegten, enttäuschte lediglich China im zweiten Quartal.
+Die Wirtschaft dort wuchs nur um 0,7 Prozent, nach 1,5 Pro-
+554 DIW Wochenbericht Nr. 36/2024 DOI: https://doi.org/10.18723/diw_wb:2024-36-2
+=== Seite 7
+DIW-KONJUNKTURPROGNOSE
+Deutsche Wirtschaft: Konjunkturtief hält an Abbildung 3
+Wachstum des realen Bruttoinlandsprodukts in Deutschland
+Die Schwächephase der deutschen Wirtschaft hält weiter
+In Milliarden Euro (linke Achse) bzw. in Prozent zum Vorquartal
+an. Nach einem leichten Anstieg des Bruttoinlandsprodukts
+(rechte Achse)
+(BIP) zu Jahresbeginn um 0,2 Prozent hat sich die positive
+Entwicklung nicht weiter fortgesetzt; die Wirtschaftsleistung
+930 5
+Prognose
+ging im zweiten Quartal wieder etwas zurück (um 0,1 Pro-
+zent, Abbildung 3).3 Die ersehnte Erholung blieb aus, da zum
+einen der Konsum der privaten Haushalte deutlich geringer
+1,4
+ausfiel, als es die positive Entwicklung der verfügbaren Ein-
+920 2,5
+kommen seit der Energiekrise erwarten ließ. Zum anderen
+brachen die Investitionen in Ausrüstungen und Bauten ein
+und die Exporte waren ebenfalls rückläufig, was wohl vor
+allem auf eine nach wie vor geringe Nachfrage nach Indus-
+910 0
+triegütern aus dem In- und Ausland zurückzuführen ist.
+−0,3 0,9
+0,0
+Der private Konsum ging im zweiten Quartal etwas zurück:
+Die privaten Haushalte scheinen nicht nur wegen der poli-
+tischen und wirtschaftlichen Rahmenbedingungen verun- 900 −2,5
+2023 2024 2025 2026
+sichert zu sein. Sie sind wohl auch angesichts des gerin-
+Level (linke Achse) Quartalswachstumsraten (rechte Achse)
+gen, aber stetigen Anstiegs der Arbeitslosigkeit besorgt.
+Jährliche Wachstumsrate in Prozent
+Dies dürfte dazu geführt haben, dass die Verbraucher*in-
+nen trotz weiterhin kräftig gestiegener Reallöhne im zwei- Anmerkung: Prognose ab dem dritten Quartal 2024, preis-, saison- und kalenderbereinigt.
+ten Quartal weniger konsumiert haben als noch zu Jahres- Quellen: Statistisches Bundesamt; DIW-Konjunkturprognose Herbst 2024.
+beginn. Passend dazu haben die privaten Haushalte etwas
+© DIW Berlin 2024
+mehr von ihrem Einkommen auf die hohe Kante gelegt: Die
+Sparquote ist mit aktuell 10,8 Prozent etwas höher als im Die deutsche Wirtschaft wird erst ab dem Jahresende 2024 wieder etwas wachsen.
+Vorjahr.4 Die getrübte Kauflaune dürfte auch auf das hohe
+Preisniveau zurückzuführen sein. Zwar hat sich die Inflation
+zuletzt weiter merklich stabilisiert und liegt seit Beginn des
+Jahres beständig unter drei Prozent, die Kerninflation und Noch deutlicher war der Rückgang der Investitionen. Ins-
+besonders die Preissteigerungen im Dienstleistungsbereich besondere die privaten Ausrüstungsinvestitionen brachen
+sind jedoch weiter deutlich erhöht und dürften den Kon- regelrecht ein und lagen im zweiten Quartal auf dem nied-
+sum gebremst haben. Wie im Frühsommer angenommen, rigsten Niveau seit den Produktionseinschränkungen wäh-
+konnte die Fußball-Europameisterschaft der Männer den pri- rend der Corona-Pandemie. Die öffentlichen Ausrüstungs-
+vaten Verbrauch in Deutschland nicht merklich anschieben. investitionen wirkten dagegen stützend. Bei den Bauinvesti-
+tionen setzte sich der Abwärtstrend der vergangenen Jahre
+Auch aus dem Außenhandel kamen im zweiten Quartal ebenfalls fort; diese gingen deutlich zurück, vor allem im
+keine Wachstumsimpulse. Hatten kräftige Ausfuhren von Wohnungs- und im öffentlichen Bau.
+Vorleistungsgütern, beispielsweise chemische Erzeugnisse
+und Kunststoffwaren, zum Jahresauftakt noch eine Erholung Die Entwicklung der Bruttowertschöpfung im zweiten Quar-
+der globalen Industriekonjunktur5 und somit der deutschen tal zeigt, dass die Schere zwischen Dienstleistungen und Ver-
+Exportwirtschaft angedeutet, gingen die Exporte eben die- arbeitendem Gewerbe größer wird. Insgesamt ging die Brut-
+ser Waren im vergangenen Quartal wieder merklich zurück. towertschöpfung um 0,1 Prozent und daher mit der gleichen
+Die Dienstleistungsexporte wurden zwar vom Reiseverkehr Rate wie das BIP zurück: Während die Produktion im Verar-
+angeschoben, sie konnten den Rückgang der Gesamtexporte beitenden Gewerbe leicht sank, ist sie im Baugewerbe einge-
+allerdings nicht verhindern. Die Dienstleistungsimporte leg- brochen. Damit minderte das Produzierende Gewerbe insge-
+ten ebenfalls kräftig zu, während die Warene infuhren leicht samt die Bruttowertschöpfung um 0,3 Prozent. Die Dienst-
+zurückgingen. Insgesamt stagnierten die Einfuhren, sodass leistungen konnten zwar leicht zulegen und stützten die
+der Außenbeitrag im zweiten Quartal leicht negativ ausfiel. Bruttowertschöpfung um 0,1 Prozent. Allerdings war auch
+hier das Bild gemischt. So sank die Wertschöpfung in den
+konsumnahen Bereichen, die unternehmensnahen Dienst-
+leistungen konnten ihre Produktion hingegen ausweiten.
+Diese Wertschöpfungsentwicklung der Wirtschaftszweige
+3 Ausführliches Zahlenmaterial zur Prognose der deutschen Wirtschaft ist im Online-Anhang
+spiegelt sich auch in den jüngsten Arbeitsmarktzahlen wider:
+unter www.diw.de/konjunkturzahlen zu finden.
+Die Beschäftigung ist zwar insgesamt weiter gestiegen –
+4 Die Generalrevision der VGR-Daten hatte zur Folge, dass die Sparquote für Deutschland deut-
+wenn auch etwas schwächer als noch zu Jahresbeginn. Der
+lich nach unten revidiert wurde. Bis zuletzt zeigten die Daten ein deutlich höheres Niveau der
+Sparquote als vor der Corona-Pandemie. Beschäftigungsaufbau fand aber im Dienstleistungssektor
+5 Siehe dazu auch die Ausführungen zur Weltwirtschaft in diesem Wochenbericht. statt; im schwächelnden Verarbeitenden Gewerbe sowie beim
+DIW Wochenbericht Nr. 36/2024 559
+=== Seite 9
+DIW-KONJUNKTURPROGNOSE
+Abbildung 4
+Bruttoinlandsprodukt und wichtige Komponenten
+Saison-, kalender- und preisbereinigter Verlauf
+1. Bruttoinlandsprodukt, Potenzial und Produktionslücke (Ursprungswerte) 2. Konsumausgaben der privaten Haushalte
+3 800 3 500 5
+Prognose Prognose
+3 750 2 5,6 −0,4
+475 1,0 1,1 2,5
+3 700 1 0,5
+Potenzial
+3 650 0 450 0
+3 600 −1
+425 −2,5
+Bruttoinlandsprodukt 2,3
+3 550 −2
+Produktionslücke
+3 500 −3 400 −5
+2021 2022 2023 2024 2025 2026 2021 2022 2023 2024 2025 2026
+3. Exporte 4. Importe
+410 6 400 8
+Prognose Prognose
+10,0
+400 4
+1,5 370 4
+2,8 3,4
+490 –0,1 2
+–0,3 2,4
+–0,6
+380 0 340 0
+3,1 7,0 −1,0
+370 −2
+310 −4
+9,0
+360 −4
+350 −6 280 −8
+2021 2022 2023 2024 2025 2026 2021 2022 2023 2024 2025 2026
+5. Ausrüstungsinvestitionen 6. Bauinvestitionen
+70 6 100 6
+Prognose Prognose
+−3,1
+65 3 95 3
+3,5
+−3,9
+60 0 90 0
+5,0 2,7
+4,5
+–0,8 0,7 0,1
+55 −3 85 −3
+−3,4
+–6,3 −3,4
+50 −6 80 −6
+2021 2022 2023 2024 2025 2026 2021 2022 2023 2024 2025 2026
+Verkettete Volumena-ngaben in Milliarden Euro (linke Achse) Veränderung gegenüber dem Vorquartal in Prozent (rechte Achse)
+Veränderung gegenüber dem Vorjahr in Prozent (Ursprungswerte)
+Anmerkung: Prognose ab dem dritten Quartal 2024, preis-, saison- und kalenderbereinigt.
+Quellen: Statistisches Bundesamt; DIW-Konjunkturprognose Herbst 2024.
+© DIW Berlin 2024
+DIW Wochenbericht Nr. 36/2024 561
+=== Seite 10
+DIW-KONJUNKTURPROGNOSE
+Abbildung 5 Wohnungsbau ausbremsen. Zwar nahmen die Neukredit-
+volumina für Wohnbaukredite zuletzt wieder etwas zu, dies
+Nowcast der Arbeitseinkommensungleichheit: Gini-Koeffizient
+schlägt sich jedoch noch nicht in den Genehmigungs- und
+und ausgewählte Perzentilverhältnisse
+Auftragszahlen nieder. Die Kapazitätsauslastung der Unter-
+Indexpunkte (linke Grafik), Prozent (rechte Grafik)
+nehmen im Hochbau sank zuletzt auf den niedrigsten Stand
+seit 2010. Dagegen dürfte der Tiefbau die Bauinvestitionen
+Gini Perzentilverhältnisse
+weiter stabilisieren.
+0,4 12 5,9
+Prognose Prognose
+P90/10 Die Nachfrage nach deutschen Vorleistungs- und Kapital-
+(linke Achse)
+gütern aus dem Ausland dürfte auch im laufenden Quartal
+0,39 11 5,5 noch schwächeln. Die ifo-Exporterwartungen sind im August
+bereits zum dritten Mal in Folge gesunken. Somit ist für das
+dritte Quartal mit einem erneuten Rückgang der Waren-
+P50/10 exporte zu rechnen. Die Dienstleistungsausfuhren, die nur
+0,38 10 5,1
+(rechte Achse)
+einen Anteil von gut 20 Prozent am deutschen Außenhandel
+ausmachen, dürften mit der steigenden Bedeutung der in-
+sowie ausländischen Dienstleistungssektoren dagegen wei-
+0,37 9 4,7 ter ausgeweitet werden. Besonders der IT-Bereich und der
+2010 2014 2018 2022 ’24 2010 2014 2018 2022 ’24
+Reiseverkehr tragen diese Entwicklung. Für einen Zuwachs
+Anmerkung: Das DIW Berlin hat ein Modell entwickelt, mit dem die Arbeitseinkommensungleichheit bis an den der Exporte insgesamt dürfte dies jedoch nicht ausreichen.
+aktuellen Rand prognostiziert werden kann (sogenannter Nowcast). Dabei werden jährlich vorliegende mikroökono- Angesichts der schwachen Ausfuhren und der lahmenden
+mische Daten aus dem Sozio-oekonomischen Panel (SOEP) mit einer Vielzahl höherfrequenter gesamtwirtschaftlicher
+Indikatoren und solchen für den Arbeitsmarkt sowie den aktuellen Ergebnissen der DIW-Konjunkturprognose in Industrieproduktion werden sich auch die Einfuhren wohl
+einem makroökonometrischen Modell kombiniert, um die durchschnittlichen Arbeitseinkommen verschiedener weiter verhalten entwickeln, wobei im aktuellen welt- und
+Einkommensgruppen fortzuschreiben. Auf Basis der Modellergebnisse kann unter bestimmten Verteilungsannahmen
+binnenwirtschaftlichen Umfeld ebenfalls eine Dynamik sin-
+eine Arbeitseinkommensverteilung für die Gesamtbevölkerung erstellt werden.
+kender Waren- und zunehmender Dienstleistungsimporte
+Quellen: Sozio-oekonomisches Panel (SOEP); Statistisches Bundesamt; DIW-Konjunkturprognose Herbst 2024.
+erwartet wird. So ergibt sich für das dritte Quartal ein nega-
+© DIW Berlin 2024 tiver Außenbeitrag.
+Der Anstieg der Ungleichheit bei den Arbeitseinkommen schwächt sich in diesem
+Jahr voraussichtlich deutlich ab. Die zweigeteilte Entwicklung zwischen Industrie und Dienst-
+leistungen dürfte sich auch entstehungsseitig im dritten
+Quartal fortsetzen. Zwar hat sich die Stimmung gemäß Ein-
+kaufsmanagerindizes für Deutschland in beiden Bereichen
+Tabelle 3 zuletzt etwas eingetrübt, in den Dienstleistungssektoren
+bleibt sie jedoch robuster und, gestützt von einer steigenden
+Eckdaten zur Wirtschaftsentwicklung in Deutschland
+Nachfrage, oberhalb der Expansionsschwelle von 50 Punk-
+ten. In der Industrie liegt der Index dagegen fortwährend
+2023 2024 2025 2026
+unter der Expansionsschwelle. Auch das Geschäftsklima der
+Bruttoinlandsprodukt1 −0,3 0,0 0,9 1,4
+Industrie unternehmen ging laut ifo-Konjunkturumfrage
+Erwerbstätige2 (1 000 Personen) 46 011 46 181 46 209 46 123
+im August bereits zum dritten Mal in Folge zurück, wobei
+Arbeitslose (1 000 Personen) 2 609 2 776 2 737 2 548
+Arbeitslosenquote BA3 (in Prozent) 5,7 6,0 5,9 5,5 die Befragten sowohl die aktuelle Lage als auch die zukünf-
+Verbraucherpreise4 5,9 2,2 2,0 2,0 tigen Geschäfte kritischer bewerten. Der Auftragsmangel
+Lohnstückkosten4, 5 6,7 5,0 2,4 1,2 wird zunehmend zum Problem und hemmt die Produktion
+Finanzierungssaldo des Staates6 wohl auch im laufenden Quartal.
+in Milliarden Euro −107,5 −110,4 −102,6 −79,8
+in Prozent des nominalen BIP −2,6 −2,6 −2,3 −1,7
+Langsame Erholung im weiteren Verlauf
+Leistungsbilanzsaldo
+in Milliarden Euro 257,7 288,9 296,7 304,6
+in Prozent des nominalen BIP 6,2 6,7 6,7 6,6 Im weiteren Prognoseverlauf dürfte sich die deutsche Wirt-
+schaft erholen, allerdings verhaltener, als es die Indikatoren
+1 Preisbereinigt. Veränderung gegenüber dem Vorjahr in Prozent. noch im Sommer anzeigten. Binnenwirtschaftlich dürfte
+2 Inlandskonzept.
+zunächst vor allem die positive Reallohnentwicklung wirk-
+3 Arbeitslose in Prozent der zivilen Erwerbspersonen (Definition gemäß der Bundesagentur für Arbeit).
+4 Veränderung gegenüber dem Vorjahr. sam werden, die wohl von niedrigen Inflationsraten gestützt
+5 Im Inland entstandene Arbeitnehmerentgelte je Arbeitnehmerstunde bezogen auf das reale Bruttoinlandsprodukt je
+wird und sich im Prognosezeitraum fortsetzen dürfte. Zwar
+Erwerbstätigenstunde.
+6 In Abgrenzung der Volkswirtschaftlichen Gesamtrechnungen (ESVG). hat sich die Verhandlungsposition der Beschäftigten etwas
+abgeschwächt, da der Arbeitsknappheitsindex am aktuellen
+Anmerkung: Prognose ab dem Jahr 2024.
+Rand etwas zurückgegangen ist; dennoch werden die zum
+Quellen: Statistisches Bundesamt; DIW-Konjunkturprognose Herbst 2024.
+Jahresende anstehenden Tarifverhandlungen, unter ande-
+© DIW Berlin 2024 rem im öffentlichen Dienst sowie der Metall- und Elektro-
+industrie, voraussichtlich weitere kräftige Nominallohnzu-
+wächse nach sich ziehen. Die Arbeitslosenzahlen dürften zu
+562 DIW Wochenbericht Nr. 36/2024
+=== Seite 12
+DIW-KONJUNKTURPROGNOSE
+Kasten 3
+Annahmen zu den finanzpolitischen Maßnahmen
+Expansiven finanzpolitischen Maßnahmen, die im Rahmen der Kürzungen stärker zu Buche schlagen als Ausgabenausweitungen.
+Energiekrise aufgesetzt worden waren und nun auslaufen, folgen Insgesamt dürfte sich die Budgetwirkung der finanzpolitischen
+wesentlich weniger umfangreiche neue Programme. Damit ergibt Maßnahmen im Jahr 2025 gemessen an der Wirtschaftsleistung
+sich im laufenden Jahr ein beträchtlicher negativer fiskalischer auf 0,4 Prozent belaufen.
+Impuls (Tabelle).
+So führen das Auslaufen der Inflationsausgleichsprämie und eine
+Am deutlichsten schlägt hier das Auslaufen der Strom- und weitere Anhebung des CO-Preises wie auch etwaige Erhöhun-
+2
+Gaspreisbremsen sowie das Ende von Hilfen für Krankenhäu- gen der Beitragssätze der Sozialversicherung einnahmeseitig
+ser und Pflegeeinrichtungen im Rahmen der Energiekrise zu zu höheren Mehreinkünften, als Anpassungen des Einkommen-
+Buche. Dem stehen auf der Ausgabenseite Mehrausgaben des steuertarifs im Rahmen des Ausgleichs der kalten Progression
+Klima- und Transformationsfonds (Förderung der Energieeffizienz und Steuervergünstigungen des Wachstumschancengesetzes
+im Gebäudebereich, Zuschüsse zur Errichtung von Tank- und die Staats einnahmen mindern. Ausgabeseitig dürften die Ein-
+Ladeinfrastruktur sowie Abschaffung der EEG-Umlage für die Ver- führung der Kindergrundsicherung, eine weitere Erhöhung des
+braucher*innen) sowie Ausgaben des Sondervermögens für die Kindergeldes, die Maßnahmen des Pflegeunterstützungs- und
+Bundeswehr und Unterstützungsleistungen für die Ukraine ent- Entlastungs gesetzes und weitere Mehrausgaben für Verteidigung
+gegen. Diese sind für sich genommen gewichtig, fallen quantitativ für stimulierende Impulse sorgen. Hingegen führen Kürzungen von
+aber geringer aus als die Ausgabenkürzungen. Unterstützungsleistungen an die Ukraine sowie beim Klima- und
+Transformations fonds (KTF) dazu, dass die Ausgaben insgesamt
+Auf der Einnahmenseite des Staates führen die Anhebung des im Vergleich zum laufenden Jahr weniger hoch sind und somit ein
+CO-Preises und der Lkw-Maut sowie die Erhöhung der Luftver- restriktiver fiskalischer Impuls von ihnen ausgeht.
+2
+kehrsteuer zu höheren Einkünften der Gebietskörperschaften.
+Auch von der Einnahmenseite der Sozialversicherungen gehen Im Jahr 2026 halten sich die finanzpolitischen Maßnahmen die
+restriktive Impulse aus. So wirkt die Erhöhung des Beitragssatzes Waage, sodass der Effekt in Relation zum BIP bei null liegen
+zur gesetzlichen Pflegeversicherung zum 1. Juli 2023 im laufenden dürfte. Auf der Einnahmenseite führen vor allem Anpassungen im
+Jahr noch nach. Zudem wird angenommen, dass die gesetzlichen Einkommensteuertarif, wie der erneute Ausgleich der kalten Pro-
+Krankenkassen ihren Zusatzbeitrag im Vergleich zum Vorjahr im gression, zu Mindereinnahmen des Staates, die im Gegenzug die
+Durchschnitt nochmals leicht anheben werden. Da annahme- Einkommen der privaten Haushalte steigern und somit expansiv
+gemäß ein geringerer Teil der Lohnanstiege im laufenden Jahr auf wirken. Ebenso trägt die Reform der Sammelabschreibungen und
+die abgabenfreie Inflationsausgleichsprämie entfällt als noch im die Verlängerung der degressiven Abschreibungen für Anlagen
+vorigen Jahr, ergibt sich dadurch ebenfalls ein restriktiver Impuls (AfA) zum expansiven Charakter der Einnahmenseite bei. Auf der
+auf die Arbeitseinkommen der Haushalte. Insgesamt dürfte die anderen Seite dürften Sozialversicherungsbeiträge weiter angeho-
+Finanzpolitik mit einem Impuls von 0,7 Prozent in Relation zum BIP ben werden und Erlöse des Brennstoffemissionshandels die Ein-
+im laufenden Jahr somit bremsend auf das wirtschaftliche Gesche- nahmen des gesamtstaatlichen Haushalts weiter stützen. Auf der
+hen wirken. Ausgabenseite schlagen insbesondere Investitionen im Rahmen
+des Sondervermögens für die Bundeswehr zu Buche – gedämpft
+Auch im kommenden Jahr sind die finanzpolitischen Maßnah- wird dieser Stimulus allerdings durch weitere Konsolidierungs-
+men in Summe restriktiv, da auf der Einnahmenseite Steuer- und maßnahmen im KTF.
+Abgabenerhöhungen überwiegen und auf der Ausgabenseite
+Der deutsche Außenhandel dürfte erst im kommenden dürften, werden die Warenimporte die -exporte relativ gese-
+Jahr wieder merklich zulegen. Gestützt von weltweit sin- hen wohl übersteigen. Insgesamt ergibt sich für die kom-
+kenden Zinsen und einer allmählich anziehenden Investi- menden Jahre jeweils ein leicht negativer Außenbeitrag für
+tionstätigkeit im Ausland wird die Nachfrage nach deutschen die deutsche Wirtschaftsleistung (Tabelle 4).
+Industrie gütern wohl wieder stärker zunehmen. Allerdings
+dürften die deutschen Warenexporte auch aufgrund der star- Eine anziehende Auslandsnachfrage dürfte ab der zwei-
+ken Konkurrenz aus China nicht so dynamisch ausgewei- ten Jahreshälfte des kommenden Jahres auch die privaten
+tet werden wie in der Vergangenheit. In der Folge dürfte Ausrüstungsinvestitionen wieder etwas anschieben. Die
+der Dienstleistungsanteil an den Gesamtausfuhren über Unternehmen werden dann wohl wieder vermehrt in ihre
+den Prognosehorizont weiter steigen. Von der Erholung Produktionskapazitäten investieren, um die Nachfrage zu
+des Exportgeschäfts und einer Verbesserung der deutschen bedienen. Dabei ist im Prognoseverlauf jedoch nicht mit
+Industrieproduktion werden wohl auch die Wareneinfuh- deutlichen Nachholeffekten zu rechnen, da die Industrie
+ren profitieren und anziehen. Weil die deutschen Exporte sich erst langsam wieder beleben dürfte. Gestützt werden
+von Industrie- und Kapitalgütern eher schwächer ausfallen die Ausrüstungsinvestitionen weiterhin durch die öffentliche
+564 DIW Wochenbericht Nr. 36/2024
+=== Seite 14
+DIW-KONJUNKTURPROGNOSE
+Tabelle 4 Hand – hier kommt in den kommenden Jahren insbeson-
+dere das Sondervermögen Bundeswehr zum Tragen, das zu
+Beiträge zur Veränderung des Bruttoinlandsprodukts
+deutlichen Ausweitungen der öffentlichen Ausgaben führen
+in Deutschland
+dürfte. Auch die Bauinvestitionen werden wohl erst in der
+In Prozentpunkten (preisbereinigt)
+zweiten Jahreshälfte 2025 wieder etwas in Schwung kom-
+men, wenn sich die Baukosten allmählich stabilisieren. Dies
+Veränderungsbeiträge1
+ist besonders für den Wohnungsbau entscheidend, der wohl
+2023 2024 2025 2026
+erst im Jahr 2026 wieder zulegen wird. Dagegen dürften die
+Konsumausgaben −0,2 0,7 0,9 0,8
+Investitionen in Nichtwohnbauten kontinuierlicher ausge-
+Private Haushalte −0,2 0,2 0,5 0,6
+weitet werden, wobei wohl weiterhin insbesondere der Tief-
+Staat 0,0 0,5 0,4 0,2
+Bruttoanlageinvestitionen −0,3 −0,6 0,2 0,7 bau die positive Entwicklung bestimmen wird.
+Bauten −0,4 −0,4 0,0 0,3
+Ausrüstungen −0,1 −0,4 0,0 0,3 Trotz der sinkenden Zinsen bleibt die Geldpolitik zunächst
+Sonstige Anlagen 0,2 0,1 0,1 0,1 restriktiv und dürfte annahmegemäß erst Mitte des kom-
+Vorratsveränderungen 0,1 −0,4 0,0 0,0
+menden Jahres in den Bereich des neutralen Zinsniveaus
+Inländische Verwendung −0,4 −0,4 1,1 1,5
+kommen.6 Die Finanzpolitik ist im Prognosezeitraum
+Außenbeitrag 0,1 0,4 −0,3 −0,1
+zunächst deutlich restriktiv ausgerichtet; erst im Jahr 2026
+Exporte −0,1 0,0 0,6 1,2
+Importe 0,3 0,4 −0,9 −1,3 werden sich expansive und restriktive Maßnahmen wie-
+Bruttoinlandsprodukt2 −0,3 0,0 0,9 1,4 der die Waage halten. Auf das BIP dürfte die Finanzpoli-
+tik in den Jahren 2025 und 2026 allerdings negativ wirken,
+1 Verwendungsaggregate abzüglich ihres Importgehalts. wobei vor allem Haushalte mit geringen Einkommen belas-
+2 Veränderung gegenüber dem Vorjahr in Prozent; Abweichungen in den Summen durch Runden der Zahlen.
+tet werden (Kasten 2). Im laufenden Jahr ist dies vor allem
+Anmerkung: Prognose ab dem Jahr 2024.
+im Wegfall von Maßnahmen begründet, die im Rahmen
+Quellen: Statistisches Bundesamt; Berechnungen der Institute; DIW-Konjunkturprognose Herbst 2024. der Energiekrise ins Leben gerufen wurden, sowie durch
+Konsolidierungsmaßnahmen wie Kürzungen beim Klima-
+© DIW Berlin 2024
+und Transformationsfonds. Expansive Impulse aus dem
+Wachstumschancengesetz sowie den Anpassungen des Ein-
+kommensteuertarifs fallen dagegen geringer aus (Kasten 3).
+Abbildung 6 Auch im kommenden Jahr werden restriktive Maßnahmen
+wie der Wegfall der abgabenfreien Inflationsausgleichsprä-
+Struktureller Primärsaldo
+mie sowie weitere Konsolidierungsmaßnahmen (etwa beim
+In Prozent (in Relation zum nominalen Produktionspotenzial)
+Agrardiesel und der Unterstützung der Ukraine) die expan-
+siven Impulse aus dem Wachstums chancengesetz, dem Aus-
+3
+Prognose
+gleich der kalten Progression und dem Sondervermögen für
+1,5 die Bundeswehr übersteigen. Im Jahr 2026 dürften die rest-
+riktiven fiskalischen Maßnahmen (Erhöhung der Erlöse aus
+0 dem Emissionshandel, Anhebung der Sozialbeiträge) in etwa
+den expansiven finanzpolitischen Effekten beispielsweise
+–1,5 durch weitere Einkommensteuersenkungen und der Verlän-
+gerung degressiver Abschreibungsregeln entsprechen. Von
+–3 den 49 Maßnahmen aus der jüngst angekündigten „Wachs-
+tumsinitiative der Bundesregierung“ ist nur das Steuerfor-
+–4,5
+2021 2022 2023 2024 2025 2026 tentwicklungsgesetz in dieser Prognose enthalten, für das
+bereits ein Kabinettsbeschluss vorliegt. Da damit zu rech-
+Struktureller Primärsaldo Negative Einmaleffekte Finanzierungssaldo
+nen ist, dass die Maßnahmen nur allmählich in den kom-
+Negative Konjunkturkomponente Zinsausgaben
+menden beiden Jahren implementiert werden, dürfte der
+Anmerkung: Der strukturelle Primärsaldo ergibt sich als Summe der Balken. Prognose ab dem Jahr 2024. Wachstumseffekt zwar positiv, aber eher gering ausfallen.7
+Quellen: Statistisches Bundesamt; DIW-Konjunkturprognose Herbst 2024. Insgesamt werden die Fehlbeträge im gesamtstaatlichen
+Haushalt somit über den Prognosezeitraum wohl zurück-
+© DIW Berlin 2024
+gehen, von 2,6 Prozent in Relation zur Wirtschaftsleistung
+Die insgesamt restriktiv ausgerichtete Finanzpolitik spiegelt sich in einem steigenden
+Primärsaldo wider.
+6 Der neutrale Zins kann nicht beobachtet, sondern nur geschätzt werden. Entsprechenden
+Schätzungen der Europäischen Zentralbank zufolge liegt der nominale neutrale Zins zwischen 1,25
+und 2,7 Prozent, wenn man einen zweiprozentigen Inflationsaufschlag auf die Schätzungen des
+realen natürlichen Zinses vorsieht. Vgl. Claus Brand, Noëmie Lisack und Falk Mazelis (2024): Esti-
+mates of the natural interest rate for the euro area: an update. ECB Economic Bulletin Nr. 1, 66–69.
+7 Vgl. VFA – Die forschenden Pharmaunternehmen (2024): Impulse der Wachstumsinitiative:
+Welche Wirkungen dadurch möglich sind. MacroScope Pharma Nr. 8 (online verfügbar); sowie
+Bundesministerium für Wirtschaft und Klimaschutz (2024): Wachstumsinitiative der Bundesregie-
+rung. Schlaglichter der Wirtschaftspolitik. Monatsbericht Nr. 8 (online verfügbar).
+566 DIW Wochenbericht Nr. 36/2024
+=== Seite 16
+HAUPTAGGREGATE DER SEKTOREN
+Jahresergebnisse 2024
+Milliarden Euro
+Gesamte Kapital­ Private Haushalte
+Gegenstand der Nachweisung Staat Übrige Welt
+V olkswirtschaft gesellschaften und private Org. o. E.
+3 Bruttowertschöpfung 3 919,3 2 668,2 462,2 788,9 –
+4 – Abschreibungen 887,1 493,8 119,2 274,2 –
+5 = Nettowertschöpfung1 3 032,1 2 174,4 343,0 514,8 202,3
+6 – Geleistete Arbeitnehmerentgelte 2 339,2 1 715,5 351,9 271,8 20,3
+7 – Geleistete sonstige Produktionsabgaben 41,2 30,4 0,3 10,4 –
+8 + Empfangene sonstige Subventionen 60,1 58,0 0,2 2,0 –
+9 = Betriebsüberschuss/Selbstständigeneinkommen 711,8 486,5 −9,1 234,5 182,0
+10 + Empfangene Arbeitnehmerentgelte 2 344,9 – – 2 344,9 14,6
+11 – Geleistete Subventionen 55,1 – 55,1 – 4,5
+12 + Empfangene Produktions- und Importabgaben 434,6 – 434,6 – 5,3
+13 – Geleistete Vermögenseinkommen 1 044,2 977,3 46,8 20,1 233,7
+14 + Empfangene Vermögenseinkommen 1 189,4 704,2 29,4 455,9 −315,4
+15 = Primäreinkommen (Nettonationaleinkommen) 3 581,5 213,3 353,0 3 015,2 −351,7
+16 – Geleistete Einkommen- und Vermögensteuern 539,6 131,7 – 407,9 15,8
+17 + Empfangene Einkommen- und Vermögensteuern 554,7 – 554,7 – 0,7
+18 – Geleistete Sozialbeiträge2 907,9 – – 907,9 3,7
+19 + Empfangene Sozialbeiträge2 907,9 153,8 753,3 0,8 3,7
+20 – Geleistete monetäre Sozialleistungen 784,1 85,1 698,2 0,8 0,8
+21 + Empfangene monetäre Sozialleistungen 774,1 – – 774,1 10,8
+22 – Geleistete sonstige laufende Transfers 475,3 282,3 87,1 105,9 100,3
+23 + Empfangene sonstige laufende Transfers 412,9 247,2 31,8 133,9 162,7
+24 = Verfügbares Einkommen (Ausgabenkonzept) 3 524,0 115,2 907,5 2 501,4 −294,3
+25 – Konsumausgaben 3 230,4 – 954,5 2 275,9 –
+26 + Zunahme betrieblicher Versorgungsansprüche – −57,6 – 57,6 –
+27 = Sparen 293,6 57,5 −47,0 283,1 −294,3
+28 – Geleistete Vermögenstransfers 105,3 12,9 76,9 15,5 6,8
+29 + Empfangene Vermögenstransfers 85,0 38,8 19,7 26,5 27,2
+30 – Bruttoinvestitionen 886,5 490,4 125,8 270,2 –
+31 + Abschreibungen 887,1 493,8 119,2 274,2 –
+32 – Nettozugang an nichtprod. Vermögensgütern 19,1 19,3 −0,5 0,3 −19,1
+33 = Finanzierungssaldo 254,8 67,5 −110,4 297,7 −254,8
+Nachrichtlich:
+34 Verfügbares Einkommen (Ausgabenkonzept) 3 524,0 115,2 907,5 2 501,4 −294,3
+35 – Geleistete soziale Sachtransfers 586,0 – 586,0 – –
+36 + Empfangene soziale Sachtransfers 586,0 – – 586,0 –
+37 = Verfügbares Einkommen (Verbrauchskonzept) 3 524,0 115,2 321,5 3 087,3 −294,3
+38 – Konsum3 3 230,4 – 368,5 2 861,9 –
+39 + Zunahme betrieblicher Versorgungsansprüche – −57,6 – 57,6 –
+40 = Sparen 293,6 57,5 −47,0 283,1 −294,3
+1 Für den Sektor übrige Welt Importe abzüglich Exporte aus der beziehungsweise an die übrige Welt.
+2 Einschließlich Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.
+3 Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte, private Organisationen ohne Erwerbszweck Individualkonsum (einschließlich Konsumausgaben des Staates für den Individualverbrauch,
+also einschließlich sozialer Sachleistungen).
+© DIW Berlin 2024
+568 DIW Wochenbericht Nr. 36/2024
+=== Seite 17
+HAUPTAGGREGATE DER SEKTOREN
+Jahresergebnisse 2025
+Milliarden Euro
+Gesamte Kapital­ Private Haushalte
+Gegenstand der Nachweisung Staat Übrige Welt
+V olkswirtschaft gesellschaften und private Org. o. E.
+3 Bruttowertschöpfung 4 022,2 2 737,5 475,2 809,4 –
+4 – Abschreibungen 914,7 510,0 121,5 283,2 –
+5 = Nettowertschöpfung1 3 107,4 2 227,5 353,7 526,2 190,0
+6 – Geleistete Arbeitnehmerentgelte 2 419,6 1 775,3 362,8 281,5 21,1
+7 – Geleistete sonstige Produktionsabgaben 42,7 31,8 0,3 10,6 –
+8 + Empfangene sonstige Subventionen 64,4 62,2 0,2 2,0 –
+9 = Betriebsüberschuss/Selbstständigeneinkommen 709,6 482,7 –9,3 236,2 168,9
+10 + Empfangene Arbeitnehmerentgelte 2 425,3 – – 2 425,3 15,4
+11 – Geleistete Subventionen 55,7 – 55,7 – 4,5
+12 + Empfangene Produktions- und Importabgaben 451,9 – 451,9 – 5,5
+13 – Geleistete Vermögenseinkommen 1 065,3 992,6 52,4 20,3 242,4
+14 + Empfangene Vermögenseinkommen 1 212,9 729,1 24,6 459,2 –286,7
+15 = Primäreinkommen (Nettonationaleinkommen) 3 678,7 219,2 359,1 3 100,4 –343,8
+16 – Geleistete Einkommen- und Vermögensteuern 561,9 137,9 – 424,0 20,0
+17 + Empfangene Einkommen- und Vermögensteuern 581,1 – 581,1 – 0,8
+18 – Geleistete Sozialbeiträge2 948,8 – – 948,8 3,9
+19 + Empfangene Sozialbeiträge2 950,1 158,4 790,9 0,8 2,6
+20 – Geleistete monetäre Sozialleistungen 815,2 87,2 727,1 0,8 0,9
+21 + Empfangene monetäre Sozialleistungen 804,9 – – 804,9 11,2
+22 – Geleistete sonstige laufende Transfers 470,5 276,4 85,2 108,9 93,4
+23 + Empfangene sonstige laufende Transfers 418,6 241,5 34,9 142,2 145,3
+24 = Verfügbares Einkommen (Ausgabenkonzept) 3 637,1 117,5 953,8 2 565,7 –302,1
+25 – Konsumausgaben 3 328,7 – 988,6 2 340,2 –
+26 + Zunahme betrieblicher Versorgungsansprüche – –57,6 – 57,6 –
+27 = Sparen 308,3 59,9 –34,7 283,2 –302,1
+28 – Geleistete Vermögenstransfers 109,5 14,1 79,7 15,7 6,5
+29 + Empfangene Vermögenstransfers 82,3 26,9 20,7 34,8 33,6
+30 – Bruttoinvestitionen 920,9 520,6 131,0 269,4 –
+31 + Abschreibungen 914,7 510,0 121,5 283,2 –
+32 – Nettozugang an nichtprod. Vermögensgütern 19,1 19,3 –0,5 0,3 –19,1
+33 = Finanzierungssaldo 255,9 42,8 –102,6 315,8 –255,9
+Nachrichtlich:
+34 Verfügbares Einkommen (Ausgabenkonzept) 3 637,1 117,5 953,8 2 565,7 –302,1
+35 – Geleistete soziale Sachtransfers 606,5 – 606,5 – –
+36 + Empfangene soziale Sachtransfers 606,5 – – 606,5 –
+37 = Verfügbares Einkommen (Verbrauchskonzept) 3 637,1 117,5 347,4 3 172,2 –302,1
+38 – Konsum3 3 328,7 – 382,1 2 946,6 –
+39 + Zunahme betrieblicher Versorgungsansprüche – –57,6 – 57,6 –
+40 = Sparen 308,3 59,9 –34,7 283,2 –302,1
+1 Für den Sektor übrige Welt Importe abzüglich Exporte aus der beziehungsweise an die übrige Welt.
+2 Einschließlich Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.
+3 Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte, private Organisationen ohne Erwerbszweck Individualkonsum (einschließlich Konsumausgaben des Staates für den Individualverbrauch,
+also einschließlich sozialer Sachleistungen).
+© DIW Berlin 2024
+DIW Wochenbericht Nr. 36/2024 569
+=== Seite 18
+HAUPTAGGREGATE DER SEKTOREN
+Jahresergebnisse 2026
+Milliarden Euro
+Gesamte Kapital­ Private Haushalte
+Gegenstand der Nachweisung Staat Übrige Welt
+V olkswirtschaft gesellschaften und private Org. o. E.
+3 Bruttowertschöpfung 4 151,5 2 829,9 484,9 836,7 –
+4 – Abschreibungen 941,0 526,1 122,8 292,1 –
+5 = Nettowertschöpfung1 3 210,5 2 303,8 362,0 544,6 184,8
+6 – Geleistete Arbeitnehmerentgelte 2 491,6 1 830,3 371,1 290,1 22,0
+7 – Geleistete sonstige Produktionsabgaben 44,5 33,3 0,3 10,8 –
+8 + Empfangene sonstige Subventionen 69,0 66,8 0,2 2,0 –
+9 = Betriebsüberschuss/Selbstständigeneinkommen 743,4 507,0 –9,3 245,7 162,8
+10 + Empfangene Arbeitnehmerentgelte 2 497,3 – – 2 497,3 16,3
+11 – Geleistete Subventionen 56,0 – 56,0 – 4,5
+12 + Empfangene Produktions- und Importabgaben 471,2 – 471,2 – 5,6
+13 – Geleistete Vermögenseinkommen 1 086,3 1 011,7 53,6 21,1 249,4
+14 + Empfangene Vermögenseinkommen 1 234,7 732,0 24,9 477,7 –274,5
+15 = Primäreinkommen (Nettonationaleinkommen) 3 804,3 227,4 377,2 3 199,7 –343,7
+16 – Geleistete Einkommen- und Vermögensteuern 584,2 145,2 – 439,0 24,8
+17 + Empfangene Einkommen- und Vermögensteuern 608,1 – 608,1 – 0,9
+18 – Geleistete Sozialbeiträge2 986,5 – – 986,5 4,1
+19 + Empfangene Sozialbeiträge2 988,6 163,1 824,6 0,8 2,0
+20 – Geleistete monetäre Sozialleistungen 839,4 89,1 749,5 0,8 1,0
+21 + Empfangene monetäre Sozialleistungen 828,9 – – 828,9 11,5
+22 – Geleistete sonstige laufende Transfers 490,1 295,4 84,9 109,8 102,5
+23 + Empfangene sonstige laufende Transfers 440,9 256,9 36,1 147,9 151,7
+24 = Verfügbares Einkommen (Ausgabenkonzept) 3 770,6 117,8 1 011,7 2 641,2 –310,0
+25 – Konsumausgaben 3 424,8 – 1 016,6 2 408,2 –
+26 + Zunahme betrieblicher Versorgungsansprüche – –57,7 – 57,7 –
+27 = Sparen 345,8 60,1 –4,9 290,6 –310,0
+28 – Geleistete Vermögenstransfers 114,7 16,3 82,6 15,9 6,2
+29 + Empfangene Vermögenstransfers 79,8 12,5 21,5 45,7 41,1
+30 – Bruttoinvestitionen 976,8 561,7 137,3 277,8 –
+31 + Abschreibungen 941,0 526,1 122,8 292,1 –
+32 – Nettozugang an nichtprod. Vermögensgütern 19,1 19,3 –0,5 0,3 –19,1
+33 = Finanzierungssaldo 256,0 1,4 –79,8 334,4 –256,0
+Nachrichtlich:
+34 Verfügbares Einkommen (Ausgabenkonzept) 3 770,6 117,8 1 011,7 2 641,2 –310,0
+35 – Geleistete soziale Sachtransfers 627,7 – 627,7 – –
+36 + Empfangene soziale Sachtransfers 627,7 – – 627,7 –
+37 = Verfügbares Einkommen (Verbrauchskonzept) 3 770,6 117,8 384,0 3 268,8 –310,0
+38 – Konsum3 3 424,8 – 388,9 3 035,9 –
+39 + Zunahme betrieblicher Versorgungsansprüche – –57,7 – 57,7 –
+40 = Sparen 345,8 60,1 –4,9 290,6 –310,0
+1 Für den Sektor übrige Welt Importe abzüglich Exporte aus der beziehungsweise an die übrige Welt.
+2 Einschließlich Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.
+3 Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte, private Organisationen ohne Erwerbszweck Individualkonsum (einschließlich Konsumausgaben des Staates für den Individualverbrauch,
+also einschließlich sozialer Sachleistungen).
+© DIW Berlin 2024
+570 DIW Wochenbericht Nr. 36/2024
+=== Seite 19
+VGR-TABELLEN
+Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnungen für Deutschland
+Vorausschätzung für die Jahre 2024 bis 2026
+2024 2025 2026
+2024 2025 2026
+1. Halbjahr 2. Halbjahr 1. Halbjahr 2. Halbjahr 1. Halbjahr 2. Halbjahr
+1. Entstehung des Inlandsprodukts
+Veränderung in Prozent gegenüber dem Vorjahr
+Erwerbstätige 0,4 0,1 −0,2 0,4 0,4 0,1 0,0 −0,1 −0,2
+Arbeitszeit, arbeitstäglich 0,5 0,9 −0,9 0,2 0,8 2,0 −0,1 0,1 −2,0
+Arbeitstage −0,2 −0,3 1,0 −0,5 0,0 −1,1 0,6 0,0 1,9
+Arbeitsvolumen, kalendermonatlich 0,6 0,7 −0,2 0,1 1,0 1,0 0,5 0,0 −0,3
+Produktivität1 −0,6 0,1 1,6 −0,4 −0,8 −0,6 0,9 1,3 1,9
+Reales Bruttoinlandsprodukt 0,0 0,9 1,4 −0,2 0,2 0,4 1,3 1,3 1,5
+2. Verwendung des Inlandsprodukts in jeweiligen Preisen
+a) Milliarden Euro
+Konsumausgaben 3 230,4 3 328,7 3 424,8 1 573,6 1 656,8 1 619,7 1 709,0 1 666,4 1 758,4
+Private Haushalte2 2 275,9 2 340,2 2 408,2 1 112,3 1 163,7 1 140,0 1 200,1 1 173,3 1 234,9
+Staat 954,5 988,6 1 016,6 461,3 493,2 479,7 508,9 493,1 523,5
+Anlageinvestitionen 897,4 929,9 987,2 438,3 459,1 446,5 483,4 472,4 514,8
+Ausrüstungen 264,2 272,3 292,9 127,2 137,0 128,2 144,2 136,2 156,7
+Bauten 464,6 479,7 506,9 230,2 234,4 233,3 246,4 246,3 260,6
+Sonstige Anlageinvestitionen 168,6 177,9 187,4 80,9 87,7 85,1 92,8 90,0 97,4
+Vorratsveränderung3 −10,9 −9,0 −7,4 6,5 −17,4 10,5 −19,5 10,1 −17,4
+Inländische Verwendung 4 116,9 4 249,7 4 401,6 2 018,4 2 098,5 2 076,8 2 172,9 2 148,7 2 252,9
+Außenbeitrag 202,3 190,0 184,8 113,7 88,6 104,9 85,1 102,5 82,3
+Exporte 1 831,0 1 879,6 1 951,5 911,3 919,7 926,9 952,7 959,3 992,2
+Importe 1 628,7 1 689,6 1 766,7 797,6 831,1 822,0 867,6 856,8 909,9
+Bruttoinlandsprodukt 4 319,2 4 439,7 4 586,4 2 132,1 2 187,1 2 181,7 2 258,0 2 251,1 2 335,3
+b) Veränderung in Prozent gegenüber dem Vorjahr
+Konsumausgaben 3,8 3,0 2,9 4,0 3,7 2,9 3,1 2,9 2,9
+Private Haushalte2 3,2 2,8 2,9 3,4 3,0 2,5 3,1 2,9 2,9
+Staat 5,4 3,6 2,8 5,6 5,3 4,0 3,2 2,8 2,9
+Anlageinvestitionen −0,3 3,6 6,2 −0,8 0,2 1,9 5,3 5,8 6,5
+Ausrüstungen −4,2 3,1 7,6 −4,1 −4,2 0,8 5,2 6,3 8,7
+Bauten −0,3 3,3 5,7 −1,4 0,7 1,3 5,1 5,6 5,8
+Sonstige Anlageinvestitionen 6,7 5,5 5,3 7,0 6,4 5,1 5,8 5,8 5,0
+Inländische Verwendung 2,5 3,2 3,6 2,3 2,6 2,9 3,5 3,5 3,7
+Exporte 0,8 2,7 3,8 −0,5 2,1 1,7 3,6 3,5 4,1
+Importe −1,2 3,7 4,6 −4,1 1,7 3,1 4,4 4,2 4,9
+Bruttoinlandsprodukt 3,2 2,8 3,3 3,6 2,8 2,3 3,2 3,2 3,4
+3. Verwendung des Inlandsprodukts, preisbereinigt
+a) Verkettete Volumina in Milliarden Euro
+Konsumausgaben 2 703,2 2 735,5 2 764,6 1 332,6 1 370,6 1 347,3 1 388,2 1 361,4 1 403,2
+Private Haushalte2 1 890,5 1 909,5 1 930,4 930,4 960,0 936,5 973,1 946,9 983,5
+Staat 813,1 826,4 834,6 402,3 410,7 411,1 415,3 414,8 419,8
+Anlageinvestitionen 708,7 715,0 740,0 348,0 360,7 344,8 370,2 355,7 384,3
+Ausrüstungen 224,2 225,9 237,2 108,3 115,9 106,6 119,3 110,7 126,6
+Bauten 334,5 335,0 344,1 166,9 167,6 163,9 171,1 168,2 175,9
+Sonstige Anlageinvestitionen 153,1 157,9 163,1 73,8 79,3 75,6 82,3 78,4 84,7
+Inländische Verwendung 3 430,3 3 470,7 3 525,4 1 693,7 1 736,6 1 707,0 1 763,7 1 731,9 1 793,5
+Exporte 1 525,5 1 548,9 1 591,9 761,9 763,6 766,0 782,9 784,6 807,3
+Importe 1 338,6 1 371,2 1 417,4 659,3 679,3 669,9 701,3 690,2 727,3
+Bruttoinlandsprodukt 3 615,6 3 646,4 3 697,6 1 795,9 1 819,7 1 802,2 1 844,2 1 825,3 1 872,3
+b) Veränderung in Prozent gegenüber dem Vorjahr
+Konsumausgaben 1,0 1,2 1,1 1,0 1,0 1,1 1,3 1,0 1,1
+Private Haushalte2 0,5 1,0 1,1 0,4 0,5 0,6 1,4 1,1 1,1
+Staat 2,2 1,6 1,0 2,2 2,3 2,2 1,1 0,9 1,1
+Anlageinvestitionen −3,0 0,9 3,5 −3,2 −2,9 −0,9 2,6 3,2 3,8
+Ausrüstungen −6,3 0,7 5,0 −6,1 −6,5 −1,5 2,9 3,8 6,1
+Bauten −3,4 0,1 2,7 −4,1 −2,7 −1,8 2,0 2,6 2,8
+Sonstige Anlageinvestitionen 3,9 3,1 3,3 4,6 3,2 2,5 3,8 3,7 2,9
+Inländische Verwendung −0,4 1,2 1,6 −0,9 0,2 0,8 1,6 1,5 1,7
+Exporte −0,1 1,5 2,8 −0,9 0,8 0,5 2,5 2,4 3,1
+Importe −1,0 2,4 3,4 −2,6 0,7 1,6 3,2 3,0 3,7
+Bruttoinlandsprodukt 0,0 0,9 1,4 −0,2 0,2 0,4 1,3 1,3 1,5
+DIW Wochenbericht Nr. 36/2024 571
+=== Seite 20
+VGR-TABELLEN
+Noch: Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnungen für Deutschland
+Vorausschätzung für die Jahre 2024 bis 2026
+2024 2025 2026
+2024 2025 2026
+1. Halbjahr 2. Halbjahr 1. Halbjahr 2. Halbjahr 1. Halbjahr 2. Halbjahr
+4. Preisniveau der Verwendungsseite des Inlandsprodukts (2 010 = 100)
+Veränderung in Prozent gegenüber dem Vorjahr
+Private Konsumausgaben2 2,7 1,8 1,8 2,9 2,5 1,8 1,8 1,8 1,8
+Konsumausgaben des Staates 3,1 1,9 1,8 3,3 2,9 1,8 2,1 1,9 1,8
+Anlageinvestitionen 2,8 2,7 2,6 2,5 3,2 2,8 2,6 2,6 2,6
+Ausrüstungen 2,3 2,3 2,4 2,1 2,4 2,3 2,3 2,4 2,4
+Bauten 3,2 3,1 2,9 2,8 3,6 3,2 3,0 2,9 2,9
+Exporte 0,9 1,1 1,0 0,4 1,3 1,2 1,0 1,0 1,0
+Importe −0,2 1,3 1,2 −1,5 1,0 1,4 1,1 1,2 1,1
+Bruttoinlandsprodukt 3,2 1,9 1,9 3,8 2,6 2,0 1,9 1,9 1,9
+5. Einkommensentstehung und -verteilung
+a) Milliarden Euro
+Primäreinkommen der privaten Haushalte2 3 015,2 3 100,4 3 199,7 1 495,0 1 520,1 1 519,0 1 581,3 1 566,9 1 632,8
+Sozialbeiträge der Arbeitgeber 401,8 419,5 434,5 195,1 206,6 203,4 216,1 210,7 223,8
+Bruttolöhne und -gehälter 1 943,2 2 005,8 2 062,8 946,0 997,2 962,6 1 043,2 990,6 1 072,2
+Übrige Primäreinkommen4 670,2 675,1 702,3 353,9 316,4 353,0 322,1 365,6 336,7
+Primäreinkommen der übrigen Sektoren 566,3 578,3 604,6 270,7 295,6 267,0 311,3 277,4 327,2
+Nettonationaleinkommen (Primäreinkommen) 3 581,5 3 678,7 3 804,3 1 749,2 1 832,3 1 786,0 1 892,7 1 844,3 1 960,0
+Abschreibungen 887,1 914,7 941,0 440,5 446,6 454,6 460,2 467,6 473,4
+Bruttonationaleinkommen 4 468,6 4 593,4 4 745,3 2 189,7 2 278,9 2 240,6 2 352,8 2 312,0 2 433,3
+Nachrichtlich:
+Volkseinkommen 3 189,1 3 261,2 3 369,4 1 557,9 1 631,2 1 577,9 1 683,3 1 627,4 1 742,0
+Unternehmens- und Vermögenseinkommen 844,2 835,9 872,1 433,3 410,9 411,8 424,1 426,1 446,0
+Arbeitnehmerentgelt 2 344,9 2 425,3 2 497,3 1 124,6 1 220,3 1 166,0 1 259,2 1 201,3 1 296,1
+b) Veränderung in Prozent gegenüber dem Vorjahr
+Primäreinkommen der privaten Haushalte2 4,1 2,8 3,2 4,1 4,1 2,7 2,9 3,2 3,3
+Sozialbeiträge der Arbeitgeber 4,9 4,4 3,6 4,3 5,5 5,1 3,8 3,6 3,6
+Bruttolöhne und -gehälter 5,3 3,2 2,8 5,4 5,1 3,4 3,1 2,9 2,8
+Übrige Primäreinkommen4 0,5 0,7 4,0 0,8 0,1 −0,3 1,8 3,6 4,5
+Primäreinkommen der übrigen Sektoren −2,1 2,1 4,5 −1,8 −2,3 −1,4 5,3 3,9 5,1
+Nettonationaleinkommen (Primäreinkommen) 3,1 2,7 3,4 3,6 2,6 2,1 3,3 3,3 3,6
+Abschreibungen 3,4 3,1 2,9 3,2 3,6 3,2 3,0 2,9 2,9
+Bruttonationaleinkommen 3,1 2,8 3,3 3,5 2,8 2,3 3,2 3,2 3,4
+Nachrichtlich:
+Volkseinkommen 1,7 2,3 3,3 2,5 1,1 1,3 3,2 3,1 3,5
+Unternehmens- und Vermögenseinkommen −6,8 −1,0 4,3 −5,5 −8,1 −5,0 3,2 3,5 5,2
+Arbeitnehmerentgelt 5,2 3,4 3,0 5,9 4,6 3,7 3,2 3,0 2,9
+6. Einkommen und Einkommensverwendung der privaten Haushalte
+a) Milliarden Euro
+Masseneinkommen 1 961,1 2 021,4 2 074,5 944,4 1 016,6 976,7 1 044,6 1 003,4 1 071,1
+Nettolöhne- und -gehälter 1 355,0 1 390,8 1 423,9 644,7 710,3 661,9 728,9 678,5 745,4
+Monetäre Sozialleistungen 774,1 804,9 828,9 382,8 391,2 401,6 403,3 413,7 415,2
+abzgl. Abgaben auf soziale Leistungen5 168,0 174,3 178,3 83,1 84,9 86,8 87,5 88,9 89,5
+Übrige Primäreinkommen4 670,2 675,1 702,3 353,9 316,4 353,0 322,1 365,6 336,7
+Sonstige Transfers (Saldo)6 −129,9 −130,7 −135,7 −58,8 −71,1 −63,1 −67,7 −65,5 −70,2
+Verfügbares Einkommen 2 501,4 2 565,7 2 641,2 1 239,5 1 261,9 1 266,6 1 299,1 1 303,5 1 337,6
+Nachrichtlich:
+Zunahme betrieblicher Versorgungsansprüche 57,6 57,6 57,7 28,0 29,6 28,0 29,6 28,0 29,6
+Konsumausgaben 2 275,9 2 340,2 2 408,2 1 112,3 1 163,7 1 140,0 1 200,1 1 173,3 1 234,9
+Sparen 283,1 283,2 290,6 155,2 127,9 154,6 128,6 158,3 132,3
+Sparquote in Prozent7 11,1 10,8 10,8 12,2 9,9 11,9 9,7 11,9 9,7
+b) Veränderung in Prozent gegenüber dem Vorjahr
+Masseneinkommen 5,6 3,1 2,6 6,4 4,8 3,4 2,8 2,7 2,5
+Nettolöhne- und -gehälter 5,3 2,6 2,4 6,6 4,2 2,7 2,6 2,5 2,3
+Monetäre Sozialleistungen 5,9 4,0 3,0 6,2 5,7 4,9 3,1 3,0 3,0
+abzgl. Abgaben auf soziale Leistungen5 5,5 3,8 2,3 7,3 3,8 4,5 3,0 2,3 2,3
+Übrige Primäreinkommen4 0,5 0,7 4,0 0,8 0,1 −0,3 1,8 3,6 4,5
+Verfügbares Einkommen 4,0 2,6 2,9 4,7 3,4 2,2 2,9 2,9 3,0
+Konsumausgaben 3,2 2,8 2,9 3,4 3,0 2,5 3,1 2,9 2,9
+Sparen 10,4 0,0 2,6 14,1 6,2 −0,4 0,6 2,4 2,9
+572 DIW Wochenbericht Nr. 36/2024

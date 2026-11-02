@@ -1,0 +1,679 @@
+=== Seite 3
+Sommer 2026: Deutliche konjunkturelle Erholung trotz anhaltender
+struktureller Belastungen1
+0F
+Torsten Schmidt, Niklas Benner, Boris Blagov, Niklas Isaak, Robin Jessen, Stefan Kotz, Clara
+Krause, Jonas Lippert, Marvin Nöller und Philip Schacht-Picozzi
+Inhaltsverzeichnis
+Kurzfassung ………………………………………………………………………………………………………… 3
+Summary ……………………………………………………………………………………………………………. 5
+1. Weltwirtschaft trotz geopolitischer Spannungen auf Wachstumskurs ...................... 7
+2. Kräftige Exporte treiben konjunkturelle Erholung in Deutschland im ersten Halbjahr
+…………………………………………………………..……………………………………………………………12
+3. Wirtschaftliche Erholung erreicht nur allmählich die privaten Haushalte ................ 14
+3.1 Ausfuhren nach kräftigem Anstieg moderat aufwärtsgerichtet ............................... 16
+3.2 Ausrüstungsinvestitionen weiterhin von staatlicher Nachfrage geprägt .................. 18
+3.3 Bauinvestitionen mit Witterungseffekten auch im Sommer.................................... 19
+3.4 Verhaltener Anstieg des privaten Konsums ........................................................... 20
+3.5 Staatskonsum mit abnehmender Dynamik ........................................................... 20
+4. Kräftige Erholung im Verarbeitenden Gewerbe ....................................................... 20
+5. Erheblicher Beschäftigungsabbau im ersten Halbjahr ............................................ 21
+6. Effektivverdienste steigen spürbar an .................................................................... 23
+7. Kerninflation bislang unberührt vom Irankrieg ........................................................ 23
+8. Staatliche Defizite werden deutlich ausgeweitet .................................................... 24
+9. Risiken .................................................................................................................. 26
+10. Literatur ................................................................................................................ 27
+Anhang ...................................................................................................................... 28
+1 Abgeschlossen am 1.9.2026. Die Verfasser danken Silvia Mühlbauer für die technische Unterstützung.
+=== Seite 4
+RWI Konjunkturbericht 77 (2026), A05
+Kurzfassung: Die deutsche Wirtschaft expandierte im ersten Halbjahr überraschend kräftig.
+Getragen wurde die Erholung vor allem von den Exporten. Dies überrascht, da sich die Exporte
+zuvor von der weltwirtschaftlichen Entwicklung gelöst hatten und deutlich schwächer expan-
+dierten. Der Großteil der ausländischen Nachfrage kam aus der EU. Dort war die Produktion im
+zweiten Quartal recht kräftig, was zu der hohen Nachfrage nach deutschen Waren beigetragen
+haben dürfte. Bei den Exporten in die USA zeichnet sich seit der Beruhigung des Handelsstreits
+eine Erholung ab. Insgesamt spricht dies dafür, dass die starken Exporte eher auf kurzfristige
+Faktoren als auf eine strukturelle Verbesserung der internationalen Wettbewerbsfähigkeit zu-
+rückzuführen sind. Dies lässt erwarten, dass die deutschen Exporte im zweiten Halbjahr weniger
+kräftig ausgeweitet werden als im ersten.
+Neben den Exporten trug auch der öffentliche Konsum im ersten Halbjahr deutlich zum Anstieg
+des BIP bei. Hier machen sich die Ausgaben aus den Sondervermögen und die erweiterten Ver-
+schuldungsspielräume bemerkbar. Dagegen hat sich die private inländische Nachfrage weiter-
+hin schwach entwickelt. Die privaten Haushalte leiden unter der erneut höheren Inflation und
+den schlechten Arbeitsmarktaussichten. Auch die private Investitionsnachfrage war ausgespro-
+chen schwach. Zwar hat sich der Bau nach einem Rückgang zu Jahresbeginn stabilisiert. Die
+Ausrüstungsinvestitionen gehen dagegen in beiden Quartalen deutlich zurück.
+Durch die Trockenheit und die hohen Temperaturen im Juli und August kamen weitere Belas-
+tungen für die deutsche Wirtschaft hinzu. Besonders sichtbar sind sie durch die niedrigen Pegel-
+stände im Rhein und anderen deutschen Flüssen, die die Schifffahrt belastet haben. Fracht-
+schiffe konnten nur noch wenig Ladung aufnehmen, um den Tiefgang zu verringern, sodass in
+der Chemie und der Stahlerzeugung aber auch in der Bauwirtschaft Vorprodukte fehlten. Inzwi-
+schen hat sich die Lage wieder etwas entspannt. Es ist aber davon auszugehen, dass die Eng-
+pässe das gesamte dritte Quartal anhalten werden.
+Im weiteren Prognosezeitraum dürfte sich die Erholung der deutschen Wirtschaft fortsetzen.
+Dabei wird das Expansionstempo wohl wieder etwas nachlassen. Ein wesentlicher Grund dafür
+ist, dass sich die Exportdynamik wieder abschwächt. Allerdings ist zu erwarten, dass die Zu-
+nahme der Auftragseingänge und die steigende Kapazitätsauslastung die Investitionsbereit-
+schaft erhöhen. Dies dürfte sich vor allem auf die privaten Ausrüstungsinvestitionen auswirken.
+Die ungelösten strukturellen Belastungen, wie hohe Energiepreise, hohe bürokratische Hürden
+sprechen aber gegen eine kräftige Erholung der privaten Investitionen. Die höheren Zinsen dürf-
+ten insbesondere die Bauinvestitionen etwas dämpfen. Angesichts der immer noch hohen Infla-
+tionsrate dürfte die EZB die Zinsen noch weiter erhöhen. Auch die privaten Konsumausgaben
+dürften nur schwach ausgeweitet werden.
+Insgesamt erwarten wir eine Fortsetzung der wirtschaftlichen Erholung. Für dieses Jahr gehen
+wir von einer Expansion des BIP um 1,3% aus. Im kommenden Jahr dürfte das Expansionstempo
+mit einer durchschnittlichen Rate von 1,1% weiterhin hoch bleiben. Für das Jahr 2028 ist mit ei-
+ner Verringerung des Expansionstempos auf eine Rate von 0,5% zu rechnen.
+Auf dem Arbeitsmarkt setzte sich der deutliche Rückgang der Erwerbstätigen im ersten Halb-
+jahr 2026 unvermindert fort. Seit Jahresbeginn ist die Beschäftigung um ca. 100 Tsd. Personen
+geschrumpft. Die Hauptgründe dafür sind eine geringe Arbeitsnachfrage der Unternehmen so-
+wie die Alterung der Gesellschaft. Im weiteren Jahresverlauf dürfte der Arbeitsmarkt schwach
+bleiben. Jahresdurchschnittlich ist im laufenden Jahr daher mit einem Rückgang der Zahl der Er-
+werbstätigen um fast 200 Tsd. zu rechnen. Erst im kommenden Jahr dürfte dann mit fortlaufen-
+der konjunktureller Erholung auch wieder Beschäftigung aufgebaut werden. Jedoch wirkt die De-
+mografie weiter bremsend. Im Jahresdurchschnitt bedeutet dies einen Anstieg der
+3
+=== Seite 5
+Sommer 2026
+Erwerbstätigen um gut 10 Tsd. Personen im kommenden Jahr, gefolgt von weiteren knapp 130
+Tsd. im Jahr darauf. Die Arbeitslosenquote dürfte Ende des Jahres 2028 bei 5,7% liegen.
+Die Teuerung ist weiterhin stark von den Auswirkungen des Irankriegs geprägt. Die kriegsbe-
+dingten Turbulenzen sowie die zwischenzeitliche Senkung der Energiesteuer auf Kraftstoffe ha-
+ben zu starken Bewegungen bei den Energiepreisen geführt. Die Teuerungsrate des Gesamtin-
+dex ohne Energie lag seit dem Ausbruch des Krieges bei durchschnittlich 2,2%. Es ist aber damit
+zu rechnen, dass auch die Kerninflation vor Ende des Jahres wieder Fahrt aufnimmt. Insgesamt
+wird für 2026 eine Inflationsrate von 2,7% erwartet. Im kommenden Jahr dürften die verzögerten
+Auswirkungen des Energiepreisschocks dazu führen, dass die Kerninflation mit 3,4% deutlich
+oberhalb der Inflationsrate von 2,6% liegt. Für das Jahr 2028 erwarten wir, dass die Inflationsrate
+bei 2% liegen wird.
+Die Maastricht-Schuldenstandsquote der öffentlichen Haushalte dürfte von knapp 63% Ende
+2025 auf gut 69% zum Ende des Jahres 2028 steigen. Die Finanzpolitik ist im gesamten Progno-
+sezeitraum expansiv ausgerichtet. Im Zuge der Konsolidierungsmaßnahmen gehen die expansi-
+ven Impulse im Laufe des Prognosezeitraums zurück.
+Tabelle
+Eckwerte der Prognose
+2025 bis 2028
+2025 2026p 2027p 2028p
+Bruttoinlandsprodukt1, Veränd. in % 0,2 1,3 1,1 0,5
+Erwerbstätige2, in 1000 45 878 45 686 45 697 45 825
+Arbeitslose3, in 1000 2 948 2 994 2 916 2 726
+Arbeitslosenquote3,4, in % 6,3 6,4 6,6 6,2
+Verbraucherpreise, Veränderung in % 2,2 2,7 2,6 2,0
+Lohnstückkosten5, Veränderung in % 4,3 2,1 2,3 3,2
+Finanzierungssaldo des Staates6
+in Mrd. € -136,5 -190,0 -227,8 -252,4
+in % des BIP -3,0 -4,0 -4,7 -5,0
+Leistungsbilanzsaldo7
+in Mrd. € 202,1 206,1 222,6 237,4
+in % des BIP 4,5 4,4 4,6 4,7
+Eigene Berechnungen nach Angaben des Statistischen Bundesamtes (Destatis), der Deutschen Bundesbank
+und der Bundesagentur für Arbeit. - 1Preisbereinigt. - 2Im Inland. - 3Nationale Abgrenzung. - 4Bezogen auf alle
+zivilen Erwerbspersonen. - 5Arbeitnehmerentgelte je Beschäftigten bezogen auf das reale BIP je Erwerbstätigen.
+- 6In der Abgrenzung der Volkswirtschaftlichen Gesamtrechnungen. - 7In der Abgrenzung der Leistungsbilanzsta-
+tistik. - pEigene Prognose.
+4
+=== Seite 6
+RWI Konjunkturbericht 77 (2026), A05
+Summary: The German economy expanded with surprising vigor in the first half of the year. This
+recovery was driven primarily by exports – a surprising development, given that exports had pre-
+viously decoupled from global economic trends and were expanding at a much slower pace. The
+bulk of foreign demand originated within the EU, where production was robust in the second
+quarter, likely fueling the high demand for German goods. Exports to the US have also shown
+signs of recovery since the trade dispute eased. Overall, these trends suggest that the strong
+export performance stems from short-term factors rather than a structural improvement in in-
+ternational competitiveness. Consequently, German export growth is expected to slow down in
+the second half of the year.
+In addition to exports, public consumption contributed significantly to the rise in GDP during
+the first half of the year, reflecting the impact of spending from special funds and expanded bor-
+rowing capacity. By contrast, private domestic demand remained weak; households are grap-
+pling with renewed inflationary pressures and a bleak labor market outlook. Demand for private
+investment was also notably sluggish. While the construction sector stabilized following a de-
+cline at the start of the year, investment in equipment and machinery fell sharply in both quar-
+ters.
+Drought conditions and high temperatures in July and August placed further strain on the Ger-
+man economy. This impact was most visible in the low water levels of the Rhine and other Ger-
+man rivers, which hampered shipping operations. Freight vessels were forced to reduce their
+loads to decrease their draft, resulting in shortages of intermediate goods for the chemical, steel,
+and construction industries. Although the situation has eased somewhat, the supply bottle-
+necks are expected to persist throughout the third quarter.
+The recovery of the German economy is likely to continue over the remainder of the forecast
+period. The pace of expansion is likely to slow somewhat again. A key reason for this is the weak-
+ening of export momentum. However, rising incoming orders and increasing capacity utilization
+are expected to boost the willingness to invest. This should primarily impact private investment
+in equipment. Yet, unresolved structural burdens – such as high energy prices and significant
+bureaucratic hurdles – militate against a robust recovery in private investment. Higher interest
+rates are likely to dampen construction investment in particular. Given the persistently high in-
+flation rate, the ECB is expected to raise interest rates further. Private consumer spending is also
+likely to see only modest growth.
+Overall, we expect the economic recovery to continue. We project GDP growth of 1.3% for this
+year. Next year, the pace of expansion is expected to remain solid, averaging 1.1%. By 2028, the
+growth rate is projected to slow to 0.5%.
+In the labor market, the marked decline in the number of employed persons continued una-
+bated during the first half of 2026. Employment has contracted by approximately 100,000 since
+the beginning of the year. The primary reasons for this are low labor demand from companies
+and an aging population. The labor market is likely to remain weak for the remainder of the year;
+consequently, the annual average number of employed persons is expected to fall by nearly
+200,000. Employment growth is likely to resume only next year, driven by the ongoing economic
+recovery. However, demographic factors will continue to act as a drag. In annual average terms,
+this implies an increase in employment of just over 10,000 persons next year, followed by a fur-
+ther rise of nearly 130,000 the year after. The unemployment rate is projected to stand at 6.2%
+at the end of 2028.
+Inflation continues to be heavily influenced by the effects of the war involving Iran. War-related
+turbulence, as well as the temporary reduction in energy taxes on fuels, have led to significant
+5
+=== Seite 11
+Sommer 2026
+Economic Analysis liegt dieses Inflationsmaß im Juli um 3,7% über dem Vorjahresniveau und
+verharrt damit ebenfalls bereits seit April deutlich über 3%. Im Vereinigten Königreich schwankt
+die Inflationsrate ebenfalls um das 3%-Niveau. Auch in Japan ist die Teuerung über den Sommer
+leicht gestiegen, von 1,4% im April auf 1,9% im Juli.
+Die Zentralbanken haben bisher unterschiedlich auf die erhöhten Inflationsraten reagiert. Die
+europäische Zentralbank und die Bank of Japan haben bereits im Juni ihre Zinsen um 25 Basis-
+punkte erhöht. In Europa wird ein weiterer Zinsschritt für September erwartet. Im Vereinigten
+Königreich und den USA bleiben die Zinsen im bisherigen Jahresverlauf unverändert und für das
+Vereinigte Königreich erwarten die Märkte mehrheitlich, dass die Zinsen erst zum Ende des Jah-
+res erneut angehoben werden. Für die USA hat sich diese Einschätzung nach der jüngsten Rede
+von Kevin Warsh beim Jackson Hole Symposium geändert, sodass die Märkte nun einen frühe-
+ren Zinsanstieg für wahrscheinlich halten.
+Die erhöhten Inflationsraten und die bisher ausbleibende Reaktion der Federal Reserve werden
+als ein Grund angesehen, warum die Renditen auf langfristige Staatsanleihen in den USA zuletzt
+so stark gestiegen sind. Zudem dürfte aber auch die erhöhte Staatsverschuldung ein wichtiger
+Faktor sein. Nach einer Analyse der Peterson Foundation (2026) machen die Zinskosten im Fis-
+kaljahr 2026 nach Sozialausgaben und dem staatlichen Krankenversicherungsprogramm Medi-
+care bisher den drittgrößten Posten im US-Haushalt aus und liegen damit knapp über dem Ver-
+teidigungsbudget. Dazu kommt die nach wie vor relativ hohe geopolitische Unsicherheit, die
+ebenfalls zu einem Anstieg der langfristigen Zinsen beiträgt.
+Die US-Wirtschaft setzte ihren Wachstumskurs im ersten Halbjahr fort. Nach einem Anstieg
+von 0,5% im ersten Quartal hat das BIP im zweiten Quartal um 0,4% zugenommen. Die Expan-
+sion war in den beiden Quartalen jedoch von unterschiedlichen Seiten getrieben. Während im
+ersten Quartal noch die Investitionen ein Haupttreiber waren, ist der Beitrag im zweiten Quartal
+deutlich verhaltener ausgefallen. Insbesondere die im ersten Quartal starken Beiträge der Aus-
+rüstungsinvestitionen, getrieben durch Investitionen im Bereich der Künstlichen Intelligenz, sind
+zurückgegangen. Überraschend trug der private Konsum kräftig zum Anstieg des BIP bei, trotz
+erhöhter Inflation und obwohl der Konsumentenindex der Universität Michigan im Mai noch ei-
+nen historischen Tiefstand verzeichnet hatte. Der negative Wachstumsbeitrag der Nettoexporte
+hat sich im zweiten Quartal ausgeweitet. So war der positive Beitrag der Exporte schwächer und
+der negative Beitrag der Importe stärker als im Vorquartal. Die Arbeitsmarktzahlen zeichnen wei-
+terhin ein positives Bild, verlieren aber etwas an Dynamik. So sinkt die Arbeitslosenquote weiter
+und liegt im Juli bei 4,1%. Der Aufbau zusätzlicher Arbeitsplätze stagnierte allerdings zuletzt. Die
+Stimmungsindikatoren zeigen weiter nach oben. Der Einkaufsmanagerindex steigt seit April kon-
+tinuierlich und auch der Konsumentenindex ist nach einer vorläufigen Schätzung im Juli wieder
+stark gestiegen und liegt nun absehbar wieder auf einem ähnlichen Niveau wie zu Beginn des
+Jahres.
+Nachdem die chinesische Wirtschaft im ersten Quartal um 1,2% gewachsen ist, war das
+Wachstum im zweiten Quartal schwächer. Der Zuwachs von 1,0% gegenüber dem Vorquartal
+war der schwächste Wert seit zwei Jahren. Die Profite in der Industrie sind zuletzt deutlich
+schwächer gestiegen. Nachdem sie über die erste Jahreshälfte um mehr als 18% gegenüber
+dem Vorjahr zugenommen haben, betrug das Wachstum im Juli nur noch 11,2%. Auch die zuletzt
+starken Exporte sind im zweiten Quartal schwächer ausgefallen. Die Stimmungsindikatoren
+deuten derzeit eher auf ein schwächeres Wachstum im weiteren Jahresverlauf hin. Die Einkaufs-
+managerindizes fallen sowohl im Dienstleistungsbereich als auch im Verarbeitenden Gewerbe
+seit Mai dieses Jahres. Auch der private Konsum schwächelt.
+10
+=== Seite 13
+Sommer 2026
+Tabelle 1
+Eckwerte zur internationalen Konjunktur
+2026 bis 2028; Veränderung gegenüber dem Vorjahr in %
+Bruttoinlandsprodukt Verbraucherpreise
+2026p 2027p 2028p 2026p 2027p 2028p
+Europa
+EU-27 1.1 1.5 1.4 2.8 2.5 2.3
+Euro-Raum-21 0.9 1.4 1.2 2.7 2.3 2.1
+Deutschland 1.0 1.0 0.7 2.7 2.6 2.0
+Frankreich 0.5 1.0 1.1 2.2 2.2 1.9
+Italien 1.0 1.1 1.0 2.4 2.1 2.0
+Spanien 2.6 2.1 2.0 3.1 2.3 2.2
+MOEL1 1.9 2.1 2.4 4.0 4.4 4.4
+Vereinigtes Königreich 1.1 0.9 1.2 3.0 2.8 2.0
+Russland 1.0 1.0 1.0 6.0 4.1 4.1
+Amerika
+USA 2.0 1.8 1.9 3.5 2.9 2.2
+Lateinamerika2 1.8 2.0 2.2
+Asien
+China ohne Hong Kong 4.5 4.2 4.4
+Japan 0.8 0.8 0.8 1.7 2.4 2.0
+Sonstige Länder3 5.0 3.6 3.7
+Indien 6.7 6.4 6.6
+Insgesamt 2.6 2.4 2.5
+Fortgeschrittene
+Volkswirtschaften4 1.5 1.6 1.6 3.1 2.7 2.2
+Schwellenländer 4.2 3.8 4.0
+nachrichtlich:
+Welthandel5 5.4 3.1 3.0
+Rohölpreis (Brent, $/b)6 86.7 78.8 74.3
+Dollarkurs ($/€)6 1.2 1.1 1.1
+Eigene Berechnungen nach Angaben des IWF, von Eurostat und nationalen Quellen. Aggregate gewichtet mit
+dem BIP in U.S. Dollar von 2024. – p: Prognose. – 1 MOEL: Mittel- und Osteuropäische EU-Mitgliedstaaten: Polen,
+Tschechien, Rumänien, Ungarn, Bulgarien. – 2 Brasilien, Mexiko, Argentinien. – 3 Korea, Indonesien, Taiwan, Thai-
+land, Hong Kong, Singapur, Malaysia, Philippinen. – 4 EU, USA, Vereinigtes Königreich und Japan. – 5 Nach Defini-
+tion des CPB. – 6 Jahresdurchschnitte.
+2. Kräftige Exporte treiben konjunkturelle Erholung in Deutschland im
+ersten Halbjahr
+Die deutsche Wirtschaft expandierte im ersten Halbjahr überraschend kräftig. Nach einem Zu-
+wachs des BIP von 0,4% im ersten Quartal expandierte es im zweiten um 0,3%. Getragen wurde
+die Erholung vor allem von den Exporten, die mit 2,4% im ersten und 2% im zweiten Quartal aus-
+geweitet wurden. Dies überrascht, da sich die Exporte zuvor von der weltwirtschaftlichen Ent-
+wicklung gelöst hatten und deutlich schwächer expandierten. Zudem traten mit dem Beginn des
+Iran-Krieges im Februar, der mit einer Schließung der Straße von Hormus und deutlich steigen-
+den Rohölpreisen einherging, neue Belastungen des weltwirtschaftlichen Umfeldes auf. Der
+Konflikt zwischen den USA und dem Iran ist nach wie vor nicht beigelegt, auch die Straße von
+Hormus ist nicht sicher befahrbar, sodass die Belastungen für den Handel und insbesondere die
+Lieferungen mit Öl und Gas weiterhin eingeschränkt sind.
+12
+=== Seite 14
+RWI Konjunkturbericht 77 (2026), A05
+Der Großteil der ausländischen Nachfrage kam aus der EU. Dort war die Produktion im zweiten
+Quartal recht kräftig, was zu der hohen Nachfrage nach deutschen Waren beigetragen haben
+dürfte. Hierbei scheint es sich aber um einen kurzfristigen Effekt zu handeln. Wir erwarten, dass
+die Produktion im Euro-Raum in den kommenden Quartalen weniger stark expandiert als im
+zweiten, sodass sich auch die deutschen Exporte dorthin wieder abschwächen. Bei den Expor-
+ten in die USA zeichnet sich seit der Beruhigung des Handelsstreits eine Erholung ab. Bisher ist
+die Dynamik aber nicht sehr hoch. Insgesamt spricht dies dafür, dass die starken Exporte eher
+auf kurzfristige Faktoren als auf eine strukturelle Verbesserung der internationalen Wettbe-
+werbsfähigkeit zurückzuführen sind. Dies spricht dafür, dass die deutschen Exporte im zweiten
+Halbjahr weniger kräftig ausgeweitet werden als im ersten.
+Neben den Exporten trug auch der öffentliche Konsum im ersten Halbjahr deutlich zum Anstieg
+des BIP bei. Hier machen sich die Ausgaben aus den Sondervermögen und die erweiterten Ver-
+schuldungsspielräume bemerkbar. Dagegen hat sich die private inländische Nachfrage weiter-
+hin schwach entwickelt. Die privaten Haushalte leiden unter der erneut höheren Inflation und
+den schlechten Arbeitsmarktaussichten. Nach einem deutlichen Rückgang zu Jahresbeginn
+wurde der private Konsum im zweiten Quartal nur geringfügig ausgeweitet. Auch die private In-
+vestitionsnachfrage war ausgesprochen schwach. Zwar hat sich der Bau nach einem Rückgang
+zu Jahresbeginn stabilisiert. Die Ausrüstungsinvestitionen gehen dagegen in beiden Quartalen
+deutlich zurück.
+Durch die Trockenheit und die hohen Temperaturen im Juli und August kamen weitere Belas-
+tungen für die deutsche Wirtschaft hinzu. Besonders sichtbar sind sie durch die niedrigen Pe-
+gelstände im Rhein und anderen deutschen Flüssen, die die Schifffahrt behindert haben. Fracht-
+schiffe konnten nur noch wenig Ladung aufnehmen, um den Tiefgang zu verringern, sodass in
+der Chemie und der Stahlerzeugung aber auch in der Bauwirtschaft Vorprodukte fehlten. Inzwi-
+schen hat sich die Lage wieder etwas entspannt. Es ist aber davon auszugehen, dass die Eng-
+pässe das gesamte dritte Quartal anhalten werden.
+Für das dritte Quartal deuten die Indikatoren darauf hin, dass das BIP weiter deutlich ausge-
+weitet wird. Das ifo Geschäftsklima und die Exporterwartung sind weiter gestiegen. Der Contai-
+nerumschlag in den nordeuropäischen Häfen ist im Juli allerdings leicht gesunken. Der Now-
+cast, der eine Vielzahl von Indikatoren berücksichtigt, ergibt für das dritte und vierte Quartal ei-
+nen Anstieg des BIP um jeweils 0,3% (Schaubild 4).
+13
+=== Seite 15
+Sommer 2026
+Schaubild 4
+Modellprognose der BIP-Zuwachsrate
+Veränderungen gegenüber dem Vorquartal in %
+%
+2,0
+1,5
+1,0
+0,5
+0,0
+-0,5
+-1,0
+-1,5
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+2025 2026
+Eigene Berechnungen nach Angaben des Statistischen Bundesamtes. Prognose mit dem vom RWI verwendeten
+Mixed-Frequency-VAR-Modell (Döhrn et al., 2018: 29-31).
+3. Wirtschaftliche Erholung erreicht nur allmählich die privaten Haushalte
+Im Prognosezeitraum dürfte sich die Erholung der deutschen Wirtschaft fortsetzen. Dabei wird
+das Expansionstempo wohl im weiteren Prognoseverlauf wieder etwas nachlassen. Ein wesent-
+licher Grund dafür ist, dass sich die Exportdynamik wieder abschwächt. Zwar deuten die aktu-
+ellen Exporterwartungen darauf hin, dass die Exporte auch in der zweiten Jahreshälfte noch kräf-
+tig ausgeweitet werden. Die grundlegenden Probleme, wie die verringerte internationale Wett-
+bewerbsfähigkeit, haben sich aber noch nicht grundlegend verringert.
+Für eine Verlangsamung spricht auch, dass sich die Expansion des Welthandels wieder ver-
+langsamt. Wir erwarten einen Rückgang der Wachstumsrate des Welthandels von 5,4% in die-
+sem Jahr auf 3,0% im Jahr 2028. Die weltwirtschaftliche Expansion dürfte auch von weiterhin
+hohen Energiepreisen gebremst werden. Die Futurepreise für Öl der Sorte Brent zeigen einen
+Rückgang von 86,7 US-Dollar in diesem Jahr auf 74,3 US-Dollar im Jahr 2028.
+Allerdings ist zu erwarten, dass die Zunahme der Auftragseingänge und die steigende Kapazi-
+tätsauslastung die Investitionsbereitschaft erhöhen. Dies dürfte sich vor allem auf die privaten
+Ausrüstungsinvestitionen auswirken. Die ungelösten strukturellen Belastungen, wie hohe Ener-
+giepreise und hohe bürokratische Hürden, sprechen gegen eine kräftige Erholung der Investitio-
+nen. Die höheren Zinsen dürften insbesondere die Bauinvestitionen etwas dämpfen. Angesichts
+der immer noch hohen Inflationsrate dürfte die EZB die Zinsen noch weiter erhöhen.
+Die öffentlichen Investitionen steigen durch die Militärausgaben kräftig. Auch die öffentlichen
+Konsumausgaben werden zunächst weiter deutlich ausgeweitet, sodass im weiteren Prognose-
+verlauf der Konsolidierungsbedarf bei den öffentlichen Haushalten steigt. Die zunehmende Ka-
+pazitätsauslastung lässt erwarten, dass der Beschäftigungsabbau insbesondere in der Industrie
+allmählich nachlässt. Dies dürften einen positiven Effekt auf den privaten Konsum haben.
+14
+=== Seite 17
+Sommer 2026
+Schaubild 5
+Bruttoinlandsprodukt in Deutschland
+2021 bis 2028; real; Saison- und arbeitstäglich bereinigter Verlauf
+970 970
+950 950
+0,5
+1,1
+930 1,3 0,4 930
+1,9
+0,4
+0,2
+-1,0 0,0
+-0,1
+0,2
+910 910
+4,0 1,0 -0,2 0,2
+890 890
+870 870
+2 2
+0 0
+-2 - 2
+20 21 20 22 20 23 20 24 20 25 20 26 20 27 20 28
+Bruttoinlandsprodukt in Mrd. €
+Jahresdurchschnitt in Mrd. €
+Zahlenangabe: Veränderung gegenüber dem Vorjahr
+Statistische Unter-/Überhänge
+Veränderung gegenüber dem Vorquartal in %
+Eigene Berechnungen nach Angaben des Statistischen Bundesamtes. Ab dem zweiten Quartal 2026 eigene
+Prognose.
+3.1 Ausfuhren nach kräftigem Anstieg moderat aufwärtsgerichtet
+Der deutsche Außenhandel hat sich im ersten Halbjahr kräftig entwickelt. Die Exporte stiegen
+um 2,1%. Ausschlaggebend hierfür war insbesondere die starke Entwicklung der Warenexporte,
+die um 2,9% zunahmen, während die Dienstleistungsexporte leicht zurückgingen. Regional ent-
+wickelte sich dabei insbesondere der Handel mit den Partnerländern innerhalb der Europäi-
+schen Union positiv. Auch die Importe legten mit einer Rate von 2,1% deutlich zu. Dabei stiegen
+die Warenimporte um 3,8%, während die Dienstleistungsimporte um 1,8% zurückgingen.
+16
+=== Seite 18
+RWI Konjunkturbericht 77 (2026), A05
+Für das dritte Quartal ist mit einer Fortsetzung der positiven Dynamik im Außenhandel zu rech-
+nen, allerdings mit deutlich geringeren Zuwachsraten. Die Exporte dürften um 0,4% zunehmen.
+Dabei erwarten wir einen Anstieg der Warenexporte um 0,5% und der Dienstleistungsexporte
+um 0,2%. Für eine weitere Ausweitung der Ausfuhren sprechen insbesondere die zuletzt kräftige
+Entwicklung der ifo Exporterwartungen sowie die gestiegenen Auftragseingänge aus dem Aus-
+land. Auch die Importe dürften im dritten Quartal um 0,5% zulegen, wobei die Warenimporte
+voraussichtlich um 0,6% und die Dienstleistungsimporte um 0,3% steigen.
+Im weiteren Prognoseverlauf ist eine Fortsetzung der Erholung des Außenhandels zu erwarten.
+Dabei dürften die Exporte von der moderaten Expansion des Welthandels profitieren. Die Im-
+porte werden im Zuge der sich verbessernden deutschen Binnennachfrage ausgeweitet. Gleich-
+zeitig bleibt das außenwirtschaftliche Umfeld durch protektionistische Maßnahmen und han-
+delspolitische Spannungen belastet. Insgesamt dürften die Exporte im Jahr 2026 um 4,0%, im
+Jahr 2027 um 2,1% und im Jahr 2028 um 0,9% zulegen. Bei den Importen ist ein Anstieg von 3,0%
+im Jahr 2026, 2,1% im Jahr 2027 und 1,2% im Jahr 2028 zu erwarten (Tabelle 3).
+Auch bei den Außenhandelspreisen hat die Dynamik im zweiten Quartal deutlich zugenom-
+men. Die Exportpreise stiegen um 1,5%, die Importpreise sogar um 3,4%. Ausschlaggebend
+hierfür war insbesondere die kräftige Preisentwicklung bei Energie und Waren im Rahmen des
+Iran-Konflikts. Da die Importpreise deutlich stärker zunahmen als die Exportpreise, verschlech-
+terten sich die Terms of Trade zunächst spürbar. Im weiteren Prognoseverlauf dürfte die Preisdy-
+namik bei den Importen jedoch wieder nachlassen. Insbesondere mit einer Entspannung bei den
+Energie- und Warenpreisen ist zu erwarten, dass die Importpreise schwächer zulegen. Gleich-
+zeitig dürften die Exporteure einen Teil der zuvor gestiegenen Energie- und Vorleistungskosten
+zunehmend auf ihre Absatzpreise überwälzen können. Dadurch dürften sich die Terms of Trade
+nach ihrem vorübergehenden Rückgang im weiteren Prognoseverlauf wieder etwas erholen.
+17
+=== Seite 19
+Sommer 2026
+Tabelle 3
+RWI-Konjunkturprognose vom Juni 2026
+2024 bis 2027, Veränderungen gegenüber dem Vorjahr in %
+Änderung zum
+2024 2025 2026p 2027p Juni 2026
+2025 2026 2027
+Bruttoinlandsprodukt1 0,0 0,2 1,3 1,1 0,0 0,5 0,3
+Verwendung1
+Konsumausgaben 2,1 1,4 1,1 0,9 0,0 -0,2 0,2
+Private Haushalte2 1,4 1,3 0,4 0,5 0,0 0,1 0,4
+Staat 3,9 1,7 2,9 2,0 0,2 -0,7 -0,2
+Anlageinvestitionen -2,1 -0,6 0,0 1,6 -0,4 -0,7 -0,3
+Bauten -2,4 -1,0 -1,1 1,2 -0,2 0,0 -0,1
+Ausrüstungen -4,7 -1,3 0,5 1,6 0,3 -1,6 -0,4
+Sonstige Anlagen 2,8 1,7 2,3 2,8 -2,1 -0,9 -0,3
+Vorratsveränd. (Wachstumsbeitrag) -0,6 0,7 0,0 0,0 0,0 0,4 0,1
+Inländische Verwendung 0,5 1,8 0,8 1,0 0,0 0,1 0,1
+Außenbeitrag (Wachstumsbeitrag) -0,5 -1,5 0,5 0,1 0,0 0,4 0,1
+Ausfuhr -1,7 -0,9 4,0 2,1 0,0 2,1 0,6
+Einfuhr -0,6 2,9 3,0 2,1 -0,2 1,2 0,5
+Erwerbstätige3, in 1000 45 960 45 878 45 686 45 697 -99,0 -134,6 -149,5
+Arbeitslose4, in 1000 2 787 2 948 2 994 2 916 0,0 -4,6 -9,4
+Arbeitslosenquote5, in % 6,0 6,3 6,4 6,6 0,0 0,0 0,4
+Verbraucherpreise6 2,3 2,2 2,7 2,6 0,0 -0,4 -0,3
+Lohnstückkosten7 5,3 4,4 2,3 2,3 -0,3 -0,3 -0,2
+Finanzierungssaldo des Staates8
+in Mrd.€ -121,1 -136,5 -190,0 -227,8 -12,9 -17,2 -17,7
+in % des nominalen BIP -2,8 -3,0 -4,0 -4,7 -0,2 -0,3 -0,3
+Leistungsbilanzsaldo9
+in Mrd.€ 255,1 202,1 206,1 222,6 0,0 2,2 3,8
+in % des nominalen BIP 5,8 4,5 4,4 4,6 0,0 0,0 0,0
+Eigene Berechnungen nach Angaben des Statistischen Bundesamtes, der Deutschen Bundesbank und der Bun-
+desagentur für Arbeit. – 1Preisbereinigt. – 2Einschließlich privater Organisationen ohne Erwerbszweck. – 3Im In-
+land. – 4Nationale Abgrenzung. – 5Arbeitslose in % der inländischen Erwerbspersonen. – 6Verbraucherpreisindex.
+– 7Arbeitnehmerentgelte je Beschäftigten bezogen auf das reale BIP je Erwerbstätigen. – 8In der Abgrenzung der
+VGR. – 9In der Abgrenzung der Zahlungsbilanzstatistik. – 10In %-Punkten, Abweichungen rundungsbedingt mög-
+lich. – pPrognose.
+3.2 Ausrüstungsinvestitionen weiterhin von staatlicher Nachfrage geprägt
+Die Ausrüstungsinvestitionen gingen im zweiten Quartal um 1,4% zurück. Maßgeblich hierfür
+waren die privaten Ausrüstungsinvestitionen, die nach einem kräftigen Anstieg im ersten Quar-
+tal, im zweiten Quartal um 1,8% sanken. Die im Zuge des Iran-Kriegs deutlich gestiegenen Ener-
+giepreise dürften dabei die Investitionsneigung der Unternehmen belastet haben. Die öffentli-
+chen Ausrüstungsinvestitionen entwickelten sich hingegen weiterhin positiv und legten im ers-
+ten Quartal um 1,6% zu.
+Für die zweite Jahreshälfte zeichnet sich eine nur zögerliche Ausweitung der Ausrüstungsinves-
+titionen ab. Die Auftragseingänge stiegen im Mai und Juni zwar an, ein nachhaltiger Aufwärts-
+trend ist bislang jedoch nicht zu erkennen. Eine Ausnahme bildet der Maschinenbau, wo die Auf-
+tragseingänge im Juni deutlich über dem längerfristigen Trend lagen. Daneben hat sich auch die
+18
+=== Seite 20
+RWI Konjunkturbericht 77 (2026), A05
+Stimmung bei den Investitionsgüterherstellern zuletzt verbessert. Die Geschäftslage erreichte
+im August erstmals seit mehr als zwei Jahren wieder den positiven Bereich und auch die Kapazi-
+tätsauslastung nahm zu. Die Geschäftserwartungen gaben nach dem kräftigen Anstieg im Juli
+im Folgemonat allerdings wieder etwas nach.
+Im weiteren Prognosezeitraum dürften die Ausrüstungsinvestitionen allmählich ausgeweitet
+werden. Dabei ist davon auszugehen, dass die öffentlichen Ausrüstungsinvestitionen weiterhin
+deutlich stärker zunehmen als die privaten. Insgesamt dürften die Ausrüstungsinvestitionen im
+laufenden Jahr um 0,5% steigen. Für 2027 und 2028 werden Zuwächse von 1,6% bzw. 0,9% er-
+wartet.
+Bei den Investitionen in sonstige Anlagen zeichnet sich eine ähnliche Entwicklung ab. Hier dürf-
+ten allerdings wie schon in der Vergangenheit die privaten Investitionen etwas stärker ausgewei-
+tet werden als die Öffentlichen. Insgesamt werden Zuwächse von 2,3% im laufenden Jahr, 2,8%
+im Jahr 2027 und 2,7% im Jahr 2028 erwartet.
+3.3 Bauinvestitionen mit Witterungseffekten auch im Sommer
+Die Bauinvestitionen stiegen im zweiten Quartal lediglich um 0,1%. Dabei entwickelte sich die
+Bautätigkeit in den einzelnen Bereichen aber weiterhin unterschiedlich. Während die öffentliche
+Bautätigkeit ausgeweitet wurde, gingen die privaten Bauinvestitionen zurück. Besonders kräftig
+legten die Investitionen im öffentlichen Nichtwohnungsbau mit 5,5% zu. Zugleich erhöhten sich
+die Baupreise im zweiten Quartal um 2,7% und damit vergleichsweise deutlich.
+Für die zweite Jahreshälfte ist mit einer leichten Belebung der Bauinvestitionen zu rechnen.
+Hierfür sprechen insbesondere die seit April aufwärtsgerichteten Geschäftserwartungen. Auch
+die in der ifo Umfrage erfasste Bautätigkeit nahm im August etwas zu. Die Baubehinderungen
+gingen im Juli und August zwar zurück, liegen aber weiterhin auf einem erhöhten Niveau. Als
+wichtigstes Hemmnis wird nach wie vor der Mangel an Aufträgen genannt. Im August kamen zu-
+dem witterungsbedingte Beeinträchtigungen hinzu. Diese treten üblicherweise vor allem in den
+Wintermonaten auf. Die zunehmende Häufigkeit trockener und heißer Sommer im Zuge der Kli-
+makrise könnte jedoch dazu beitragen, dass witterungsbedingte Beeinträchtigungen auch wäh-
+rend der Sommermonate an Bedeutung gewinnen. Auch die Auftragseingänge entwickelten sich
+zuletzt günstiger. Sie stiegen im Juni den dritten Monat in Folge. Die stärkste Dynamik verzeich-
+nete dabei weiterhin der Tiefbau. Im Wohnungsbau bewegten sich die Auftragseingänge dage-
+gen weitgehend seitwärts.
+Für den weiteren Prognosezeitraum dürfte die unterschiedliche Entwicklung zwischen den Teil-
+bereichen des Baugewerbes anhalten. Zwar stiegen die Baugenehmigungen im Juni nach Anga-
+ben der Bundesbank, der Zuwachs war jedoch ausschließlich auf den öffentlichen Bereich zu-
+rückzuführen. Die Genehmigungen für Wohn- und Wirtschaftsbauten gingen dagegen zurück.
+Auch die Nachfrage nach Wohnungsbaukrediten ist seit rund einem Jahr weitgehend seitwärts-
+gerichtet. Die zuletzt gestiegenen Zinsen dürften die private Bautätigkeit zusätzlich dämpfen.
+Selbst bei einer Stabilisierung der privaten Nachfrage dürften Kapazitätsengpässe einer kräfti-
+geren Ausweitung der Bauinvestitionen entgegenstehen.
+Insgesamt dürften die Bauinvestitionen aufgrund der schwachen Entwicklung im ersten Halb-
+jahr im laufenden Jahr um 1,1% zurückgehen. Für 2027 ist mit einem Anstieg um 1,2% und für
+2028 um 0,3% zu rechnen. Dabei dürfte der öffentliche Nichtwohnungsbau die dynamischste
+Entwicklung aufweisen. Nach einem Rückgang um 0,5% im laufenden Jahr werden hier Zu-
+wächse von 3,7% im Jahr 2027 und 0,7% im Jahr 2028 erwartet. Der Wohnungsbau dürfte dem-
+gegenüber die schwächste Entwicklung verzeichnen.
+19
+=== Seite 23
+Sommer 2026
+ausschließlich geringfügig Beschäftigten und Selbstständigen. Bei der sozialversicherungs-
+pflichtigen Beschäftigung hingegen kam der Rückgang nach aktuellen Monatswerten zum Erlie-
+gen.
+Im weiteren Jahresverlauf dürfte sich der Arbeitsmarkt mit verlangsamtem Tempo fortsetzen.
+Das IAB-Arbeitsmarktbarometer, der Stellenindex BA-X und die gemeldeten Arbeitsstellen stag-
+nieren seit mehreren Monaten und lediglich das ifo Beschäftigungsbarometer verbesserte sich
+zuletzt. Jahresdurchschnittlich ist im laufenden Jahr daher mit einem Rückgang der Zahl der Er-
+werbstätigen um fast 200 Tsd. zu rechnen.
+Erst im kommenden Jahr dürfte dann mit fortlaufender konjunktureller Erholung auch wieder
+Beschäftigung aufgebaut werden. Jedoch wirkt die Demografie weiter bremsend: Den zahlrei-
+chen Renteneintritten stehen deutlich weniger junge neue Erwerbstätige entgegen und auch die
+Zuwanderung kann dieses Defizit nicht weiter auffangen. Somit ist zwar mit einem leichten Be-
+schäftigungszuwachs im Jahr 2027 zu rechnen, der sich aus dem Abbau der Arbeitslosigkeit
+ergibt. Jedoch dürfte zum Jahreswechsel 2027/2028 allmählich ein Wendepunkt beim Anstieg
+der Erwerbstätigkeit erreicht sein und das Tempo des Beschäftigungsaufbaus sich im Verlauf
+des Jahres 2028 deutlich verlangsamen.
+Im Jahresdurchschnitt bedeutet dies einen Anstieg der Erwerbstätigen um gut 10 Tsd. Perso-
+nen im kommenden Jahr, gefolgt von weiteren knapp 130 Tsd. im Jahr darauf. Die Arbeitslosen-
+quote dürfte Ende des Jahres 2028 bei 5,7% liegen (Tabelle 5).
+Tabelle 5
+Arbeitsmarktbilanz
+2022 bis 2028; Jahresdurchschnitt in 1 000 Personen
+2022 2023 2024 2025 2026 2027P 2028P
+Arbeitsvolumen (Mill. Stunden) 61.501 61.603 61.817 61.309 61.253 61.322 61.263
+Erwerbstätige Inland 45.622 45.909 45.960 45.878 45.686 45.697 45.825
+Erwerbstätige Inländer 45.461 45.754 45.802 45.725 45.537 45.548 45.676
+3.880 3.811 3.740 3.665 3.611 3.588 3.572
+Selbständige
+darunter:
+18 20 22 21 25 29
+Förderung d.Selbständigkeit1 34
+41.742 42.099 42.220 42.213 42.076 42.109
+Arbeitnehmer (Inland) 42.253
+darunter:
+Sozialversicherungspflichtig Beschäftigte 34.507 34.790 34.934 34.963 34.906 34.961 35.098
+Ausschließlich geringfügig Beschäftigte 4.125 4.198 4.180 4.121 3.693 3.654 3.639
+3.185 3.448 3.577 3.627 3.653 3.558
+Unterbeschäftigte (ohne Kurzarbeiter) 3.346
+darunter:
+Registrierte Arbeitslose 2.418 2.609 2.787 2.948 2.994 2.916 2.726
+Aktivierung und berufliche Eingliederung 161 155 147 128 154 158 158
+Berufliche Weiterbildung 171 184 210 228 234 234 226
+„Ein-Euro-Jobs“ 92 85 73 59 61 65 69
+Gründungszuschuss 16 17 20 20 23 28 33
+Kurzarbeiter 426 241 298 297 283 283 283
+Unterbeschäftigte (einschl. Kurzarbeiter)2 3.346 3.522 3.664 3.719 3.746 3.652 3.439
+nachrichtlich:
+Arbeitslosenquote3 5,3 5,7 6,0 6,3 6,4 6,2 5,8
+Erwerbslosenquote4 2,9 2,8 3,2 3,5 3,7 3,6 3,3
+Eigene Berechnungen nach Angaben des Statistischen Bundesamtes, der Bundesagentur für Arbeit und des IAB.
+-1Überbrückungsgeld, Existenzgründungszuschuss, Einstiegsgeld, Gründungszuschuss. - 2Vollzeitäquivalente. -
+3Abgrenzung der Bundesagentur für Arbeit; bezogen auf alle zivilen Erwerbspersonen. - 4Abgrenzung der Interna-
+tional Labour Organization; bezogen auf alle inländischen Erwerbspersonen. - pEigene Prognose, Angaben ge-
+rundet.
+22
+=== Seite 35
+Sommer 2026
+Tabelle A4
+Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnungen für
+Deutschland
+Vorausschätzung für die Jahre 2026 bis 2028
+2025 2026 2027 2028 2027 2028
+1.Hj. 2.Hj. 1.Hj. 2.Hj.
+1. Entstehung des Inlandsprodukts
+Veränderung in % gegenüber dem Vorjahr
+Erwerbstätige - 0,2 - 0,4 0,0 0,3 - 0,1 0,2 0,3 0,3
+Arbeitsvolumen - 0,8 - 0,1 0,1 - 0,1 - 0,2 0,4 0,6 - 0,8
+Arbeitszeit je Erwerbstätigen - 0,6 0,3 0,1 - 0,4 0,0 0,2 0,3 - 1,1
+Produktivität1 1,1 1,4 1,0 0,6 1,4 0,6 0,4 0,8
+Bruttoinlandsprodukt, preisberei- 0,2 1,3 1,1 0,5 1,2 1,0 1,1 0,0
+nigt
+2. Verwendung des Inlandsprodukts in jeweiligen Preisen
+a) Mrd. EUR
+Konsumausgaben 3 461,9 3 592,8 3 715,8 3 811,1 1 808,8 1 907,0 1 865,1 1 946,0
+Private Haushalte2 2 449,1 2 527,5 2 605,2 2 659,1 1 266,0 1 339,3 1 301,0 1 358,1
+Staat 1 012,8 1 065,3 1 110,6 1 152,1 542,9 567,8 564,1 587,9
+Anlageinvestitionen 915,1 948,5 995,7 1 035,0 477,6 518,1 500,5 534,4
+Bauten 466,0 483,9 511,5 532,4 248,5 263,0 261,0 271,4
+Ausrüstungen 270,7 277,6 288,1 296,8 135,6 152,4 141,5 155,3
+Sonstige Anlageinvestitionen 178,4 187,0 196,2 205,8 93,5 102,7 98,1 107,7
+Vorratsveränderung3 52,4 54,0 53,7 56,5 39,1 14,6 40,7 15,8
+Inländische Verwendung 4 429,4 4 595,4 4 765,3 4 902,6 2 325,6 2 439,7 2 406,3 2 496,2
+Außenbeitrag 100,3 108,5 118,8 128,5 67,6 51,2 77,8 50,7
+Nachrtl: in Relation zum BIP in % 2,2 2,3 2,4 2,6 2,8 2,1 3,1 2,0
+Exporte 1 816,0 1 955,3 2 034,9 2 081,7 1 006,3 1 028,6 1 039,5 1 042,2
+Importe 1 715,7 1 846,8 1 916,1 1 953,3 938,7 977,4 961,8 991,5
+Bruttoinlandsprodukt 4 529,7 4 703,9 4 884,1 5 031,1 2 393,2 2 490,9 2 484,1 2 547,0
+b) Veränderung in % gegenüber dem Vorjah r
+Konsumausgaben 4,5 3,8 3,4 2,6 3,4 3,4 3,1 2,0
+Private Haushalte 2 3,8 3,2 3,1 2,1 3,0 3,1 2,8 1,4
+Staat 6,1 5,2 4,3 3,7 4,4 4,1 3,9 3,6
+Anlageinvestitionen 1,9 3,7 5,0 3,9 5,4 4,6 4,8 3,2
+Bauten 2,1 3,8 5,7 4,1 6,6 4,8 5,0 3,2
+Ausrüstungen 0,6 2,6 3,8 3,0 3,6 3,9 4,3 1,9
+Sonstige Anlageinvestitionen 3,2 4,9 4,9 4,9 4,9 5,0 4,8 4,9
+Inländische Verwendung 4,7 3,7 3,7 2,9 3,8 3,6 3,5 2,3
+Exporte 0,2 7,7 4,1 2,3 5,4 2,8 3,3 1,3
+Importe 3,6 7,6 3,8 1,9 5,6 2,0 2,5 1,4
+Bruttoinlandsprodukt 3,3 3,8 3,8 3,0 3,8 3,9 3,8 2,2
+3. Verwendung des Inlandsprodukts, verkettete Volumenan gaben (Referenzjahr 2020)
+a) Mrd. EUR
+Konsumausgaben 2 818,3 2 849,6 2 876,3 2 891,6 1 414,4 1 461,8 1 427,3 1 464,4
+Private Haushalte 2 1 987,2 1 994,3 2 004,2 2 006,3 982,7 1 021,5 988,1 1 018,2
+Staat 831,5 855,7 872,7 886,2 432,1 440,6 439,7 446,5
+Anlageinvestitionen 710,4 710,6 722,2 729,1 347,9 374,3 354,1 375,0
+Bauten 325,6 322,1 325,9 326,8 159,5 166,4 161,4 165,4
+Ausrüstungen 226,8 227,9 231,6 233,8 109,0 122,5 111,4 122,3
+Sonstige Anlageinvestitionen 162,6 166,3 170,9 175,6 81,7 89,2 83,9 91,7
+Inländische Verwendung 3 569,5 3 599,7 3 636,9 3 659,7 1 789,2 1 847,7 1 808,9 1 850,8
+Exporte 1 493,6 1 553,1 1 585,8 1 599,9 786,8 799,0 801,6 798,3
+Importe 1 406,1 1 448,1 1 478,1 1 496,2 725,4 752,7 740,1 756,1
+Bruttoinlandsprodukt 3 654,1 3 701,4 3 741,1 3 759,7 1 848,8 1 892,2 1 868,4 1 891,3
+34
+=== Seite 36
+RWI Konjunkturbericht 77 (2026), A05
+noch: Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnungen für
+Deutschland
+Vorausschätzung für die Jahre 2026 bis 2028
+2025 2026 2027 2028 2027 2028
+1.Hj. 2.Hj. 1.Hj. 2.Hj.
+b) Veränderung in % gegenüber dem Vorjahr
+Konsumausgaben 1,4 1,1 0,9 0,5 0,9 1,0 0,9 0,2
+Private Haushalte2 1,3 0,4 0,5 0,1 0,5 0,5 0,5 - 0,3
+Staat 1,7 2,9 2,0 1,5 1,9 2,1 1,7 1,3
+Anlageinvestitionen - 0,6 0,0 1,6 1,0 1,8 1,5 1,8 0,2
+Bauten - 1,0 - 1,1 1,2 0,3 1,5 0,9 1,2 - 0,6
+Ausrüstungen - 1,3 0,5 1,6 0,9 1,4 1,8 2,2 - 0,2
+Sonstige Anlageinvestitionen 1,7 2,3 2,8 2,7 2,8 2,8 2,7 2,8
+Inländische Verwendung 1,8 0,8 1,0 0,6 1,0 1,0 1,1 0,2
+Exporte - 0,9 4,0 2,1 0,9 2,8 1,4 1,9 - 0,1
+Importe 2,9 3,0 2,1 1,2 2,6 1,6 2,0 0,5
+Bruttoinlandsprodukt 0,2 1,3 1,1 0,5 1,2 1,0 1,1 0,0
+4. Preisniveau der Verwendungsseite des Inl a nds pro d ukt s (2 0 20= 100 )
+Veränderung in % gegenüber dem Vorjahr
+Private Konsumausgaben2 2,5 2,8 2,6 2,0 2,6 2,6 2,2 1,7
+Konsumausgaben des Staates 4,3 2,2 2,2 2,2 2,5 2,0 2,1 2,2
+Anlageinvestitionen 2,4 3,6 3,3 3,0 3,6 3,0 3,0 3,0
+Bauten 3,1 5,0 4,4 3,8 5,0 3,9 3,8 3,8
+Ausrüstungen 2,0 2,1 2,1 2,1 2,1 2,1 2,1 2,1
+Exporte 1,2 3,5 1,9 1,4 2,5 1,4 1,4 1,4
+Importe 0,8 4,5 1,7 0,7 3,0 0,4 0,4 1,0
+Bruttoinlandsprodukt 3,0 2,5 2,7 2,5 2,6 2,9 2,7 2,3
+5. Einkommensentstehung und –verteilung
+a) Mrd. EUR
+Primäreinkommen der privaten HH2 3 224,0 3 318,0 3 418,6 3 525,3 1 666,3 1 752,4 1 724,3 1 801,1
+Sozialbeiträge der Arbeitgeber 440,0 456,2 475,0 500,4 230,8 244,2 242,9 257,5
+Bruttolöhne und –gehälter 2 032,1 2 107,4 2 176,9 2 251,2 1 045,6 1 125,2 1 080,1 1 164,8
+Übrige Primäreinkommen 4 751,9 754,5 766,7 773,7 386,6 380,1 397,9 375,8
+Primäreinkommen der übr. Sektoren 548,5 596,6 646,6 664,9 306,1 340,4 327,9 337,0
+Nettonationaleink. (Primäreink.) 3 772,5 3 914,7 4 065,2 4 190,3 1 972,4 2 092,8 2 052,2 2 138,1
+Abschreibungen 918,3 959,5 995,6 1 022,7 493,4 502,2 507,5 515,2
+Bruttonationaleinkommen 4 690,9 4 874,1 5 060,8 5 213,0 2 465,8 2 595,0 2 559,7 2 653,3
+nachrichtlich:
+Volkseinkommen 3 368,3 3 502,3 3 641,0 3 757,2 1 757,6 1 883,3 1 832,9 1 924,3
+Arbeitnehmerentgelt 2 472,1 2 563,6 2 651,9 2 751,6 1 279,6 1 372,3 1 326,4 1 425,2
+Unternehmens- und Verm.einkomm 896,3 938,7 989,1 1 005,6 478,0 511,0 506,5 499,0
+b) Veränderung in % gegenüber dem Vorjah r
+Primäreinkommen der privaten HH2 3,8 2,9 3,0 3,1 2,9 3,1 3,5 2,8
+Sozialbeiträge der Arbeitgeber 6,9 3,7 4,1 5,4 4,6 3,6 5,3 5,4
+Bruttolöhne und –gehälter 4,4 3,7 3,3 3,4 4,1 2,9 3,7 3,9
+Bruttolöhne und -gehäl. je Besch. 4,4 4,0 3,2 3,1 4,0 2,5 2,9 3,2
+Übrige Primäreinkommen 4 0,6 0,3 1,6 0,9 -0,7 4,1 2,9 -1,1
+Primäreinkommen der übr. Sektoren -0,7 8,8 8,4 2,8 8,5 8,3 7,1 -1,0
+Nettonationaleink. (Primäreink.) 3,1 3,8 3,8 3,1 3,7 3,9 4,0 2,2
+Abschreibungen 3,5 4,5 3,8 2,7 3,9 3,7 2,9 2,6
+Bruttonationaleinkommen 3,2 3,9 3,8 3,0 3,8 3,9 3,8 2,2
+nachrichtlich:
+Volkseinkommen 3,0 4,0 4,0 3,2 3,8 4,1 4,3 2,2
+Arbeitnehmerentgelt 4,8 3,7 3,4 3,8 4,1 2,9 3,7 3,9
+Unternehmens- und Verm.ein-
+komm. -1,8 4,7 5,4 1,7 3,3 7,4 6,0 -2,3
+35

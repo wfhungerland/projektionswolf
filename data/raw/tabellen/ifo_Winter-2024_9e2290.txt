@@ -1,0 +1,1981 @@
+=== Seite 6
+IFO KONJUNKTURPROGNOSE WINTER 2024
+Timo Wollmershäuser, Stefan Ederer, Friederike Fourné, Max Lay, Robert Lehmann,
+Sebastian Link, Sascha Möhrle, Moritz Schasching, Stefan Schiman-Vukan,
+Tiphaine Wibault, Gerome Wolf und Lara Zarges
+ifo Konjunkturprognose Winter 2024:
+Deutsche Wirtschaft am Scheideweg
+1. Lage und Prognose der Weltwirtschaft
+1.1. ÜBERBLICK IN KÜRZE
+Die Weltkonjunktur ist im Herbst 2024 moderat aufwärts-
+gerichtet. Die globale Industrieproduktion legt seit Mitte In diesem Jahr wird das preisbereinigte Bruttoinlandsprodukt
+des Vorjahres wieder zu und der weltweite Warenhan- voraussichtlich um 0,1 % gegenüber dem Vorjahr zurückgehen.
+del hat seit dem Frühjahr an Schwung gewonnen (vgl.
+Damit tritt die deutsche Wirtschaft seit nunmehr fünf Jahren
+Abb. 1.1). Die weltwirtschaftliche Dynamik ist allerdings
+auf der Stelle. Digitalisierung, Dekarbonisierung, Demografie
+regional heterogen. Robust ist sie in Asien außerhalb
+und Deglobalisierung erfordern einen Umbau der Produktions-
+Chinas, besonders schwach dagegen in Westeuropa. Das
+Warenangebot, gemessen an der Industrieproduktion strukturen, bei dem etablierte Geschäftsmodelle verschwinden
+und den Warenexporten, hat neben Asien auch in La- und neue Produktionskapazitäten entstehen. Wirtschaftliche
+teinamerika angezogen. In Asien war auch die Waren- Analysen sind in solchen Phasen mit einer hohen Diagnoseun-
+nachfrage, gemessen an den Importen, im Laufe des
+sicherheit behaftet. Denn aus der Veränderung wirtschaftli-
+vergangenen Jahres kräftig. Eine Ausnahme stellt China
+cher Kennzahlen lässt sich nicht unmittelbar ablesen, ob es
+dar, wo die Importe seit über einem Jahr nicht zulegen.
+sich um vorübergehende und damit konjunkturelle Schwan-
+Kräftige Nachfrageimpulse kamen zudem aus den USA
+und zuletzt auch aus Japan und Osteuropa. Im Euroraum kungen oder um eine dauerhafte Neuausrichtung der Produk-
+stagnierte die Warennachfrage hingegen. tionskapazitäten und damit um eine strukturelle Anpassung
+Die moderate Weltkonjunktur spiegelt sich auch handelt. Um dieser Unsicherheit Rechnung zu tragen, werden
+in den Rohstoffpreisen wider, die in den vergangenen
+in der vorliegenden Prognose zwei Szenarien betrachtet. Im
+Monaten weitgehend stabil blieben (vgl. Abb. 1.2). Im
+Basisszenario wird davon ausgegangen, dass die schwache
+November war der HWWI-Index auf Dollar-Basis in
+Entwicklung der vergangenen Jahre vor allem strukturell be-
+etwa gleich hoch wie im Frühjahr. Industrierohstoffe
+und Erdgas haben sich seither allerdings merklich ver- dingt war und der Strukturwandel bereits sichtbare Spuren
+teuert, während der Rohölpreis nachgegeben hat. Auf im Produktionspotenzial hinterlassen hat. Industrieunterneh-
+dem europäischen Markt (Dutch TTF) war Erdgas An- men verlagern ihre Produktion und damit auch ihre Investi-
+fang November dennoch um etwa 15 % billiger als im
+tionen zunehmend ins Ausland. In diesem Szenario setzt sich
+Vorjahr, weil der saisonale Preisanstieg bislang schwä-
+die schleppende Entwicklung in den kommenden beiden Jah-
+cher ausfiel als im Herbst des Vorjahres.
+ren fort und das preisbereinigte Bruttoinlandsprodukt wird
+lediglich um 0,4 bzw. 0,8 % zulegen. Das optimistischere Alter-
+Abb. 1.1
+Welthandel und Weltindustrieproduktion nativszenario geht davon aus, dass der Strukturwandel nicht
+Warenhandel nur alte Produktionstechnologien verschwinden lässt, sondern
+Index 2021 = 100, saisonbereinigt Industrieproduktion auch neue hervorbringt. Voraussetzung dafür sind verlässliche
+110
+wirtschaftspolitische Weichenstellungen, die mit einer raschen
+Verbesserung der Standortfaktoren im Prognosezeitraum ein-
+100
+hergehen. In diesem Szenario wächst das preisbereinigte Brut-
+toinlandsprodukt in den kommenden beiden Jahren mit 1,1 %
+90 bzw. 1,6 % mehr als doppelt so schnell wie im Basisszenario.
+80
+2018 2019 2020 2021 2022 2023 2024
+Quelle: Centraal Plan Bureau (CPB). © ifo Institut
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 3
+=== Seite 7
+IFO KONJUNKTURPROGNOSE WINTER 2024
+Abb. 1.2 Abb. 1.3
+Rohstoffpreiseᵃ Wachstumsbeiträge zur Inflation
+Erdgas Beitrag in Prozentpunkten
+Industrierohstoffe Energie
+Index Jan. 2013 = 100 Nahrungs- und Genussmittel Lebensmittel (bearb. u. unbearb.)
+640 Rohöl Ind. Güter ohne Energie
+Dienstleistungen
+A. USA
+320 Kerninflation in %
+12 Inflation in %
+160
+10
+8
+80
+6
+40 4
+2
+20 0
+2013 2015 2017 2019 2021 2023
+‒2
+ᵃ HWWI-Index, US-Dollar-Basis, logarithmische Darstellung. Nov.Jan.Mrz. Mai Jul. Sep.Nov.Jan.Mrz. Mai Jul. Sep.Nov.
+Quelle:Hamburgisches WeltWirtschaftsinstitut (HWWI). © ifo Institut 2022 2023 2024
+B. Euroraum
+In China expandierte die gesamtwirtschaftliche
+12
+Produktion im dritten Quartal 2024 um 0,9 % gegen-
+10
+über dem Vorquartal und war damit um 4,6 % höher 8
+als im Vorjahr. Die Konsumnachfrage blieb aufgrund 6
+der Immobilienkrise jedoch verhalten, so dass die 4
+Preise am Inlandsmarkt, gemessen am BIP-Deflator, 2
+weiter sanken. Angesichts dieser Deflation wurden 0
+die Leitzinssätze zuletzt sukzessive gesenkt und ein ‒2
+Unterstützungspaket der Regierung zur finanziellen Nov.Jan.Mrz. Mai Jul. Sep.Nov.Jan.Mrz. Mai Jul. Sep.Nov.
+2022 2023 2024
+Entlastung der regionalen Gebietskörperschaften
+Quelle: Eurostat; U.S. Bureau of Labor Statistics (BLS);
+geschnürt. Die von S&P veröffentlichten Einkaufs-
+WIFO-Berechnungen. © ifo Institut
+managerindizes für China gaben zuletzt sowohl in
+der Industrie als auch im Dienstleistungsbereich
+etwas nach, notierten aber weiterhin über der buste Konjunktur in den USA zeigt sich auch auf dem
+Expansionsschwelle. Arbeitsmarkt. Die Arbeitslosenquote blieb mit 4,1 %
+In den USA expandierte die Wirtschaft im dritten im Oktober gering, obgleich der Beschäftigungsauf-
+Quartal 2024 kräftig, das Bruttoinlandsprodukt (BIP) bau seit über einem Jahr an Schwung verloren hat
+legte um 0,7 % gegenüber dem Vorquartal und um (vgl. Abb. 1.4).
+2,7 % gegenüber dem Vorjahr zu. Der private Konsum Im Euroraum nahm die Wirtschaftsleistung
+blieb lebhaft, nicht zuletzt da die Inflationsrate auf im dritten Quartal 2024 um 0,4 % gegenüber dem
+2,6 % im Oktober gesunken ist und für steigende Re- Vorquartal bzw. um 0,9 % gegenüber dem Vorjahr
+aleinkommen sorgte (vgl. Abb. 1.3 A). Aber auch der zu – der stärkste Anstieg seit zwei Jahren. Am dy-
+öffentliche Konsum, die Ausrüstungsinvestitionen und namischsten erwies sich abermals die Konjunktur
+die Exporte stiegen deutlich. Hingegen sanken die Spaniens, aber auch Frankreich verzeichnete einen
+Wohnbauinvestitionen das zweite Quartal in Folge, robusten Zuwachs des Bruttoinlandsprodukts, was
+nachdem sie zuvor kräftig expandiert hatten. Die ro- teilweise positiven Impulsen durch die Austragung
+Abb. 1.4 Abb. 1.5
+Arbeitslosenquoten Einkaufsmanagerindizes für die Gesamtwirtschaft
+USA Industrieländer Schwellenländer
+% der Erwerbspersonen, saisonbereinigt Euroraum Saldo in % USA Euroraum
+16 60
+14
+55
+12
+10
+50
+8
+6 45
+4
+40
+2
+2022 2023 2024
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Quelle: U.S. Bureau of Labor Statistics (BLS); Eurostat. © ifo Institut Quelle: S&P Global. © ifo Institut
+4 ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024
+=== Seite 14
+IFO KONJUNKTURPROGNOSE WINTER 2024
+werden beim Produktionsindex lediglich die monatli- tionen in immaterielles Kapital (d. h. Forschung und
+chen Produktionsmengen von über 6 000 industriellen Entwicklung, insbesondere von Computersoftware und
+Erzeugnissen erfasst und auf Basis der strukturellen Datenbanken, zusammengefasst als Investitionen in
+Zusammensetzung des Verarbeitenden Gewerbes in sonstige Anlagen) im gleichen Zeitraum von 27 % auf
+einem Basisjahr (derzeit 2021, vorher 2015) aggregiert 55 % mehr als verdoppelt. Insbesondere in den zurück-
+(Statistisches Bundesamt 2022a, b). Verändert sich liegenden Krisenjahren hat sich die Schere zwischen
+die Industriestruktur dahingehend, dass die Produk- den Investitionen in sonstige Anlagen und den Inves-
+tion von alten industriellen Erzeugnissen allmählich titionen in Ausrüstungen und Bauten im Verarbeiten-
+durch neue ersetzt wird, unterzeichnet der Produkti- den Gewerbe weiter geöffnet (vgl. Abb. 2.3 C). Diese
+onsindex den tatsächlichen Ausstoß bis zur Anpassung Entwicklung dürfte sich auch im laufenden Jahr (für
+des Basisjahres, da die neuen Produkte mit einem zu das noch keine Aufgliederung der Investitionstätigkeit
+geringen und die alten mit einem zu hohen Gewicht nach Wirtschaftsbereichen vorliegt) fortgesetzt haben.
+in die Aggregation einfließen. Gleiches gilt, wenn In- Denn während die privaten Ausrüstungsinvestitionen
+dustrieunternehmen zusätzlich zur Warenproduktion und die Investitionen in gewerbliche Bauten um schät-
+zunehmend Dienstleistungen anbieten, die im Zusam- zungsweise 6,5 % bzw. 3,3 % zurückgingen, dürften die
+menhang mit den industriellen Erzeugnissen stehen. Investitionen in sonstige Anlagen um 4,8 % gestiegen
+Zum anderen nimmt seit Anfang der 2010er-Jahre sein (vgl. Abschnitt 2.9. »Unternehmensinvestitionen
+der Anteil an nicht selbsterstellten Vorleistungen im im Zeichen von Strukturwandel und Unsicherheit«).
+Produktionsprozess ab (Lehmann und Wollmershäuser Der Zusammenhang zwischen den Veränderungen der
+2024). Aus diesem Grund entwickelt sich die Brutto- Produktionsstrukturen und der Investitionstätigkeit
+wertschöpfung positiver als der Produktionswert und wird bei einer disaggregierten Betrachtung der einzel-
+hat im Zeitraum von 2013 bis 2023 einen Abstand von nen Wirtschaftszweige des Verarbeitenden Gewerbes
+3,4 % aufgebaut (vgl. Abb. 2.3 B). Im Verarbeitenden am deutlichsten. So stiegen im Zeitraum von 2013
+Gewerbe misst die Bruttowertschöpfung den im Pro- bis 2022 die Investitionen in sonstige Anlagen in den
+duktionsprozess geschaffenen Mehrwert und wird Branchen besonders kräftig, in denen die Diskrepanz
+durch Abzug der Vorleistungen von den Produktions- zwischen der Bruttowertschöpfung und dem Produk-
+werten errechnet. Wenn die Vorleistungsquote sinkt, tionsindex stark zugenommen hat (vgl. Abb. 2.3 D).3
+nimmt die Bruttowertschöpfung stärker zu bzw. we- Dabei stechen die gewichtige Automobilindustrie (WZ
+niger stark ab als der Produktionswert. Eine mögli- 29) und der Maschinenbau (WZ 28) hervor.
+che Ursache für sinkende Vorleistungsquoten könnte Die Verschiebung des Schwerpunkts der Tätig-
+eine allmähliche strukturelle Veränderung der im keit im Verarbeitenden Gewerbe von der Herstellung
+Verarbeitenden Gewerbe produzierten Waren sein. industrieller Waren zur Entwicklung immaterieller Ka-
+So könnte eine industrielle Fließbandproduktion mit pitalgüter zeigt sich auch in einer erweiterten Wachs-
+hoher Kapitalintensität und hohem Vorleistungsanteil tumszerlegung der Bruttowertschöpfung, die mit Hilfe
+zunehmend ins Ausland verlagert worden sein und der EU-KLEMS-Datenbank berechnet wurde. Im Un-
+Platz geschaffen haben für eine Produktion mit ei- terschied zur herkömmlichen Vorgehensweise (wie
+ner hohen Intensität an qualifizierten Arbeitskräften sie beispielsweise in der vorliegenden Prognose in
+sowie an Forschung und Entwicklung. Mehr »Klasse Abschnitt 3. »Potenzialschätzung und Mittelfristpro-
+statt Masse« würde zumindest erklären, warum die jektion« angewendet wird) wird der Kapitalstock in ei-
+mengenmäßige Produktion in der deutschen Industrie nen materiellen und einen immateriellen Teil zerlegt.4
+eher auf der Stelle verharrt, bei gleichzeitig steigender Während der Beitrag des Aufbaus des immateriellen
+Bruttowertschöpfung.2 Kapitalstocks zum trendmäßigen Anstieg der Brutto-
+Diese Anpassung der industriellen Produktions- wertschöpfung im Verarbeitenden Gewerbe Mitte der
+strukturen spiegelt sich in einer veränderten Zusam- 1990er-Jahre noch gering war, wird das Wachstum
+mensetzung der Unternehmensinvestitionen im Ver- mittlerweile maßgeblich durch das immaterielle Kapi-
+arbeitenden Gewerbe wider. Während der Anteil der tal getrieben, das Grundlage für die Entwicklung neuer
+Investitionen in Sachanlagen (d. h. Ausrüstungen und Produkte und Dienstleistungen, die Optimierung von
+Bauten) an den gesamten Unternehmensinvestitio-
+3 Für die einzelnen Industriezweige des Verarbeitenden Gewerbes
+nen von 73 % Anfang der 1990er-Jahre auf 45 % im
+(die sogenannten Zweisteller nach der Klassifikation der Wirtschafts-
+Jahr 2023 zurückging, hat sich der Anteil der Investi- zweige) liegen die Bruttowertschöpfung und die Investitionen in
+sonstige Anlagen nur bis zum Jahr 2022 vor. Für die Regressionslinie
+2 Eine weitere Ursache für sinkende Vorleistungsquoten könnte in Abb. 2.3 D wurden alle Zweisteller des Verarbeitenden Gewerbes
+eine allmähliche Verringerung der internationalen Arbeitsteilung und betrachtet und die Anzahl der Beobachtungen je Zweisteller propor-
+eine damit einhergehende Verkürzung der Wertschöpfungsketten tional zum jeweiligen Wertschöpfungsanteil im Jahr 2022 angepasst.
+sein. Dadurch würden Unternehmen weniger auf externe (importier- 4 Darüber hinaus werden in der erweiterten Wachstumszerlegung
+te) Vorleistungen zurückgreifen und vermehrt selbst produzieren. nicht der in Euro gemessene Kapitalstock bzw. das in Stunden ge-
+Dazu könnte eine zunehmende Automatisierung (d. h. Robotisierung) messene Arbeitsvolumen als Determinanten der Produktion verwen-
+im Produktionsablauf beigetragen haben, die den Vorteil der niedri- det, sondern die mit ihrer jeweiligen Produktivität bewertete, effizi-
+gen Arbeitskosten in den einstigen Zielländern der Produktionsverla- ente Nutzung der beiden Faktoren, die im Englischen als Capital
+gerungen verringert. Services and Labor Services bezeichnet werden.
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 11
+=== Seite 15
+IFO KONJUNKTURPROGNOSE WINTER 2024
+Geschäftsprozessen und den Zugang zu neuen Märk- den. Denn zeitgleich mit dem Rückgang der Produk-
+ten bildet (vgl. Abb. 2.3 E).5 Dabei muss die endgültige tionszahlen gewinnen im Verarbeitenden Gewerbe
+Güterproduktion nicht notwendigerweise am selben andere wertschöpfende Tätigkeiten zunehmend an
+Standort erfolgen wie die Forschung und Entwicklung. Bedeutung. Im Mittelpunkt stehen dabei Forschung
+Darauf deuten beispielsweise die Produktionsverla- und Entwicklung, insbesondere von Computersoftware
+gerungen der deutschen Automobilhersteller hin, die und Datenbanken, sowie die damit in Verbindungen
+bereits seit den 2010er-Jahren stattgefunden haben. stehenden Dienstleistungen. Mit Blick auf die weitere
+So wurde die inländische Produktion im Zeitraum von Entwicklung gilt aber am Ende auch für den Aufbau
+2013 bis 2023 um etwa 1,5 Mio. Fahrzeuge herunterge- dieses immateriellen Kapitalstocks, dass aus Sicht der
+fahren und die Produktion an ausländischen Standor- Unternehmen der deutsche Standort im Wettbewerb
+ten um etwa diese Anzahl erhöht (vgl. Abb. 2.3 F). Im mit anderen Standorten weltweit steht und dass auch
+selben Zeitraum stieg die inländische Wertschöpfung, hier die Investitionsentscheidungen der Unternehmen
+insbesondere getrieben durch die Ausweitung von For- maßgeblich von den Rahmenbedingungen bestimmt
+schung und Entwicklung, um gut 30 %. werden. Im Unterschied zum Basisszenario wird im
+Zusammenfassend kann festgehalten werden, Alternativszenario davon ausgegangen, dass der Struk-
+dass der bloße Blick auf die Produktionszahlen im turwandel innerhalb des Verarbeitenden Gewerbes
+Verarbeitenden Gewerbe und insbesondere auf den nicht nur alte Produktionstechnologien verschwinden,
+monatlichen Produktionsindex nicht ausreichen, um sondern auch neue entstehen lässt. Voraussetzung
+die strukturellen Veränderungen in der Industrie um- dafür sind verlässliche wirtschaftspolitische Weichen-
+fassend zu beurteilen. Insbesondere kann aus dem stellungen, die mit einer zügigen Verbesserung der
+trendmäßigen Rückgang nicht unmittelbar auf eine Standortfaktoren im Prognosezeitraum einhergehen.
+Deindustrialisierung in Deutschland geschlossen wer- Daher dürfte die Bruttowertschöpfung im Verarbeiten-
+den Gewerbe im Verlauf des kommenden Jahres im
+5 Die EU-KLEMS-Daten enden derzeit im Jahr 2020. Für die Bestim- Alternativszenario wieder spürbar zunehmen und die
+mung der Trends in Abb. 2.3 E wurden die Bruttowertschöpfung im reale Industriequote bis zum Ende des Prognosezeit-
+Verarbeitenden Gewerbe und die Akkumulation des immateriellen
+Kapitalstocks mit der Bruttowertschöpfung und den sonstigen An- raums wieder über ihren langfristigen Durchschnitt
+lageinvestitionen aus den Volkswirtschaftlichen Gesamtrechnungen, steigen (vgl. Abb. 2.11 in Abschnitt 2.7. »Deutsche In-
+die bis zum Jahr 2023 vorliegen, fortgeschrieben. Die Trends selbst
+wurden mit einem Hodrick-Prescott-Filter geschätzt. dustrie verliert an Gewicht«).
+2.2. AUSBLICK 0,1 % im Vergleich zum Vorjahr sinken. Damit wurde
+die Prognose für das laufende Jahr im Vergleich zur
+Zum Jahresende 2024 wird die Wirtschaftsleistung ifo Konjunkturprognose vom Herbst 2024 um 0,1 Pro-
+mit 0,2 % nur wenig schneller wachsen als im drit- zentpunkt herabgesetzt (vgl. Box »Zur Revision der ifo
+ten Quartal, in dem das Bruttoinlandsprodukt preis-, Konjunkturprognose für das Jahr 2024«).
+saison- und kalenderbereinigt um 0,1 % im Vergleich Die Aussichten für die kommenden beiden Jahre
+zum Vorquartal gestiegen ist (vgl. Tab. 2.1). Vor allem sind mit großen Unsicherheiten behaftet. Im Basissze­
+die langsame Erholung der privaten Konsumausgaben nario dürfte sich die schleppende Entwicklung fortset-
+dürfte sich fortsetzen, da die realen Kaufkraftgewinne zen und die gesamtwirtschaftlichen Wachstumsraten
+bis zuletzt zugenommen haben. Darauf deuten auch kaum höher ausfallen als in der zweiten Hälfte des
+die Verbesserungen des GfK-Konsumklimas bei den laufenden Jahres (vgl. Tab. 2.1 A und Abb. 2.4). Insbe-
+Verbrauchern und des ifo Geschäftsklimas bei den sondere vom Verarbeitenden Gewerbe gehen weiter-
+konsumnahen Dienstleistern und im Einzelhandel hin keine positiven Wachstumsimpulse aus. Auch der
+hin, wenngleich die von beiden Indikatoren gemes- Außenhandel und die Unternehmens investitionen ent-
+sene Stimmung immer noch deutlich schlechter ist wickeln sich wenig dynamisch. Auf dem Arbeitsmarkt
+als im langjährigen Durchschnitt. Im Verarbeitenden setzen sich der Rückgang der Erwerbstätigkeit und der
+Gewerbe und im Baugewerbe zeichnet sich noch keine Anstieg der Arbeitslosigkeit zunächst fort. Erst ab der
+Trendwende ab. Die Talfahrt der Produktion dürfte zweiten Jahreshälfte 2025 dürfte sich diese Entwicklung
+sich aber verlangsamen. Darauf deuten zumindest langsam umkehren. Der private Konsum dürfte sich
+die Auftragseingänge in beiden Wirtschaftsberei- weiter erholen, aber nicht an Dynamik gewinnen. Zwar
+chen hin, die zuletzt zumindest nicht weiter sanken. nehmen die real verfügbaren Einkommen und damit die
+Im Verarbeitenden Gewerbe war dies vor allem auf Kaufkraft weiter zu. Allerdings bleibt die Sparquote vor
+das Auslandsgeschäft zurückzuführen, während die dem Hintergrund der anhaltend großen Unsicherheit
+Inlandsnachfrage weiter schwächelt. Entsprechend hoch. Die Baukonjunktur dürfte die Talsohle durch-
+dürften die Exporte zum Jahresende etwas zulegen, schritten haben und im Verlauf des kommenden Jahres
+während die Bau- und Ausrüstungsinvestitionen wohl wieder positiv zur gesamtwirtschaftlichen Entwicklung
+erneut nachgeben. Insgesamt dürfte damit das preis- beitragen. Alles in allem wird das preisbereinigte Brut-
+bereinigte Bruttoinlandsprodukt in diesem Jahr um toinlandsprodukt im Jahr 2025 um 0,4 % und im Jahr
+12 ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024
+=== Seite 16
+IFO KONJUNKTURPROGNOSE WINTER 2024
+Tab. 2.1
+Quartalsdaten zur Entwicklung der Verwendungskomponenten des realen Bruttoinlandsprodukts
+A. Basisszenario
+Veränderung gegenüber Vorquartal in %
+2024 2025 2026
+I II III IV I II III IV I II III IV
+Bruttoinlandsprodukt 0,2 –0,3 0,1 0,2 0,2 0,2 0,1 0,1 0,1 0,1 0,1 0,1
+Private Konsumausgaben 0,1 –0,5 0,3 0,3 0,3 0,3 0,2 0,2 0,2 0,2 0,2 0,1
+Konsumausgaben des Staates –0,3 1,6 0,4 0,1 0,1 0,2 0,3 0,3 0,3 0,2 0,2 0,2
+Bauten 0,7 –2,2 –0,3 –0,4 –0,1 0,1 0,1 0,1 0,2 0,2 0,2 0,3
+Ausrüstungen –1,3 –3,4 –0,2 –0,9 –0,3 –0,1 0,1 0,2 0,2 0,4 0,4 0,4
+Sonstige Anlagen 1,4 0,6 0,6 0,7 0,7 0,6 0,6 0,5 0,3 0,3 0,3 0,3
+Vorratsinvestitionenb 0,0 0,4 0,8 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Inländische Verwendung 0,1 0,1 1,0 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2
+Außenbeitragb 0,2 –0,4 –0,9 0,0 0,0 0,0 –0,1 –0,1 –0,1 –0,1 –0,1 –0,1
+Exporte 1,4 0,2 –1,9 0,4 0,3 0,4 0,4 0,4 0,3 0,3 0,3 0,3
+Importe 1,0 1,2 0,2 0,3 0,5 0,5 0,6 0,6 0,5 0,5 0,5 0,5
+B. Alternativszenario
+Veränderung gegenüber Vorquartal in %
+2024 2025 2026
+I II III IV I II III IV I II III IV
+Bruttoinlandsprodukt 0,2 –0,3 0,1 0,2 0,4 0,5 0,5 0,4 0,3 0,3 0,2 0,2
+Private Konsumausgaben 0,1 –0,5 0,3 0,3 0,3 0,5 0,5 0,3 0,3 0,3 0,2 0,2
+Konsumausgaben des Staates –0,3 1,6 0,4 0,1 0,1 0,2 0,3 0,3 0,3 0,2 0,2 0,2
+Bauten 0,7 –2,2 –0,3 –0,4 –0,1 0,6 0,5 0,5 0,4 0,3 0,3 0,3
+Ausrüstungen –1,3 –3,4 –0,2 –0,9 –0,3 1,0 1,0 1,1 1,1 1,1 1,1 1,1
+Sonstige Anlagen 1,4 0,6 0,6 0,7 0,7 1,1 1,1 0,9 1,0 1,0 1,0 1,0
+Vorratsinvestitionenb 0,0 0,4 0,8 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Inländische Verwendung 0,1 0,1 1,0 0,2 0,2 0,4 0,4 0,3 0,3 0,3 0,2 0,2
+Außenbeitragb 0,2 –0,4 –0,9 0,0 0,1 0,1 0,0 0,0 0,0 0,0 0,0 0,0
+Exporte 1,4 0,2 –1,9 0,4 0,8 0,7 0,7 0,6 0,5 0,5 0,5 0,5
+Importe 1,0 1,2 0,2 0,3 0,5 0,7 0,7 0,6 0,5 0,5 0,5 0,5
+a Saison- und kalenderbereinigte Werte. b Beitrag zur Veränderung des Bruttoinlandprodukts in Prozentpunkten (Lundberg-Komponenten).
+Quelle: Statistisches Bundesamt; ab 4. Quartal 2024: Prognose des ifo Instituts. © ifo Institut Dez. 2024
+2026 um 0,8 % zunehmen. Gegenüber der ifo Konjunk- Abb. 2.4
+turprognose vom Herbst 2024 wurden die Wachstums- Bruttoinlandsprodukt
+raten für die kommenden beiden Jahre damit um 0,5 Preis-, saison-und kalenderbereinigter Verlauf
+bzw. 0,7 Prozentpunkte nach unten korrigiert.
+Verkettete Volumenangaben Laufende Rateᵃ
+Im Alternativszenario beschleunigen sich die in Mrd. Euro in %
+gesamtwirtschaftlichen Wachstumsraten im Verlauf 940 2
+des kommenden Jahres (vgl. Tab. 2.1 B und Abb. 2.4). Basisszenario Basisszenario
+Dazu trägt vor allem das Verarbeitende Gewerbe bei, Alternativszenario Alternativszenario
+das seine Exporte und Investitionen ausweitet und 930 1
+damit einhergehend Beschäftigung aufbaut. Entspre-
+chend geht die Arbeitslosigkeit bereits ab Anfang 2025
+wieder zurück. Auch der private Konsum gewinnt im 920 0
+Vergleich zum Basisszenario an Schwung, da die Ar-
+beitseinkommen stärker steigen und die Sparquote
+schneller sinkt. Insgesamt steigt das preisbereinigte 910 –1
+Bruttoinlandsprodukt in den kommenden beiden Jah-
+ren mit 1,1 % bzw. 1,6 % mehr als doppelt so stark wie
+im Basisszenario. Gegenüber der ifo Konjunkturprog- 900 –2
+2022 2023 2024 2025 2026
+nose vom Herbst 2024 wurden die Wachstumsraten für
+die kommenden beiden Jahre damit leicht um jeweils aVeränderung gegenüber dem Vorquartal.
+Quelle: Statistisches Bundesamt; Berechnungen desifoInstituts;
+0,1 Prozentpunkte nach oben korrigiert. ab4. Quartal 2024: Prognose des ifo Instituts. ©ifo Institut
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 13
+=== Seite 17
+IFO KONJUNKTURPROGNOSE WINTER 2024
+Auch wenn damit die wirtschaftliche Dynamik in 2026 in beiden Szenarien mit etwa 0,5 % des Produk-
+den beiden Szenarien sehr unterschiedlich ausfällt, tionspotenzials noch leicht geöffnet sein.
+setzt aus konjunktureller Sicht sowohl im Basissze- Aufgrund des ähnlichen Tempos, mit dem sich
+nario als auch im Alternativszenario im kommenden die Produktionslücke schließt, nimmt der Inflations-
+Jahr eine Erholung ein, in deren Verlauf die Unter- druck in beiden Szenarien gleichermaßen ab. Aller-
+auslastung der gesamtwirtschaftlichen Kapazitäten dings dürfte die Inflationsrate im kommenden Jahr
+bis zum Ende des Prognosezeitraums in sehr ähnli- mit 2,3 % in etwa auf dem Niveau des laufenden Jah-
+chem Tempo abgebaut wird. Ausschlaggebend hier- res liegen und erst im Jahr 2026 weiter auf 2,0 % zu-
+für sind die unterschiedlichen Wachstumsraten des rückgehen (vgl. Tab. 2.2). Dazu tragen im kommenden
+Produktionspotenzials, mit denen der Aufbau von Jahr eine Reihe von Sondereffekten wie die Verteue-
+Produktionskapazitäten gemessen wird. Während rung des Deutschlandtickets, des Briefportos und der
+sich das Potenzialwachstum im Basisszenario auf- privaten Krankenversicherung bei. Im weiteren Verlauf
+grund des demografischen Wandels und der schwa- dürften die Preissteigerungen bei den arbeitsinten-
+chen Produktivitätsentwicklung in der zweiten Hälfte siven Dienstleistungen im Einklang mit der nachlas-
+des Jahrzehnts weiter auf 0,3 % abschwächt, steigt senden Lohndynamik allmählich zurückgehen. Zwar
+es im Alternativszenario auf 0,8 %. Denn in diesem sind die Lohnzuwächse im Alternativszenario höher
+Szenario findet keine Abwanderung von Industrieun- als im Basisszenario. Entscheidend für die Inflations-
+ternehmen aus Deutschland statt, so dass produktive dynamik ist jedoch, dass sich die realen Lohnstück-
+Arbeitsplätze im Verarbeitenden Gewerbe erhalten kosten in beiden Szenarien ähnlich entwickeln, da die
+bleiben und Investitionen in neue Technologien den höheren Lohnzuwächse im Alternativszenario durch
+Kapitalstock erweitern. Zudem werden die Folgen entsprechende Produktivitätssteigerungen kompen-
+des demografischen Wandels durch geeignete wirt- siert werden.
+schaftspolitische Weichenstellungen über eine höhere Die Finanzpolitik ist in diesem und in den kom-
+Erwerbsbeteiligung zumindest teilweise abgemildert. menden zwei Jahren restriktiv ausgerichtet. Dieser
+Insgesamt dürfte daher die Produktionslücke im Jahr Kurs ergibt sich sowohl aus einer Kürzung der diskre-
+Tab. 2.2
+Eckdaten der Prognose für Deutschland
+2024 2025 2026 2024 2025 2026
+Basisszenario Alternativszenario
+Veränderung ggü. Vorjahr in %a
+Bruttoinlandsprodukt –0,1 0,4 0,8 –0,1 1,1 1,6
+Private Konsumausgaben 0,1 0,7 0,9 0,1 1,1 1,3
+Konsumausgaben des Staates 2,3 1,2 1,0 2,3 1,2 1,0
+Bruttoanlageinvestitionen –2,9 –0,7 1,5 –2,9 0,3 3,5
+Bauten –3,6 –1,1 1,3 –3,6 –0,5 2,3
+Ausrüstungen –5,9 –1,9 1,9 –5,9 –0,4 5,4
+Sonstige Anlagen 4,1 2,5 1,6 4,1 3,3 4,0
+Inländische Verwendung 0,1 1,1 1,0 0,1 1,4 1,5
+Exporte –0,6 0,2 2,1 –0,6 1,1 2,8
+Importe –0,1 1,8 2,7 –0,1 2,0 2,8
+Erwerbstätigeb (1 000 Personen) 46 106 46 027 46 097 46 106 46 113 46 280
+Arbeitslose (1 000 Personen) 2 788 2 959 2 903 2 788 2 833 2 610
+Arbeitslosenquote BAc (in %) 6,0 6,3 6,2 6,0 6,1 5,6
+Verbraucherpreised (Veränderung ggü. Vorjahr in %)
+– Gesamtinflationsrate 2,2 2,3 2,0 2,2 2,3 2,0
+– Kerninflationsratee 2,8 2,7 2,1 2,8 2,7 2,1
+Finanzierungssaldo des Staatesf
+– in Mrd. EUR –106,4 –87,0 –114,9 –106,4 –85,5 –100,4
+– in % des Bruttoinlandsprodukts –2,5 –2,0 –2,5 –2,5 –1,9 –2,2
+Leistungsbilanzsaldo
+– in Mrd. EUR 268,7 250,1 234,8 268,7 264,1 263,7
+– in % des Bruttoinlandsprodukts 6,2 5,7 5,2 6,2 5,9 5,7
+a Preis-, nicht-kalenderbereinigte Angaben. b Inlandskonzept. c Arbeitslose in % der zivilen Erwerbspersonen (Definition gemäß Bundesagentur für Arbeit).
+d Verbraucherpreisindex (2020 = 100). e Ohne Energie (Haushaltsenergie und Kraftstoffe). f In der Abgrenzung der Volkswirtschaftlichen Gesamtrechnungen
+(ESVG 2010).
+Quelle: Statistisches Bundesamt; Bundesagentur für Arbeit; Deutsche Bundesbank; 2024 bis 2026: Prognose des ifo Instituts. © ifo Institut Dez. 2024
+14 ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024
+=== Seite 18
+IFO KONJUNKTURPROGNOSE WINTER 2024
+tionären Staatsausgaben als auch aus Maßnahmen junkturbedingt zu Mehreinnahmen und Minderaus-
+zur Erhöhung der Staatseinnahmen. Im Basisszenario gaben. Gleichzeitig wird unterstellt, dass Steuerer-
+geht das Finanzierungsdefizit des Staates von 106 Mrd. leichterungen für Unternehmen verabschiedet und die
+Euro (2,5 % des nominalen Bruttoinlandsprodukts) Investitionsausgaben des Staates ausgeweitet werden.
+im Jahr 2024 auf 87 Mrd. Euro (2,0 % des nomina- Insgesamt ergibt sich in den Jahren 2025 und 2026 im
+len Bruttoinlandsprodukts) im Jahr 2025 zurück und Vergleich zum Basisszenario ein um 1,6 bzw. 14,4 Mrd.
+steigt bis zum Jahr 2026 wieder auf 115 Mrd. Euro Euro geringeres Finanzierungsdefizit. In Relation zum
+(2,5 % des nominalen Bruttoinlandsprodukts) (vgl. Bruttoinlandsprodukt beträgt der Finanzierungssaldo
+Tab. 2.2). Der gesamtstaatliche Bruttoschuldenstand – 1,9 bzw. – 2,2 %. Der gesamtstaatliche Bruttoschul-
+nach Maastricht-Definition steigt von 62,5 % des nomi- denstand nach Maastricht-Definition sinkt leicht von
+nalen Bruttoinlandsprodukts im Jahr 2024 auf 63,6 % 62,5 % des nominalen Bruttoinlandsprodukts im Jahr
+im Jahr 2026. Im Alternativszenario kommt es kon- 2024 auf 62,3 % im Jahr 2026.
+ZUR REVISION DER IFO KONJUNKTURPROGNOSE FÜR DAS JAHR 2024
+In der Winterprognose vom Dezember 2023 ging das ifo blieb aus. Das BIP sank hingegen im vierten Quartal
+Institut von einer moderaten Erholung für die deutsche 2023 um 0,3 % im preis-, saison- und kalenderberei-
+Wirtschaft im Jahr 2024 aus. Die wiederkehrende Kauf- nigten Vorquartalsvergleich. Dies lag zum einen an der
+kraft – infolge der Disinflation, der kräftig steigenden ausgebliebenen Erholung des Außenhandels und zum
+Lohneinkommen und der hohen Beschäftigung – sollte anderen an den deutlich unterschätzten Rückgängen
+die gesamtwirtschaftliche Nachfrage in Deutschland bei den Bau- und Ausrüstungsinvestitionen. Letztere
+beleben. Zudem wurde davon ausgegangen, dass erste brachen mit – 3,5 % deutlich stärker ein, als dies vom
+Leitzinssenkung der Europäischen Zentralbank und der ifo Institut angenommen wurde (– 0,2 %).
+US-amerikanischen Federal Reserve die deutschen Ab- Infolge der weiter lahmenden Wirtschaft und den
+satzmärkte stützen, zumal auch dort mit einem Kauf- im März vorliegenden Frühindikatoren, die für den
+kraftplus gerechnet wurde. Daher sollten der globale Jahresbeginn 2024 auf keine konjunkturelle Trend-
+Warenhandel und der Warenkonsum wieder zulegen wende hinwiesen, setzte das ifo Institut die Jahres-
+und im Jahr 2024 zu den Konjunkturtreibern werden. wachstumsrate des realen BIP auf + 0,2 % herun-
+Ausgenommen davon war die Baukonjunktur, die sich ter (Wollmershäuser et al. 2024b). Der anhaltende
+zunächst weiter abkühlen sollte. Alles in allem rechnete Auftragsmangel, die hohen Krankenstände, die an-
+das ifo Institut mit einer Zunahme des realen Brutto- dauernden Streiks und die geopolitischen Ereignisse
+inlandsprodukts (BIP) im Jahr 2024 von + 0,9 %. Die belasteten die deutsche Wirtschaft. Im März ging das
+Prognose wurde unter der Annahme erstellt, dass alle ifo Institut – anders als im Januar angenommen (19
+bis zum damaligen Zeitpunkt geplanten finanzpoliti- Mrd. Euro) – von einer Haushaltskonsolidierung von
+schen Maßnahmen auch umgesetzt werden. Da – auf- circa 12 Mrd. Euro aus. Der berechnete Effekt der Ein-
+grund des Urteils des Bundesverfassungsgerichts zur sparung belief sich dadurch auf etwa 0,1 % des BIP im
+Finanzierung von Projekten aus dem Klima- und Trans- laufenden Jahr. Das schwache Schlussquartal 2023
+formationsfonds im November 2023 – absehbar war, führte außerdem zu einem statistischen Unterhang,
+dass zusätzliche Konsolidierungsanstrengungen not- der die Jahreswachstumsrate des realen BIP um wei-
+wendig sein werden, schätzte das ifo Institut mit Hilfe tere 0,2 Prozentpunkte minderte.
+seines DSGE-Modells (Šauer 2022) die Auswirkungen Im März wurde die gesamtwirtschaftliche Ent-
+eines pauschalen Maßnahmenpakets auf die Konjunk- wicklung weniger optimistisch eingeschätzt. Für das
+tur in Deutschland. Bei Haushaltskonsolidierungen im erste Quartal 2024 rechnete das ifo Institut mit einem
+Umfang von 20 Mrd. Euro würde demnach der Anstieg weiteren Rückgang des realen BIP um 0,1 %. Verwen-
+des preisbereinigten BIP im Jahr 2024 um 0,2 Prozent- dungsseitig wurden dabei die privaten und öffentli-
+punkte gedämpft (Wollmershäuser et al. 2023). Als im chen Konsumausgaben sowie die Ausrüstungsinves-
+Januar 2024 der Bundeshaushalt mit einer geschätzten titionen niedriger eingeschätzt also noch im Winter.
+Einsparung von circa 19 Mrd. Euro für 2024 vereinbart Hingegen wurden die Bauinvestitionen aufgrund des
+wurde, korrigierte das ifo Institut seine Wachstums- milden Wetters für das erste Quartal nach oben kor-
+prognose für 2024 von 0,9 % auf 0,7 % nach unten (ifo rigiert. Im laufenden Jahr erwartete das ifo Institut
+Institut 2024a). dennoch keine Erholung in der Bauwirtschaft. Eine
+Die amtlichen Zahlen für das Schlussquartal 2023 spürbare gesamtwirtschaftliche Erholung wurde erst
+zeigten ein deutlich anderes Bild als jenes, welches für das zweite Halbjahr angesetzt.
+das ifo Institut in seiner Winterprognose skizzierte. Die Daten des Statistischen Bundesamts wiesen
+Die vom ifo Institut angenommene Stagnation des BIP für das erste Quartal 2024 ein Wachstum des realen
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 15
+=== Seite 19
+IFO KONJUNKTURPROGNOSE WINTER 2024
+BIP von 0,2 % aus. Dies wurde vom ifo Institut klar Im Rahmen einer europaweit harmonisierten und
+unterschätzt, da von einem leichten Rückgang aus- umfassenden Revision hat das Statistische Bundesamt
+gegangen wurde (– 0,1 %). Ausschlaggebend für das im August die Volkswirtschaftlichen Gesamtrechnun-
+Wirtschaftswachstum war vor allem der positive Au- gen überarbeitet und auf das Referenzjahr 2020 umge-
+ßenbeitrag, der mit 0,3 % einen positiven Wachstums- stellt. Dazu zählen die Integration neuer Datenquellen,
+beitrag zum BIP ergab. Doch auch die Bauinvestiti- wie zum Beispiel die neue Strukturstatistik im Handel
+onen – die aufgrund der milden Witterung deutlich und dem Dienstleistungsbereich, Reklassifikationen
+höher als erwartet ausfielen – wirkten konjunktur- sowie neue Berechnungsmethoden. So wurden zum
+stützend. Einem stärkeren Anstieg stand allerdings Beispiel Unternehmen des ÖPNV sowie die Infrastruk-
+eine zu geringe Nachfrage nach Waren und Dienst- turunternehmen der Deutschen Bahn nun den Nicht-
+leistungen entgegen. Obschon die privaten Haushalte marktproduzenten im Sektor Staat zugeordnet – zu-
+kräftige Lohnzuwächse verzeichnen konnten und die vor zählten diese zu den Marktproduzenten im Sektor
+Inflation ihren Rückgang weiter fortsetzte, nahmen die nichtfinanzielle Kapitalgesellschaften. Infolgedessen
+privaten Konsumausgaben zum Vorquartal um 0,4 % stiegen die Konsumausgaben des Staates deutlich.
+ab. Aufgrund der im Mai vorliegenden Konjunkturin- Außerdem wurden die Transaktionen der sogenann-
+dikatoren erwartete das ifo Institut zunächst noch ten VAT-Trader1 ohne Eigentumswechsel von den Ex-
+eine Stagnation der privaten Konsumausgaben. Im porten sowie den Importen abgezogen, was zu einer
+weiteren Verlauf des Jahres sollte sich im Zuge der deutlichen Korrektur beider Niveaus führte. Auch die
+gesamtwirtschaftlichen Erholung und einer weiteren privaten Konsumausgaben wurden deutlich nach oben
+Zunahme der Kaufkraft der privaten Haushalte die korrigiert und hatten nun bereits im Jahr 2022 das
+Konsumkonjunktur wieder erholen. Konjunkturstüt- vorpandemische Niveau kurz wieder erreicht. Insge-
+zend sollte hierbei insbesondere die Industrie mit ih- samt führte die Generalrevision zu großen Korrekturen
+rem Exportgeschäft sein, während die Baukonjunktur in den einzelnen Komponenten sowie zu Änderungen
+ihren Abwärtstrend mit einer kräftigen Rate fortsetzen in den Verlaufsraten. Um Strukturbrüche in den Zeit-
+sollte. Zudem schätzte das ifo Institut die Entwicklung reihen zu vermeiden, wurden die Ergebnisse bis 1991
+der Ausrüstungsinvestitionen nun spürbar schwächer zurückgerechnet (Statistisches Bundesamt 2024).
+ein als noch im Frühjahr. Insgesamt überwog die Auf- An der in der Frühjahrs- und Sommerprognose
+wärtskorrektur des Außenbeitrags, so dass die jah- erwarteten gesamtwirtschaftlichen Erholung in der
+resdurchschnittliche Veränderungsrate des realen zweiten Jahreshälfte konnte aufgrund der konjunk-
+BIP für das Jahr 2024 auf + 0,4 % angehoben wurde turellen und strukturellen Krise, in der die deutsche
+(Wollmershäuser et al. 2024a). Für das zweite Quartal Wirtschaft feststeckt, in der Herbstprognose nicht
+nahm das ifo Institut in seiner Sommerprognose eine
+Zunahme der Wirtschaftsleistung von 0,3 % an. 1 Value Added Tax-Trader (VAT-Trader) sind Wirtschaftseinheiten,
+welche weder Produktion, Mitarbeitende noch einen physischen in-
+ländischen Standort besitzen, aber aufgrund ihrer Handelstätigkei-
+ten im Inland registriert sind.
+Tab. 2.3
+Zerlegung der Prognosekorrektur für das Jahr 2024
+Prognose- Revisiona der VGR Prognose- Prognose
+korrektur fehlerc anpassung
+= Summe 1. Quartal 2. Quartal 3. Quartal 4. Quartal
+der Spalten Überhang 2024 2024 2024 2024
+(I) bis (V) (I) (II) (III) (IV) (V)
+Inlandsnachfrage 0,6 0,0 0,0 0,1 0,5 0,0
+Privater Konsum –0,3 0,0 –0,2 –0,2 0,1 0,0
+Staatlicher Konsum 0,4 0,0 –0,2 0,5 0,2 0,0
+Bauten –0,1 0,0 –0,1 –0,2 0,1 0,0
+Ausrüstungen 1,3 0,0 0,3 0,5 0,7 –0,3
+Sonstige Anlageinvestitionen 0,3 0,0 0,0 0,0 0,2 0,1
+Vorratsveränderungend 0,5 0,0 0,1 0,1 0,3 0,0
+Außenbeitragd –0,6 0,0 0,0 –0,2 –0,4 0,0
+Ausfuhr –0,4 0,0 0,2 0,3 –0,8 0,0
+Einfuhr 1,2 0,0 0,2 0,9 0,2 –0,1
+Bruttoinlandsprodukt –0,1 0,0 0,0 –0,2 0,1 0,0
+a Beitrag der Revision des Überhangs durch das Statistische Bundesamt. b Prognosefehler: Beitrag der Differenz zwischen der Prognose für das erste Quartal des Jahres
+2024 aus der ifo Frühjahrsprognose 2024 und den aktuellen volkswirtschaftlichen Gesamtrechnungen. c Prognoseanpassung: Beitrag der Prognoseanpassung für das
+zweite bis vierte Quartal des Jahres 2024. d Veränderungsbeitrag. Abweichungen in den Summen sind rundungsbedingt.
+Quelle: Berechnungen des ifo Instituts. © ifo Institut Dez. 2024
+16 ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024
+=== Seite 20
+IFO KONJUNKTURPROGNOSE WINTER 2024
+mehr festgehalten werden. Die amtlichen Zahlen für amts zufolge weist das BIP eine Abwärtsrevision im
+das zweite Quartal 2024 wiesen einen Rückgang des zweiten Quartal und einen Anstieg von 0,1 % im drit-
+preisbereinigten BIP von 0,1 % aus, nachdem die Wirt- ten Quartal auf. Die erwartete Stagnation des BIP im
+schaftsleistung zu Jahresbeginn noch zulegen konnte. dritten Quartal blieb somit aus. Am Anstieg der Wirt-
+Die strukturellen Herausforderungen (Dekarbonisie- schaftsleistung im Schlussquartal 2024 hält das ifo
+rung, Digitalisierung, demografischer Wandel, Ener- Institut in der vorliegenden Winterprognose fest. Ob-
+giepreisschock und eine veränderte Rolle Chinas in schon keine Prognoseanpassung des Schlussquartals
+der Weltwirtschaft) setzen die etablierten Geschäfts- vorgenommen wurde und das dritte Quartal stärker
+modelle unter Druck. Vor allem die energieintensive gelaufen ist als prognostiziert, muss das ifo Institut
+Industrie, sowie der Maschinenbau und die Automo- aufgrund der Abwärtsrevision des zweiten Quartals die
+bilindustrie sind einer zunehmenden Konkurrenz aus Jahresrate des BIP um 0,1 Prozentpunkte nach unten
+China ausgesetzt. Doch auch konjunkturell befindet anpassen (vgl. Tab. 2.3). Damit revidiert das ifo Institut
+sich Deutschland in einer Krise. Neuaufträge im Bau- seine Jahreswachstumsrate des BIP von einer Stagna-
+wie auch im Verarbeitenden Gewerbe ließen weiter tion des laufenden Jahres auf – 0,1 % (vgl. Tab. 2.4).
+auf sich warten. Zudem hielten sich die privaten In der vorliegenden Winterprognose schätzt das ifo
+Haushalte mit ihren Ausgaben weiterhin zurück und Institut zwar zwei Szenarien, aber das laufende Quar-
+legten ihre Einkommensanstiege als Ersparnisse zu- tal wird weiterhin mit etablierten Nowcasting-Mo-
+rück. Für die zweite Jahreshälfte erwartete das ifo In- dellen abgeleitet, was dazu führt, dass auch die Jah-
+stitut in seiner Herbstprognose nur noch eine schwa- reswachstumsrate 2024 in beiden Szenarien gleich
+che Erholung des privaten Konsums. Zudem ging das ausfällt.
+ifo Institut von einer weiteren Abschwächung bei den Die Revision der gesamtwirtschaftlichen Leistung
+Bauinvestitionen und den Ausrüstungsinvestitionen im zweiten Quartal 2024 kommt aus der Abwärtsrevi-
+aus. Alles in allem wurde davon ausgegangen, dass sion des Außenbeitrags. Die Importe wurden im ersten
+die Wirtschaftsleistung im dritten Quartal stagnie- Quartal um 0,2 und im zweiten Quartal um 0,9 Pro-
+ren und erst zum Jahresende wieder zulegen dürfte. zentpunkte nach oben korrigiert, während die Exporte
+Damit wurde die Wachstumsprognose gegenüber der lediglich um 0,2 bzw. 0,3 Prozentpunkte angehoben
+Sommerprognose deutlich um 0,4 Prozentpunkte auf wurden. Die erheblich überschätzten Exporte im drit-
+0,0 % für das laufende Jahr gesenkt (Wollmershäuser ten Quartal überwogen der Aufwärtsrevision in der
+et al. 2024c). ersten Jahreshälfte 2024 und führten zu einer Anpas-
+Der jüngsten Veröffentlichung der Volkswirtschaft- sung der Jahreswachstumsrate von – 0,4 Prozentpunk-
+lichen Gesamtrechnungen des Statistischen Bundes- ten verglichen zur Herbstprognose. Bei den Importen
+Tab. 2.4
+Prognose und Prognosekorrektur für das Jahr 2024
+Verwendung des realen Bruttoinlandsprodukts
+ifo Herbstprognose ifo Winterprognose Prognosekorrektur für 2024
+Prognosewerte Prognosewerte Differenz der Wachstumsraten
+für 2024 für 2024 bzw. -beiträge
+Veränderung Wachstums- Veränderung Wachstums- Spalte (3) Spalte (4)
+gegenüber beitrag in gegenüber beitrag in abzüglich abzüglich
+Vorjahr in % Prozentpunktena Vorjahr in % Prozentpunktena Spalte (1) Spalte (2)
+(1) (2) (3) (4) (5) (6)
+Inlandsnachfrage –0,5 –0,5 0,1 0,1 0,6 0,6
+Privater Konsum 0,4 0,2 0,1 0,1 –0,3 –0,2
+Staatlicher Konsum 1,8 0,4 2,3 0,5 0,4 0,1
+Bauten –3,5 –0,4 –3,6 –0,4 –0,1 0,0
+Ausrüstungen –7,2 –0,5 –5,9 –0,4 1,3 0,1
+Sonstige Anlageinvestitionen 3,8 0,1 4,1 0,2 0,3 0,0
+Vorratsveränderungen – –0,4 – 0,2 – 0,5
+Außenbeitrag – 0,5 – –0,2 – –0,6
+Ausfuhr –0,2 –0,1 –0,6 –0,2 –0,4 –0,2
+Einfuhr –1,3 0,5 –0,1 0,1 1,2 –0,5
+Bruttoinlandsprodukt 0,0 0,0 –0,1 –0,1 –0,1 –0,1
+a Beiträge der Nachfragekomponten zur Veränderung des Bruttoinlandsprodukts (Lundberg-Komponenten). Der Wachstumsbeitrag einer Nachfragekomponente ergibt
+sich aus der Wachstumsrate gewichtet mit dem nominalen Anteil des Aggregats am Bruttoinlandsprodukts aus dem Vorjahr. Abweichungen in den Summen durch
+Runden der Zahlen. Angaben für das Bruttoinlandsprodukt: Veränderung gegenüber dem Vorjahr in %.
+Quelle: Berechnungen des ifo Instituts. © ifo Institut Dez. 2024
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 17
+=== Seite 21
+IFO KONJUNKTURPROGNOSE WINTER 2024
+hingegen führte die bereits erwähnte Aufwärtsrevision den Rückgang bei den Ausrüstungsinvestitionen in der
+und der unerwartete Anstieg im dritten Quartal zu vorliegenden Winterprognose merklich schwächer ein
+einer deutlichen Korrektur der Jahresdurchschnittsbe- als noch im Herbst. Ursächlich hierfür ist die Aufwärts-
+trachtung von + 1,2 Prozentpunkten. In der aktuellen revision und ein erheblicher Prognosefehler im dritten
+Winterprognose geht das ifo Institut daher davon aus, Quartal – der erwartete starke Rückgang von 1,7 % zum
+dass die Importe im laufenden Jahr nur noch leicht Vorquartal ist mit – 0,2 % nicht eingetreten. Auch bei
+zurückgehen werden, statt – wie im Herbst noch er- den staatlichen Ausgaben führte die Aufwärtsrevision
+wartet wurde – stark einzubrechen. Dies hat zur Folge, und eine unterschätzte Entwicklung im dritten Quartal
+dass nun von einem leicht negativen Außenbeitrag zu einer Aufwärtskorrektur der Jahresveränderungs-
+ausgegangen wird, während im Herbst noch ein stark rate. Hingegen mussten die privaten Konsumausgaben
+positiver Effekt unterstellt wurde. infolge der Herabsetzung der Konsumausgaben im ers-
+Die Abwärtskorrektur des Außenbeitrags wird ten und zweiten Quartal – trotz des unterschätzten
+dabei nahezu von der Aufwärtskorrektur der Inlands- dritten Quartals – in der Jahressumme gesenkt wer-
+nachfrage ausgeglichen. Großer Treiber bei der In- den. Die Jahresveränderungsrate wurde von + 0,4 % im
+landsnachfrage war der Wachstumsbeitrag aus den Herbst auf + 0,1 % nach unten korrigiert.
+Vorratsveränderungen. Zudem schätzt das ifo Institut
+2.3. PROGNOSEUNSICHERHEIT UND RISIKEN tionspotenzial gemessenen Produktionsmöglichkei-
+ten unterscheiden. Dem Basisszenario wird dabei aus
+Die Prognoseunsicherheit lässt sich anhand von Inter- heutiger Sicht eine höhere Eintrittswahrscheinlichkeit
+vallen angeben, in denen die prognostizierte Verände- beigemessen, da es insbesondere wirtschaftspolitisch
+rungsrate des preisbereinigten Bruttoinlandsprodukts auf dem Status quo der vergangenen Jahre aufsetzt
+mit bestimmten Wahrscheinlichkeiten anzutreffen ist. und es vor dem Hintergrund der anstehenden Neu-
+Zur Berechnung der Intervalle für die Jahre 2024 und wahlen unklar ist, welcher Kurs in den kommenden
+2025 wurden die Prognosefehler des ifo Instituts der Jahren eingeschlagen wird.
+Jahre 1992 bis 2023 herangezogen. Gemessen an die- Daher unterliegt auch die Prognose zur Ausrich-
+sen Prognosefehlern beträgt die Spanne z. B. für ein tung der Finanzpolitik einer erheblichen Unsicherheit,
+Prognoseintervall, in dem die Veränderungsrate des da von zusätzlichen wirtschaftspolitischen Maßnah-
+preisbereinigten Bruttoinlandsprodukts im Jahr 2024 men der neuen Bundesregierung auszugehen ist. Im
+mit einer Wahrscheinlichkeit von etwa zwei Dritteln Alternativszenario wurden zwar pauschal Mehraus-
+(68 %) anzutreffen ist, ± 0,1 Prozentpunkte. Bei der
+Abb. 2.5
+vorliegenden Punktprognose von – 0,1 % reicht das
+Veränderungsrate des realen Bruttoinlandsprodukts
+Intervall also von – 0,2 % bis 0,0 % (vgl. Abb. 2.5). Die
+90%-Prognoseintervall
+Punktprognose von – 0,1 % stellt den mittleren Wert
+68%-Prognoseintervall
+dar (vgl. rote Linie in Abb. 2.5). Für das kommende 50%-Prognoseintervall
+A. Basisszenario
+Jahr nimmt die Unsicherheit naturgemäß zu, so dass Prognose
+% Realisiertes BIP
+sich das entsprechende Prognoseintervall auf ± 1,5 4
+Prozentpunkte weitet. Bei der vorliegenden Punkt-
+2
+prognose von + 0,4 % im Basisszenario reicht das
+68%-Prognoseintervall dann von – 1,1 % bis + 1,9 % 0
+(vgl. Abb. 2.5 A). Damit schließt dieses Prognoseinter- –2
+vall auch die Punktprognose im Alternativszenario für
+–4
+das Jahr 2025 ein, die bei 1,1 % liegt. Das 68%-Pro-
+gnoseintervall in diesem Szenario reicht von – 0,4 % –6
+2020 2021 2022 2023 2024 2025
+bis 2,6 % (vgl. Abb. 2.5 B).
+In Phasen des Strukturwandels sind wirtschaft- B. Alternativszenario
+liche Analysen und Prognosen mit einer hohen Unsi- %
+4
+cherheit behaftet. Denn aus der Veränderung wirt-
+schaftlicher Kennzahlen lässt sich nicht unmittelbar 2
+ablesen, ob es sich um vorübergehende und damit
+0
+konjunkturelle Schwankungen oder um eine dauer-
+–2
+hafte Neuausrichtung der Produktionskapazitäten und
+damit um eine strukturelle Anpassung handelt. Um –4
+dieser Unsicherheit Rechnung zu tragen, werden in der
+–6
+vorliegenden Prognose zwei Szenarien betrachtet, die 2020 2021 2022 2023 2024 2025
+sich maßgeblich im Hinblick auf die mit dem Produk- Quelle: Statistisches Bundesamt; Berechnungen des ifo Instituts. © ifo Institut
+18 ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024
+=== Seite 22
+IFO KONJUNKTURPROGNOSE WINTER 2024
+gaben bzw. Mindereinahmen unterstellt, die darauf Exportanteil von zuletzt 10 % zu den wichtigsten Ab-
+abzielen, die öffentliche und private Investitionstä- satzmärkten. Zum anderen wird die Einführung bzw.
+tigkeit anzuregen. Allerdings wurden keine detaillier- Erhöhung von Zöllen durch die USA nur auf wenige
+ten Maßnahmen implementiert und durchgerechnet, ausgewählte Importe aus der EU angenommen. Würde
+so dass sowohl die fiskalischen Kosten als auch die es zu der von Trump während des Wahlkampfes ange-
+gesamtwirtschaftlichen Auswirkungen etwaiger Maß- kündigten Einführung bzw. Erhöhung von Zöllen auf
+nahmen aus heutiger Sicht nicht abzuschätzen sind. sämtliche Waren aus der EU in Höhe von 20 % und auf
+Zusätzlich zu diesen binnenwirtschaftlichen Un- sämtliche Waren aus China in Höhe von 60 % kommen,
+sicherheiten können auch die in Abschnitt 1. »Lage entstünde ein zusätzliches Abwärtsrisiko für beide
+und Prognose der Weltwirtschaft« genannten glo- Szenarien der vorliegenden Prognose (vgl. Box »Zu
+balen Risiken maßgeblichen Einfluss auf die weitere den Risiken einer verschärften Zollpolitik der USA«).
+wirtschaftliche Entwicklung in Deutschland nehmen.
+Insbesondere ist unklar, welchen Kurs die kommende 2.4. FINANZPOLITIK RESTRIKTIV AUSGERICHTET
+US-Regierung in der Handels- und Wirtschaftspolitik
+einschlägt. In der vorliegenden Prognose wird in bei- Die Finanzpolitik ist in diesem und in den kommenden
+den Szenarien unterstellt, dass die neue Trump-Ad- beiden Jahren restriktiv ausgerichtet (vgl. Tab. 2.5).
+ministration wirtschaftspolitische Entscheidungen Dieser Kurs resultiert sowohl aus einer Verringerung
+trifft, von denen die deutschen Ausfuhren unterm der diskretionären Staatsausgaben als auch aus Maß-
+Strich zumindest kurzfristig geringfügig profitieren nahmen, die die Staatseinnahmen erhöhen.
+dürften. Zum einen dürfte die fiskalische Lockerung Auf der Einnahmenseite geht dies im Jahr 2024
+die Konjunktur in den USA stimulieren. Davon dürf- vor allem auf das Auslaufen temporärer steuerlicher
+ten exportabhängige Unternehmen in Deutschland Begünstigungen zurück, wie die Rücknahme der
+profitieren, denn immerhin zählen die USA mit einem Umsatzsteuersenkung auf Erdgas oder in der Gas-
+ZU DEN RISIKEN EINER VERSCHÄRFTEN ZOLLPOLITIK DER USA
+Die Einführung von pauschalen Importzöllen durch die Bei diesen Simulationen realwirtschaftlicher Han-
+USA in Höhe von 60 % auf Wareneinfuhren aus China delsmodelle werden allerdings mögliche Veränderun-
+und in Höhe von 20 % auf Wareneinfuhren aus anderen gen der Wechselkursrelationen nicht berücksichtigt.
+Ländern (einschließlich der EU) hätte spürbare Auswir- In makroökonomischen Modellen für offene Volkswirt-
+kungen auf den Welthandel und die exportorientier- schaften mit internationalen Finanzmärkten würde
+ten deutschen Unternehmen. Für Konsumenten und die Einführung von Importzöllen den Außenwert der
+Unternehmen in den USA würden sich ausländische Währung des zollerhebenden Landes so lange ver-
+Produkte verteuern, was ihre Nachfrage auf im Inland schlechtern, bis die Außenhandelsbilanz (d. h. die Dif-
+produzierte Güter lenken würde. In der Folge wäre ferenz zwischen Exporten und Importen) wieder mit
+mit einem Nachfragerückgang bei exportorientierten ihren fundamentalen Determinanten übereinstimmt,
+deutschen Unternehmen zu rechnen, der zum einen die durch gesamtwirtschaftliche Spar- und Investiti-
+direkt durch Exporte in die USA und zum anderen in- onsentscheidungen bestimmt werden (Devereux und
+direkt durch Exporte an chinesische Unternehmen, die Connolly 1996). Es ist daher wahrscheinlich, dass zu-
+wiederum den US-Markt bedienen, verstärkt würde. mindest kurzfristig ein Teil der durch die Zölle ver-
+Eine Simulation mit dem ifo-Handelsmodell zeigt, ursachten Verteuerung der US-Importe in US-Dollar
+dass die deutschen Exporte insgesamt langfristig um von den europäischen Exporteuren durch niedrigere
+1,8 % sinken würden (Baur et al. 2024). Die Exporte in Verkaufspreise in Euro kompensiert werden könnte, da
+die USA und nach China würden um 14,9 % bzw. 9,6 % der Euro gegenüber dem US-Dollar abwerten würde.
+zurückgehen, während die Exporte in die EU aufgrund Tatsächlich hat der Euro bereits im Vorfeld der
+von Handelsumlenkungen um 0,4 % zunehmen wür- US-Wahlen deutlich an Wert verloren und ist von 1,12
+den. Besonders betroffen wären die Hersteller von US-Dollar je Euro Anfang Oktober auf 1,05 Anfang De-
+Fahrzeugen, Maschinen und pharmazeutischen Er- zember gesunken. Vermutlich dürften sich darin aber
+zeugnissen, die zusammen knapp 60 % der gesamten auch die Erwartungen hinsichtlich einer expansiven
+deutschen Warenexporte in die USA ausmachen. Die Fiskalpolitik der zukünftigen US-Regierung widerspie-
+gesamtwirtschaftliche Bruttowertschöpfung würde geln. Dennoch ist davon auszugehen, dass der Euro
+langfristig um 0,2 % sinken, wobei die Bruttowert- gegenüber dem US-Dollar weiter an Wert verlieren
+schöpfung im Verarbeitenden Gewerbe um 2,1 % zu- würde, sollten die USA tatsächlich Importzölle erhe-
+rückginge und die übrigen Wirtschaftszweige (inkl. ben. Dies würde die oben genannten Kosten zumin-
+Dienstleister) um 0,4 % zulegen würden. dest kurzfristig etwas reduzieren.
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 19
+=== Seite 30
+IFO KONJUNKTURPROGNOSE WINTER 2024
+Tab. 2.8
+Statistische Komponenten der Veränderungsrate des Bruttoinlandsprodukts
+2025 2026
+2023 2024
+Basisszenario Alternativ- Basisszenario Alternativ-
+szenario szenario
+Statistischer Überhanga –0,1 –0,2 0,1 0,1 0,2 0,6
+Jahresverlaufsrateb –0,2 0,3 0,6 1,7 0,5 1,1
+Jahresdurchschnittliche –0,1 –0,1 0,5 1,2 0,5 1,3
+Veränderung, kalenderbereinigt
+Kalendereffektc –0,2 0,0 –0,1 –0,1 0,3 0,3
+Jahresdurchschnittliche –0,3 –0,1 0,4 1,1 0,8 1,6
+Veränderung
+a Saison- und kalenderbereinigtes reales BIP im vierten Quartal des Vorjahres in Relation zum Quartalsdurchschnitt des Vorjahres. b Saison- und kalenderbereinigtes reales BIP im vierten
+Quartal in Relation zum entsprechenden Quartal des Vorjahres. c In Prozent des realen BIP.
+Quelle: Statistisches Bundesamt; 2024 bis 2026: Prognose des ifo Instituts © ifo Institut Dez. 2024
+gregaten per Konstruktion nicht das Oberaggregat 2010 liegt. Im Alternativszenario hingegen steigt die
+ergibt. Dieses Problem wird umso bedeutender, je wei- Quote auf 22,4 % im Jahr 2026 und liegt damit in etwa
+ter das betrachtete Jahr vom Basisjahr (aktuell: 2020) auf dem durchschnittlichen Wert der 2010er-Jahre.
+abweicht.3 Daher kann ein Vergleich realer Quoten
+über einen längeren Zeitraum verzerrt sein. Die Lö- 2.8. STRUKTURWANDEL TRIFFT AUSSENHANDEL
+sung von Nierhaus und Abberger (2024) besteht darin,
+die reale Quote im Referenzjahr mit den Differenzen Das deutsche Exportgeschäft steckt in der Krise. Vor
+aus nominalen Quoten und Quoten aus unverketteten allem die Ausfuhr von Waren ist im Durchschnitt der
+Angaben fortzuschreiben. Der zentrale Vorteil dieser ersten drei Quartale des laufenden Jahres nicht höher
+Quote ist ihre Vergleichbarkeit über die Zeit, wodurch als im Jahr 2019. Zum einen entwickelt sich seit gerau-
+strukturelle Verschiebungen in einer Volkswirtschaft mer Zeit die weltweite Industrieproduktion schwächer
+sichtbar werden. Der Nachteil ist die fehlende Inter- als das Weltbruttoinlandsprodukt (vgl. Abb. 2.12). Dies
+pretierbarkeit des Niveaus der Quote, da dieses von belastet das deutsche Exportgeschäft, das vor allem
+der Wahl des Referenzjahres abhängt. Im Gegensatz zu auf die Produktion von Investitionsgütern spezialisiert
+Nierhaus und Abberger (2024), die ihre Quoten auf das ist. Zum anderen haben deutsche Industrieunterneh-
+Jahr 1991 aufsetzen, wird im Folgenden das Niveau men insbesondere im Fahrzeug- und Maschinenbau
+von 2010 fixiert und im Anschluss additive Quoten in den vergangenen Jahren an technologischer Wett-
+berechnet.4 Im Basisszenario setzt sich der Rückgang bewerbsfähigkeit vor allem gegenüber chinesischen
+der Industriequote der vergangenen Jahre fort (vgl. Herstellern eingebüßt und damit einhergehend sig-
+Abb. 2.11). Ausgehend von einem Anteil von 22,9 % im nifikante Marktanteile verloren (Projektgruppe Ge-
+Jahr 2023 geht der Anteil des Verarbeitenden Gewer- meinschaftsdiagnose 2024, Kasten 2.2). Schließlich
+bes an der gesamten Bruttowertschöpfung auf 21,3 % scheinen auch Teile des Exportgeschäfts der energie-
+im Jahr 2026 zurück, was etwas unter dem Niveau von intensiven Wirtschaftszweige im Zuge der Energiekrise
+dauerhaft an andere Standorte verlagert worden zu
+3 Im Referenzjahr und dem darauffolgenden Jahr gilt hingegen die sein. Ihr Exportrückgang schmälert die gesamten Wa-
+Additivität. Je weiter sich vom Referenzjahr entfernt wird, umso stär-
+ker ausgeprägt ist die additive Inkonsistenz.
+4 Die Wahl des Basisjahres hat keinen Einfluss auf die zeitliche Ver-
+änderung der additiven Industriequote; sie bestimmt lediglich ihre Abb. 2.12
+Höhe. Warenexporte und weltwirtschaftliche Aktivität
+Preis-, saison-und kalenderbereinigter Verlauf
+Abb. 2.11 Warenexporte insgesamt
+Wertschöpfungsanteil des Verarbeitenden Gewerbes Warenexporte ohne energieintensive Industrien
+Reale Quote nach Nierhaus und Abberger (2024), Basis 2010 Weltbruttoinlandsproduktᵃ
+Index 2021 = 100 Weltindustrieproduktionᵃ
+Basisszenario
+% Alternativszenario 110
+26
+100
+24
+90
+22
+80
+20
+70
+2020 2021 2022 2023 2024
+18
+ᵃ Exportgewichtet.
+1991 1995 2000 2005 2010 2015 2020 2025
+Quelle: UNIDO; StatistischesBundesamt;
+Quelle: Berechnungen des ifo Instituts;2024 bis 2026: Prognose. © ifo Institut Berechnungen des ifo Instituts. © ifo Institut
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 27
+=== Seite 31
+IFO KONJUNKTURPROGNOSE WINTER 2024
+renausfuhren seit dem Jahr 2022 um durchschnittlich Dienstleistungsexporte stagnierten im dritten Quartal
+2,5 %. preis-, saison- und kalenderbereinigt, nachdem sie im
+Die Belebung der deutschen Ausfuhren zu Beginn Quartal zuvor, in dem u. a. die Fußballeuropameis-
+des Jahres 2024 setzte sich im weiteren Jahresver- terschaft 2024 stattfand, kräftig expandierten (vgl.
+lauf nicht fort. Im dritten Quartal sanken die Exporte Box »Zu den Auswirkungen der Fußballeuropameis-
+preis-, saison- und kalenderbereinigt um 1,9 % im Ver- terschaft 2024 auf die Dienstleistungsexporte«).
+gleich zum Vorquartal. Insbesondere die Warenaus- Im laufenden Quartal werden die Warenexporte
+fuhren brachen regelrecht ein (– 2,4 %), wobei Vor- zunächst etwas zulegen. Darauf deuten verbesserte
+leistungs- und Investitionsgüter mit einem Minus von Erwartungen für das Auslandsgeschäft der deutschen
+2,4 % bzw. 1,7 % am stärksten betroffen waren. Da- Industrieunternehmen sowie gestiegene Aufträge aus
+bei war der Rückgang in den energieintensiven Wirt- dem Ausland hin (vgl. Abb. 2.13). Hinter den verbes-
+schaftszweigen mit 2,9 % besonders ausgeprägt. Die serten Exporterwartungen dürften sich auch Hoff-
+ZU DEN AUSWIRKUNGEN DER FUSSBALLEUROPAMEISTERSCHAFT BZW.
+FUSSBALLWELTMEISTERSCHAFT 2024 AUF DIE DIENSTLEISTUNGSEXPORTE
+Eine Vielzahl von Studien kommt zu dem Ergebnis, im Jahr 2006 damit gut drei Tage in Deutschland ver-
+dass die ökonomischen Auswirkungen von Sportgroß- brachte, hielt sich der durchschnittliche EM-Tourist im
+veranstaltungen gesamtwirtschaftlich eher gering sind Jahr 2024 einen Tag weniger in Deutschland auf. Zum
+und, wenn überhaupt, nur lokal und vorübergehend einen kann dies auf gut ausgebaute Anbindungsmög-
+festzustellen sind (Dorn et al. 2024, sowie der darin lichkeiten im Reiseverkehr innerhalb Europas zurück-
+enthaltene Literaturüberblick). Da Deutschland als zuführen sein. Im Gegensatz dazu mussten WM-Tou-
+Fußballnation bereits mit Sportstätten, Unterhal- risten im Jahr 2006 häufig größere Reisetrecken aus
+tungselektronik sowie privaten Konsummöglichkeiten entfernteren Orten der Welt zurücklegen, was mögli-
+außerhalb von Austragungsorten und Fanmeilen gut cherweise mit einem im Durchschnitt längeren Auf-
+aufgestellt war, wurden in der ifo Konjunkturprognose enthalt in Deutschland einherging. Zum anderen kann
+Sommer 2024 gesamtwirtschaftliche Auswirkungen die Erfahrung der Corona-Pandemie auch Spuren bei
+der Fußballeuropameisterschaft (EM) 2024 vor allem dieser Art von sozialem Konsum sowohl unter in- als
+ausgehend vom ausländischen Tourismus und somit auch ausländischen Touristen hinterlassen haben, so
+insbesondere im Gastgewerbe erwartet (Wollmershäu- dass konsumrelevante Interaktionen nun wesentlich
+ser et al. 2024a). weniger kontaktintensiv verlaufen.
+Da die Leistungen, die Inländer für ausländische Der gesamte Effekt auf die preis-, saison- und ka-
+Touristen erbringen, als Dienstleistungsexport erfasst lenderbereinigten vierteljährlichen Dienstleistungsex-
+werden, von denen der Tourismus mittlerweile 10 % porte im zweiten Quartal 2024 wurde in einem wei-
+ausmacht, wurden in der ifo Konjunkturprognose teren Schritt auf etwa 1 Mrd. Euro geschätzt. Dabei
+Sommer 2024 insbesondere die erwarteten Auswir- wurden mit Hilfe eines vektorautoregressiven Modells
+kungen der EM auf die Dienstleistungsexporte ge- mit gemischten Frequenzen zwei Prognosen für die
+schätzt. Dabei wurde auf die Erfahrung der Fußball- Dienstleistungsexporte erstellt. In der ersten Prognose
+weltmeisterschaft (WM) zurückgegriffen, die im Juni wurden die erwarteten Ankünfte und Übernachtungen
+2006 in Deutschland stattfand. Zunächst wurde mit der ausländischen Touristen berücksichtigt, in der
+Hilfe einer einfachen Regressionsanalyse geschätzt, zweiten Prognose wurden die Tourismuszahlen ohne
+dass die Ankünfte und Übernachtungen ausländischer EM fortgeschrieben. Schließlich wurde der EM-Effekt
+Touristen im Monat des Beginns der WM 2006 jeweils aus der Differenz der beiden Prognosen errechnet.
+um 20 % im Vergleich zu den Monaten, in denen Tatsächlich stiegen die gesamten Einnahmen aus
+keine WM stattfand, stiegen. Dieser geschätzte Ef- dem Reiseverkehr im zweiten Quartal 2024 schätzungs-
+fekt wurde bei der Fortschreibung der ankommenden weise nur um etwa 350 Mio. Euro. Dies legen die Daten
+ausländischen Touristen und ihren Übernachtungen der Zahlungsbilanz nahe, die mit dem Deflator der ge-
+auch für die beiden EM-Monate Juni und Juli 2024 samten Dienstleistungsexporte um Preiseffekte berei-
+unterstellt. nigt wurden. Daher dürften die in der ifo Konjunktur-
+Für den Juni 2024 ergab sich eine Prognose von prognose Sommer 2024 erwarteten Auswirkungen der
+556 000 zusätzlichen Ankünften ausländischer Touris- EM auf die Dienstleistungsexporte deutlich überschätzt
+ten sowie 1,5 Mio. zusätzlichen Übernachtungen. Tat- worden sein. Dazu dürfte auch beigetragen haben, dass
+sächlich wurden im Juni 517 000 zusätzliche ausländi- die Aufenthaltsdauer der Touristen in Deutschland kür-
+sche Touristen sowie 1 Mio. zusätzliche Übernachtun- zer und die damit einhergehenden Ausgaben geringer
+gen erfasst. Während der durchschnittliche WM-Tourist waren als während der WM 2006.
+28 ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024
+=== Seite 32
+IFO KONJUNKTURPROGNOSE WINTER 2024
+nungen auf einen expansiven wirtschaftspolitischen Abb. 2.13
+Kurs der USA unter Präsident Trump verbergen, der Frühindikatoren für den Export
+kurzfristig den Welthandel sowie das Auslandsgeschäft Saisonbereinigter Verlauf
+der deutschen Exporteure stimulieren dürfte. Sollte ifo Exporterwartungen Auftragseingang Ausland
+Donald Trump allerdings früher als erwartet die von Saldo Index
+30 120
+ihm angedrohten Importzölle in Kraft treten lassen,
+so wären die wirtschaftlichen Folgen substanziell (vgl. 15 100
+Box »Zu den Risiken einer verschärften Zollpolitik der 0 80
+USA«). Die Dienstleistungsexporte dürften im laufen-
+–15 60
+den Quartal mit + 0,4 % ähnlich wie die Warenexporte
+–30 40
+im Einklang mit dem Welthandel expandieren. Insge-
+–45 20
+samt dürften die Ausfuhren preis-, saison- und kalen-
+derbereinigt im vierten Quartal um 0,4 % im Vergleich –60 0
+2020 2021 2022 2023 2024
+zum Vorquartal zulegen. Damit ergibt sich für das Jahr
+Quelle: ifo Konjunkturumfragen; Deutsche Bundesbank; internationale
+2024 insgesamt ein Rückgang um 0,6 % im Vergleich und nationale Statistikämter; Berechnungen des ifo Instituts. © ifo Institut
+zum Vorjahr.
+Die Importe sanken vom zweiten zum dritten Im Alternativszenario entwickeln sich die Ausfuh-
+Quartal insgesamt geringfügig um 0,2 %, wobei die ren deutlich dynamischer als im Basisszenario. Unter-
+Nachfrage nach ausländischen Waren deutlich um nehmen bleiben dem Standort erhalten und gewin-
+1,3 % zulegte und nach ausländischen Dienstleistun- nen im Zuge einer zunehmenden Spezialisierung auf
+gen, in erster Linie Reiseverkehr und Tourismus, nach höherwertigere Schritte der Wertschöpfungskette an
+einem starken zweiten Quartal um 2,4 % zurückging. Wettbewerbsfähigkeit. Daher dürften die deutschen
+Vor allem Vorleistungsgüter (+ 4,0 %) sowie kurzle-
+Abb. 2.14
+bige Konsumgüter (+ 1,6 %) wurden verstärkt einge- Exporte
+führt, während weniger Investitionsgüter (– 1,5 %) Preis-, saison-und kalenderbereinigter Verlauf
+und langlebige Konsumgüter (– 1,3 %) importiert
+Verkettete Volumenangaben Laufende Rateᵃ
+wurden. Im laufenden Quartal dürften die Importe in Mrd. Euro in %
+420 4
+im Einklang mit der inländischen Nachfrage erneut
+Basisszenario Basisszenario
+um 0,3 % steigen. Allerdings hat sich zuletzt mit dem Alternativszenario Alternativszenario
+ifo Importklima das Stimmungsbild der wichtigsten
+nach Deutschland exportierenden Länder verschlech- 400 2
+tert, so dass zumindest konjunkturell nur mit einer
+kurzfristigen Erholung der Einfuhren zu rechnen ist.
+Alles in allem dürften die preisbereinigten Einfuhren 380 0
+in diesem Jahr um 0,1 % sinken.
+Der weitere Verlauf des Außenhandels hängt ent-
+scheidend von den Annahmen im Hinblick auf den 360 –2
+Fortgang des Strukturwandels in der deutschen In- 2022 2023 2024 2025 2026
+dustrie ab. Im Basisszenario kann der Verlust an in- aVeränderung gegenüber dem Vorquartal.
+Quelle: Statistisches Bundesamt; Berechnungen desifo Instituts;
+ternationaler Wettbewerbsfähigkeit nicht umgekehrt ab 4. Quartal 2024: Prognose desifoInstituts. © ifo Institut
+werden. Daher werden die deutschen Warenausfuhren
+deutlich schwächer von der Erholung der Weltkon-
+Abb. 2.15
+junktur profitieren als in den 20 Jahren vor Ausbruch Importe
+der Corona-Pandemie (Wollmershäuser et al. 2024b, Preis-, saison-und kalenderbereinigter Verlauf
+Box »Zur Exportlücke«).5 Insgesamt dürften die Ex- Verkettete Volumenangaben Laufende Rateᵃ
+porte daher im kommenden Jahr nur um 0,2 % und in Mrd. Euro in %
+370 4
+im Jahr 2026 um 2,1 % zunehmen (vgl. Abb. 2.14). Bei
+Basisszenario Basisszenario
+den Einfuhren dürften im Basisszenario zwei gegen- Alternativszenario Alternativszenario
+läufige Effekte wirken. Zum einen dürfte der Anteil 360 2
+der Vorleistungsgüter als Folge von Standortverlage-
+rungen zunehmen. Zum anderen dürfte die schwache
+350 0
+inländische Nachfrage die Einfuhren eher dämpfen.
+Alles in allem dürften die preisbereinigten Einfuhren
+340 –2
+in den kommenden beiden Jahren um 1,8 % bzw. 2,7 %
+steigen (vgl. Abb. 2.15).
+330 –4
+5 Die Fortschreibung der Exporte im Prognosezeitraum erfolgt im 2022 2023 2024 2025 2026
+Basisszenario mit einer Elastizität der Exporte im Hinblick auf die aVeränderung gegenüber dem Vorquartal.
+Entwicklung des exportgewichteten Bruttoinlandsprodukts, die auf Quelle: Statistisches Bundesamt; Berechnungen des ifo Instituts;
+Schätzungen im Zeitraum von 2020 bis heute beruhen. ab 4. Quartal 2024: Prognose des ifo Instituts. © ifo Institut
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 29
+=== Seite 33
+IFO KONJUNKTURPROGNOSE WINTER 2024
+Ausfuhren wieder stärker im Einklang mit der Weltnach- auf – 0,2 Prozentpunkte steigt. Im Alternativszenario
+frage expandieren.6 Insgesamt dürften die Exporte im wird er in beiden Prognosejahren mit – 0,3 bzw. + 0,1
+kommenden Jahr um 1,1 % und im Jahr 2026 um 2,8 % Prozentpunkten positiver sein. Die vollständige Sal-
+steigen (vgl. Abb. 2.14). Die Einfuhren entwickeln sich dierung der Exporte mit den Importen ist allerdings
+im Alternativszenario ebenfalls dynamischer und ver- ökonomisch wenig aussagekräftig, da dabei ange-
+laufen im Einklang mit der inländischen Nachfrage. Im nommen wird, dass alle Importe vollständig auf die
+kommenden Jahr dürfte die preisbereinigte Einfuhr um Exporte entfallen. Allerdings fließen Importe auch in
+2,0 % und im Jahr 2026 um 2,8 % steigen (vgl. Abb. 2.15). alle anderen Verwendungskomponenten. Um daher
+Der Außenbeitrag, d. h. der Beitrag der Nettoex- eine realistischere Einschätzung des Einflusses der
+porte zur Veränderung des Bruttoinlandsprodukts, Exporte auf die Zunahme des Bruttoinlandsprodukts
+wird in diesem Jahr rein rechnerisch bei – 0,2 Prozent- zu erhalten, werden die Ausfuhren und alle übrigen
+punkten liegen (vgl. Tab. 2.9). Im kommenden Jahr Verwendungskomponenten separat importbereinigt
+wird er im Basisszenario dann weiter zurückgehen und im Anschluss die Wachstumsbeiträge berechnet.7
+auf – 0,6 Prozentpunkte, bevor er im Jahr 2026 wieder
+7 Hierfür werden zunächst die jährlichen Importanteile der Verwen-
+dungskomponenten mit Hilfe der Input-Output-Tabellen des Statisti-
+6 Die Fortschreibung der Exporte im Prognosezeitraum erfolgt im schen Bundesamts berechnet. Im Anschluss wir jede Verwendungs-
+Alternativszenario mit einer Elastizität der Exporte im Hinblick auf komponente jeweils um ihren eigenen Importanteil bereinigt, bevor
+die Entwicklung des exportgewichteten Bruttoinlandsprodukts, die Zuwachsraten sowie Wachstumsbeiträge abgeleitet werden (vgl.
+auf Schätzungen im Zeitraum von 2000 bis 2019 beruhen. Lehmann und Wollmershäuser 2018).
+Tab. 2.9
+Beiträge zur Veränderung des Bruttoinlandsprodukts
+A. Basisszenario
+in Prozentpunkten
+Wachstumsbeiträge Importbereinigte Wachstumsbeiträgea
+2023 2024 2025 2026 2023 2024 2025 2026
+Konsumausgaben –0,2 0,5 0,7 0,7 –0,1 0,5 0,4 0,4
+Private Konsumausgaben –0,2 0,1 0,4 0,5 –0,1 0,0 0,2 0,2
+Konsumausgaben des Staates 0,0 0,5 0,3 0,2 0,0 0,4 0,2 0,2
+Bruttoanlageinvestitionen –0,3 –0,6 –0,1 0,3 –0,2 –0,4 –0,2 0,1
+Bauten –0,4 –0,4 –0,1 0,1
+Ausrüstungen –0,1 –0,4 –0,1 0,1
+Sonstige Anlagen 0,2 0,2 0,1 0,1
+Vorratsveränderungen 0,1 0,2 0,5 –0,1 0,1 0,1 0,3 –0,1
+Letzte inländische Verwendung –0,4 0,1 1,0 0,9 –0,2 0,1 0,6 0,4
+Außenbeitrag 0,1 –0,2 –0,6 –0,2
+Exporte –0,1 –0,2 0,1 0,9 0,0 –0,2 –0,1 0,3
+Importe 0,3 0,1 –0,7 –1,0
+Bruttoinlandsproduktb –0,3 –0,1 0,4 0,8 –0,3 –0,1 0,4 0,8
+B. Alternativszenario
+in Prozentpunkten
+Wachstumsbeiträge Importbereinigte Wachstumsbeiträgea
+2023 2024 2025 2026 2023 2024 2025 2026
+Konsumausgaben –0,2 0,5 0,8 0,9 –0,1 0,5 0,6 0,6
+Private Konsumausgaben –0,2 0,1 0,6 0,7 –0,1 0,0 0,4 0,4
+Konsumausgaben des Staates 0,0 0,5 0,3 0,2 0,0 0,4 0,2 0,2
+Bruttoanlageinvestitionen –0,3 –0,6 0,1 0,7 –0,2 –0,4 0,0 0,5
+Bauten –0,4 –0,4 0,0 0,2
+Ausrüstungen –0,1 –0,4 0,0 0,3
+Sonstige Anlagen 0,2 0,2 0,1 0,2
+Vorratsveränderungen 0,1 0,2 0,5 –0,2 0,1 0,1 0,3 –0,2
+Letzte inländische Verwendung –0,4 0,1 1,4 1,5 –0,2 0,1 0,9 1,0
+Außenbeitrag 0,1 –0,2 –0,3 0,1
+Exporte –0,1 –0,2 0,5 1,2 0,0 –0,2 0,2 0,6
+Importe 0,3 0,1 –0,8 –1,1
+Bruttoinlandsproduktb –0,3 –0,1 1,1 1,6 –0,3 –0,1 1,1 1,6
+a Verwendungsaggregate abzüglich ihres Importgehalts. b Veränderung gegenüber Vorjahr in %; Abweichungen in den Summen durch Runden der Zahlen.
+Quelle: Statistisches Bundesamt; Berechnungen des ifo Instituts; 2024 bis 2026: Prognose des ifo Instituts. © ifo Institut Dez. 2024
+30 ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024
+=== Seite 34
+IFO KONJUNKTURPROGNOSE WINTER 2024
+Der importbereinigte Wachstumsbeitrag der Exporte dex und Bruttowertschöpfung im Verarbeitenden Ge-
+legt nahe, dass das Auslandsgeschäft im Basisszena- werbe«). Zudem deuten die seit nunmehr fünf Quarta-
+rio in diesem und im kommenden Jahr mit – 0,2 bzw. len rückläufigen Umsätze der Investitionsgüterherstel-
+– 0,1 Prozentpunkten negativ und erst im Jahr 2026 ler darauf hin, dass die anhaltend hohe Unsicherheit
+mit + 0,3 Prozentpunkten wieder positiv zum Brutto- über die wirtschaftspolitischen Rahmenbedingungen
+inlandsprodukt beitragen dürfte. Im Alternativszena- die Unternehmen dazu veranlasst, Investitionen zu
+rio ist der Wachstumsbeitrag der Exporte bereits im streichen oder aufzuschieben. Dazu passt, dass auch
+kommenden Jahr wieder positiv (+ 0,2 Prozentpunkte) die Investitionsgüterproduktion seit eineinhalb Jahren
+und nimmt im Jahr 2026 noch einmal deutlich zu (+ 0,6 keine nennenswerten Zuwächse mehr verzeichnet und
+Prozentpunkte). im Trend deutlich rückläufig ist.
+Die Terms of Trade sind im dritten Quartal um Die privaten Investitionen in sonstige Anlagen, zu
+0,2 % im Vergleich zum Vorquartal gestiegen. Vor allem denen Ausgaben für Forschung und Entwicklung sowie
+die Warenimportpreise sind etwas gesunken, während für Software und Datenbanken zählen, sind in den
+die Preise importierter Dienstleistungen kräftig um vergangenen Jahren trotz des eingetrübten Investiti-
+1,3 % gestiegen sind. Im weiteren Verlauf des Prog- onsklimas kräftig expandiert (vgl. Abb. 2.16). Nachdem
+nosezeitraums dürften die Export- und Importpreise sie bereits im vergangenen Jahr um insgesamt 6,2 %
+ausgehend von den Wechselkurs- und Rohstoffpreis- gestiegen waren, legten sie auch im laufenden Jahr
+annahmen der vorliegenden Prognose im kommen- mit Quartalsraten von 0,9 %, 0,9 % und 0,7 % deutlich
+den Jahr zunächst stärker steigen und im Jahr 2026 zu. Die Tatsache, dass anstelle von Sachinvestitionen
+wieder sinken. Die Terms of Trade dürften sich dem- in Produktionskapazitäten zunehmend immaterielle
+nach leicht verschlechtern. Insgesamt ergibt sich eine Investitionen in technisches Wissen sowie Software
+Verbesserung der Terms of Trade von 1,3 % in diesem und Datenbanken getätigt werden, deutet auf einen
+Jahr sowie eine geringfügige Verschlechterung von Strukturwandel in der deutschen Industrie hin. An
+0,2 % und 0,3 % in den jeweils zwei kommenden Jah- die Stelle der inländischen Produktion von Vorleis-
+ren. Die Entwicklung der Außenhandelspreise ist im tungs- und Investitionsgütern könnte zukünftig ver-
+Basis- und im Alternativszenario identisch. stärkt deren Entwicklung und Digitalisierung treten.
+Der Saldo der deutschen Leistungsbilanz wird im Dazu passt, dass das Investitionsmotiv Kapazitätser-
+Basisszenario von 268,7 Mrd. Euro im laufenden Jahr weiterung in den vergangenen Jahren zunehmend an
+auf 234,8 Mrd. Euro im Jahr 2026 sinken. Ins Verhält- Bedeutung verloren hat (Wollmershäuser et al. 2024b).
+nis zum Bruttoinlandsprodukt gesetzt bedeutet dies Die gegenläufige Entwicklung der Unterneh-
+einen Rückgang von 6,2 % in diesem Jahr auf 5,2 % mensinvestitionen im Hoch- und Tiefbau hat sich im
+im übernächsten Jahr (vgl. Tab. 2.2). Im Alternativ- Sommerhalbjahr fortgesetzt. Während die Auftragsbe-
+szenario sinkt der Leistungsbilanzüberschuss bis zum stände im Tiefbau aufgrund von Großprojekten zum
+Jahr 2026 nur geringfügig auf 263,7 Mrd. Euro. Den- Ausbau von Kabeltrassen tendenziell steigen, sind sie
+noch kommt es aufgrund des Anstiegs des nominalen im Hochbau rückläufig. Die schwache Entwicklung
+Bruttoinlandsprodukts zu einem Rückgang der Quote der deutschen Wirtschaft und das eingetrübte Inves-
+auf 5,7 %. Damit fällt der Rückgang nur halb so groß titionsklima bieten keine Anreize für den Aus- und
+aus wie im Basisszenario, was die stärkere Exportwirt- Neubau von Produktionsstätten. Dementsprechend
+schaft im Alternativszenario widerspiegelt. war die Produktion im Hochbau im dritten Quartal
+erneut deutlich rückläufig, aber auch die Produktion
+2.9. UNTERNEHMENSINVESTITIONEN IM ZEICHEN im Tiefbau ging zuletzt mit – 0,4 % leicht zurück.
+VON STRUKTURWANDEL UND UNSICHERHEIT Die Indikatoren für die Ausrüstungsinvestitionen
+der Unternehmen im laufenden Quartal sind über-
+Die Unternehmensinvestitionen entwickelten sich im
+Sommerhalbjahr volatil. Nach einem deutlichen Rück- Abb. 2.16
+gang um 1,8 % im zweiten Quartal wurde im dritten Reale Unternehmensinvestitionen nach Anlagegütern
+Quartal ein Anstieg um 0,8 % verzeichnet. Ursächlich Saison-und kalenderbereinigter Verlauf
+für die insgesamt verhaltene Entwicklung war insbe- Sonstige Anlagen
+Index Ausrüstungen
+sondere der Einbruch der privaten Ausrüstungsin- 130 Nichtwohnbauten
+vestitionen im zweiten Quartal um 4,0 %, der vierte
+Rückgang in Folge. Zwar konnte im dritten Quartal ein 120
+Zuwachs von 1,1 % verzeichnet werden, das Niveau
+110
+der privaten Ausrüstungsinvestitionen ist damit aber
+(abgesehen vom Einbruch während der Pandemie im 100
+Jahr 2020) so niedrig wie zuletzt im Jahr 2015. Ein
+Grund für die Schwäche dürfte der Strukturwandel 90
+im Verarbeitenden Gewerbe sein, im Zuge dessen sich
+80
+der Investitionsbedarf der Unternehmen angepasst
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+hat (vgl. Box »Zur Diskrepanz zwischen Produktionsin- Quelle: Statistisches Bundesamt. © ifo Institut
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 31
+=== Seite 35
+IFO KONJUNKTURPROGNOSE WINTER 2024
+wiegend negativ. Zwar zogen die Neuzulassungen von Rückgang hin. Auch die Investitionsplanungen für For-
+Nutzfahrzeugen zu Beginn des laufenden Quartals schung und Entwicklung, die zusätzlich seit dem Jahr
+kräftig an. So wurden im Oktober 7,8 % mehr Neu- 2021 abgefragt werden, sind für das forschungsinten-
+zulassungen registriert als im Durchschnitt des Vor- sive Verarbeitende Gewerbe im November erstmals in
+quartals. Und auch die Auftragseingänge der Investi- den negativen Bereich gerutscht (– 7,1 Saldenpunkte
+tionsgüterhersteller verzeichneten im dritten Quar- nach 1,0 Saldenpunkten im März). Bei den Investiti-
+tal insgesamt ein Plus (4,1 %). Im Detail zeigt sich onen in Software und Datenbanken wurden die In-
+jedoch, dass dies ausschließlich auf Großaufträge vestitionserwartungen im Verarbeitenden Gewerbe
+zurückzuführen ist. Ohne Großaufträge gingen die hingegen nur leicht nach unten korrigiert (von 11,6
+Auftragseingänge zuletzt um 3,9 % zurück. Auch die Saldenpunkten im März auf 10,0 Saldenpunkte im
+Produktion von Investitionsgütern war im September November). Auffallend stark sind jedoch die Inves-
+stark rückläufig (– 5,7 %). Da die Unternehmen laut titionserwartungen in Bauten zurückgegangen, von
+ifo Konjunkturumfragen sowohl im Oktober (– 14,7 – 4,3 Saldenpunkten im März auf – 19,5 Saldenpunkte
+Saldenpunkte) als auch im November (– 9,1 Salden- im November (vgl. Abb. 2.17). Insgesamt dürften die
+punkte) ihre Produktion gegenüber dem Vormonat ne- Unternehmensinvestitionen im vierten Quartal um
+gativ beurteilten, ist auch im laufenden Quartal nicht 0,9 % zurückgehen, so dass sich im Durchschnitt des
+mit einer Ausweitung der Investitionsgüterproduktion Jahres 2024 ein Rückgang um 3,1 % ergibt.
+zu rechnen. Dafür spricht auch, dass die kurzfristigen Im kommenden Jahr werden die Unternehmens-
+Produktionserwartungen, die seit über einem Jahr investitionen wohl zunächst abwärtsgerichtet blei-
+rückläufig sind, im November erneut negativ ausfie- ben. Insbesondere die Investitionen in Ausrüstungen
+len (– 2,1 Saldenpunkte). Zudem trübten sich die Ge- dürften vorerst nicht ausgeweitet werden. Hierfür
+schäftserwartungen der Investitionsgüterproduzen- spricht unter anderem, dass die Investitionsgüterher-
+ten im Oktober ein (– 19,7 Saldenpunkte) und gaben steller ihre Auftragslage bis zuletzt immer schlechter
+im November nochmals nach (– 24,0 Saldenpunkte). einschätzten. So ist die Auftragsreichweite laut ifo
+Auch die wirtschaftspolitische Unsicherheit, nach dem Konjunkturumfragen seit nunmehr zwei Jahren rück-
+von Baker et al. (2016) entwickelten Maß, die sich in läufig und liegt im laufenden Quartal bei 4,9 Mona-
+Deutschland bereits im Oktober auf einem historisch ten. Zudem sind derzeit 43,2 % der vom ifo Institut
+hohen Niveau befand, hat im November erneut zuge- befragten Hersteller von Investitionsgütern von Auf-
+nommen. Auch die ifo Geschäftsunsicherheit bewegt tragsmangel betroffen. Die Geschäftserwartungen
+sich seit Monaten auf hohem Niveau seitwärts. Den haben sich dementsprechend weiter verschlechtert
+Unternehmen fällt es damit weiterhin schwer, ihre und liegen nach – 12,7 Saldenpunkten im Oktober
+Geschäftsentwicklung für die kommenden Monate vor- bei – 17,5 Saldenpunkten im November. Auch sind die
+herzusagen. Im vierten Quartal dürften die privaten Erwartungen der Unternehmen insgesamt im Hinblick
+Ausrüstungsinvestitionen daher um 2 % zurückgehen. auf ihre Ausgaben für Investitionen in Ausrüstungen
+Auch für die gewerblichen Bauinvestitionen deu- für das Jahr 2025 negativ (– 8,4 Saldenpunkte). Mit
+ten die Konjunkturindikatoren auf einen Rückgang einem Saldo von – 5,5 Punkten sind die entsprechen-
+zum Jahresende hin. So bewerteten die Tiefbauun- den Investitionserwartungen im Verarbeitenden Ge-
+ternehmen ihre Geschäftslage nach einem Rückgang werbe ebenfalls negativ, wenngleich die Stimmung
+im Oktober im November mit – 0,9 Saldenpunkten hier aufwärtsgerichtet ist (vgl. Abb. 2.17). So ist der
+erstmals in diesem Jahr negativ. Zudem bewerten die Anteil an Unternehmen im Verarbeitenden Gewerbe,
+Unternehmen im Wirtschaftshochbau ihre Produkti- der für das kommenden Jahr weniger Investitionen
+onstätigkeit seit August immer schlechter, im Novem- in Ausrüstungen plant, kleiner als dies für die Inves-
+ber sank der Saldo erneut und liegt nun bei – 27,8 titionen im laufenden Jahr der Fall ist. Das negative
+Saldenpunkten. Für das laufende Quartal wird daher
+mit einem Rückgang der gewerblichen Bauinvestitio- Abb. 2.17
+nen um 0,5 % gerechnet. Investitionserwartungen im laufenden Jahr
+Die überwiegend negativen Signale über die Ent- Verarbeitenden Gewerbe
+wicklung der Unternehmensinvestitionen im vierten Software
+Forschung und Entwicklung
+Quartal spiegeln sich auch über alle Anlagegüter hin- 40 Saldo Ausrüstungen
+weg in den aktuellen ifo Investitionserwartungen für Bauten
+das laufende Jahr wider. Für die Investitionen insge- 20
+samt fielen sie von – 0,1 Saldenpunkten im Frühjahr
+0
+auf –9,0 Saldenpunkte im November. Besonders stark
+fiel die Korrektur im investitionsintensiven und für die –20
+Investitionsgüterproduktion zentralen Verarbeitenden
+Gewerbe aus. Während die Unternehmen im Früh- –40
+jahr noch von einer moderaten Ausweitung der Aus-
+–60
+rüstungsinvestitionen ausgingen (6,1 Saldenpunkte), 2020 2021 2022 2023 2024 2025
+deutet der aktuelle Saldo von – 9,2 Punkten auf einen Quelle: ifo Konjunkturumfragen. © ifo Institut
+32 ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024
+=== Seite 36
+IFO KONJUNKTURPROGNOSE WINTER 2024
+Vorzeichen verdeutlicht jedoch, dass auch im Verar- 2.10. TALSOHLE BEI DEN
+beitenden Gewerbe nicht mit einer Ausweitung der WOHNBAUINVESTITIONEN IN SICHT
+Ausrüstungsinvestitionen im kommenden Jahr zu
+rechnen ist. Im Sommerhalbjahr setzte sich der Rückgang der
+Im Einklang mit der schwachen Entwicklung der Wohnbauinvestitionen mit kräftigen – 2,8 % im zweiten
+Ausrüstungsinvestitionen dürfte sich auch der Zu- und – 0,6 % im dritten Quartal fort. Die Bauproduktion
+wachs der Investitionen in sonstige Anlagen zunächst im Hochbau liegt nach einem weiteren Rückgang im
+nicht beschleunigen. Darauf deuten auch die Investi- September (– 2,0 %) nun um fast 20 % unter dem Ni-
+tionserwartungen der Unternehmen hin, die für das veau des Jahres 2020. Hauptursache für die schlechte
+kommende Jahr zunächst keine Ausweitung der For- Lage ist eine mangelnde Nachfrage nach Wohnbauten.
+schungs- und Entwicklungsausgaben vorsehen. Mit So liegt der Anteil der Wohnbauunternehmen, die laut
+einem Saldo von –6,4 zeigen sich die Unternehmen ifo Konjunkturumfragen über Auftragsmangel klagen,
+für das Jahr 2025 allerdings etwas weniger pessimis- seit Jahresbeginn weitgehend unverändert bei etwa
+tisch als für das laufende Jahr. Eine Ausnahme hiervon 50 %. Dementsprechend sank auch die Auftragsreich-
+bilden die Investitionen in Software, die im Verarbei- weite der Unternehmen im November auf 3,1 Monate
+tenden Gewerbe im kommenden Jahr ausgeweitet und damit den niedrigsten Stand seit dem Jahr 2017.
+werden dürften (4,8 Saldenpunkte). Dazu hat auch die bis zuletzt hohe Anzahl an Auftrags-
+Schließlich dürften sich auch die Bauinvestitio- stornierungen beigetragen.
+nen der Unternehmen zunächst rückläufig entwickeln. Allerdings hat der Rückgang der Auftragseingänge
+Die Geschäftserwartungen sind im November sowohl im Wohnbau im Sommer offenbar ein Ende erreicht.
+im Tiefbau als auch im Hochbau deutlich negativ Im zweiten und dritten Quartal wurden Zuwächse
+(– 25,8 bzw. – 40,9 Saldenpunkte). Auch die Bauinves- von 2,6 % bzw. 0,6 % verzeichnet. Die Geschäftser-
+titionserwartungen im Verarbeitenden Gewerbe deu- wartungen der Wohnbauunternehmen haben sich seit
+ten mit einem Saldo von –22,0 Punkten für das kom- ihrem historischen Tiefstand zu Jahresbeginn (– 76,8
+mende Jahr auf weitere Rückgänge des gewerblichen Saldenpunkte im Februar) zwar erholt, befinden sich
+Baus hin. aber mit – 43,9 Punkten noch immer auf einem sehr
+Im Basisszenario dürften die anhaltend hohe niedrigen Niveau. Der Rückgang des Effektivzinssatzes
+Unsicherheit und die eingetrübten Standortperspek- für Wohnbaukredite seit Anfang August setzte sich bis
+tiven die Investitionstätigkeit im weiteren Prognose- zuletzt fort. Auch die neu abgeschlossenen Hypothe-
+verlauf dämpfen. Daher ist nicht mit einer Korrek- kenverträge verzeichnen seit Jahresbeginn gegenüber
+tur der Investitionspläne der Unternehmen für das dem Vorjahr deutliche Zuwächse, parallel dazu ist eine
+kommende Jahr zu rechnen. Vor dem Hintergrund zaghafte Belebung des nominalen Neugeschäftsvolu-
+der schwachen Binnennachfrage dürften somit die mens bei Wohnbaukrediten zu beobachten.
+Ausgaben für Ausrüstungs- und Bauinvestitionen Dennoch ist im laufenden Quartal noch nicht mit
+kontinuierlich zurückgehen und sich das Wachstum einem Anstieg der Wohnbauinvestitionen zu rechnen.
+der Investitionen in sonstige Anlagen verlangsamen. Zum einen dürfte sich die zuletzt schlechte Witterung
+Insgesamt werden die Unternehmensinvestitionen im negativ auf die Produktion auswirken. Zum anderen
+Jahr 2025 wohl erneut deutlich um 1,5 % zurückge- ist laut ifo Konjunkturumfragen die Produktionstätig-
+hen und im Jahr 2026 mit 0,1 % weitgehend stagnie- keit im November im Vergleich zu den vergangenen
+ren (vgl. Abb. 2.18). drei Monaten deutlich zurückgegangen und auch die
+Im Alternativszenario wird dagegen perspekti- Produktionserwartungen für die kommenden Monate
+visch mit einem langsamen Rückgang der wirtschafts-
+Abb. 2.18
+politischen Unsicherheit im kommenden Jahr gerech-
+Unternehmensinvestitionen
+net. Somit dürfte sich das Investitionsklima im kom- Preis-, saison-und kalenderbereinigter Verlauf
+menden Jahr aufhellen. Zudem wird ein deutlicher
+Verkettete Volumenangaben Laufende Rateᵃ
+Impuls von den sonstigen Anlageinvestitionen auf in Mrd. Euro in %
+115 8
+die Ausrüstungsinvestitionen erwartet. So wird un-
+Basisszenario Basisszenario
+terstellt, dass Forschungs- und Entwicklungsausgaben Alternativszenario Alternativszenario
+im Verarbeitenden Gewerbe zur Modernisierung von
+Produktionsprozessen führen oder neue Wertschöp- 110 4
+fungsprozesse initiieren, die einen Investitionsbedarf
+nach sich ziehen. Neben der sich erholenden Inlands-
+nachfrage dürften auch staatliche Maßnahmen wie 105 0
+die Förderung klimaneutraler Investitionen oder In-
+frastrukturinvestitionen den Standort Deutschland
+wieder attraktiver machen. In diesem Szenario wird
+100 –4
+für das kommende Jahr ein Rückgang der Unterneh- 2022 2023 2024 2025 2026
+mensinvestitionen um 0,4 % prognostiziert, im Jahr aVeränderung gegenüber dem Vorquartal.
+Quelle: Statistisches Bundesamt; Berechnungen desifoInstituts;
+2026 dürften sie mit 3,1 % deutlich zulegen. ab 4. Quartal 2024: Prognose des ifo Instituts. © ifo Institut
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 33
+=== Seite 37
+IFO KONJUNKTURPROGNOSE WINTER 2024
+sind im November stark negativ (– 30,5 Saldenpunkte). der Wohnungsbauunternehmen zu einer allmählichen
+Zudem verharrt die Geschäftslage der Unternehmen Erholung der Wohnungsbauinvestitionen ab dem Jahr
+auf niedrigem Niveau (– 43,5 Saldenpunkte). 2025 führen. Dabei wird angenommen, dass sich die
+Insbesondere dürften die weiterhin hohen Bau- Baukonjunktur im Basis- und im Alternativszenario
+preise einer raschen Ausweitung der realen Wohn- identisch entwickeln wird. Insgesamt wird für das Jahr
+bauinvestitionen zunächst noch entgegenstehen. Der 2024 ein Rückgang der Wohnbauinvestitionen um 5 %
+Preisindex für den Neubau von Wohngebäuden, der erwartet. Aufgrund des hohen statistischen Überhangs
+im Zeitraum von 2020 bis Anfang 2024 um fast 25 % dürften sie im kommenden Jahr nochmals um 1,1 %
+zunahm, setzte seinen Anstieg im ersten Halbjahr 2024 zurückgehen, bevor im Jahr 2026 mit 2,2 % erstmals
+fort, wenngleich sich die Raten mit 1,2 bzw. 1,3 % im seit dem Jahr 2020 wieder mit einem Anstieg der
+Vergleich zum Vorjahr deutlich verlangsamten. Wäh- Wohnbauinvestitionen zu rechnen ist (vgl. Abb. 2.20).
+rend der starke Preisdruck in den vergangenen Jahren
+vor allem durch die explosive Materialpreisdynamik 2.11. RÜSTUNGSINVESTITIONEN STÜTZEN
+dominiert wurde, leisteten die Materialkosten seit dem BRUTTOANLAGEINVESTITIONEN DEUTLICH
+Schlussquartal des Jahres 2023 im Vorjahresvergleich
+einen negativen Beitrag zu den Gesamtkosten. Da- Die öffentlichen Ausrüstungsinvestitionen entwickel-
+gegen legten nun in den ersten Quartalen des Jah- ten sich im Sommerhalbjahr nur schwach. Nach einem
+res die Arbeitskosten mit 6,6 % bzw. 5,4 % deutlich moderaten Anstieg im zweiten Quartal (1,7 %) gin-
+zu (vgl. Abb. 2.19). Die zunächst anhaltende Nachfra- gen sie im dritten Quartal deutlich zurück (– 11,0 %).
+geschwäche und die damit verbundene geringe Ka- Die Ausweitung der militärischen Beschaffung dürfte
+pazitätsauslastung sowie die in weiten Teilen noch damit zuletzt an Schwung verloren haben. In den
+immer rückläufigen Materialpreise deuten für den kommenden Quartalen dürfte sie sich aber wieder
+weiteren Prognoseverlauf zunächst auf eine zuneh- beschleunigen, da allein im Jahr 2024 ein Budget von
+mende Beruhigung der Preisdynamik hin. So waren insgesamt rund 72 Mrd. Euro aus dem Verteidigungs-
+die ifo Preiserwartungen für das Bauhauptgewerbe haushalt und dem Sondervermögen der Bundeswehr
+im November negativ. Insgesamt werden die Preise zur Verfügung stand, das wohl nicht vollständig aus-
+jedoch auf hohem Niveau verharren und erst gegen geschöpft wurde. Die Investitionen in Rüstungsgüter
+Ende des Prognosezeitraums wieder deutlicher anzie- dürften sich auch in den kommenden Jahren fortset-
+hen. Ursächlich hierfür sind die aufgrund des Fach- zen. Laut eines Berichts des Bundesministeriums der
+kräftemangels wohl weiter steigenden Arbeitskosten, Verteidigung ist für das Jahr 2025 der Abruf von mehr
+die im Wohnungsbau rund 50 % der gesamten Her- als 20 Mrd. Euro aus dem Sondervermögen geplant
+stellungskosten ausmachen. Ebenso ist aufgrund des (Bundesministerium der Verteidigung 2024). Zudem
+hohen Wohnungsbedarfs bei anziehender Nachfrage dürften Verteidigungsausgaben durch den bevorste-
+wieder mit höheren Gewinnmargen der Unternehmen henden Regierungswechsel in den USA weiter an Be-
+zu rechnen. Gemessen am Deflator der Wohnbauinves- deutung gewinnen. Dies dürfte sowohl im Basis- als
+titionen wird für das laufende Jahr ein Preisanstieg auch im Alternativszenario der Fall sein.
+von 2,8 % erwartet, in den kommenden beiden Jahren Auch die öffentlichen Bauinvestitionen gingen in
+dürften die Preise um 1,0 % bzw. 1,3 % expandieren. den vergangenen beiden Quartalen zurück (– 2,6 %
+Im weiteren Prognoseverlauf dürften sich die bzw. – 0,9 %). Insbesondere im öffentlichen Tiefbau,
+Finanzierungsbedingungen weiter entspannen. Die zu dem auch die Investitionen in das Schienennetz
+hohe Nachfrage nach Wohnraum, insbesondere in den zählen, entwickelten sich die Auftragseingänge zuletzt
+Ballungsräumen, dürfte in Verbindung mit der Stabi-
+Abb. 2.20
+lisierung der Baupreise sowie der freien Kapazitäten
+Wohnbauinvestitionen
+Preis-, saison-und kalenderbereinigter Verlauf
+Abb. 2.19
+Verkettete Laufende
+Kosten im Wohnbau Volumenangabenin Mrd. Euro Rateᵃin %
+64 2
+Gesamtkosten Materialkosten Arbeitskosten
+Veränderung gegen Vorjahr in %
+60 0
+25
+20
+15 56 –2
+10
+5 52 –4
+0
+–5 48 –6
+2022 2023 2024 2025 2026
+–10
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 aVeränderung gegenüber dem Vorquartal.
+Quelle: Statistisches Bundesamt; Berechnungen desifoInstituts;
+Quelle: Statistisches Bundesamt. © ifo Institut ab 4. Quartal 2024: Prognose des ifo Instituts. © ifo Institut
+34 ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024
+=== Seite 38
+IFO KONJUNKTURPROGNOSE WINTER 2024
+schwach; sie sind aber am aktuellen Rand weiterhin Getränke (+ 0,5 %). Dämpfend wirkten hingegen die
+aufwärtsgerichtet. Nach dem Bruch der Ampel-Ko- erneut rückläufigen Ausgaben für Gastronomie- und
+alition ist allerdings die Verwirklichung der für die Beherbergungsdienstleistungen (– 1,2 %), die sich auch
+kommenden Jahre geplanten Investitionen der Bahn, in der dortigen Umsatzentwicklung niederschlugen.
+die noch im Oktober mit Bundesmitteln in Höhe von Zwar konnte im Beherbergungsgewerbe preisberei-
+knapp 53 Mrd. Euro gerechnet hatte, ungewiss. Im nigt ein Umsatzplus von 1,5 % erzielt werden, aller-
+Basisszenario wird nicht davon ausgegangen, dass die dings verbuchte die Gastronomie einen Rückgang von
+Sanierung des Schienennetzes im kommenden Jahr 2,1 %, so dass im Gastgewerbe insgesamt der Umsatz
+wie geplant fortgesetzt werden kann. Eine verzögerte im dritten Quartal um 1,1 % zurückging. Dazu dürfte
+Haushaltsverabschiedung dürfte vielmehr zu einer auch die kräftige Teuerung im Gastgewerbe beigetra-
+Verschiebung dieses und anderer Großprojekte führen. gen haben. Besonders deutlich stiegen die Preise in
+Im Alternativszenario wird dagegen von einem raschen der Gastronomie mit 6,7 % im Vergleich zum Vorjahr,
+Kompromiss in Haushaltsfragen ausgegangen. Zudem aber auch die Preise für Beherbergungsdienstleistun-
+dürften die staatlichen Investitionen in Infrastruktur- gen lagen zuletzt knapp 4 % höher als ein Jahr zuvor.
+projekte über die Schiene hinaus ausgeweitet werden. Insgesamt allerdings ließ die Inflation weiter nach
+Insgesamt dürften die gesamten Bruttoanlage- und lag im dritten Quartal bei nur noch 1,9 %. Damit
+investitionen, die die Unternehmensinvestitionen, setzten die real verfügbaren Einkommen der privaten
+die Wohnbauinvestitionen und die öffentlichen In- Haushalte ihren Anstieg fort und die Kaufkraft kehrte
+vestitionen zusammenfassen, im laufenden Jahr um zunehmend zurück. Auch das GfK-Konsumklima der
+2,9 % zurückgehen. Im Basisszenario wird für das kom- Verbraucher und das ifo Geschäftsklima der konsum-
+mende Jahr ein Rückgang der Bruttoanlageinvestitio- nahen Dienstleister und des Einzelhandels setzten
+nen um 0,7 % erwartet. Im Jahr 2026 dürften sie dann ihren Erholungskurs langsam fort, wenngleich die
+um 1,5 % steigen. Im Alternativszenario werden die mit beiden Indikatoren gemessene Stimmung immer
+Bruttoanlageinvestitionen dagegen im kommenden noch deutlich schlechter ist als im langjährigen Durch-
+Jahr wohl leicht um 0,3 % und im Jahr 2026 deutlich schnitt. Die gestiegene Kaufkraft schlug sich auch im
+um 3,5 % zunehmen. Dabei ist zu beachten, dass die Einzelhandel nieder, der im abgelaufenen Quartal ein
+Wachstumsraten in beiden Szenarien ohne die Ver- Umsatzplus von 1,2 % verzeichnete. Davon profitierte
+teidigungsinvestitionen der öffentlichen Hand jeweils insbesondere der Einzelhandel mit Nahrungsmitteln,
+deutlich niedriger ausfallen würden (vgl. Tab. 2.10). Getränken und Tabakwaren sowie der Einzelhandel
+mit Haushaltsgeräten, Textilien, Heimwerker- und Ein-
+2.12. KONSUMKONJUNKTUR STABILISIERT SICH richtungsbedarf – beides Einzelhandelssparten, die
+noch bis zur Jahresmitte eine rückläufige Umsatzent-
+Der private Konsum legte im dritten Quartal mit ei- wicklung verzeichneten. Ein Großteil des Umsatzzu-
+ner Rate von 0,3 % spürbar zu. Haupttreiber waren wachses war auf den starken Onlinehandel zurückzu-
+die Ausgaben für Gesundheit (+ 1,9 %), für Versiche- führen, der im Vergleich zum zweiten Quartal sogar
+rungs- und Finanzdienstleistungen, andere Waren um 6,4 % zulegen konnte. Ohne Berücksichtigung des
+und Dienstleistungen (+ 1,0 %), sowie für Alkoholische Online- und Nahrungsmitteleinzelhandels belief sich
+Getränke, Tabakwaren und Drogen (+ 0,9 %), Beklei- das Umsatzplus im Einzelhandel für das vergangene
+dung (+ 0,9 %) und Nahrungsmittel und alkoholfreie Quartal auf 0,6 %.
+Tab. 2.10
+Reale Bruttoanlageinvestitionen
+Veränderungen gegenüber Vorjahr in %
+Anteile in %a 2023 2024 2025 2026
+Basis- Alternativ- Basis- Alternativ-
+szenrio szenario szenrio szenario
+Unternehmensinvestitionen 58,2 0,3 –3,1 –1,6 –0,4 0,1 3,1
+Ausrüstungen 29,9 –0,9 –6,5 –4,3 –2,5 –0,6 3,4
+Nichtwohnbauten 11,1 –4,1 –3,3 –1,2 –0,9 –0,4 0,9
+Sonstige Anlagen 17,3 6,2 4,8 2,7 3,6 1,7 4,2
+Öffentliche Investitionen 12,9 2,7 0,1 6,3 10,4 4,5 5,6
+Ausrüstungen 2,9 –0,4 0,7 20,3 20,3 20,9 20,9
+Nichtwohnbauten 7,2 –4,8 1,8 –1,1 2,6 0,1 4,5
+Sonstige Anlagen 2,9 –2,7 0,5 1,4 1,7 1,0 3,0
+Wohnbauinvestitionen 29,0 –4,1 –5,0 –1,1 –1,1 2,2 2,2
+Bruttoanlageinvestitionen 100 –1,2 –2,9 –0,7 0,3 1,5 3,5
+a Bezogen auf das Jahr 2023.
+Quelle: Statistisches Bundesamt; 2024 bis 2026: Prognose des ifo Instituts. © ifo Institut Dez. 2024
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 35
+=== Seite 39
+IFO KONJUNKTURPROGNOSE WINTER 2024
+Mit der Fußballeuropameisterschaft war vielfach Jahresende auf 1,5 % belaufen. Damit dürften die real
+die Hoffnung auf einen konjunkturellen Impuls ver- verfügbaren Einkommen im Jahr 2024 insgesamt um
+bunden. Dieser dürfte sich jedoch weitgehend auf 1,4 % zugelegt haben. In den kommenden beiden Jah-
+die Dienstleistungsexporte beschränkt haben (vgl. ren verlangsamen sich die Realeinkommenszuwächse
+Box »Zu den Auswirkungen der Fußballeuropameis- dann auf 0,5 % und 0,6 %, was in Verbindung mit ei-
+terschaft 2024 auf die Dienstleistungsexporte«). Daher ner nur langsam sinkenden Sparquote zu einer rela-
+war in der ifo Konjunkturprognose Sommer 2024 – tiv moderaten Konsumkonjunktur beitragen dürfte.
+auch vor dem Hintergrund der einschlägigen Literatur Die Einkommenszuwächse werden unter anderem
+(Dorn et al. 2024 und den dortigen Literaturüberblick) von den Zuwächsen der Bruttolöhne und -gehälter
+– richtigerweise davon ausgegangenen worden, dass (2024: + 5,2 %; 2025: + 2,4 %; 2026: + 2,9 %) sowie den
+bei den privaten Konsumausgaben insgesamt wohl Zuwächsen der monetären Sozialleistungen (2024:
+keine Auswirkungen zu erwarten sein dürften. Zwar + 6,1 %; 2025: + 4,6 %; 2026: + 3,9 %) getragen. Alles
+ist nicht auszuschließen, dass die Fußballeuropameis- in allem dürfte der private Konsum im Jahresschluss-
+terschaft in einigen Konsumsparten einer noch schwä- quartal noch einmal um 0,3 % zulegen und diese Dy-
+cheren Dynamik der Umsätze und Konsumausgaben namik auch in den Folgequartalen halten, bevor sich
+entgegengewirkt hat. Allerdings dürften insbesondere die Konsumkonjunktur ab Mitte 2025 etwas abschwä-
+die bisherigen Bremskräfte des Konsums im Zusam- chen dürfte (vgl. Abb. 2.21). Im Jahr 2024 dürften die
+menhang mit der Fußballeuropameisterschaft weit- privaten Konsumausgaben daher insgesamt in etwa
+gehend unberührt geblieben sein. stagnieren (+ 0,1 %). In den Folgejahren dürften sie
+So verpuffte ein Großteil des Kaufkraftplus durch mit 0,7 % (2025) und 0,9 % (2026) dann etwas stärker
+eine zunehmende Sparneigung. Im dritten Quartal expandieren.
+2024 stieg die Sparquote um 0,4 Prozentpunkte im Im Alternativszenario zeichnet sich eine dyna-
+Vergleich zum Vorquartal auf 11,8 % des verfügbaren mischere Konsumkonjunktur ab. Zum einen wird un-
+Einkommens. Dies war der sechste Anstieg in Folge. terstellt, dass bei geringerer wirtschaftspolitischer
+Eine ähnlich hohe Sparneigung wurde in der jüngeren Unsicherheit und einem höheren Beschäftigungs-
+Vergangenheit zuletzt während der Corona-Pandemie stand die Sparquote der privaten Haushalte zügiger
+und nach der Wiedervereinigung in den Jahren 1991 zurückgeht als im Basisszenario und im Jahr 2026 bei
+bis 1996 gemessen. 10,6 % liegen wird. Andererseits dürfte ein größeres
+Im Basisszenario wird für den weiteren Progno- Plus bei den verfügbaren Einkommen einen stärke-
+severlauf unterstellt, dass die Sparquote aufgrund ren Anstieg der Kaufkraft begünstigen. Im Vergleich
+anhaltender wirtschaftspolitischer Unsicherheiten, zum Basisszenario stehen den privaten Haushalten bei
+höherer Arbeitslosigkeit und einer schwächeren Ge- gleicher Teuerung in den kommenden beiden Jahren
+samtwirtschaft nur allmählich wieder zurückgehen ein um 0,2 bzw. 0,4 Prozentpunkte höherer Einkom-
+wird. Bis zum Ende des laufenden Jahres dürfte die menszuwachs zur Verfügung, was insbesondere auf
+Sparquote auf 11,5 % und in den beiden Folgejahren einen stärkeren Anstieg der Bruttolöhne und -gehäl-
+auf jahresdurchschnittlich 11,2 % beziehungsweise ter zurückzuführen ist (2025: + 2,9 %; 2026: + 3,6 %).
+10,9 % sinken. Gleichzeitig profitieren die privaten Zudem dürften eine höhere Beschäftigungsquote äl-
+Haushalte auch im weiteren Prognosezeitraum von terer Jahrgänge, aber auch ein stärkerer Anstieg der
+Zuwächsen der verfügbaren Einkommen. Bei einem Arbeitszeit je Beschäftigtem (etwa durch flexiblere
+erwarteten Anstieg von 3,6 % im Vergleich zum Vor- Arbeitszeitmodelle) die Konsumausgaben stützen und
+jahr dürfte sich der reale Einkommenszuwachs am damit einen dynamischeren Konsum begünstigen.
+Insgesamt dürften die privaten Konsumausgaben im
+Abb. 2.21
+Alternativszenario in den Jahren 2025 und 2026 mit
+Konsumausgaben der privaten Haushalteᵃ
+Preis-, saison-und kalenderbereinigter Verlauf Raten von 1,2 und 1,3 % zulegen.
+Verkettete Volumenangaben Laufende Rateᵇ
+in Mrd. Euro in % 2.13. STAATSKONSUM IM AUFWÄRTSTREND
+500 3
+Basisszenario Basisszenario
+Alternativszenario Alternativszenario
+Nachdem der reale Staatskonsum in den vergangenen
+490 2
+beiden Jahren trotz nachlassender coronabedingter
+480 1 Mehrausgaben stagnierte, wird er im Jahr 2024 wieder
+kräftig wachsen. Dies ist zum einen auf den relativ ho-
+470 0 hen statistischen Überhang aus dem Vorjahr zurück-
+zuführen, zum anderen aber auch auf die dynamische
+460 –1 Entwicklung der staatlichen Vorleistungen und sozi-
+alen Sachleistungen, vor allem in der ersten Jahres-
+450 –2
+hälfte. Bei den Vorleistungen werden unter anderem
+2022 2023 2024 2025 2026
+aEinschließlich privater Organisationen ohne Erwerbszweck. konsumtive Ausgaben im Rahmen des Sondervermö-
+bVeränderung gegenüber dem Vorquartal. gens Bundeswehr verortet. Bei den sozialen Sach-
+Quelle: Statistisches Bundesamt; Berechnungen desifoInstituts;
+ab4. Quartal 2024: Prognose des ifo Instituts. © ifo Institut leistungen schlägt sich der im ersten Halbjahr hohe
+36 ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024
+=== Seite 42
+IFO KONJUNKTURPROGNOSE WINTER 2024
+weiter steigen, so dass die Arbeitslosigkeit im Durch- turell bedingter Kurzarbeit im September bei 268 000
+schnitt des Jahres 2024 um 180 000 über dem Vorjah- und damit um 116 000 höher als im Vorjahresmonat,
+resniveau gelegen haben dürfte. wobei mehr als 80 % auf das Verarbeitende Gewerbe
+Im Basisszenario dürfte die Zahl der Arbeitslosen entfallen. Im langjährigen Vergleich liegt die Kurzar-
+im kommenden Jahr zunächst weiter steigen und zur beit damit auf einem erhöhten Niveau. Dennoch hat
+Jahresmitte 2025 die Marke von 3 Mio. erreichen, ehe sie weiterhin nur einen geringen Einfluss auf das ge-
+sie in der Folge mit sehr geringem Tempo wieder ab- samtwirtschaftliche Arbeitsvolumen und ist weit von
+gebaut werden dürfte. Dabei kommt auch zum Tragen, den Rekordständen während der Pandemie entfernt.
+dass die Reallokation von im Verarbeitenden Gewerbe Sowohl die in den vergangenen Monaten bei den Ar-
+freigesetzten Arbeitskräften in andere Wirtschafts- beitsagenturen eingegangenen Anzeigen als auch die
+bereiche nur langsam und unvollständig vonstatten- Ergebnisse der ifo Konjunkturumfragen legen nahe,
+gehen dürfte. Auf Jahressicht dürfte die registrierte dass das Ausmaß der Kurzarbeit am aktuellen Rand
+Arbeitslosigkeit im Jahr 2025 um 171 000 steigen und und in den kommenden Monaten weiter leicht steigen
+im Jahr 2026 um nur 56 000 sinken. Folglich läge die dürfte (ifo Institut 2024b).
+Arbeitslosenquote nach Definition der Bundesagen- Die in den Volkswirtschaftlichen Gesamtrech-
+tur für Arbeit in den Jahren 2025 und 2026 bei 6,3 % nungen ausgewiesene durchschnittliche Arbeitszeit
+bzw. 6,2 % nach 6,0 % im laufenden Jahr (vgl. Tab. liegt seit dem Jahr 2022 insbesondere aufgrund eines
+2.11). Im Alternativszenario beginnt die Arbeitslosig- historisch betrachtet außerordentlich hohen Kran-
+keit bereits ab dem zweiten Quartal 2025 wieder zu kenstandes deutlich unter ihrem langjährigen Trend-
+sinken und dürfte anschließend im Zuge der allmähli- niveau. Dies ist einerseits auf eine gestiegene Zahl an
+chen Überwindung der hier als temporär unterstellten Atemwegsinfektionen zurückzuführen. Andererseits
+Schwächephase deutlicher zurückgehen. Neben der dürfte ein Großteil des Anstieges auf eine vollstän-
+in diesem Szenario geringeren Notwendigkeit der Re- digere Erfassung des Krankenstandes im Zuge der
+allokation von freigesetzten Arbeitskräften dürfte dies Einführung der elektronischen Arbeitsunfähigkeitsmel-
+vor allem auf einen Rückgang der Arbeitslosigkeit im dung (e-AU) seit 2022 zurückzuführen sein, während
+Rechtskreis des SGB III zurückgehen, welche in der die Möglichkeit zur telefonischen Krankschreibung
+Regel geringere Vermittlungshemmnisse aufweisen. hierfür eher nicht ursächlich sein dürfte (Ziebarth und
+Entsprechend nimmt die Zahl der Arbeitslosen im Pichler 2024). Auch für das laufende Quartal deuten
+Alternativszenario im Jahr 2025 nur um 44 000 Per- die Daten der gesetzlichen Krankenversicherungen
+sonen zu und fällt im Jahr 2026 um 223 000. Die jah- und des »GrippeWebs« des Robert Koch Instituts wie-
+resdurchschnittlichen Arbeitslosenquoten betragen der auf einen weiteren spürbaren Anstieg des Kran-
+dann 6,1 und 5,6 %. kenstandes hin. Infolgedessen dürfte die Arbeitszeit
+Die Kurzarbeit hat in den vergangenen Monaten je Arbeitnehmer im laufenden Jahr um 0,3 % zurück-
+spürbar an Bedeutung gewonnen. Laut Bundesagen- gegangen sein. Bis zum Ende des Prognosezeitraums
+tur für Arbeit lag die Zahl der Personen in konjunk- dürfte der Krankenstand allmählich wieder zurück-
+Tab. 2.11
+Arbeitsmarktbilanz
+Jahresdurchschnitte in 1 000 Personen
+2023 2024 2025 2026
+Basis- Alternativ- Basis- Alternativ-
+szenario szenario szenario szenario
+Arbeitsvolumen (Mio. Stunden) 61 437 61 315 61 325 61 570 61 725 62 214
+Erwerbstätige im Inland 46 011 46 106 46 027 46 113 46 097 46 280
+Arbeitnehmer 42 163 42 285 42 235 42 317 42 338 42 508
+darunter
+SV Beschäftigte 34 790 34 928 34 957 35 010 35 094 35 211
+Geringfügig Beschäftigte 4 198 4 182 4 133 4 156 4 114 4 162
+Selbständige 3 847 3 821 3 792 3 796 3 759 3 772
+Pendlersaldo –210 –200 –197 –197 –197 –197
+Erwerbstätige Inländer 45 801 45 906 45 831 45 917 45 900 46 084
+Arbeitslose 2 609 2 788 2 959 2 833 2 903 2 610
+Arbeitslosenquote BAa 5,7 6,0 6,3 6,1 6,2 5,6
+Erwerbsloseb 1 335 1 537 1 623 1 554 1 592 1 431
+Erwerbslosenquotec 2,8 3,2 3,4 3,3 3,4 3,0
+a Arbeitslose in % der zivilen Erwerbspersonen (Definition gemäß Bundesagentur für Arbeit). b Definition der ILO. c Erwerbslose in % der inländischen Erwerbspersonen
+(Erwerbstätige Inländer plus Erwerbslose).
+Quelle: Statistisches Bundesamt; Bundesagentur für Arbeit; 2024 bis 2026: Prognose des ifo Instituts. © ifo Institut Dez. 2024
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 39
+=== Seite 56
+IFO KONJUNKTURPROGNOSE WINTER 2024
+6. Tabellenanhang
+Hauptaggregate der Sektoren
+Mrd. EUR
+2024
+Nicht-
+finanzielle Private
+Gegenstand der Nachweisung Gesamte und Haushalte
+Volkswirt- Staat Übrige Welt
+finanzielle und private
+schaft
+Kapitalge- Org. o. E.
+sellschaften
+S 1 S 11/S12 S 13 S 14/S 15 S 2
+1 = Bruttowertschöpfung 3 898,3 2 626,0 463,9 808,4 -
+2 – Abschreibungen 891,0 491,2 119,5 280,3 -
+3 = Nettowertschöpfung 1) 3 007,3 2 134,8 344,3 528,1 – 182,5
+4 – Geleistete Arbeitnehmerentgelte 2 335,7 1 697,5 352,0 286,2 20,0
+5 – Geleistete sonstige Produktionsabgaben 40,8 30,0 0,3 10,5 -
+6 + Empfangene sonstige Subventionen 57,2 54,9 0,1 2,2 -
+7 = Betriebsüberschuss/Selbstständigeneinkommen 688,0 462,3 –7,9 233,6 –202,5
+8 + Empfangene Arbeitnehmerentgelte 2 339,9 - - 2 339,9 15,7
+9 – Geleistete Subventionen 52,4 - 52,4 - 5,2
+10 + Empfangene Produktions- und Importabgaben 440,2 - 440,2 - 5,2
+11 – Geleistete Vermögenseinkommen 1 074,5 983,0 45,5 46,0 422,4
+12 + Empfangene Vermögenseinkommen 1 217,1 701,0 32,7 483,4 279,8
+13 = Primäreinkommen (Nettonationaleinkommen) 3 558,4 180,3 367,2 3 010,9 –329,3
+14 – Geleistete Einkommen- und Vermögensteuern 537,6 129,5 - 408,1 14,7
+15 + Empfangene Einkommen- und Vermögensteuern 551,5 - 551,5 - 0,7
+16 – Geleistete Nettosozialbeiträge 2) 908,6 - - 908,6 3,6
+17 + Empfangene Nettosozialbeiträge 2) 907,2 157,4 749,0 0,8 5,0
+18 – Geleistete monetäre Sozialleistungen 785,7 84,6 700,2 0,8 0,7
+19 + Empfangene monetäre Sozialleistungen 775,5 - - 775,5 10,9
+20 – Geleistete sonstige laufende Transfers 456,2 268,1 89,1 99,0 97,3
+21 + Empfangene sonstige laufende Transfers 399,0 235,3 31,2 132,5 154,5
+22 = Verfügbares Einkommen (Ausgabenkonzept) 3 503,5 90,9 909,5 2 503,1 –274,5
+23 – Konsumausgaben 3 215,5 - 947,4 2 268,1 -
+24 + Zunahme betrieblicher Versorgungsansprüche - –57,8 - 57,8 -
+25 = Sparen 288,1 33,1 –37,9 292,9 –274,5
+26 – Geleistete Vermögenstransfers 114,5 13,9 84,7 15,9 7,1
+27 + Empfangene Vermögenstransfers 91,9 52,0 20,2 19,7 29,6
+28 – Bruttoinvestitionen 904,6 504,3 124,1 276,2 -
+29 + Abschreibungen 891,0 491,2 119,5 280,3 -
+30 – Nettozugang an nichtprod. Vermögensgütern 15,2 15,4 – 0,5 0,3 –15,2
+31 = Finanzierungssaldo 236,8 42,8 –106,4 300,4 –236,8
+Nachrichtlich:
+34 Verfügbares Einkommen (Ausgabenkonzept) 3 503,5 90,9 909,5 2 503,1 –274,5
+35 – Geleistete soziale Sachtransfers 591,5 - 591,5 - -
+36 + Empfangene soziale Sachtransfers 591,5 - - 591,5 -
+37 = Verfügbares Einkommen (Verbrauchskonzept) 3 503,5 90,9 318,0 3 094,7 –274,5
+38 – Konsum 3) 3 215,5 - 355,9 2 859,6 -
+39 + Zunahme betrieblicher Versorgungsansprüche - –57,8 - 57,8 -
+40 = Sparen 288,1 33,1 –37,9 292,9 –274,5
+1) Für den Sektor übrige Welt Importe abzügl. Exporte aus der bzw. an die übrige Welt. 2) Sozialbeiträge einschl. Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleis-
+tungsentgelt privater Sozialschutzsysteme. 3) Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte undprivate Organisationen o. E. Individualkonsum
+(einschl. Konsumausgaben des Staates für den Individualverbrauch, d.h. einschl. sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt; 2024 bis 2026: Prognose des ifo Instituts.
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 53
+=== Seite 57
+IFO KONJUNKTURPROGNOSE WINTER 2024
+Hauptaggregate der Sektoren
+Mrd. EUR
+2025 (Basisszenario)
+Nicht-
+finanzielle Private
+Gegenstand der Nachweisung Gesamte und Haushalte
+Volkswirt- Staat Übrige Welt
+finanzielle und private
+schaft
+Kapitalge- Org. o. E.
+sellschaften
+S 1 S 11/S 12 S 13 S 14/S 15 S 2
+1 = Bruttowertschöpfung 3 998,8 2 697,6 480,5 820,7 -
+2 – Abschreibungen 919,9 511,2 124,4 284,4 -
+3 = Nettowertschöpfung 1) 3 078,9 2 186,4 356,1 536,4 –155,7
+4 – Geleistete Arbeitnehmerentgelte 2 399,0 1 741,4 363,3 294,3 20,5
+5 – Geleistete sonstige Produktionsabgaben 48,1 35,6 0,3 12,3 -
+6 + Empfangene sonstige Subventionen 52,5 50,2 0,1 2,2 -
+7 = Betriebsüberschuss/Selbstständigeneinkommen 684,3 459,7 –7,4 232,0 –176,3
+8 + Empfangene Arbeitnehmerentgelte 2 403,6 - - 2 403,6 16,0
+9 – Geleistete Subventionen 47,4 - 47,4 - 5,2
+10 + Empfangene Produktions- und Importabgaben 459,9 - 459,9 - 5,4
+11 – Geleistete Vermögenseinkommen 969,1 878,6 48,9 41,5 379,4
+12 + Empfangene Vermögenseinkommen 1 115,5 570,2 33,0 512,3 233,0
+13 = Primäreinkommen (Nettonationaleinkommen) 3 646,8 151,2 389,2 3 106,4 –306,5
+14 – Geleistete Einkommen- und Vermögensteuern 555,9 129,6 - 426,2 14,9
+15 + Empfangene Einkommen- und Vermögensteuern 570,0 - 570,0 - 0,7
+16 – Geleistete Nettosozialbeiträge 2) 966,9 - - 966,9 3,8
+17 + Empfangene Nettosozialbeiträge 2) 965,4 179,2 785,4 0,8 5,3
+18 – Geleistete monetäre Sozialleistungen 821,6 86,3 734,5 0,8 0,8
+19 + Empfangene monetäre Sozialleistungen 811,2 - - 811,2 11,2
+20 – Geleistete sonstige laufende Transfers 459,5 273,4 94,0 92,1 100,9
+21 + Empfangene sonstige laufende Transfers 406,8 240,0 31,0 135,7 153,6
+22 = Verfügbares Einkommen (Ausgabenkonzept) 3 596,2 81,0 947,2 2 568,1 –256,0
+23 – Konsumausgaben 3 316,7 - 983,0 2 333,7 -
+24 + Zunahme betrieblicher Versorgungsansprüche - –58,7 - 58,7 -
+25 = Sparen 279,5 22,3 –35,8 293,1 –256,0
+26 – Geleistete Vermögenstransfers 100,4 14,2 69,9 16,3 7,2
+27 + Empfangene Vermögenstransfers 85,5 44,1 21,3 20,1 22,1
+28 – Bruttoinvestitionen 943,5 536,0 127,5 280,0 -
+29 + Abschreibungen 919,9 511,2 124,4 284,4 -
+30 – Nettozugang an nichtprod. Vermögensgütern 15,4 15,5 –0,5 0,4 –15,4
+31 = Finanzierungssaldo 225,7 11,8 –87,0 301,0 –225,7
+Nachrichtlich:
+34 Verfügbares Einkommen (Ausgabenkonzept) 3 596,2 81,0 947,2 2 568,1 –256,0
+35 – Geleistete soziale Sachtransfers 619,4 - 619,4 - -
+36 + Empfangene soziale Sachtransfers 619,4 - - 619,4 -
+37 = Verfügbares Einkommen (Verbrauchskonzept) 3 596,2 81,0 327,8 3 187,4 –256,0
+38 – Konsum 3) 3 316,7 - 363,6 2 953,1 -
+39 + Zunahme betrieblicher Versorgungsansprüche - –58,7 - 58,7 -
+40 = Sparen 279,5 22,3 –35,8 293,1 –256,0
+1) Für den Sektor übrige Welt Importe abzügl. Exporte aus der bzw. an die übrige Welt. 2) Sozialbeiträge einschl. Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleis-
+tungsentgelt privater Sozialschutzsysteme. 3) Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte und private Organisationen o. E. Individualkon-
+sum (einschl. Konsumausgaben des Staats für den Individualverbrauch, d.h. einschl. sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt; 2024 bis 2026: Prognose des ifo Instituts.
+54 ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024
+=== Seite 58
+IFO KONJUNKTURPROGNOSE WINTER 2024
+Hauptaggregate der Sektoren
+Mrd. EUR
+2026 (Basisszenario)
+Nicht-
+finanzielle Private
+Gegenstand der Nachweisung Gesamte und Haushalte
+Volkswirt- Staat Übrige Welt
+finanzielle und private
+schaft
+Kapitalge- Org. o. E.
+sellschaften
+S 1 S 11/S 12 S 13 S 14/S 15 S 2
+1 = Bruttowertschöpfung 4 117,3 2 779,8 495,5 841,9 -
+2 – Abschreibungen 944,1 525,9 128,4 289,8 -
+3 = Nettowertschöpfung 1) 3 173,1 2 254,0 367,1 552,1 –144,8
+4 – Geleistete Arbeitnehmerentgelte 2 470,5 1 793,3 374,2 303,1 21,0
+5 – Geleistete sonstige Produktionsabgaben 50,7 38,0 0,3 12,4 -
+6 + Empfangene sonstige Subventionen 53,4 51,1 0,1 2,2 -
+7 = Betriebsüberschuss/Selbstständigeneinkommen 705,4 473,8 –7,3 238,9 –165,8
+8 + Empfangene Arbeitnehmerentgelte 2 475,3 - - 2 475,3 16,2
+9 – Geleistete Subventionen 48,4 - 48,4 - 5,2
+10 + Empfangene Produktions- und Importabgaben 474,0 - 474,0 - 5,5
+11 – Geleistete Vermögenseinkommen 970,3 879,9 50,1 40,3 367,2
+12 + Empfangene Vermögenseinkommen 1 121,2 595,7 33,2 492,2 216,4
+13 = Primäreinkommen (Nettonationaleinkommen) 3 757,2 189,6 401,5 3 166,1 –300,2
+14 – Geleistete Einkommen- und Vermögensteuern 566,3 131,4 - 434,9 15,1
+15 + Empfangene Einkommen- und Vermögensteuern 580,5 - 580,5 - 0,8
+16 – Geleistete Nettosozialbeiträge 2) 992,5 - - 992,5 4,0
+17 + Empfangene Nettosozialbeiträge 2) 990,9 182,7 807,4 0,8 5,6
+18 – Geleistete monetäre Sozialleistungen 853,2 88,0 764,3 0,8 0,8
+19 + Empfangene monetäre Sozialleistungen 842,8 - - 842,8 11,2
+20 – Geleistete sonstige laufende Transfers 478,2 278,9 105,5 93,9 105,0
+21 + Empfangene sonstige laufende Transfers 416,5 244,8 31,2 140,5 166,7
+22 = Verfügbares Einkommen (Ausgabenkonzept) 3 697,7 118,8 950,8 2 628,2 –240,7
+23 – Konsumausgaben 3 411,0 - 1 014,5 2 396,5 -
+24 + Zunahme betrieblicher Versorgungsansprüche - –60,0 - 60,0 -
+25 = Sparen 286,7 58,8 –63,8 291,7 –240,7
+26 – Geleistete Vermögenstransfers 101,9 14,5 70,8 16,6 7,4
+27 + Empfangene Vermögenstransfers 87,1 44,5 22,0 20,6 22,2
+28 – Bruttoinvestitionen 990,2 568,8 131,3 290,2 -
+29 + Abschreibungen 944,1 525,9 128,4 289,8 -
+30 – Nettozugang an nichtprod. Vermögensgütern 15,4 15,6 –0,5 0,3 –15,4
+31 = Finanzierungssaldo 210,4 30,3 –114,9 295,0 –210,4
+Nachrichtlich:
+34 Verfügbares Einkommen (Ausgabenkonzept) 3 697,7 118,8 950,8 2 628,2 –240,7
+35 – Geleistete soziale Sachtransfers 646,4 - 646,4 - -
+36 + Empfangene soziale Sachtransfers 646,4 - - 646,4 -
+37 = Verfügbares Einkommen (Verbrauchskonzept) 3 697,7 118,8 304,4 3 274,5 –240,7
+38 – Konsum 3) 3 411,0 - 368,1 3 042,9 -
+39 + Zunahme betrieblicher Versorgungsansprüche - –60,0 - 60,0 -
+40 = Sparen 286,7 58,8 –63,8 291,7 –240,7
+1) Für den Sektor übrige Welt Importe abzügl. Exporte aus der bzw. an die übrige Welt. – 2) Sozialbeiträge einschl. Sozialbeiträge aus Kapitalerträgen abzüglich Dienst-
+leistungsentgelt privater Sozialschutzsysteme. – 3) Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte und private Organisationen o. E. Individual-
+konsum (einschl. Konsumausgaben des Staats für den Individualverbrauch, d.h. einschl. sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt; 2024 bis 2026: Prognose des ifo Instituts.
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 55
+=== Seite 59
+IFO KONJUNKTURPROGNOSE WINTER 2024
+Hauptaggregate der Sektoren
+Mrd. EUR
+2025 (Alternativszenario)
+Nicht-
+finanzielle Private
+Gegenstand der Nachweisung Gesamte und Haushalte
+Volkswirt- Staat Übrige Welt
+finanzielle und private
+schaft
+Kapitalge- Org. o. E.
+sellschaften
+S 1 S 11/S 12 S 13 S 14/S 15 S 2
+1 = Bruttowertschöpfung 4 025,4 2 722,1 480,5 822,8 -
+2 – Abschreibungen 920,2 511,3 124,4 284,5 -
+3 = Nettowertschöpfung 1) 3 105,2 2 210,9 356,1 538,3 –168,7
+4 – Geleistete Arbeitnehmerentgelte 2 410,4 1 751,4 363,3 295,7 20,6
+5 – Geleistete sonstige Produktionsabgaben 48,1 35,6 0,3 12,3 -
+6 + Empfangene sonstige Subventionen 52,5 50,2 0,1 2,2 -
+7 = Betriebsüberschuss/Selbstständigeneinkommen 699,3 474,1 –7,4 232,5 –189,3
+8 + Empfangene Arbeitnehmerentgelte 2 414,9 - - 2 414,9 16,1
+9 – Geleistete Subventionen 47,4 - 47,4 - 5,2
+10 + Empfangene Produktions- und Importabgaben 461,4 - 461,4 - 5,4
+11 – Geleistete Vermögenseinkommen 988,6 898,2 48,9 41,5 388,3
+12 + Empfangene Vermögenseinkommen 1 136,2 590,8 33,0 512,4 240,8
+13 = Primäreinkommen (Nettonationaleinkommen) 3 675,6 166,7 390,6 3 118,2 –320,4
+14 – Geleistete Einkommen- und Vermögensteuern 557,7 129,5 - 428,3 14,9
+15 + Empfangene Einkommen- und Vermögensteuern 571,9 - 571,9 - 0,7
+16 – Geleistete Nettosozialbeiträge 2) 970,3 - - 970,3 3,8
+17 + Empfangene Nettosozialbeiträge 2) 968,8 179,2 788,8 0,8 5,3
+18 – Geleistete monetäre Sozialleistungen 820,2 86,3 733,0 0,8 0,8
+19 + Empfangene monetäre Sozialleistungen 809,8 - - 809,8 11,2
+20 – Geleistete sonstige laufende Transfers 459,5 273,4 94,0 92,1 100,9
+21 + Empfangene sonstige laufende Transfers 406,8 240,0 31,0 135,7 153,6
+22 = Verfügbares Einkommen (Ausgabenkonzept) 3 625,0 96,7 955,3 2 573,0 –269,9
+23 – Konsumausgaben 3 324,7 - 983,0 2 341,7 -
+24 + Zunahme betrieblicher Versorgungsansprüche - –58,7 - 58,7 -
+25 = Sparen 300,4 38,0 –27,6 290,0 –269,9
+26 – Geleistete Vermögenstransfers 103,4 14,2 72,9 16,3 7,2
+27 + Empfangene Vermögenstransfers 87,9 47,1 20,7 20,1 22,7
+28 – Bruttoinvestitionen 950,6 539,6 130,5 280,5 -
+29 + Abschreibungen 920,2 511,3 124,4 284,5 -
+30 – Nettozugang an nichtprod. Vermögensgütern 15,4 15,6 –0,5 0,4 –15,4
+31 = Finanzierungssaldo 239,0 27,0 –85,5 297,5 –239,0
+Nachrichtlich:
+34 Verfügbares Einkommen (Ausgabenkonzept) 3 625,0 96,7 955,3 2 573,0 –269,9
+35 – Geleistete soziale Sachtransfers 619,4 - 619,4 - -
+36 + Empfangene soziale Sachtransfers 619,4 - - 619,4 -
+37 = Verfügbares Einkommen (Verbrauchskonzept) 3 625,0 96,7 336,0 3 192,3 –269,9
+38 – Konsum 3) 3 324,7 - 363,6 2 961,1 -
+39 + Zunahme betrieblicher Versorgungsansprüche - –58,7 - 58,7 -
+40 = Sparen 300,4 38,0 –27,6 290,0 –269,9
+1) Für den Sektor übrige Welt Importe abzügl. Exporte aus der bzw. an die übrige Welt. – 2) Sozialbeiträge einschl. Sozialbeiträge aus Kapitalerträgen abzüglich Dienst-
+leistungsentgelt privater Sozialschutzsysteme. – 3) Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte und private Organisationen o. E. Individual-
+konsum (einschl. Konsumausgaben des Staats für den Individualverbrauch, d.h. einschl. sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt; 2024 bis 2026: Prognose des ifo Instituts.
+56 ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024
+=== Seite 60
+IFO KONJUNKTURPROGNOSE WINTER 2024
+Hauptaggregate der Sektoren
+Mrd. EUR
+2026 (Alternativszenario)
+Nicht-
+finanzielle Private
+Gegenstand der Nachweisung Gesamte und Haushalte
+Volkswirt- Staat Übrige Welt
+finanzielle und private
+schaft
+Kapitalge- Org. o. E.
+sellschaften
+S 1 S 11/S 12 S 13 S 14/S 15 S 2
+1 = Bruttowertschöpfung 4 182,9 2 836,4 495,5 851,0 -
+2 – Abschreibungen 946,4 527,1 128,4 290,8 -
+3 = Nettowertschöpfung 1) 3 236,5 2 309,3 367,1 560,1 –171,4
+4 – Geleistete Arbeitnehmerentgelte 2 498,0 1 817,3 374,2 306,6 21,4
+5 – Geleistete sonstige Produktionsabgaben 50,7 38,0 0,3 12,4 -
+6 + Empfangene sonstige Subventionen 53,4 51,1 0,1 2,2 -
+7 = Betriebsüberschuss/Selbstständigeneinkommen 741,2 505,1 –7,3 243,4 –192,7
+8 + Empfangene Arbeitnehmerentgelte 2 502,8 - - 2 502,8 16,6
+9 – Geleistete Subventionen 48,4 - 48,4 - 5,2
+10 + Empfangene Produktions- und Importabgaben 475,2 - 475,2 - 5,5
+11 – Geleistete Vermögenseinkommen 1 021,6 931,1 50,1 40,3 396,9
+12 + Empfangene Vermögenseinkommen 1 174,8 646,3 33,2 495,2 243,7
+13 = Primäreinkommen (Nettonationaleinkommen) 3 824,1 220,3 402,7 3 201,1 –329,0
+14 – Geleistete Einkommen- und Vermögensteuern 574,8 131,8 - 443,0 15,1
+15 + Empfangene Einkommen- und Vermögensteuern 589,0 - 589,0 - 0,8
+16 – Geleistete Nettosozialbeiträge 2) 1 001,0 - - 1 001,0 4,0
+17 + Empfangene Nettosozialbeiträge 2) 999,4 182,7 815,9 0,8 5,6
+18 – Geleistete monetäre Sozialleistungen 849,9 88,0 761,0 0,8 0,8
+19 + Empfangene monetäre Sozialleistungen 839,5 - - 839,5 11,2
+20 – Geleistete sonstige laufende Transfers 478,2 278,9 105,5 93,9 105,0
+21 + Empfangene sonstige laufende Transfers 416,5 244,8 31,2 140,5 166,7
+22 = Verfügbares Einkommen (Ausgabenkonzept) 3 764,6 149,1 972,3 2 643,2 –269,5
+23 – Konsumausgaben 3 429,9 - 1 014,5 2 415,4 -
+24 + Zunahme betrieblicher Versorgungsansprüche - –60,0 - 60,0 -
+25 = Sparen 334,7 89,1 –42,2 287,8 –269,5
+26 – Geleistete Vermögenstransfers 105,0 14,5 73,8 16,6 7,4
+27 + Empfangene Vermögenstransfers 89,5 47,5 21,3 20,6 22,9
+28 – Bruttoinvestitionen 1 011,5 585,8 134,7 291,0 -
+29 + Abschreibungen 946,4 527,1 128,4 290,8 -
+30 – Nettozugang an nichtprod. Vermögensgütern 15,5 15,7 –0,5 0,3 –15,5
+31 = Finanzierungssaldo 238,5 47,8 –100,4 291,2 –238,5
+Nachrichtlich:
+34 Verfügbares Einkommen (Ausgabenkonzept) 3 764,6 149,1 972,3 2 643,2 –269,5
+35 – Geleistete soziale Sachtransfers 646,4 - 646,4 - -
+36 + Empfangene soziale Sachtransfers 646,4 - - 646,4 -
+37 = Verfügbares Einkommen (Verbrauchskonzept) 3 764,6 149,1 325,9 3 289,6 –269,5
+38 – Konsum 3) 3 429,9 - 368,1 3 061,8 -
+39 + Zunahme betrieblicher Versorgungsansprüche - –60,0 - 60,0 -
+40 = Sparen 334,7 89,1 –42,2 287,8 –269,5
+1) Für den Sektor übrige Welt Importe abzügl. Exporte aus der bzw. an die übrige Welt. – 2) Sozialbeiträge einschl. Sozialbeiträge aus Kapitalerträgen abzüglich Dienst-
+leistungsentgelt privater Sozialschutzsysteme. – 3) Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte und private Organisationen o. E. Individual-
+konsum (einschl. Konsumausgaben des Staats für den Individualverbrauch, d.h. einschl. sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt; 2024 bis 2026: Prognose des ifo Instituts.
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 57
+=== Seite 61
+IFO KONJUNKTURPROGNOSE WINTER 2024
+Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnung im Basisszenario
+Vorausschätzung für die Jahre 2024 bis 2026
+2024 (2) 2025 (2) 2026 (2) 2024 2025 (2) 2026 (2)
+1.Hj 2.Hj 1.Hj 2.Hj 1.Hj 2.Hj
+1. Entstehung des Inlandsprodukts
+Veränderung in % gegenüber Vorjahr
+Zahl der Erwerbstätigen 0,2 –0,2 0,2 0,4 0,1 –0,2 –0,1 0,2 0,1
+Arbeitsstunden je Erwerbstätigen 3) –0,4 0,2 0,5 –1,0 0,1 0,2 0,2 0,1 0,9
+Arbeitsvolumen –0,2 0,0 0,7 –0,6 0,2 –0,1 0,1 0,2 1,0
+Produktivität 4) 0,1 0,4 0,1 0,3 –0,1 0,2 0,6 0,3 –0,1
+Bruttoinlandsprodukt, preisbereinigt –0,1 0,4 0,8 –0,3 0,1 0,1 0,7 0,5 1,0
+2. Verwendung des Inlandsprodukts in jeweiligen Preisen
+a) Mrd. EUR
+Konsumausgaben 3 215,5 3 316,7 3 411,0 1 570,7 1 644,7 1 618,7 1 698,0 1 662,9 1 748,1
+Private Konsumausgaben 5) 2 268,1 2 333,7 2 396,5 1 108,7 1 159,3 1 138,0 1 195,7 1 168,4 1 228,1
+Konsumausgaben des Staates 947,4 983,0 1 014,5 462,0 485,4 480,7 502,3 494,5 520,0
+Bruttoanlageinvestitionen 895,6 903,5 930,1 438,4 457,2 437,3 466,1 448,2 481,9
+Bauten 462,8 463,0 474,1 229,7 233,0 227,4 235,6 231,5 242,6
+Ausrüstungen 263,9 263,5 273,3 127,8 136,2 124,9 138,6 128,6 144,7
+Sonstige Anlagen 168,9 176,9 182,8 80,9 88,0 85,0 91,9 88,2 94,6
+Vorratsveränderungen 6) 9,0 40,0 60,1 6,2 2,8 30,3 9,8 37,2 22,9
+Inländische Verwendung 4 120,0 4 260,2 4 401,2 2 015,4 2 104,7 2 086,3 2 173,8 2 148,3 2 252,9
+Außenbeitrag 182,5 155,7 144,8 110,3 72,3 88,0 67,8 82,0 62,8
+Nachrichtlich: in Relation zum BIP % 4,2 3,5 3,2 5,2 3,3 4,0 3,0 3,7 2,7
+Exporte 1 821,4 1 844,4 1 899,0 913,7 907,6 911,0 933,4 935,3 963,7
+Importe 1 638,8 1 688,6 1 754,1 803,5 835,3 823,0 865,6 853,3 900,8
+Bruttoinlandsprodukt 4 302,6 4 415,9 4 546,0 2 125,6 2 177,0 2 174,3 2 241,6 2 230,3 2 315,7
+b) Veränderung in % gegenüber Vorjahr
+Konsumausgaben 3,4 3,1 2,8 3,8 2,9 3,1 3,2 2,7 3,0
+Private Konsumausgaben 5) 2,8 2,9 2,7 3,0 2,6 2,6 3,1 2,7 2,7
+Konsumausgaben des Staates 4,7 3,8 3,2 5,8 3,6 4,0 3,5 2,9 3,5
+Bruttoanlageinvestitionen –0,5 0,9 3,0 –0,8 –0,2 –0,2 2,0 2,5 3,4
+Bauten –0,7 0,1 2,4 –1,6 0,2 –1,0 1,1 1,8 3,0
+Ausrüstungen –4,3 –0,2 3,7 –3,7 –4,8 –2,2 1,8 2,9 4,4
+Sonstige Anlagen 6,9 4,8 3,3 7,0 6,7 5,1 4,4 3,7 2,9
+Inländische Verwendung 2,5 3,4 3,3 2,1 2,9 3,5 3,3 3,0 3,6
+Exporte 0,3 1,3 3,0 –0,3 0,8 –0,3 2,8 2,7 3,2
+Importe –0,6 3,0 3,9 –3,4 2,2 2,4 3,6 3,7 4,1
+Bruttoinlandsprodukt 2,8 2,6 2,9 3,3 2,3 2,3 3,0 2,6 3,3
+3. Verwendung des Inlandsprodukts, verkettete Volumenangaben (Referenzjahr 2020)
+a) Mrd. EUR
+Konsumausgaben 2 696,4 2 720,0 2 745,5 1 330,0 1 366,4 1 340,6 1 379,4 1 352,7 1 392,8
+Private Konsumausgaben 5) 1 883,7 1 897,8 1 914,9 927,4 956,3 931,9 965,9 939,6 975,3
+Konsumausgaben des Staates 813,1 822,7 831,1 402,8 410,3 409,0 413,6 413,4 417,7
+Bruttoanlageinvestitionen 709,3 704,5 715,1 348,4 360,9 341,7 362,9 345,1 370,0
+Bauten 333,9 330,2 334,4 166,6 167,4 162,4 167,8 163,7 170,7
+Ausrüstungen 225,2 220,9 225,0 109,1 116,1 104,9 116,0 105,9 119,1
+Sonstige Anlagen 153,4 157,3 159,7 73,8 79,6 75,7 81,6 77,1 82,6
+Inländische Verwendung 3 445,0 3 481,6 3 514,9 1 694,7 1 750,3 1 716,6 1 764,9 1 729,5 1 785,5
+Exporte 1 518,4 1 521,6 1 553,1 764,5 753,9 753,5 768,0 766,7 786,4
+Importe 1 350,1 1 374,5 1 411,6 664,6 685,6 673,0 701,5 689,3 722,4
+Bruttoinlandsprodukt 3 611,0 3 626,0 3 653,5 1 794,0 1 817,0 1 796,0 1 830,1 1 805,5 1 848,0
+b) Veränderung in % gegenüber Vorjahr
+Konsumausgaben 0,7 0,9 0,9 0,8 0,7 0,8 1,0 0,9 1,0
+Private Konsumausgaben 5) 0,1 0,7 0,9 0,1 0,1 0,5 1,0 0,8 1,0
+Konsumausgaben des Staates 2,3 1,2 1,0 2,3 2,2 1,5 0,8 1,1 1,0
+Bruttoanlageinvestitionen –2,9 –0,7 1,5 –3,1 –2,8 –1,9 0,5 1,0 2,0
+Bauten –3,6 –1,1 1,3 –4,3 –2,9 –2,5 0,3 0,7 1,8
+Ausrüstungen –5,9 –1,9 1,9 –5,5 –6,3 –3,8 –0,2 1,0 2,7
+Sonstige Anlagen 4,1 2,5 1,6 4,6 3,6 2,6 2,4 1,8 1,3
+Inländische Verwendung 0,1 1,1 1,0 –0,8 1,0 1,3 0,8 0,7 1,2
+Exporte –0,6 0,2 2,1 –0,6 –0,5 –1,4 1,9 1,7 2,4
+Importe –0,1 1,8 2,7 –1,9 1,6 1,3 2,3 2,4 3,0
+Bruttoinlandsprodukt –0,1 0,4 0,8 –0,3 0,1 0,1 0,7 0,5 1,0
+58 ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024
+=== Seite 62
+IFO KONJUNKTURPROGNOSE WINTER 2024
+noch: Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnung im Basisszenario
+2024 (2) 2025 (2) 2026 (2) 2024 2025 (2) 2026 (2)
+1.Hj (1) 2.Hj (2) 1.Hj 2.Hj 1.Hj 2.Hj
+4. Preisniveau der Verwendungsseite des Inlandsprodukts (2020=100)
+Veränderung in % gegenüber Vorjahr
+Konsumausgaben 2,6 2,3 1,9 3,0 2,2 2,2 2,3 1,8 2,0
+Private Konsumausgaben 5) 2,7 2,1 1,8 2,9 2,6 2,1 2,1 1,8 1,7
+Konsumausgaben des Staates 2,4 2,5 2,2 3,4 1,4 2,5 2,6 1,8 2,5
+Bruttoanlageinvestitionen 2,5 1,6 1,4 2,4 2,7 1,7 1,4 1,5 1,4
+Bauten 3,0 1,2 1,1 2,8 3,1 1,5 0,8 1,0 1,2
+Ausrüstungen 1,7 1,8 1,8 1,8 1,6 1,6 2,0 2,0 1,7
+Sonstige Anlagen 2,6 2,2 1,7 2,3 3,0 2,5 2,0 1,8 1,6
+Inländische Verwendung 2,5 2,3 2,3 3,0 2,0 2,2 2,4 2,2 2,4
+Exporte 0,8 1,1 0,9 0,4 1,3 1,2 0,9 0,9 0,8
+Importe –0,5 1,2 1,1 –1,5 0,6 1,1 1,3 1,2 1,1
+Bruttoinlandsprodukt 2,9 2,2 2,2 3,6 2,3 2,2 2,2 2,0 2,3
+5. Einkommensentstehung und ­verteilung
+a) Mrd. EUR
+Primäreinkommen der privaten Haushalte 3 010,9 3 106,4 3 166,1 1 473,8 1 537,1 1 519,1 1 587,3 1 544,7 1 621,4
+Sozialbeiträge der Arbeitgeber 397,3 415,0 428,9 193,4 203,9 200,8 214,3 207,8 221,2
+Bruttolöhne und -gehälter 1 942,6 1 988,5 2 046,4 932,0 1 010,6 952,2 1 036,4 982,6 1 063,7
+Übrige Primäreinkommen der privaten Haushalte 671,0 702,9 690,8 348,3 322,6 366,2 336,6 354,3 336,5
+Primäreinkommen der übrigen Sektoren 547,5 540,3 591,1 268,2 279,3 257,0 283,3 276,7 314,3
+Nettonationaleinkommen (Primäreinkommen) 3 558,4 3 646,8 3 757,2 1 742,0 1 816,4 1 776,1 1 870,6 1 821,5 1 935,7
+Abschreibungen 891,0 919,9 944,1 441,9 449,1 457,7 462,2 469,9 474,3
+Bruttonationaleinkommen 4 449,4 4 566,7 4 701,3 2 183,8 2 265,6 2 233,8 2 332,8 2 291,3 2 410,0
+nachrichtlich:
+Volkseinkommen 3 170,5 3 234,3 3 331,5 1 548,9 1 621,7 1 569,5 1 664,8 1 608,3 1 723,2
+Arbeitnehmerentgelte 2 339,9 2 403,6 2 475,3 1 125,5 1 214,5 1 152,9 1 250,6 1 190,4 1 284,9
+Unternehmens- und Vermögenseinkommen 830,6 830,7 856,3 423,4 407,2 416,5 414,2 417,9 438,3
+b) Veränderung in % gegenüber Vorjahr
+Primäreinkommen der privaten Haushalte 4,0 3,2 1,9 4,3 3,7 3,1 3,3 1,7 2,1
+Sozialbeiträge der Arbeitgeber 3,7 4,5 3,4 4,8 2,8 3,8 5,1 3,5 3,2
+Bruttolöhne und -gehälter 5,2 2,4 2,9 6,2 4,3 2,2 2,6 3,2 2,6
+Bruttolöhne und -gehälter je Beschäftigten 4,9 2,5 2,7 5,7 4,2 2,4 2,6 2,9 2,4
+Nettolöhne und -gehälter je Beschäftigten 5,0 0,6 3,2 6,2 4,0 0,7 0,4 3,4 2,9
+Übrige Primäreinkommen der privaten Haushalte 0,6 4,8 –1,7 –0,8 2,1 5,1 4,3 –3,2 0,0
+Primäreinkommen der übrigen Sektoren –5,3 –1,3 9,4 –2,7 –7,7 –4,2 1,4 7,7 10,9
+Nettonationaleinkommen (Primäreinkommen) 2,4 2,5 3,0 3,1 1,7 2,0 3,0 2,6 3,5
+Abschreibungen 3,8 3,2 2,6 3,5 4,2 3,6 2,9 2,7 2,6
+Bruttonationaleinkommen 2,7 2,6 2,9 3,2 2,2 2,3 3,0 2,6 3,3
+nachrichtlich:
+Volkseinkommen 1,2 2,0 3,0 1,9 0,5 1,3 2,7 2,5 3,5
+Arbeitnehmerentgelte 5,0 2,7 3,0 6,0 4,1 2,4 3,0 3,3 2,7
+Unternehmens- und Vermögenseinkommen –8,3 0,0 3,1 –7,7 –8,9 –1,6 1,7 0,3 5,8
+6. Einkommen und Einkommensverwendung der privaten Haushalte und priv. Org. o.E.
+a) Mrd. EUR
+Masseneinkommen 1 962,2 1 999,0 2 072,8 945,8 1 016,3 965,2 1 033,8 1 003,7 1 069,2
+Nettolöhne und -gehälter 1 355,4 1 361,4 1 408,2 645,3 710,1 648,6 712,8 672,7 735,5
+Monetäre Sozialleistungen 775,5 811,2 842,8 383,9 391,6 402,3 408,8 419,1 423,7
+abz. Abgaben auf soziale Leistungen,
+verbrauchsnahe Steuern 168,7 173,6 178,2 83,3 85,3 85,7 87,8 88,1 90,0
+Übrige Primäreinkommen der privaten Haushalte 671,0 702,9 690,8 348,3 322,6 366,2 336,6 354,3 336,5
+Sonstige Transfers (Saldo) –130,0 –133,8 –135,5 –58,7 –71,3 –61,0 –72,8 –60,7 –74,8
+Verfügbares Einkommen 2 503,1 2 568,1 2 628,2 1 235,5 1 267,7 1 270,4 1 297,7 1 297,3 1 330,8
+Zunahme betriebl. Versorgungsansprüche 57,8 58,7 60,0 28,0 29,8 28,3 30,4 28,9 31,0
+Private Konsumausgaben 5) 2 268,1 2 333,7 2 396,5 1 108,7 1 159,3 1 138,0 1 195,7 1 168,4 1 228,1
+Sparen 292,9 293,1 291,7 154,8 138,1 160,7 132,4 157,9 133,8
+Sparquote 7) 11,4 11,2 10,9 12,2 10,6 12,4 10,0 11,9 9,8
+b) Veränderung in % gegenüber Vorjahr
+Masseneinkommen 5,6 1,9 3,7 6,6 4,7 2,0 1,7 4,0 3,4
+Nettolöhne und -gehälter 5,4 0,4 3,4 6,7 4,1 0,5 0,4 3,7 3,2
+Monetäre Sozialleistungen 6,1 4,6 3,9 6,5 5,8 4,8 4,4 4,2 3,6
+abz. Abgaben auf soziale Leistungen,
+verbrauchsnahe Steuern 5,9 2,9 2,7 7,7 4,3 2,9 2,9 2,8 2,5
+Übrige Primäreinkommen der privaten Haushalte 0,6 4,8 –1,7 –0,8 2,1 5,1 4,3 –3,2 0,0
+Verfügbares Einkommen 4,1 2,6 2,3 4,4 3,9 2,8 2,4 2,1 2,6
+Private Konsumausgaben 5) 2,8 2,9 2,7 3,0 2,6 2,6 3,1 2,7 2,7
+Sparen 14,2 0,1 –0,5 13,8 14,7 3,9 –4,2 –1,8 1,1
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 59
+=== Seite 64
+IFO KONJUNKTURPROGNOSE WINTER 2024
+Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnung im Alternativsszenario
+Vorausschätzung für die Jahre 2024 bis 2026
+2024 (2) 2025 (2) 2026 (2) 2024 2025 (2) 2026 (2)
+1.Hj 2.Hj 1.Hj 2.Hj 1.Hj 2.Hj
+1. Entstehung des Inlandsprodukts
+Veränderung in % gegenüber Vorjahr
+Zahl der Erwerbstätigen 0,2 0,0 0,4 0,4 0,1 –0,1 0,2 0,4 0,3
+Arbeitsstunden je Erwerbstätigen 3) –0,4 0,4 0,7 –1,0 0,1 0,3 0,4 0,3 1,1
+Arbeitsvolumen –0,2 0,4 1,0 –0,6 0,2 0,2 0,6 0,7 1,4
+Produktivität 4) 0,1 0,6 0,6 0,3 –0,1 0,2 1,1 0,9 0,3
+Bruttoinlandsprodukt, preisbereinigt –0,1 1,1 1,6 –0,3 0,1 0,4 1,7 1,6 1,6
+2. Verwendung des Inlandsprodukts in jeweiligen Preisen
+a) Mrd. EUR
+Konsumausgaben 3 215,5 3 324,7 3 429,9 1 570,7 1 644,7 1 619,9 1 704,8 1 671,6 1 758,4
+Private Konsumausgaben 5) 2 268,1 2 341,7 2 415,4 1 108,7 1 159,3 1 139,2 1 202,5 1 177,1 1 238,3
+Konsumausgaben des Staates 947,4 983,0 1 014,5 462,0 485,4 480,7 502,3 494,5 520,0
+Bruttoanlageinvestitionen 895,6 912,1 957,9 438,4 457,2 438,8 473,3 459,6 498,4
+Bauten 462,8 466,1 481,9 229,7 233,0 228,0 238,1 235,1 246,8
+Ausrüstungen 263,9 267,7 287,3 127,8 136,2 125,6 142,1 134,1 153,2
+Sonstige Anlagen 168,9 178,4 188,7 80,9 88,0 85,3 93,1 90,4 98,3
+Vorratsveränderungen 6) 9,0 38,5 53,6 6,2 2,8 29,6 8,9 35,2 18,4
+Inländische Verwendung 4 120,0 4 275,3 4 441,5 2 015,4 2 104,7 2 088,3 2 187,0 2 166,4 2 275,1
+Außenbeitrag 182,5 168,7 171,4 110,3 72,3 92,7 75,9 94,2 77,2
+Nachrichtlich: in Relation zum BIP % 4,2 3,8 3,7 5,2 3,3 4,3 3,4 4,2 3,3
+Exporte 1 821,4 1 860,5 1 929,9 913,7 907,6 916,7 943,8 949,2 980,7
+Importe 1 638,8 1 691,8 1 758,5 803,5 835,3 824,0 867,9 855,0 903,5
+Bruttoinlandsprodukt 4 302,6 4443,9 4 612,8 2 125,6 2 177,0 2 181,0 2 262,9 2 260,5 2 352,3
+b) Veränderung in % gegenüber Vorjahr
+Konsumausgaben 3,4 3,4 3,2 3,8 2,9 3,1 3,7 3,2 3,1
+Private Konsumausgaben 5) 2,8 3,2 3,1 3,0 2,6 2,8 3,7 3,3 3,0
+Konsumausgaben des Staates 4,7 3,8 3,2 5,8 3,6 4,0 3,5 2,9 3,5
+Bruttoanlageinvestitionen –0,5 1,8 5,0 –0,8 –0,2 0,1 3,5 4,7 5,3
+Bauten –0,7 0,7 3,4 –1,6 0,2 –0,8 2,2 3,1 3,7
+Ausrüstungen –4,3 1,4 7,3 –3,7 –4,8 –1,7 4,4 6,8 7,8
+Sonstige Anlagen 6,9 5,6 5,8 7,0 6,7 5,4 5,8 6,0 5,6
+Inländische Verwendung 2,5 3,8 3,9 2,1 2,9 3,6 3,9 3,7 4,0
+Exporte 0,3 2,1 3,7 –0,3 0,8 0,3 4,0 3,5 3,9
+Importe –0,6 3,2 3,9 –3,4 2,2 2,5 3,9 3,8 4,1
+Bruttoinlandsprodukt 2,8 3,3 3,8 3,3 2,3 2,6 3,9 3,6 3,9
+3. Verwendung des Inlandsprodukts, verkettete Volumenangaben (Referenzjahr 2020)
+a) Mrd. EUR
+Konsumausgaben 2 696,4 2 726,5 2 760,7 1 330,0 1 366,4 1 341,6 1 385,0 1 359,7 1 401,0
+Private Konsumausgaben 5) 1 883,7 1 904,3 1 930,0 927,4 956,3 932,9 971,4 946,6 983,4
+Konsumausgaben des Staates 813,1 822,7 831,1 402,8 410,3 409,0 413,6 413,4 417,7
+Bruttoanlageinvestitionen 709,3 711,3 736,4 348,4 360,9 342,8 368,5 353,8 382,6
+Bauten 333,9 332,4 339,9 166,6 167,4 162,8 169,6 166,2 173,7
+Ausrüstungen 225,2 224,4 236,6 109,1 116,1 105,5 118,9 110,5 126,1
+Sonstige Anlagen 153,4 158,5 164,9 73,8 79,6 75,9 82,6 79,0 85,9
+Inländische Verwendung 3 445,0 3 493,8 3 547,0 1 694,7 1 750,3 1 718,2 1 775,6 1 744,0 1 803,0
+Exporte 1 518,4 1 534,9 1 578,5 764,5 753,9 758,2 776,6 778,1 800,5
+Importe 1 350,1 1 377,0 1 415,1 664,6 685,6 673,8 703,2 690,6 724,5
+Bruttoinlandsprodukt 3 611,0 3 649,1 3 707,7 1 794,0 1 817,0 1 801,5 1 847,6 1 830,2 1 877,6
+b) Veränderung in % gegenüber Vorjahr
+Konsumausgaben 0,7 1,1 1,3 0,8 0,7 0,9 1,4 1,4 1,2
+Private Konsumausgaben 5) 0,1 1,1 1,3 0,1 0,1 0,6 1,6 1,5 1,2
+Konsumausgaben des Staates 2,3 1,2 1,0 2,3 2,2 1,5 0,8 1,1 1,0
+Bruttoanlageinvestitionen –2,9 0,3 3,5 –3,1 –2,8 –1,6 2,1 3,2 3,8
+Bauten –3,6 –0,5 2,3 –4,3 –2,9 –2,3 1,3 2,1 2,5
+Ausrüstungen –5,9 –0,4 5,4 –5,5 –6,3 –3,3 2,4 4,7 6,0
+Sonstige Anlagen 4,1 3,3 4,0 4,6 3,6 2,8 3,8 4,1 3,9
+Inländische Verwendung 0,1 1,4 1,5 –0,8 1,0 1,4 1,4 1,5 1,5
+Exporte –0,6 1,1 2,8 –0,6 –0,5 –0,8 3,0 2,6 3,1
+Importe –0,1 2,0 2,8 –1,9 1,6 1,4 2,6 2,5 3,0
+Bruttoinlandsprodukt –0,1 1,1 1,6 –0,3 0,1 0,4 1,7 1,6 1,6
+ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024 61
+=== Seite 65
+IFO KONJUNKTURPROGNOSE WINTER 2024
+noch: Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnung im Alternativszenario
+2024 (2) 2025 (2) 2026 (2) 2024 2025 (2) 2026 (2)
+1.Hj (1) 2.Hj (2) 1.Hj 2.Hj 1.Hj 2.Hj
+4. Preisniveau der Verwendungsseite des Inlandsprodukts (2020=100)
+Veränderung in % gegenüber Vorjahr
+Konsumausgaben 2,6 2,3 1,9 3,0 2,2 2,2 2,3 1,8 2,0
+Private Konsumausgaben 5) 2,7 2,1 1,8 2,9 2,6 2,1 2,1 1,8 1,7
+Konsumausgaben des Staates 2,4 2,5 2,2 3,4 1,4 2,5 2,6 1,8 2,5
+Bruttoanlageinvestitionen 2,5 1,6 1,4 2,4 2,7 1,7 1,4 1,5 1,4
+Bauten 3,0 1,2 1,1 2,8 3,1 1,5 0,8 1,0 1,2
+Ausrüstungen 1,7 1,8 1,8 1,8 1,6 1,6 2,0 2,0 1,7
+Sonstige Anlagen 2,6 2,2 1,7 2,3 3,0 2,5 2,0 1,8 1,6
+Inländische Verwendung 2,5 2,3 2,3 3,0 2,0 2,2 2,4 2,2 2,4
+Exporte 0,8 1,1 0,9 0,4 1,3 1,2 0,9 0,9 0,8
+Importe –0,5 1,2 1,1 –1,5 0,6 1,1 1,3 1,2 1,1
+Bruttoinlandsprodukt 2,9 2,2 2,2 3,6 2,3 2,2 2,2 2,0 2,3
+5. Einkommensentstehung und ­verteilung
+a) Mrd. EUR
+Primäreinkommen der privaten Haushalte 3 010,9 3 118,2 3 201,1 1 473,8 1 537,1 1 520,3 1 597,9 1 560,6 1 640,5
+Sozialbeiträge der Arbeitgeber 397,3 416,5 432,7 193,4 203,9 201,4 215,1 209,5 223,1
+Bruttolöhne und -gehälter 1 942,6 1 998,3 2 070,1 932,0 1 010,6 956,3 1 042,1 993,6 1 076,5
+Übrige Primäreinkommen der privaten Haushalte 671,0 703,4 698,3 348,3 322,6 362,7 340,7 357,5 340,9
+Primäreinkommen der übrigen Sektoren 547,5 557,3 623,0 268,2 279,3 262,7 294,7 291,2 331,8
+Nettonationaleinkommen (Primäreinkommen) 3 558,4 3 675,6 3 824,1 1 742,0 1 816,4 1 783,0 1 892,6 1 851,8 1 972,3
+Abschreibungen 891,0 920,2 946,4 441,9 449,1 457,7 462,5 470,6 475,7
+Bruttonationaleinkommen 4 449,4 4 595,7 4 770,5 2 183,8 2 265,6 2 240,7 2 355,0 2 322,4 2 448,1
+nachrichtlich:
+Volkseinkommen 3 170,5 3 261,7 3 397,2 1 548,9 1 621,7 1 575,7 1 686,0 1 637,9 1 759,4
+Arbeitnehmerentgelte 2 339,9 2 414,9 2 502,8 1 125,5 1 214,5 1 157,7 1 257,2 1 203,1 1 299,7
+Unternehmens- und Vermögenseinkommen 830,6 846,8 894,4 423,4 407,2 418,0 428,8 434,7 459,7
+b) Veränderung in % gegenüber Vorjahr
+Primäreinkommen der privaten Haushalte 4,0 3,6 2,7 4,3 3,7 3,2 4,0 2,6 2,7
+Sozialbeiträge der Arbeitgeber 3,7 4,8 3,9 4,8 2,8 4,1 5,5 4,0 3,7
+Bruttolöhne und -gehälter 5,2 2,9 3,6 6,2 4,3 2,6 3,1 3,9 3,3
+Bruttolöhne und -gehälter je Beschäftigten 4,9 2,8 3,1 5,7 4,2 2,7 2,9 3,4 2,9
+Nettolöhne und -gehälter je Beschäftigten 5,0 0,9 3,6 6,2 4,0 1,0 0,7 3,8 3,4
+Übrige Primäreinkommen der privaten Haushalte 0,6 4,8 –0,7 –0,8 2,1 4,1 5,6 –1,4 0,0
+Primäreinkommen der übrigen Sektoren –5,3 1,8 11,8 –2,7 –7,7 –2,0 5,5 10,8 12,6
+Nettonationaleinkommen (Primäreinkommen) 2,4 3,3 4,0 3,1 1,7 2,4 4,2 3,9 4,2
+Abschreibungen 3,8 3,3 2,8 3,5 4,2 3,6 3,0 2,8 2,9
+Bruttonationaleinkommen 2,7 3,3 3,8 3,2 2,2 2,6 3,9 3,6 4,0
+nachrichtlich:
+Volkseinkommen 1,2 2,9 4,2 1,9 0,5 1,7 4,0 3,9 4,4
+Arbeitnehmerentgelte 5,0 3,2 3,6 6,0 4,1 2,9 3,5 3,9 3,4
+Unternehmens- und Vermögenseinkommen –8,3 1,9 5,6 –7,7 –8,9 –1,3 5,3 4,0 7,2
+6. Einkommen und Einkommensverwendung der privaten Haushalte und priv. Org. o.E.
+a) Mrd. EUR
+Masseneinkommen 1 962,2 2 002,5 2 081,2 945,8 1 016,3 966,7 1 035,8 1 007,4 1 073,9
+Nettolöhne und -gehälter 1 355,4 1 368,2 1 423,3 645,3 710,1 651,4 716,8 679,7 743,7
+Monetäre Sozialleistungen 775,5 809,8 839,5 383,9 391,6 402,0 407,8 417,5 421,9
+abz. Abgaben auf soziale Leistungen,
+verbrauchsnahe Steuern 168,7 175,5 181,6 83,3 85,3 86,7 88,8 89,8 91,8
+Übrige Primäreinkommen der privaten Haushalte 671,0 703,4 698,3 348,3 322,6 362,7 340,7 357,5 340,9
+Sonstige Transfers (Saldo) –130,0 –132,9 –136,4 –58,7 –71,3 –59,8 –73,1 –60,8 –75,6
+Verfügbares Einkommen 2 503,1 2 573,0 2 643,2 1 235,5 1 267,7 1 269,6 1 303,4 1 304,1 1 339,1
+Zunahme betriebl. Versorgungsansprüche 57,8 58,7 60,0 28,0 29,8 28,3 30,4 28,9 31,0
+Private Konsumausgaben 5) 2 268,1 2 341,7 2 415,4 1 108,7 1 159,3 1 139,2 1 202,5 1 177,1 1 238,3
+Sparen 292,9 290,0 287,8 154,8 138,1 158,7 131,3 155,9 131,8
+Sparquote 7) 11,4 11,0 10,6 12,2 10,6 12,2 9,8 11,7 9,6
+b) Veränderung in % gegenüber Vorjahr
+Masseneinkommen 5,6 2,1 3,9 6,6 4,7 2,2 1,9 4,2 3,7
+Nettolöhne und -gehälter 5,4 0,9 4,0 6,7 4,1 0,9 0,9 4,3 3,7
+Monetäre Sozialleistungen 6,1 4,4 3,7 6,5 5,8 4,7 4,1 3,9 3,5
+abz. Abgaben auf soziale Leistungen,
+verbrauchsnahe Steuern 5,9 4,0 3,5 7,7 4,3 4,0 4,1 3,6 3,3
+Übrige Primäreinkommen der privaten Haushalte 0,6 4,8 –0,7 –0,8 2,1 4,1 5,6 –1,4 0,0
+Verfügbares Einkommen 4,1 2,8 2,7 4,4 3,9 2,8 2,8 2,7 2,7
+Private Konsumausgaben 5) 2,8 3,2 3,1 3,0 2,6 2,8 3,7 3,3 3,0
+Sparen 14,2 –1,0 –0,8 13,8 14,7 2,5 –4,9 –1,7 0,4
+62 ifo Schnelldienst Sonderausgabe 77. Jahrgang Dezember 2024

@@ -12,7 +12,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-from . import bmwe, eckwerte, prognosen
+from . import bmwe, eckwerte, komponenten, prognosen
 from .pipeline import Results
 
 SITE = Path("site")
@@ -90,7 +90,46 @@ def build_payload(res: Results) -> dict:
         est = eckwerte.error_stats(eckwerte.errors(ek))
         payload["eckwerte_fehler"] = [{k: _clean(r[k]) for k in est.columns} for _, r in est.iterrows()]
         payload["eckwerte_gruppen"] = eckwerte.GROUPS
+    payload["vergleich"], payload["ist_vergleich"] = vergleich(df)
     return payload
+
+
+VERGLEICH_VARS = ["BIP real", "Verbraucherpreise", "Privater Konsum", "Staatskonsum", "Ausrüstungsinvestitionen",
+                  "Bauinvestitionen", "Exporte", "Importe"]
+
+
+def vergleich(prog: pd.DataFrame) -> tuple[list, dict]:
+    """Einheitliche Liste für das Konsensband: BIP und Inflation aus der geprüften Tabelle, Komponenten aus den
+    Prognosetabellen; Bundesregierung aus ihren Eckwerten. Ist laut Eckwerten der Bundesregierung."""
+    rows = []
+    for _, r in prog.iterrows():
+        for col, var in (("bip", "BIP real"), ("inflation", "Verbraucherpreise")):
+            if pd.notna(r[col]) and pd.notna(r["veroeffentlicht"]):
+                rows.append({"institution": r["institution"], "runde": r["runde"], "veroeffentlicht": r["veroeffentlicht"],
+                             "variable": var, "jahr": int(r["zieljahr"]), "wert": float(r[col]), "pruefung": r.get("pruefung")})
+    if komponenten.OUT.exists():
+        k = pd.read_csv(komponenten.OUT)
+        k = k[~k["ist"] & k["variable"].isin(VERGLEICH_VARS) & ~k["variable"].isin(["BIP real", "Verbraucherpreise"])]
+        for _, r in k.iterrows():
+            rows.append({"institution": r["institution"], "runde": r["runde"], "veroeffentlicht": r["veroeffentlicht"],
+                         "variable": r["variable"], "jahr": int(r["jahr"]), "wert": float(r["wert"]),
+                         "pruefung": "Tabelle, BIP abgeglichen"})
+    ist = {}
+    if eckwerte.OUT.exists():
+        ek = eckwerte.load()
+        dates = prog[prog["institution"] == "Bundesregierung"].drop_duplicates("runde").set_index("runde")["veroeffentlicht"]
+        e = ek[~ek["ist"] & ek["variable"].isin(VERGLEICH_VARS) & ~ek["variable"].isin(["BIP real", "Verbraucherpreise"])]
+        for _, r in e.iterrows():
+            label = bmwe.vintage_label(r["runde"])
+            if label in dates.index and pd.notna(dates[label]):
+                rows.append({"institution": "Bundesregierung", "runde": label, "veroeffentlicht": dates[label],
+                             "variable": r["variable"], "jahr": int(r["jahr"]), "wert": float(r["wert"]),
+                             "pruefung": "amtliche Eckwerte"})
+        a = eckwerte.actuals(ek)
+        for var in VERGLEICH_VARS:
+            s = a[a["variable"] == var]
+            ist[var] = {str(int(y)): _clean(v) for y, v in zip(s["jahr"], s["ist"])}
+    return [{k: _clean(v) for k, v in r.items()} for r in rows], ist
 
 
 def write_site(res: Results, out: Path = SITE) -> Path:

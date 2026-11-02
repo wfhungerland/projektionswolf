@@ -12,6 +12,8 @@ Nachbau der Potenzialschätzung der Bundesregierung in Python, ergänzt um eigen
 | `data/manuell/eckwerte_projektionen.csv` | Eckwerte der Bundesregierung, die noch nicht als Rechengrundlage vorliegen |
 | `data/bmwe_eckwerte.csv` | Eckwerte der Bundesregierung je Runde seit 2023 (Verwendung, Arbeitsmarkt, Preise, Einkommen), aus den Eckwert-PDFs gelesen |
 | `data/manuell/eckwerte_urls.csv` | Fundstellen der Eckwert-Tabellen; neue Runde: Zeile ergänzen, Workflow „Eckwerte laden“ lädt sie |
+| `data/manuell/komponenten.csv` | Verwendungskomponenten aus den Prognosetabellen von GD, Bundesbank und Instituten; nur Tabellen, deren BIP mit dem geprüften Wert der Runde übereinstimmt |
+| `data/manuell/tabellen_urls.csv` | Fundstellen dieser Tabellen; Workflow „Prognosetabellen laden“ holt neue |
 | `data/raw/prognosen_pruefung.csv` | Ergebnis der automatischen Quellenprüfung je Prognosewert |
 | Webseite | GitHub Pages, gebaut bei jedem Lauf auf `main` |
 
@@ -22,7 +24,8 @@ Nachbau der Potenzialschätzung der Bundesregierung in Python, ergänzt um eigen
 3. **Nowcast** (`projektionswolf/nowcast.py`): dynamisches Faktormodell mit gemischten Frequenzen (Produktion, Bau, Einzelhandel, EU-Umfragen, Arbeitslosigkeit; Quartals-BIP), dazu eine Bridge-Gleichung als Gegenprobe. Corona-Monate gehen als fehlend in die Schätzung ein.
 4. **Backtests** (`projektionswolf/pipeline.py`): BIP-Projektionen der Bundesregierung je Runde gegen den letzten Datenstand; Nowcast in Pseudo-Echtzeit seit 2014 gegen AR(1) und Mittelwert.
 5. **Eckwerte** (`projektionswolf/eckwerte.py`): liest die volle Eckwertetabelle jeder Runde und misst die Treffsicherheit je Größe gegen das jüngste von der Bundesregierung selbst ausgewiesene Ist. Das BIP stimmt in allen Runden mit den Rechengrundlagen überein. Das Staatskonto steht nicht in den Eckwertetabellen.
-6. **Prognosevergleich** (`projektionswolf/prognosen.py`, `projektionswolf/verify.py`): Projektionen der Bundesregierung neben GD, Bundesbank und Instituten, mit Treffsicherheit je Institution. `verify` lädt jede Quelle und prüft, ob die eingetragenen Zahlen dort stehen. Seiten mit Bot-Schutz (derzeit ifo) gelten als nicht abrufbar; ihre Werte bleiben als „offen“ markiert.
+6. **Konsensband** (`projektionswolf/komponenten.py`, Webseite): Für BIP, Inflation und Verwendungskomponenten die Spanne (Minimum bis Maximum) und der Median der jeweils jüngsten Prognosen der anderen, dazu die Bundesregierung und ihre Lage in der Spanne. Komponenten stammen aus dem Standardanhang „Die wichtigsten Daten der VGR“ (GD, DIW, ifo, IfW, IWH) und aus der Eckwert-Tabelle der Bundesbank (teils kalenderbereinigt). RWI fehlt, weil seine Anhangstabellen nicht mit den geprüften BIP-Werten übereinstimmen.
+7. **Prognosevergleich** (`projektionswolf/prognosen.py`, `projektionswolf/verify.py`): Projektionen der Bundesregierung neben GD, Bundesbank und Instituten, mit Treffsicherheit je Institution. `verify` lädt jede Quelle und prüft, ob die eingetragenen Zahlen dort stehen. Seiten mit Bot-Schutz (derzeit ifo) gelten als nicht abrufbar; ihre Werte bleiben als „offen“ markiert.
 
 ## Start
 

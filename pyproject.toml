@@ -18,6 +18,7 @@ dependencies = [
   "openpyxl>=3.1",
   "python-calamine>=0.2",
   "XlsxWriter>=3.1",
+  "pypdf>=4.0",
 ]
 
 [project.optional-dependencies]

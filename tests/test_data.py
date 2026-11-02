@@ -36,3 +36,15 @@ def test_site_clean_handles_missing():
     assert site._clean(float("nan")) is None
     assert site._clean(pd.Timestamp("2026-10-08")) == "2026-10-08"
     assert site._clean({"a": np.float64(1.23456)}) == {"a": 1.2346}
+
+
+def test_prognosen_table_is_clean():
+    from projektionswolf import prognosen
+
+    d = pd.read_csv(prognosen.PROGNOSEN)
+    assert list(d.columns) == prognosen.COLUMNS
+    for c in ["zieljahr", "bip", "bip_kalenderbereinigt", "inflation", "potenzialwachstum", "produktionsluecke"]:
+        bad = d[c].notna() & pd.to_numeric(d[c], errors="coerce").isna()
+        assert not bad.any(), f"Nicht-Zahl in {c}: Zeilen {list(d.index[bad])}"
+    assert pd.to_datetime(d["veroeffentlicht"], format="mixed", errors="coerce").notna().all()
+    assert d["quelle"].str.startswith("http").all()

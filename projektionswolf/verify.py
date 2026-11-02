@@ -81,7 +81,8 @@ def verify(path: Path = PROGNOSEN, out: Path = OUT, pause: float = 0.5) -> pd.Da
         if text is None:
             rows.append({"zeile": i, "pruefung": "nicht abrufbar"})
             continue
-        vals = {c: r[c] for c in CHECK_COLS if c in r and pd.notna(r[c])}
+        vals = {c: pd.to_numeric(r[c], errors="coerce") for c in CHECK_COLS if c in r}
+        vals = {c: v for c, v in vals.items() if pd.notna(v)}
         hits = {c: found(text, float(v)) for c, v in vals.items()}
         n = sum(hits.values())
         status = "bestätigt" if vals and n == len(vals) else ("teilweise" if n else "nicht gefunden")

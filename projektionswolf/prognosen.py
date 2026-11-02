@@ -69,13 +69,13 @@ def load_all(root: Path = bmwe.BMWE_DIR) -> pd.DataFrame:
     parts = [bundesregierung(root)]
     if PROGNOSEN.exists():
         p = pd.read_csv(PROGNOSEN)
-        p["veroeffentlicht"] = pd.to_datetime(p["veroeffentlicht"], errors="coerce")
+        p["veroeffentlicht"] = pd.to_datetime(p["veroeffentlicht"], format="mixed", errors="coerce")  # "JJJJ-MM" -> Monatserster
         parts.append(p)
     df = pd.concat(parts, ignore_index=True)
     for c in COLUMNS:
         if c not in df:
             df[c] = np.nan
-    df["veroeffentlicht"] = pd.to_datetime(df["veroeffentlicht"])
+    df["veroeffentlicht"] = pd.to_datetime(df["veroeffentlicht"], format="mixed")
     df["horizont"] = df["zieljahr"] - df["veroeffentlicht"].dt.year
     return df[COLUMNS + ["horizont"]].sort_values(["veroeffentlicht", "institution", "zieljahr"]).reset_index(drop=True)
 

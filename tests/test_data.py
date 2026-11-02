@@ -27,3 +27,12 @@ def test_annual_growth_and_carry_over():
     # Niveau 2024: 1,1,1,1.01; 2025: 1.01 durchgehend
     assert np.isclose(a[2025], 100 * (1.01 / 1.0025 - 1))
     assert np.isclose(nowcast.carry_over(q, 2025), a[2025])
+
+
+def test_site_clean_handles_missing():
+    from projektionswolf import site
+
+    assert site._clean(pd.NaT) is None
+    assert site._clean(float("nan")) is None
+    assert site._clean(pd.Timestamp("2026-10-08")) == "2026-10-08"
+    assert site._clean({"a": np.float64(1.23456)}) == {"a": 1.2346}

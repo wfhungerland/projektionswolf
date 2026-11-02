@@ -19,6 +19,8 @@ SITE = Path("site")
 
 
 def _clean(v):
+    if v is None or v is pd.NaT or (not isinstance(v, (str, dict, list, tuple)) and pd.isna(v)):
+        return None
     if isinstance(v, (np.floating, float)):
         return None if not math.isfinite(float(v)) else round(float(v), 4)
     if isinstance(v, (np.integer,)):
@@ -29,8 +31,6 @@ def _clean(v):
         return {str(k): _clean(x) for k, x in v.items()}
     if isinstance(v, (list, tuple)):
         return [_clean(x) for x in v]
-    if v is pd.NaT or (isinstance(v, float) and math.isnan(v)):
-        return None
     return v
 
 

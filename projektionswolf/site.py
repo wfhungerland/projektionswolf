@@ -77,6 +77,7 @@ def build_payload(res: Results) -> dict:
         for _, r in df.iterrows()
     ]
     payload["ist"] = {str(int(y)): _clean(v) for y, v in act.dropna().items()}
+    payload["ist_inflation"] = {str(int(y)): _clean(v) for y, v in prognosen.actuals_inflation().dropna().items()}
     st = prognosen.error_stats(prognosen.errors(df, act))
     payload["fehler"] = [{k: _clean(r[k]) if k != "institution" else str(r[k]) for k in st.columns} for _, r in st.iterrows()]
     payload["institutionen"] = [i for i in prognosen.ORDER if i in set(df["institution"])] + \

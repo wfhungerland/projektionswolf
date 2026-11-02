@@ -68,10 +68,11 @@
 
   <section id="prognosen">
     <h2>Prognosen im Vergleich</h2>
-    <p class="lead">BIP-Wachstum (real, unbereinigt) für ein Zieljahr, wie es die Bundesregierung, die Gemeinschaftsdiagnose, die Bundesbank und die Institute zu verschiedenen Zeitpunkten erwartet haben. Jeder Punkt ist eine Veröffentlichung; gefüllt heißt, der Wert ist automatisch an der Quelle bestätigt, hohl heißt ungeprüft. Die gestrichelte Linie ist das Ist, sobald es vorliegt.</p>
-    <div class="controls" id="zieljahre"></div>
+    <p class="lead">Graues Band: Spanne der jeweils jüngsten Prognosen von Gemeinschaftsdiagnose, Bundesbank und Instituten zu jedem Zeitpunkt (Minimum bis Maximum, Prognosen höchstens sechs Monate alt), gestrichelt ihr Median. Rot: Bundesregierung. Schwarz gestrichelt: Ist, sobald es vorliegt. Die Spanne zeigt, wie weit die Einschätzungen auseinandergehen; sie ist keine statistische Konfidenzspanne.</p>
+    <div class="controls"><span id="prog-var"></span><span style="width:12px"></span><span id="zieljahre"></span>
+      <label class="note" style="align-self:center;margin-left:8px"><input type="checkbox" id="prog-einzeln"> einzelne Institutionen</label></div>
     <div class="grid">
-      <div class="card"><h3 id="prog-title"></h3><p class="sub">in %, nach Datum der Veröffentlichung</p><div class="chart" id="c-prog"></div></div>
+      <div class="card"><h3 id="prog-title"></h3><p class="sub" id="prog-sub"></p><div class="chart" id="c-prog"></div><p class="note" id="prog-pos"></p></div>
       <div class="card"><h3>Jüngste Veröffentlichung je Institution</h3><p class="sub">BIP-Wachstum in %; Prüfung: Wert automatisch an der Quelle gefunden (geprüft) oder nicht (offen)</p><div class="tablewrap" id="t-latest"></div></div>
     </div>
   </section>
@@ -192,26 +193,79 @@ document.getElementById("kpis").innerHTML = [
 const years = [...new Set(DATA.prognosen.map(p => p.zieljahr))].filter(y => y >= 2023).sort();
 const thisYear = new Date().getFullYear();
 let ziel = years.includes(thisYear) ? thisYear : years[years.length - 1];
-function drawProg() {
-  document.getElementById("prog-title").textContent = `Prognosen für ${ziel}`;
-  document.getElementById("zieljahre").innerHTML = years.map(y =>
-    `<button class="btn${y === ziel ? " on" : ""}" data-y="${y}">${y}</button>`).join("");
-  document.querySelectorAll("#zieljahre .btn").forEach(b => b.onclick = () => { ziel = +b.dataset.y; drawProg(); });
-  const traces = DATA.institutionen.map(inst => {
-    const pts = DATA.prognosen.filter(p => p.institution === inst && p.zieljahr === ziel && p.bip != null && p.veroeffentlicht)
-      .sort((a, b) => a.veroeffentlicht.localeCompare(b.veroeffentlicht));
-    return { x: pts.map(p => p.veroeffentlicht), y: pts.map(p => p.bip), name: inst, type: "scatter", mode: "lines+markers",
-             line: { color: INST_COLOR[inst] || "#7F7F7F", width: inst === "Bundesregierung" ? HS.line : 1.6, shape: "hv" },
-             marker: { size: inst === "Bundesregierung" ? 8 : 6, symbol: pts.map(p => p.pruefung === "bestätigt" || p.pruefung === "amtliche Rechengrundlage" ? "circle" : "circle-open") },
-             text: pts.map(p => `${p.runde}; ${p.pruefung}`), hovertemplate: "%{y:.1f} % (%{text})<extra>" + inst + "</extra>" };
-  }).filter(t => t.x.length);
-  const ist = DATA.ist[String(ziel)];
-  const shapes = ist == null ? [] : [{ type: "line", xref: "paper", x0: 0, x1: 1, y0: ist, y1: ist,
-                                       line: { color: "#000", width: 1.5, dash: "dash" } }];
-  const ann = ist == null ? [] : [{ xref: "paper", x: 0, y: ist, text: `Ist ${num(ist)} %`, showarrow: false, yshift: 9, xanchor: "left",
-                                    font: { size: 11 } }];
-  plot("c-prog", traces, { hovermode: "closest", shapes, annotations: ann, xaxis: { type: "date", showgrid: false, tickformat: "%m/%Y" } });
+let progVar = "bip";
+const VARLABEL = { bip: "BIP-Wachstum", inflation: "Inflation" };
+const HALF_YEAR = 183 * 864e5;
+function band(rows, dates) {
+  // je Datum: jüngste Prognose jeder Institution (höchstens ein halbes Jahr alt)
+  const insts = [...new Set(rows.map(r => r.institution))];
+  return dates.map(d => {
+    const t = new Date(d).getTime(), vals = [];
+    insts.forEach(i => {
+      const c = rows.filter(r => r.institution === i && new Date(r.veroeffentlicht).getTime() <= t &&
+                                 t - new Date(r.veroeffentlicht).getTime() <= HALF_YEAR)
+                    .sort((a, b) => b.veroeffentlicht.localeCompare(a.veroeffentlicht))[0];
+      if (c) vals.push([c[progVar], i]);
+    });
+    if (vals.length < 3) return { d, min: null, max: null, med: null, n: vals.length, who: "" };
+    const v = vals.map(x => x[0]).sort((a, b) => a - b), m = v.length;
+    const med = m % 2 ? v[(m - 1) / 2] : (v[m / 2 - 1] + v[m / 2]) / 2;
+    return { d, min: v[0], max: v[m - 1], med, n: m, who: vals.map(x => `${x[1]} ${num(x[0])}`).join(", ") };
+  });
 }
+function drawProg() {
+  document.getElementById("prog-title").textContent = `${VARLABEL[progVar]} ${ziel}: Bundesregierung im Vergleich`;
+  document.getElementById("prog-sub").textContent = progVar === "bip" ? "BIP real, unbereinigt, in %" : "Verbraucherpreise (Bundesbank: HVPI), in %";
+  document.getElementById("prog-var").innerHTML = Object.keys(VARLABEL).map(v =>
+    `<button class="btn${v === progVar ? " on" : ""}" data-v="${v}">${VARLABEL[v]}</button>`).join(" ");
+  document.querySelectorAll("#prog-var .btn").forEach(b => b.onclick = () => { progVar = b.dataset.v; drawProg(); });
+  document.getElementById("zieljahre").innerHTML = years.map(y =>
+    `<button class="btn${y === ziel ? " on" : ""}" data-y="${y}">${y}</button>`).join(" ");
+  document.querySelectorAll("#zieljahre .btn").forEach(b => b.onclick = () => { ziel = +b.dataset.y; drawProg(); });
+  const all = DATA.prognosen.filter(p => p.zieljahr === ziel && p[progVar] != null && p.veroeffentlicht);
+  const others = all.filter(p => p.institution !== "Bundesregierung");
+  const breg = all.filter(p => p.institution === "Bundesregierung").sort((a, b) => a.veroeffentlicht.localeCompare(b.veroeffentlicht));
+  const dates = [...new Set(all.map(p => p.veroeffentlicht))].sort();
+  const today = new Date().toISOString().slice(0, 10);
+  if (dates.length && today > dates[dates.length - 1]) dates.push(today);
+  const B = band(others, dates);
+  const traces = [
+    { x: B.map(b => b.d), y: B.map(b => b.max), type: "scatter", mode: "lines", line: { width: 0, shape: "hv" }, showlegend: false, hoverinfo: "skip", connectgaps: false },
+    { x: B.map(b => b.d), y: B.map(b => b.min), type: "scatter", mode: "lines", line: { width: 0, shape: "hv" }, fill: "tonexty",
+      fillcolor: "rgba(127,127,127,0.25)", name: "Spanne der anderen", text: B.map(b => b.who),
+      customdata: B.map(b => [b.max, b.n]), hovertemplate: "%{y:.1f} bis %{customdata[0]:.1f} % (n=%{customdata[1]})<br>%{text}<extra></extra>" },
+    { x: B.map(b => b.d), y: B.map(b => b.med), type: "scatter", mode: "lines", name: "Median der anderen",
+      line: { color: "#595959", width: 1.5, dash: "dot", shape: "hv" }, hoverinfo: "skip" },
+  ];
+  if (document.getElementById("prog-einzeln").checked) {
+    DATA.institutionen.filter(i => i !== "Bundesregierung").forEach(inst => {
+      const pts = others.filter(p => p.institution === inst).sort((a, b) => a.veroeffentlicht.localeCompare(b.veroeffentlicht));
+      if (pts.length) traces.push({ x: pts.map(p => p.veroeffentlicht), y: pts.map(p => p[progVar]), name: inst, type: "scatter",
+        mode: "markers", marker: { color: INST_COLOR[inst], size: 6 }, text: pts.map(p => p.runde),
+        hovertemplate: "%{y:.1f} % (%{text})<extra>" + inst + "</extra>" });
+    });
+  }
+  if (breg.length) {
+    const bx = breg.map(p => p.veroeffentlicht), by = breg.map(p => p[progVar]);
+    traces.push({ x: [...bx, dates[dates.length - 1]], y: [...by, by[by.length - 1]], type: "scatter", mode: "lines",
+                  line: { color: INST_COLOR["Bundesregierung"], width: HS.line, shape: "hv" }, showlegend: false, hoverinfo: "skip" });
+    traces.push({ x: bx, y: by, name: "Bundesregierung", type: "scatter", mode: "markers",
+                  marker: { color: INST_COLOR["Bundesregierung"], size: 9 }, text: breg.map(p => p.runde),
+                  hovertemplate: "%{y:.1f} % (%{text})<extra>Bundesregierung</extra>" });
+  }
+  const ist = (progVar === "bip" ? DATA.ist : DATA.ist_inflation)[String(ziel)];
+  const shapes = ist == null ? [] : [{ type: "line", xref: "paper", x0: 0, x1: 1, y0: ist, y1: ist, line: { color: "#000", width: 1.5, dash: "dash" } }];
+  const ann = ist == null ? [] : [{ xref: "paper", x: 0, y: ist, text: `Ist ${num(ist)} %`, showarrow: false, yshift: 9, xanchor: "left", font: { size: 11 } }];
+  plot("c-prog", traces, { hovermode: "closest", shapes, annotations: ann, xaxis: { type: "date", showgrid: false, tickformat: "%m/%Y" } });
+  // Lage der Bundesregierung in der Spanne je Runde
+  const pos = breg.map(p => { const b = band(others, [p.veroeffentlicht])[0];
+    if (b.min == null) return null;
+    const w = b.max - b.min, s = w > 0 ? Math.round(100 * (p[progVar] - b.min) / w) : 50;
+    const lage = p[progVar] > b.max ? "über der Spanne" : p[progVar] < b.min ? "unter der Spanne" : `bei ${Math.max(0, Math.min(100, s))} % der Spanne`;
+    return `${p.runde}: ${num(p[progVar])} % ${lage} (${num(b.min)} bis ${num(b.max)})`; }).filter(Boolean);
+  document.getElementById("prog-pos").textContent = pos.length ? "Lage der Bundesregierung (0 % = Minimum, 100 % = Maximum der anderen): " + pos.join("; ") : "";
+}
+document.getElementById("prog-einzeln").onchange = drawProg;
 drawProg();
 (function latestTable() {
   const by = {};

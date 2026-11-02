@@ -5,9 +5,9 @@ on:
     - cron: "41 6 * * 1"   # montags 06:41 UTC
   workflow_dispatch:
   push:
-    branches-ignore: [main]
     paths:
       - "projektionswolf/**"
+      - "data/manuell/**"
       - .github/workflows/update.yml
 
 permissions:
@@ -41,6 +41,11 @@ jobs:
       - name: Bericht in die Zusammenfassung
         if: always()
         run: cat output/bericht.md >> "$GITHUB_STEP_SUMMARY" || true
+      - name: Pages-Artefakt hochladen
+        if: github.ref_name == github.event.repository.default_branch
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
       - name: Committen
         run: |
           git config user.name "projektionswolf-bot"
@@ -49,3 +54,18 @@ jobs:
           if git diff --cached --quiet; then echo "Keine Änderungen."; exit 0; fi
           git commit -m "Daten und Schätzung aktualisiert ($(date -u +%F))"
           git push
+
+  deploy:
+    needs: update
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Webseite veröffentlichen
+        id: deployment
+        uses: actions/deploy-pages@v4

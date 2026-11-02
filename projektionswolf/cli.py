@@ -28,7 +28,10 @@ def cmd_run(args) -> int:
     res = pipeline.run(backtest_nowcast=not args.quick)
     x = report.write_excel(res)
     md = report.write_markdown(res)
-    logging.info("geschrieben: %s, %s", x, md)
+    from . import site
+
+    html = site.write_site(res)
+    logging.info("geschrieben: %s, %s, %s", x, md, html)
     return 0
 
 

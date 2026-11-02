@@ -1,4 +1,4 @@
-# projektionswolf: Lauf vom 2026-11-02 07:39 UTC
+# projektionswolf: Lauf vom 2026-11-02 09:24 UTC
 
 ## Nachbau der Potenzialschätzung
 Nachgerechnet: 7 Runden (FP24, HP24, JP25, FP25, HP25, JP26, FP26). Größte Abweichung der Produktionslücke: 7.1e-08 Prozentpunkte.
@@ -25,17 +25,17 @@ Nachgerechnet: 7 Runden (FP24, HP24, JP25, FP25, HP25, JP26, FP26). Größte Abw
 |---|---|---|---|---|
 | 2018 | 1.30 | 1.32 | 1.88 | 1.92 |
 | 2019 | 1.14 | 1.16 | 1.72 | 1.74 |
-| 2020 | 0.81 | 0.82 | -3.27 | -3.25 |
-| 2021 | 0.68 | 0.69 | -0.17 | -0.16 |
-| 2022 | 0.76 | 0.75 | 0.87 | 0.89 |
-| 2023 | 0.78 | 0.75 | -0.78 | -0.73 |
-| 2024 | 0.59 | 0.57 | -1.84 | -1.79 |
-| 2025 | 0.43 | 0.43 | -2.03 | -1.98 |
-| 2026 | 0.31 | 0.30 | -1.84 | -1.78 |
-| 2027 | 0.36 | 0.37 | -1.26 | -1.21 |
-| 2028 | 0.41 | 0.39 | -0.80 | -0.73 |
-| 2029 | 0.45 | 0.44 | -0.38 | -0.31 |
-| 2030 | 0.49 | 0.49 | -0.00 | 0.07 |
+| 2020 | 0.81 | 0.81 | -3.27 | -3.25 |
+| 2021 | 0.68 | 0.69 | -0.17 | -0.15 |
+| 2022 | 0.76 | 0.75 | 0.87 | 0.90 |
+| 2023 | 0.78 | 0.75 | -0.78 | -0.72 |
+| 2024 | 0.59 | 0.57 | -1.84 | -1.78 |
+| 2025 | 0.43 | 0.43 | -2.03 | -1.97 |
+| 2026 | 0.31 | 0.31 | -1.84 | -1.77 |
+| 2027 | 0.36 | 0.38 | -1.26 | -1.21 |
+| 2028 | 0.41 | 0.41 | -0.80 | -0.75 |
+| 2029 | 0.45 | 0.47 | -0.38 | -0.34 |
+| 2030 | 0.49 | 0.52 | -0.00 | 0.01 |
 
 ## Nowcast
 |  | BIP q/q Ist | DFM | Bridge |
@@ -52,14 +52,6 @@ Nachgerechnet: 7 Runden (FP24, HP24, JP25, FP25, HP25, JP26, FP26). Größte Abw
 
 Jahreswachstum 2026 (kalenderbereinigt) aus dem Faktormodell: 1.06 %. Datenstand Monatsindikatoren: 2026-10.
 Setzt man dieses Wachstum in die Frühjahrsprojektion 2026 ein (0.51 % dort), ändert sich die Lücke 2026 von -1.84 auf -1.30 % des Potenzials.
-
-### Backtest Nowcast (ohne Corona-Quartale)
-|  | RMSE | MAE | n | RMSE relativ zu AR(1) |
-|---|---|---|---|---|
-| DFM | 0.453 | 0.323 | 46.000 | 0.813 |
-| ar1 | 0.557 | 0.405 | 46.000 | 1.000 |
-| mittelwert | 0.537 | 0.386 | 46.000 | 0.964 |
-| bridge | 0.544 | 0.367 | 46.000 | 0.976 |
 
 ## Backtest BIP-Projektionen der Bundesregierung
 | horizont | n | mittlerer_fehler | RMSE | MAE |

@@ -1948,6 +1948,6 @@
  		
 
   
-  '0.13789105415344 sec diw2_start (nach gefundenem Cache)',
+  '0.14617490768433 sec diw2_start (nach gefundenem Cache)',
 ) --> 
    

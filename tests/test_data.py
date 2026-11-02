@@ -83,7 +83,9 @@ def test_komponenten_only_gdp_matched_tables():
     for r in bip.itertuples():
         k = (r.institution, r.runde, r.jahr)
         if k in ref.index:
-            cand = ref.loc[[k]].values.ravel()
-            assert any(abs(r.wert - c) <= 0.051 for c in cand if c == c), k
+            cand = [c for c in ref.loc[[k]].values.ravel() if c == c]
+            if not cand:  # kein geprüfter Vergleichswert für dieses Jahr
+                continue
+            assert any(abs(r.wert - c) <= 0.051 for c in cand), k
             hits += 1
     assert hits >= 40

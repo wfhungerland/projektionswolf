@@ -1,0 +1,921 @@
+=== Seite 4
+2
+INHALTSVERZEICHNIS
+Sonderkapitel: Wohlfahrtsmessung und gesellschaftlicher Fortschritt 107
+........................................................
+Vorbemerkungen 107
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(I) Wirtschaftliche Leistungsfähigkeit und Grundbedürfnisse 108
+......................................................................
+(II) Soziale Gerechtigkeit und Teilhabe 115
+.................................................................................................................................
+(III) Zukunftsfähigkeit von Staat und Wirtschaft 121
+.......................................................................................................
+(IV) Ökologische Grenzen 127
+...................................................................................................................................................................
+II. Jahresprojektion 2023 der Bundesregierung 134
+.....................................................................................................................................................................................................................
+Überblick: Schwacher Jahreswechsel, im Jahresverlauf spürbare wirtschaftliche
+Belebung 135
+................................................................................................................................................................................................................
+Weltwirtschaft mit verlangsamtem Tempo 139
+......................................................................................................................
+Deutscher Außenhandel schwächelt im Jahr 2023 140
+...................................................................................................
+Unsicherheit belastet die Investitionstätigkeit 141
+.............................................................................................................
+Arbeitsmarkt hält sich trotz Abkühlung stabil 143
+...............................................................................................................
+Energiepreisbremsen drücken Inflationsrate spürbar nach unten 144
+.........................................................
+Einkommen profitieren von staatlichen Entlastungsmaßnahmen 146
+..........................................................
+Staatskonsum erstmals seit Corona-Krise rückläufig 148
+..........................................................................................
+Abkürzungsverzeichnis 153
+...............................................................................................................................................................................................................................................................................................................................................................
+Stichwortverzeichnis 156
+........................................................................................................................................................................................................................................................................................................................................................................
+Verzeichnis der Schaubilder
+Schaubild 1: Komponenten der Verbraucherpreisentwicklung 13
+..................................................................................
+Schaubild 2: Preisniveaus von Energieträgern nehmen unterschiedlich stark zu 20
+...................................
+Schaubild 3: Treibhausgasemissionen in Deutschland (nach Sektoren) 26
+............................................................
+Schaubild 4: Zukunftspaket 30
+............................................................................................................................................................................
+Schaubild 5: Bruttostromerzeugung in Deutschland 2022 in Terawattstunden (TWh) 33
+..................
+Schaubild 6: Stand der Netzausbauvorhaben (Übertragungsnetz) 38
+.........................................................................
+Schaubild 7: Gasverbrauch 2022 in Deutschland im Vergleich zu 2018 bis 2021 39
+...................................
+Schaubild 8: Gesamtwirtschaftliches Stellenangebot (IAB) sowie gemeldete offene Stellen
+(BA) in Tausend, Quartalswerte 44
+.................................................................................................................................
+Schaubild 9: Erwerbstätige Personen und Arbeitsvolumen, indexiert auf 1991 50
+.......................................
+Schaubild 10: Frauenanteil an Erwerbstätigen und am Arbeitsvolumen in Prozent 51
+............................
+Schaubild 11: GRW-Reform: Änderungen gegenüber Status quo 81
+..........................................................................
+Schaubild 12: Durchschnittliche Abgabenquote in Prozent des BIP 88
+...................................................................
+Schaubild 13: Energieneuinstallation nach Erzeugungsart 97
+.............................................................................................
+Schaubild 14: Bruttoinlandsprodukt (preisbereinigt) 136
+........................................................................................................
+Schaubild 15: Indikatoren für Ausrüstungsinvestitionen 141
+..............................................................................................
+Schaubild 16: Dekomposition des BIP-Deflators 143
+..................................................................................................................
+=== Seite 5
+3
+INHALTSVERZEICHNIS
+Schaubild 17: Wachstumsbeiträge zur Veränderung der Verbraucherpreise 145
+...........................................
+Schaubild 18: Druck auf Gaspreise schlägt sich auf verschiedenen Absatzstufen nieder 146
+..........
+Schaubild 19: Entwicklung der Nominal- und Reallöhne 148
+.............................................................................................
+Verzeichnis der Übersichten
+Übersicht 1: Ausgewählte Eckwerte zur gesamtwirtschaftlichen Entwicklung 19
+.......................................
+Übersicht 2: Entwicklung des Bundeshaushalts 22
+.........................................................................................................................
+Übersicht 3: Ausgewählte Eckwerte zur gesamtwirtschaftlichen Entwicklung 137
+...................................
+Übersicht 4: Technische Details der Jahresprojektion 2023 138
+.......................................................................................
+Übersicht 5: Wachstumsbeiträge zum Bruttoinlandsprodukt 138
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Übersicht 6: Eckwerte der Jahresprojektion 2023 150
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Übersicht 7: Gegenüberstellung der Jahresprojektion 2022 und der tatsächlichen
+Entwicklung 152
+................................................................................................................................................................................
+Verzeichnis der Kästen
+Kasten 1: Energiepreise sind ein Treiber der Verbraucherpreise 20
+..............................................................................
+Kasten 2: Sanktionen der Europäischen Union gegen Russland 21
+...............................................................................
+Kasten 3: Überblick über Maßnahmen der Bundesregierung gegen die wirtschaftlichen
+und sozialen Folgen des russischen Angriffskrieges 23
+...................................................................................
+Kasten 4: Der EU-beihilferechtliche Befristete Krisenrahmen (Temporary Crisis
+Framework (TCF)) 25
+.............................................................................................................................................................................
+Kasten 5: Das Erdölembargo und die Raffinerien in Leuna und Schwedt 31
+.......................................................
+Kasten 6: Unterstützung von Transformationsvorhaben über den Klima- und
+Transformationsfonds 41
+..................................................................................................................................................................
+Kasten 7: Bundesförderung für Energie- und Ressourceneffizienz in der Wirtschaft (EEW) 43
+. . . . .
+Kasten 8: Fachkräftestrategie der Bundesregierung 45
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Kasten 9: Die 10 Handlungsfelder der Start-up-Strategie der Bundesregierung 57
+..................................
+Kasten 10: Regelungsgegenstände des Data Act der EU (nach Vorschlag der
+Europäischen Kommission) 67
+................................................................................................................................................
+Kasten 11: Ziele der europäischen Verordnung für Künstliche Intelligenz 69
+...................................................
+Kasten 12: Raschen Wärmepumpenhochlauf ermöglichen 78
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Kasten 13: Energiepolitische Schwerpunkte von REPowerEU 85
+...................................................................................
+Kasten 14: Ergebnisse der UNFCCC Klimaverhandlungen (COP27) 95
+.....................................................................
+Kasten 15: Deutsche G7-Präsidentschaft 2022 98
+...........................................................................................................................
+Kasten 16: Wohlfahrtseffekte der Terms of Trade 140
+................................................................................................................
+Kasten 17: Wie wirken die Gas- und Strompreisbremse? 146
+...........................................................................................
+Kasten 18: Rückblick auf die Jahresprojektion 2022 151
+........................................................................................................
+=== Seite 7
+5
+GELEITWORT
+unterstützt. Wegfallende russische Energieliefe­ vor Ort den Ausbau von Solaranlagen und
+rungen konnten kompensiert werden; die Ener­ Windenergie an Land in hohem Tempo voran­
+gieversorgung ist weiterhin sicher und stabil. Im zutreiben. Eine erste Dynamik beim Ausbau der
+Ergebnis ist das Bruttoinlandsprodukt Deutsch­ Erneuerbaren haben wir schon 2022 gesehen.
+lands im vergangenen Jahr preisbereinigt um Jetzt kommt es darauf an, diese gemeinsam mit
+immerhin rund zwei Prozent gestiegen. Auch für allen Akteuren weiter zu beschleunigen. Gleich­
+das Jahr 2023 ist die Projektion, die die Bundes­ zeitig müssen wir auf dem Weg in eine treib­
+regierung mit diesem Bericht vorlegt, bei allen hausgasneutrale Zukunft auch in der Industrie,
+Unwägbarkeiten weiter verhalten optimistisch: beim Verkehr und im Gebäudebereich schnell
+Eine deutliche Rezession, wie sie von vielen voranschreiten.
+Beobachtern lange Zeit als unausweichlich be­
+trachtet wurde, zeichnet sich jedenfalls nicht ab. Dabei ist klar: Klimaneutralität ist ein entschei­
+dender ökonomischer und sozialer Erfolgsfak­
+Unseren Wohlstand erneuern tor. Es ist ein Weg der Veränderungen, die wir
+aber gemeinsam meistern können. Der Weg zur
+Das zeigt, dass sich Entschlossenheit und Konse­ Klimaneutralität 2045 führt nicht nur über neue
+quenz im Handeln lohnen. Wenn wir uns gemein­ Geschäftsmodelle, ökonomischen Erfolg und
+sam als Gesellschaft anstrengen, können wir soziale Teilhabe. Er ist auch unbedingte Voraus­
+Erstaunliches erreichen. Das ist die zentrale setzung für unsere Freiheit und unseren zukünf­
+Lehre aus dem vergangenen Jahr. Diesen Schwung tigen Wohlstand. In wenigen Worten zugespitzt:
+können wir mitnehmen und ausbauen. Neben Um unseren Wohlstand zu bewahren, müssen
+dem akuten Krisenmanagement ist dabei die wir ihn erneuern. Einen Wohlstand, der ökolo­
+Gestaltung einer Sozial­ökologischen Markt­ gisch nachhaltig ist, gerecht verteilt wird und
+wirtschaft zentral. mit Blick auf die geopolitischen Herausforde­
+rungen resilienter als heute ist.
+Kurz­ und mittelfristig geht es darum, in der
+Energiepolitik eine von fossilen Importen mög­ Angesichts der Entwicklung bei den Energie­
+lichst unabhängige Energieversorgung zu wett­ preisen kümmern wir uns aktiv um die Wettbe­
+bewerbsfähigen Preisen sicherzustellen. Dafür werbsfähigkeit unserer Wirtschaft. Richtig ist:
+kommt es entscheidend auf den schnellen Aus­ ökonomische Knappheiten und Inflation verlan­
+bau der erneuerbaren Energien an. 2022 haben gen nach einer Ausweitung des Angebots. Wir
+wir parallel zum Krisenmanagement wesentliche wollen aber nicht zurück in die 1980er Jahre.
+Rahmenbedingungen für die Beschleunigung des Eine kluge Angebotspolitik, die den Herausfor­
+Erneuerbaren­Ausbaus geschaffen – in Deutsch­ derungen unserer Zeit Rechnung trägt, nimmt
+land und auch auf EU­Ebene. vor allem gezielt die ökologische Transformation
+unserer Wirtschaftsweise in den Blick. Entschei­
+Genehmigungsverfahren wurden deutlich dend sind Investitionen in Klimaschutz und
+erleichtert, viele Hürden haben wir aus dem Weg Schlüsseltechnologien, der Ausbau technologi­
+geräumt. Die Weichen sind gestellt; der Weg für scher Kompetenzen und die Intensivierung der
+Investoren, Länder und Kommunen ist frei, um Energieforschung. Dazu müssen wir nicht nur
+=== Seite 20
+18
+I. WIRTSCHAFTS- UND FINANZPOLITIK DER BUNDESREGIERUNG
+Sozial-ökologische Marktwirtschaft konkreti- B. Ausgangslage
+sieren: Ordnungsrahmen weiterentwickeln
+Konjunkturelle Ausgangslage
+32. Die Bundesregierung wird die rechtlichen
+Rahmenbedingungen für eine Sozial­ökologische 35. Im Jahr 2022 nahm das Bruttoinlandsprodukt
+Marktwirtschaft schrittweise weiterentwickeln. (BIP) in Deutschland nach vorläufigen Berechnun­
+Durch das „Wettbewerbsdurchsetzungsgesetz“ soll gen des Statistischen Bundesamtes preisbereinigt
+das Bundeskartellamt in seiner Funktion als Wett­ um 1,9 Prozent zu. Die wirtschaftliche Entwick­
+bewerbshüter im Sinne der Gesamtwirtschaft und lung war dabei wesentlich von dem russischen An­
+der Verbraucherinnen und Verbraucher gestärkt griffskrieg auf die Ukraine und den damit zus am­
+werden (vgl. Tz 146). Die Praxis der öffentlichen menhängenden Herausforderungen, insbesondere
+Beschaffung und Vergabe wird grundlegend an die mit Blick auf die Energieversorgung, geprägt. Trotz
+Anforderungen der erforderlichen Transformation Lieferkettenengpässen, Handels­ und Wirtschafts­
+angepasst. Ein Reallabore­Gesetz soll einheitliche sanktionen gegenüber Russland und schließlich
+und innovationsfreundliche Rahmenbedingun­ Einstellens russischer Gaslieferungen Ende August
+gen für Reallabore bieten und neue Freiräume zur hat sich die deutsche Wirtschaft insgesamt als
+Erprobung von Innovationen ermöglichen. widerstandsfähig erwiesen.
+33. Zum Schutz biologischer Vielfalt wird die 36. Die Bundesregierung geht in der Jahresprojek­
+Bundesregierung den umweltpolitischen Rahmen tion für das Jahr 2023 von einem Anstieg des preis­
+weiterentwickeln, um den auch aus wirtschafts­ bereinigten Bruttoinlandsprodukts um 0,2 Proz ent
+politischer Perspektive schwerwiegenden Verlust aus. Die Ausgangslage zum Jahreswechsel stellt
+an Biodiversität zu stoppen. sich günstiger dar als in der Herbstprojektion ange­
+nommen. Trotzdem bestehen nach wie vor hohe
+34. Um Aspekte des Wohlstands jenseits des Brut­ Unsicherheiten für die deutsche Wirtschaft: der
+toinlandsprodukts stärker in den Blick zu nehmen, Angriffskrieg Russlands gegen die Ukraine und
+berichtet die Bundesregierung seit dem JWB 2022 dessen wirtschaftliche Folgen, die schwache Ent­
+in einem Kapitel systematisch über das BIP ergän­ wicklung der Weltwirtschaft, die anhaltend hohen
+zende Wohlfahrtsindikatoren. Durch eine neue Energie­ und Verbraucherpreise sowie die Sicher­
+Zuordnung der Indikatoren sowie korrespondie­ stellung der zukünftigen Gasversorgung.
+rende Kapitel in Teil I wird das Indikatorenkapitel
+angereichert. Eine differenzierte und verstärkte 37. Für die Verbraucherpreise erwartet die Bundes­
+Diskussion darüber, was Wohlstand und Lebens­ regierung einen Anstieg um 6,0 Prozent gegenüber
+qualität bedeuten, und die Offenlegung von Ziel­ dem Vorjahr. Als Konsequenz hoher Energie­ und
+konflikten verschiedener Indikatoren erscheint Nahrungsmittelpreise wird auch in diesem Jahr
+in Krisenzeiten und angesichts der erforderlichen mit zunächst hoher, wenn auch im Jahresverlauf
+Transformation umso dringlicher. deutlich rückläufiger Inflation zu rechnen sein.
+Der Höhepunkt der Inflationsentwicklung dürfte
+allerdings überschritten sein, wobei die staatlichen
+Hilfsmaßnahmen wie die Strom­ und Gaspreis­
+bremsen spürbare Entlastungen bringen. Dennoch
+=== Seite 21
+19
+I. WIRTSCHAFTS- UND FINANZPOLITIK DER BUNDESREGIERUNG
+Übersicht 1: Ausgewählte Eckwerte zur gesamtwirtschaftlichen Entwicklung1; 2
+Jahres­
+projektion
+2021 2022
+2023
+Veränderung gegenüber Vorjahr in Prozent, soweit nicht anders angegeben
+ENTSTEHUNG des Bruttoinlandsprodukts (BIP)
+BIP (preisbereinigt) 2,6 1,9 0,2
+Erwerbstätige (im Inland) 0,1 1,3 0,3
+Arbeitslosenquote in Prozent (Abgrenzung der Bundesagentur für Arbeit – BA) 2; 2 5,7 5,3 5,4
+VERWENDUNG des BIP preisbereinigt (real)
+Private Haushalte und private Organisationen ohne Erwerbszweck 0,4 4,6 -0,2
+Ausrüstungen 3,5 2,5 3,3
+Bauten 0,0 -1,6 -2,8
+Inlandsnachfrage 1,9 3,4 -0,2
+Exporte 9,7 3,2 2,2
+Importe 9,0 6,7 1,6
+Außenbeitrag (Impuls) 3; 2 0,8 -1,3 0,4
+Bruttolöhne und -gehälter je Arbeitnehmer 3,3 4,3 5,2
+Quellen: Statistisches Bundesamt 2022; Jahresprojektion 2023 der Bundesregierung.
+1; Bis 2022 Ergebnisse des Statistischen Bundesamtes; Stand: Januar 2023.
+2; Bezogen auf alle Erwerbspersonen.
+3; Absolute Veränderung der Vorräte bzw. des Außenbeitrags in Prozent des BIP des Vorjahres (= Beitrag zur Zuwachsrate des BIP).
+werden die realen Einkommens­ und Kaufkraft­ 39. Die weltwirtschaftlichen Rahmenbedingun­
+verluste für die Verbraucherinnen und Verbrau­ gen sind im Kontext des Angriffskriegs Russlands
+cher trotz der preisdämpfenden staatlichen Maß­ gegen die Ukraine, der geldpolitischen Drosselung
+nahmen bis weit in das Jahr 2023 spürbar bleiben im Zuge der hohen Inflation, hoher Verschuldung
+und die binnenwirtschaftliche Entwicklung belas­ und ansteigender Finanzmarktrisiken sowie weiter
+ten. existierenden Lieferkettenengpässen deutlich ein­
+getrübt. Der Internationale Währungsfonds rech­
+38. Bei der Erwerbstätigkeit geht die Bundesregie­ net für 2023 mit einer weiteren Verlangsamung der
+rung im Jahresdurchschnitt von einem Aufbau um wirtschaftlichen Dynamik auf jahresdurchschnitt­
+160 Tsd. aus. Die Arbeitslosigkeit dürfte im Jahres­ lich +2,7 Prozent. Ein deutlicherer Rückgang wird
+durchschnitt leicht um 65 Tsd. auf rund 2,5 Mio. für den Welthandel erwartet, von +4,3 Prozent im
+Personen steigen. Mit einer Abschwächung der letzten auf +2,5 Prozent in diesem Jahr. Von die­
+hohen Inflationsdynamik im Jahresverlauf, den ser globalen Wachstums­ und Handelsschwäche
+Impulsen der fiskalischen Stabilisierungsmaßnah­ dürfte insbesondere die stark in globale Wert­
+men und der erwarteten weltwirtschaftlichen Bele­ schöpfungsketten eingebundene deutsche Wirt­
+bung dürfte die wirtschaftliche Entwicklung im schaft belastet werden.
+Verlauf des Jahres dann wieder an Fahrt gewinnen.
+40. Die ausführliche Projektion der Bundesregie­
+rung findet sich in Teil II dieses Jahreswirtschafts­
+berichts.
+=== Seite 24
+22
+I. WIRTSCHAFTS- UND FINANZPOLITIK DER BUNDESREGIERUNG
+42. Die Bundesregierung hat frühzeitig gehandelt Leistungsgerechtigkeit. Eine Kompensation von
+und im Verlauf des vergangenen Jahres eine Viel­ Wohlfahrtsverlusten durch den Staat kann aller­
+zahl von Entlastungsmaßnahmen sowohl für Bür­ dings nur in Teilen und temporär erfolgen; Entlas­
+gerinnen und Bürger als auch für Unternehmen tungen sollten möglichst zielgerichtet sein, damit
+auf den Weg gebracht, die zum Teil erst in diesem die Inflation nicht verstärkt wird. Zudem können
+Jahr ihre volle Entlastungswirkung entfalten wer­ gezielte fiskalische Anreize auch einen Beitrag
+den. Sie gibt damit eine wirkungsvolle Antwort leisten, um gesamtwirtschaftliche und sektorspezi­
+auf die Krise und verbindet so Solidarität und fische Knappheiten aufzulösen.
+Übersicht 2: Entwicklung des Bundeshaushalts
+Veränderung
+Ist 2022 Soll 2023 gegenüber
+Vorjahr
+in Mio. Euro in Prozent
+Ermittlung des Finanzierungssaldos
+1. Ausgaben zusammen1 480.688 476.291 ­0,9
+2. Einnahmen zusammen2 364.653 389.921 +6,9
+Steuereinnahmen 337.168 358.126 +6,2
+sonstige Einnahmen (ohne Münzeinnahmen) 27.485 31.795 +15,7
+3. Saldo der durchlaufenden Mittel 0 0 –
+Einnahmen ./. Ausgaben + Saldo der durchlaufenden
+­116.034 ­86.370 –
+Mittel = Finanzierungssaldo
+Verwendung des Finanzierungssaldos
+Nettokreditaufnahme 115.442 45.610 –
+Münzeinnahmen (nur Umlaufmünzen) 92 248 +168,6
+Zuführung (-)/Entnahme (+) Rücklage 5003 40.512 –
+nachrichtlich:
+investive Ausgaben
+(Baumaßnahmen, Beschaffungen über 5.000 Euro je Beschaffungsfall, 46.211 71.475 +54,7
+Darlehen, Inanspruchnahme aus Gewährleistungen, etc.)
+Abweichungen durch Rundung der Zahlen möglich.
+1 Mit Ausnahme der Ausgaben zur Schuldentilgung am Kreditmarkt, der Zuführungen an Rücklagen und der Ausgaben zur Deckung eines kassen-
+mäßigen Fehlbetrages. Ohne Ausgaben aus haushaltstechnischen Verrechnungen.
+2 Mit Ausnahme der Einnahmen aus Krediten vom Kreditmarkt, der Entnahme aus Rücklagen und der Einnahmen aus kassenmäßigen Über-
+schüssen sowie der Münzeinnahmen. Ohne Einnahmen aus haushaltstechnischen Verrechnungen.
+3 Rücklage zur Gewährleistung überjähriger Planungs- und Finanzierungssicherheit für Rüstungsinvestitionen für den Einzelplan Verteidigung.
+Quelle: Bundesministerium der Finanzen.
+=== Seite 109
+107
+SONDERKAPITEL: WOHLFAHRTSMESSUNG UND GESELLSCHAFTLICHER FORTSCHRITT
+Sonderkapitel: Wohlfahrtsmessung gewählter Indikatoren werden wesentliche Aspekte
+und gesellschaftlicher Fortschritt der gesamtgesellschaftlichen Wohlfahrt in der
+Gegenwart abgebildet und ergänzende Dimensio­
+Vorbemerkungen nen jenseits des Bruttoinlandsprodukts dargestellt.
+Hierfür werden ergänzende Dimensionen des
+313. Die individuelle und damit auch die gesamtge­ materiellen und immateriellen Wohlstands erfasst.
+sellschaftliche Wohlfahrt hängen von weit mehr als
+nur den wirtschaftlichen Rahmendaten ab. Die Bun­ 317. Die Indikatoren fügen sich zu einem Moni­
+desregierung hat im Jahreswirtschaftsbericht 2022 toring, das Auskunft darüber gibt, in welchen
+daher erstmals die Ausführungen zur Wirtschafts­ Dimensionen sich Deutschland auf einem sozial
+politik sowie zur gesamtwirtschaftlichen Projektion ausgewogenen, ökologisch und ökonomisch nach­
+um ein Sonderkapitel mit Indikatoren erweitert, das haltigen, innovativen Wachstumspfad befindet und
+neben dem Wirtschaftswachstum weitere Aspekte an welchen Stellen weiterer Handlungsbedarf für
+von Wohlfahrt und Nachhaltigkeit in den Blick die Politik besteht. Im Sinne einer evidenzbasierten
+nimmt, die für die Gesamtschau der Wirtschafts­ Politik kann die Transformation wirkungsvoller
+und Finanzpolitik von besonderer Bedeutung sind. gestaltet werden, wenn eine solide und aussage­
+kräftige Datenbasis vorliegt.
+314. Die Transformation zu einer nachhaltigen und
+treibhausgasneutralen Wirtschaft bei gleichzeiti­ 318. Im Vergleich zum Vorjahr ist die grundlegende
+ger Stärkung der wirtschaftlichen Grundlagen des Struktur des Kapitels unverändert geblieben. Wei­
+Wohlstands erfordert eine große und stetige gesamt­ terhin wird die Entwicklung der 34 einzelnen Indi­
+gesellschaftliche Kraftanstrengung aller Beteiligten. katoren über einen Zeitraum von mehreren Jahren
+Zugleich bietet die Transformation die Chance, neue grafisch und textlich beschrieben. Geändert haben
+Geschäftsfelder zu erschließen und neuen Wohlstand sich die Bezeichnungen der übergeordneten Kate­
+zu schaffen. Gelingt es hierbei zudem, ein Mehr an gorien, die nun stärker an die Kapitelstruktur des
+sozialer Gerechtigkeit zu erreichen, sind auch weitere JWB angelehnt sind. Des Weiteren wurden einige
+Verbesserungen der gesamtgesellschaftlichen Wohl­ wenige Indikatoren ausgetauscht, wobei erstmals
+fahrt denkbar. Die Beachtung ökologischer Grenzen zwei Indikatoren in Form von Kartendarstellungen
+reduziert vor allem substanzielle Risiken für die visualisiert werden.
+Lebensgrundlagen und die Lebensqualität der heuti­
+gen sowie kommender Generationen. 319. Einige der ausgewählten Indikatoren finden
+sich auch in der Deutschen Nachhaltigkeitsstra­
+315. Die Bundesregierung verfolgt mit ihrer Politik tegie (DNS), welche als Grundlage der Nachhaltig­
+den Anspruch einer Wirtschaftsordnung, die – ganz keitspolitik die Ziele der Bundesregierung definiert,
+im Sinne der Agenda 2030 der Vereinten Natio­ wieder und müssen entsprechend eingeordnet wer­
+nen – zugleich ökologisch, ökonomisch und sozial den (vgl. Erläuterungen zu den Indikatoren). Diese
+gerecht, inklusiv, innovativ und zukunftsgerichtet Indikatoren, die in Teilen ergänzt wurden, werden
+ist – die Sozial­ökologische Marktwirtschaft. in den Grafiken mit N gekennzeichnet.
+316. Mit der zweiten Auflage dieses gesonderten 320. Die vorliegende Indikatorik ist nicht abschlie­
+Kapitels verstetigt die Bundesregierung ihre Wohl­ ßend und trifft auch keine Aussagen über die
+fahrtsmessung für die Sozial­ökologische Markt­ Priorisierung einzelner Ziele und Handlungsfelder.
+wirtschaft und entwickelt sie weiter. Mittels aus­ Selbstverständlich ersetzt sie auch nicht die brei­
+=== Seite 111
+109
+SONDERKAPITEL: WOHLFAHRTSMESSUNG UND GESELLSCHAFTLICHER FORTSCHRITT
+Erläuterungen: Anteile der Erwerbstätigen an der
+Erwerbstätigenquote Bevölkerung des jeweiligen Alters. Angaben für Personen
+im Alter von 20-64 Jahren; Ältere: 60-64 Jahre. Ziel der
+in Prozent
+Bundesregierung ist eine allgemeine Erwerbstätigenquote
+90
+bis zum Jahr 2030 von 78 Prozent bzw. bei Älteren von
+85
+Männer
+60 Prozent. Anmerkung: Aufgrund einer umfassenden
+80
+Insgesamt
+75 Neugestaltung des Mikrozensus in 2020 sind die Daten ab
+70 diesem Berichtsjahr nur eingeschränkt mit den Daten aus
+Frauen
+65 den vorangegangenen Jahren vergleichbar (Zeitreihen-
+60 bruch). Vereinzelte technische Herausforderungen wirkten
+55 sich noch auf die Erhebung des Jahres 2021 aus, wobei die
+50
+Effekte weniger stark als im Jahr 2020 waren.
+Ältere
+45
+40
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+Quelle: Statistisches Bundesamt auf Basis von EU-LFS.
+Erläuterungen: Verhältnis von Bruttoinlandsprodukt (BIP)
+Arbeitsproduktivität in konstanten Preisen zur Einsatzmenge an Arbeits-
+leistung gemessen an den geleisteten Arbeitsstunden.
+Index, 2015 = 100; Arbeitsproduktivität je Erwerbstätigenstunde
+110
+106,1106,4
+105,2
+105 104,2
+103,2103,4
+101,4
+100 99,5 100,0
+97,4 98,0 98,5
+94,9
+95
+90
+2010201120122013201420152016201720182019202020212022
+Quelle: Statistisches Bundesamt.
+Erläuterungen: Anteil der 30- bis 34-Jährigen, die über
+30- bis 34-jährige akademisch Qualifizierte einen Abschluss des Tertiärbereichs (Stufen 5 bis 8 der
+oder beruflich Höherqualifizierte Internationalen Standardklassifikation des Bildungs-
+wesens, ISCED) oder einen postsekundären, nicht-tertiä-
+Anteil an allen 30- bis 34-Jährigen, in Prozent ren Abschluss (Stufe 4 der ISCED) verfügen. Ziel der
+60
+Bundesregierung ist, dass bis 2030 55 Prozent der 30- bis
+55 53,2 34-Jährigen über einen tertiären Abschluss verfügen.
+52,3
+49,8 50,5 Anmerkung: Aufgrund einer umfassenden Neugestaltung
+50 47,9 48,8
+45,7 46,8 des Mikrozensus in 2020 sind die Daten ab diesem
+44,5
+45 43,4
+42,2 Berichtsjahr nur eingeschränkt mit den Daten aus den
+41,3
+40 vorangegangenen Jahren vergleichbar (Zeitreihenb ruch).
+Vereinzelte technische Herausforderungen wirkten sich
+35
+noch auf die Erhebung des Jahres 2021 aus, wobei die
+30 Effekte weniger stark als im Jahr 2020 waren.
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+Quelle: Statistisches Bundesamt.
+=== Seite 138
+136
+II. JAHRESPROJEKTION 2023 DER BUNDESREGIERUNG
+gehen, im Jahresdurchschnitt aufgrund eines sta­ 3 Prozent im vergangenen Jahr für 2023 mit einer
+tistischen Überhangs aus dem Vorjahr nach der weiteren Verlangsamung auf jahresdurchschnitt­
+Erfassung ukrainischer Geflüchteter in der Grund­ lich +2,7 Prozent. Ein noch deutlicherer Rückgang
+sicherung allerdings leicht um 65 Tausend auf rund der Zuwachsraten wird für den Welthandel erwar­
+2,5 Millionen Personen steigen. tet, von +4,3 Prozent im letzten auf +2,5 Prozent in
+diesem Jahr. Von dieser relativen globalen Wachs­
+363. Die weltwirtschaftlichen Rahmenbedingun­ tums­ und Handelsschwäche dürfte insbesondere
+gen stellen sich angesichts des deutlichen Ener­ die stark in globale Wertschöpfungsketten einge­
+gie­ und Nahrungsmittelpreisanstiegs, der daraus bundene deutsche Wirtschaft belastet werden. Die
+folgenden Realeinkommensverluste und der erwartete Abschwächung bei den Exporten dürfte
+spürbaren geldpolitischen Straffung als Folge der sich in Verbindung mit der schwächeren binnen­
+beschleunigten Inflation in fast allen Industrie­ wirtschaftlichen Nachfrage auch dämpfend auf
+ländern zu Jahresbeginn als sehr verhalten dar. die private Investitionstätigkeit auswirken. Zudem
+Der Internationale Währungsfonds rechnet nach belasten gestiegene Energiekosten, Fachkräfte­
+einer Halbierung des globalen Wachstums auf gut mangel und höhere Finanzierungskonditionen
+110
+108
+106
+104
+102
+100
+98
+96
+94
+10
+5
+0
+-5
+-10
+-15
+4. Vj. 4. Vj. 4. Vj. 4. Vj. 4. Vj. 4. Vj. 4. Vj.
+)001
+=
+5102(
+xednI
+tnezorP
+Schaubild 14: Bruttoinlandsprodukt (preisbereinigt)
+Jahresprojektion 2023
+0,2
+1,9
+1,1
+1,0
+2,6
+2,7
+-3,7
+Veränderungen gegenüber dem Vorquartal
+9,0
+1,2 0,8 0,9 0,8 0,7 0,8 0,7 0,1 0,3 0,6 1,9 0,8 0,0 0,8 0,1 0,5 0,0
+-0,6 -0,8 -0,2 -1,4 -1,5
+-9,5
+1. Vj. 2. Vj. 3. Vj. 1. Vj. 2. Vj. 3. Vj. 1. Vj. 2. Vj. 3. Vj. 1. Vj. 2. Vj. 3. Vj. 1. Vj. 2. Vj. 3. Vj. 1. Vj. 2. Vj. 3. Vj. 1. Vj. 2. Vj. 3. Vj.
+2017 2018 2019 2020 2021 2022 2023
+Linie blau: Verlauf vierteljährlich, in Preisen des Vorjahres, saison- und kalenderbereinigt
+Linien orange: Jahresdurchschnitte, in Preisen des Vorjahres; Veränderungen gegenüber Vorjahr in Prozent
+Balken blau: Veränderungen in Prozent, saison- und kalenderbereinigt
+Quellen: Statistisches Bundesamt; Jahresprojektion der Bundesregierung.
+=== Seite 139
+137
+II. JAHRESPROJEKTION 2023 DER BUNDESREGIERUNG
+die Investitionstätigkeit. Die Bundesregierung bremse, noch nicht berücksichtigt wurden.
+setzt dem über Investitionsanreize im Rahmen des Zudem haben sich Konjunkturindikatoren wie
+Klima­ und Transformationsfonds für die private Produktion, Wertschöpfung und Stimmungs­
+Investitionstätigkeit, insbesondere in Richtung umfragen seitdem etwas günstiger entwickelt,
+einer Transformation hin zu einer treibhausgas­ als zu dem Zeitpunkt erwartet wurde. Auch die
+neutralen Wirtschaft, Impulse entgegen (vgl. Tz amtlichen Zahlen des Statistischen Bundesamts
+127 ff.). Bei den staatlichen Investitionen ergeben zum Bruttoinlandsprodukt 2022 waren güns­
+sich Ausweitungen insbesondere durch verstärkte tiger als in der Prognose des SVR erwartet. Von
+Bautätigkeit und das Sondervermögen Bundes­ dem zugrundeliegenden Konjunkturbild eines
+wehr. schwachen Winterhalbjahres mit einer wirt­
+schaftlichen Belebung im weiteren Jahresverlauf
+364. Die Jahresprojektion der Bundesregierung – bei einer zunächst noch gedämpften Konsum­
+ist damit für das Jahr 2023 leicht optimistischer und Investitionsdynamik – unterscheidet sich
+als die Prognose des Sachverständigenrates die Projektion des SVR nicht wesentlich von der
+(SVR) vom November 2022. Der SVR hatte für der Bundesregierung.
+das Jahr 2023 einen Rückgang des realen BIP
+um 0,2 Prozent prognostiziert, wobei allerdings
+einige Maßnahmen, wie z. B. die Strompreis­
+Übersicht 3: Ausgewählte Eckwerte zur gesamtwirtschaftlichen Entwicklung1;
+Jahres­
+projektion
+2021 2022
+2023
+Veränderung gegenüber Vorjahr in Prozent, soweit nicht anders angegeben
+ENTSTEHUNG des Bruttoinlandsprodukts (BIP)
+BIP (preisbereinigt) 2,6 1,9 0,2
+Erwerbstätige (im Inland) 0,1 1,3 0,3
+Arbeitslosenquote in Prozent (Abgrenzung der Bundesagentur für Arbeit – BA) 2; 5,7 5,3 5,4
+VERWENDUNG des BIP preisbereinigt (real)
+Private Haushalte und private Organisationen ohne Erwerbszweck 0,4 4,6 -0,2
+Ausrüstungen 3,5 2,5 3,3
+Bauten 0,0 -1,6 -2,8
+Inlandsnachfrage 1,9 3,4 -0,2
+Exporte 9,7 3,2 2,2
+Importe 9,0 6,7 1,6
+Außenbeitrag (Impuls) 3; 0,8 -1,3 0,4
+Bruttolöhne und -gehälter je Arbeitnehmer 3,3 4,3 5,2
+Quellen: Statistisches Bundesamt 2022; Jahresprojektion 2023 der Bundesregierung.
+1; Bis 2022 Ergebnisse des Statistischen Bundesamtes; Stand: Januar 2023.
+2; Bezogen auf alle Erwerbspersonen.
+3; Absolute Veränderung der Vorräte bzw. des Außenbeitrags in Prozent des BIP des Vorjahres (= Beitrag zur Zuwachsrate des BIP).
+=== Seite 140
+138
+II. JAHRESPROJEKTION 2023 DER BUNDESREGIERUNG
+Übersicht 4: Technische Details der Jahresprojektion 2023
+2021 2022 2023
+in Prozent bzw. Prozentpunkten1
+Jahresdurchschnittliche BIP­Rate 2,6 1,9 0,2
+Statistischer Überhang am Ende des Jahres 2 0,8 0,2 0,6
+Jahresverlaufsrate 3 1,2 1,3 0,8
+Jahresdurchschnittliche Veränderung des BIP, arbeitstäglich bereinigt 2,6 2,0 0,4
+Kalendereffekt 4 0,1 -0,1 -0,2
+Quellen: Statistisches Bundesamt 2022; Jahresprojektion 2023 der Bundesregierung.
+1: Bis Dezember 2022 vorläufige Ergebnisse des Statistischen Bundesamtes.
+2: Saison- und kalenderbereinigter Indexstand im vierten Quartal des Vorjahres in Relation zum kalenderbereinigten Quartalsdurchschnitt des
+Vorjahres.
+3: Jahresveränderungsrate im vierten Quartal, saison- und kalenderbereinigt.
+4: In Prozent des BIP.
+Abweichungen in den Summen durch Rundungen möglich.
+Übersicht 5: Wachstumsbeiträge zum Bruttoinlandsprodukt
+2021 2022 2023
+Wachstumsbeiträge gegenüber Vorjahr (in Prozent)
+Bruttoinlandsprodukt (Zuwachs) = (1)+(2)+(3)+(4) 2,6 1,9 0,2
+(1) Privater Konsum 0,2 2,3 ­0,1
+(2) Staatskonsum 0,8 0,2 ­0,1
+(3) Bruttoinvestitionen 0,8 0,6 0,0
+(3a) Vorratsveränderungen 0,5 0,6 0,0
+(3b) Bruttoanlageinvestitionen 0,3 0,1 0,0
+Bauinvestitionen 0,0 -0,2 -0,3
+Ausrüstungen 0,2 0,2 0,2
+sonst. Anlagen 0,0 0,1 0,1
+Inlandsnachfrage = (1)+(2)+(3) 1,8 3,2 ­0,2
+Export von Waren und Dienstleistungen 4,2 1,5 1,1
+Waren 3,6 0,9 0,9
+Dienstleistungen 0,6 0,6 0,3
+Import von Waren und Dienstleistungen -3,4 -2,8 -0,8
+Waren -2,4 -1,3 -0,5
+Dienstleistungen -1,0 -1,5 -0,2
+(4) Außenbeitrag 0,8 -1,3 0,4
+Quellen: Statistisches Bundesamt; eigene Berechnungen.
+=== Seite 142
+140
+II. JAHRESPROJEKTION 2023 DER BUNDESREGIERUNG
+Deutscher Außenhandel schwächelt im Jahr 2023 Jahresverlauf 2023 wird aber eine Erholung der
+Weltwirtschaft erwartet. Die globale Handels­
+368. Die verhaltene Entwicklung der Weltwirtschaft schwäche zum Jahresbeginn schlägt sich in Verbin­
+dämpft die Aussichten der deutschen Exporteure dung mit der gedämpften Binnennachfrage auch
+auf den internationalen Absatzmärkten zunächst. in den deutschen Ex­ und Importen nieder. Es wird
+Im Jahr 2022 konnte der deutsche Außenhan­ erwartet, dass die Exporte mit einer Wachstums­
+del zunächst noch von Aufholeffekten nach der rate von 2,2 Prozent expandieren. Die Importe
+Corona­Pandemie profitieren. Allerdings machte dürften sich mit 1,6 Prozent etwas schwächer ent­
+sich auch hier schon die Energiepreiskrise bemerk­ wickeln als die Exporte.
+bar. Die preisbereinigten Exporte wuchsen mit
+3,2 Prozent deutlich langsamer als die Importe 370. Der starke Energie­ und Rohstoffpreisanstieg
+(6,7 Prozent). Dies dürfte vor allem daran gelegen im Jahresverlauf 2022 hat dazu geführt, dass die
+haben, dass die Nachfrage nach deutschen Export­ Importpreise stärker gestiegen sind als die Export­
+produkten wie z. B. Anlagen oder Maschinen sehr preise. In der Folge haben sich die Terms of Trade,
+sensibel auf den konjunkturellen Abschwung der also das reale Austauschverhältnis der mit dem
+Weltwirtschaft reagiert. Im Gegensatz dazu haben Ausland gehandelten Waren und Dienstleistun­
+sich die Importe nach Deutschland dynamischer gen, deutlich verschlechtert (siehe Kasten 16). Die
+entwickelt. Vor allem die pandemiebedingten Preisverschiebungen im Außenhandel haben auch
+Nachholeffekte bei dem privaten Verbrauch sowie dazu geführt, dass der Leistungsbilanzüberschuss
+die heimische Nachfrage nach Energieprodukten, Deutschlands in Relation zum BIP im Jahr 2022
+die fast ausschließlich importiert werden, trugen deutlich geschrumpft ist, von 7,4 Prozent im Jahr
+hierzu bei. 2021 auf 4,0 Prozent. In den Jahren 2010 – 2020 lag
+der Leistungsbilanzüberschuss durchschnittlich
+369. Für das Jahr 2023 rechnet die Bundesregierung bei 7,2 Prozent des BIP. Auch im Jahr 2023 erwartet
+mit einer weiterhin sehr schwachen Wachstums­ die Bundesregierung keine substanzielle Änderung
+dynamik des Welthandels von rd. 0,1 Prozent nach des Leistungsbilanzüberschusses (4,2 Prozent), da
+5,8 Prozent im Vorjahr. Die deutschen Absatz­ die Energiepreise im Vergleich zum Vorkrisen­
+märkte mit dem Schwerpunkt in Europa dürften niveau immer noch erhöht bleiben dürften.
+sich mit 0,8 Prozent nach 6,1 Prozent im Vorjahr
+etwas besser entwickeln als der Welthandel. Im
+Kasten 16: Wohlfahrtseffekte der Terms of Trade
+Mit einer Verschlechterung der Terms of Trade ist ein gesamtwirtschaftlicher Wohlfahrtsverlust verbunden,
+da für die gleiche Menge an importierten Waren und Dienstleistungen ein größerer Teil der nationalen Wert-
+schöpfung aufgewendet werden muss. Im vergangenen Jahr haben sich die Terms of Trade um 4,6 Prozent ver-
+schlechtert. Der damit verbundene gesamtwirtschaftliche Wohlfahrtsverlust wird vom Statistischen Bundesamt
+über eine Berechnung des Realwertes des Bruttoinlandsprodukts ausgewiesen. Auf Basis dieser Modellrechnung
+ergibt sich für das vergangene Jahr demnach ein Wohlfahrtsverlust in Höhe von 2,1 Prozent bzw. rund 80 Mil liar-
+den Euro im Vergleich zum BIP des Vorjahres.
+=== Seite 145
+143
+II. JAHRESPROJEKTION 2023 DER BUNDESREGIERUNG
+knappheiten geprägt. In realer Betrachtung ergab 374. Insgesamt erwartet die Bundesregierung für
+sich im letzten Jahr ein Rückgang um 1,6 Prozent. das Jahr 2023 preisbereinigt eine Stagnation der
+Das Ausmaß der Verteuerung zeigt sich im Defla­ gesamten Bruttoanlageinvestitionen (+0,0 Prozent).
+tor für die Bauinvestitionen, der im Jahr 2022 mit Die Investitionsquote – d. h. die nominalen Brutto­
+16,1 Prozent so stark wie noch nie zuvor gestiegen anlageinvestitionen in Relation zum nominalen
+ist. Auch im laufenden Jahr wird mit einer dynami­ Bruttoinlandsprodukt – dürfte von 22,6 Prozent im
+schen – wenn auch spürbar nachlassenden – Ent­ Jahr 2022 auf 22,4 Prozent fallen.
+wicklung der Baupreise gerechnet (+7,1 Prozent).
+Arbeitsmarkt hält sich trotz Abkühlung stabil
+Die Bauinvestitionen werden zwar weiter von der
+hohen Nachfrage nach Wohnraum, vor allem in 375. Die Lage am Arbeitsmarkt stellte sich im ver­
+den Ballungsräumen, gestützt. Auftragseingänge gangenen Jahr trotz der wirtschaftlichen Belas­
+und Auftragsbestand weisen aber im Verlauf des tungen sehr stabil dar: Die Erwerbstätigkeit legte
+vergangenen Jahres einen rückläufigen Trend auf. im Verlauf des vergangenen Jahres kräftig zu und
+Neben den Baukosten und der Materialknappheit erreichte am Jahresende mit 45,7 Millionen Perso­
+dämpft auch der zunehmende Fachkräftemangel nen einen Höchststand. Dieser Trend des Beschäf­
+die Bautätigkeit. Diese Umstände sorgen dafür, tigungsaufbaus dürfte auch in diesem Jahr anhal­
+dass die Bauinvestitionen im laufenden Jahr preis­ ten. Der Arbeitskräftebedarf ist in vielen Bereichen
+bereinigt erneut um 2,8 Prozent sinken dürften. trotz der konjunkturellen Abkühlung hoch. In
+Schaubild 16: Dekomposition des BIP-Deflators
+in Prozent ggü. Vorjahr
+6,0
+5,0
+4,0
+3,0
+2,0
+1,0
+0,0
+-1,0
+-2,0
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Abgaben abzüglich Subv. Lohnkosten Gewinne, Abschr. BIP-Deflator
+Quelle: Statistisches Bundesamt, eigene Berechnungen. 2022: Q3 und Q4 laut Herbstprojektion.
+=== Seite 151
+149
+II. JAHRESPROJEKTION 2023 DER BUNDESREGIERUNG
+Zusammenhang mit der Corona­Pandemie, wie Bundeswehr­Sondervermögens nochmals kräftig
+beispielsweise Kosten für Corona­Tests, Masken um 3,1 Prozent zu. Darüber hinaus setzt der Staat
+und Impfstoffe. In den Vorjahren war der Staats­ über Zuschüsse Anreize für private Investitionen in
+konsum dadurch sehr dynamisch gewachsen. Die die sozial­ökologische Transformation. Das Defizit
+Maßnahmen der Entlastungspakete sowie des im Staatshaushalt lag im Jahr 2022 bei 2,6 Prozent
+Schutzschirms wirken expansiv und reduzieren in Relation zum nominalen Bruttoinlandsprodukt.
+den Kaufkraftverlust durch die gestiegenen Ener­ In diesem Jahr dürfte das Finanzierungsdefizit
+giepreise. Die staatlichen Investitionen nehmen insbesondere aufgrund der Ausgaben des Schutz­
+unter anderem im Rahmen der Erhöhung des schirms temporär nochmals zunehmen.
+=== Seite 152
+150
+II. JAHRESPROJEKTION 2023 DER BUNDESREGIERUNG
+Übersicht 6: Eckwerte der Jahresprojektion 2023
+Gesamtwirtschaftliche Entwicklung in der Bundesrepublik Deutschland 1 Jahres projektion
+2022 2023
+Veränderung gegenüber Vorjahr in Prozent, soweit nicht anders angegeben
+ENTSTEHUNG des Bruttoinlandsprodukts (BIP)
+BIP (preisbereinigt) 1,9 0,2
+Erwerbstätige (im Inland) 1,3 0,3
+BIP je Erwerbstätigen 0,6 -0,2
+BIP je Erwerbstätigenstunde 0,3 -0,3
+nachrichtlich:
+Erwerbslosenquote in Prozent (ESVG-Konzept) 2i 2,8 2,8
+Arbeitslosenquote in Prozent (Abgrenzung der BA) 2i. 5,3 5,4
+VERWENDUNG des BIP in jeweiligen Preisen (nominal)
+Konsumausgaben
+Private Haushalte und private Organisationen ohne Erwerbszweck 11,9 5,3
+Staat 6,4 2,7
+Bruttoanlageinvestitionen 11,2 5,2
+Vorratsveränderungen und Nettozugang an Wertsachen (Mrd. Euro) 77,6 82,4
+Inlandsnachfrage 10,9 4,7
+Außenbeitrag (Mrd. Euro) 75,4 131,7
+Außenbeitrag (in Prozent des BIP) 2,0 3,2
+Saldo der Leistungsbilanz (in % des BIP) 4,0 4,2
+Bruttoinlandsprodukt (nominal) 7,1 6,1
+VERWENDUNG des BIP preisbereinigt (real)
+Konsumausgaben
+Private Haushalte und private Organisationen ohne Erwerbszweck 4,6 -0,2
+Staat 1,2 -0,4
+Bruttoanlageinvestitionen 0,2 0,0
+Ausrüstungen 2,5 3,3
+Bauten -1,6 -2,8
+Sonstige Anlagen 2,1 3,5
+Vorratsveränderung und Nettozugang an Wertsachen (Impuls) 3i.. 0,6 0,0
+Inlandsnachfrage 3,4 -0,2
+Exporte 3,2 2,2
+Importe 6,7 1,6
+Außenbeitrag (Impuls) 3b -1,3 0,4
+Bruttoinlandsprodukt (real) 1,9 0,2
+Preisentwicklung (2010 = 100)
+Verbraucherpreisindex 7,9 6,0
+Konsumausgaben der privaten Haushalte 6,9 5,5
+Inlandsnachfrage 7,3 4,9
+Bruttoinlandsprodukt 4i.. 5,1 5,9
+VERTEILUNG des Bruttonationaleinkommens (BNE)
+(Inländerkonzept)
+Arbeitnehmerentgelte 5,5 5,6
+Unternehmens- und Vermögenseinkommen -0,6 7,0
+Volkseinkommen 3,6 6,0
+Bruttonationaleinkommen 6,9 6,0
+nachrichtlich (Inländerkonzept):
+Arbeitnehmer 1,5 0,5
+Bruttolöhne und -gehälter 5,9 5,7
+Bruttolöhne und -gehälter je Arbeitnehmer 4,3 5,2
+Verfügbares Einkommen der privaten Haushalte 7,2 4,9
+Sparquote in Prozent 5i.. 11,2 10,7
+Quellen: Statistisches Bundesamt 2022; Jahresprojektion 2023 der Bundesregierung.
+1 Bis 2022 vorläufige Ergebnisse des Statistischen Bundesamtes; Stand: Januar 2023.
+2 Bezogen auf alle Erwerbspersonen.
+3 Absolute Veränderung der Vorräte bzw. des Außenbeitrags in Prozent des BIP des Vorjahres (= Beitrag zur Zuwachsrate des BIP).
+4 Lohnstückkosten je Arbeitnehmer; Veränderung gegenüber Vorjahr: 2021: 3,3 %; 2022: 5,3 %.
+5 Sparen in Prozent des verfügbaren Einkommens der privaten Haushalte einschl. betrieblicher Versorgungsansprüche.
+=== Seite 153
+151
+II. JAHRESPROJEKTION 2023 DER BUNDESREGIERUNG
+Kasten 18: Rückblick auf die Jahresprojektion 2022
+In der Jahresprojektion für das Jahr 2022 war die Bundesregierung von einer spürbaren wirtschaftlichen Erho-
+lung nach den Folgen der Corona-Pandemie und deren Belastungen für die wirtschaftliche Entwicklung aus-
+gegangen. Für das Gesamtjahr 2022 wurde damals eine Zunahme des preisbereinigten Bruttoinlandsprodukts
+(BIP) um 3,6 Prozent erwartet. Nach ersten, vorläufigen Ergebnissen des Statistischen Bundesamtes nahm das
+preisbereinigte BIP im vergangenen Jahr mit 1,9 Prozent weniger zu.
+Zentraler Grund für diese deutlich schwächere wirtschaftliche Entwicklung als seinerzeit erwartet war der
+Angriffskrieg Russlands gegen die Ukraine und die damit zusammenhängenden wirtschaftlichen Folgen wie die
+Verringerung und schließlich Einstellung russischer Gaslieferungen nach Deutschland sowie die daraus folgen-
+den massiven Energie- und Nahrungsmittelpreissteigerungen. Während in der Jahresprojektion 2022 noch ein
+Anstieg der Verbraucherpreise um 3,3 Prozent angenommen wurde, lag der tatsächliche Anstieg mit 7,9 Prozent
+mehr als doppelt so hoch.
+Der private Konsum hat sich infolge des Wegfalls fast aller Corona-Beschränkungen seit dem Frühsommer letz-
+ten Jahres und den damit einhergehenden Nachholeffekten spürbar belebt und ist preisbereinigt 2022 deutlich
+gestiegen. Auch die Investitionstätigkeit der Unternehmen in Anlagen und Bauten, die in der ersten Jahreshälfte
+noch von spürbaren Lieferkettenengpässen betroffen war, wurde durch die massiven Kostensteigerungen für
+Energie- und Rohstoffe sowie die mit den geopolitischen Spannungen verbundenen Unsicherheiten gedämpft
+und entwickelte sich schwächer als unterstellt. Insbesondere in den besonders betroffenen energieintensiven
+Wirtschaftszweigen kam es dabei zu deutlichen Produktionseinschränkungen.
+Auch das weltwirtschaftliche Umfeld, insbesondere in den für Deutschland wichtigen europäischen Märkten,
+stellte sich infolge der Energiekrise schwächer dar als angenommen. Die Ausfuhren von Waren und Dienst-
+leistungen verliefen daher weniger dynamisch als vermutet; gleichzeitig stiegen die nominalen Importe insbe-
+sondere aufgrund der massiven Preissteigerungen von Erdgas, aber auch von anderen Rohstoffen und Vorleis-
+tungen, erheblich stärker. Entsprechend geringer fiel auch der Leistungsbilanzüberschuss aus, der erstmals seit
+2011 wieder unter 6 Prozent in Relation zum BIP lag.
+Unterschätzt wurde dagegen die Dynamik auf dem Arbeitsmarkt. Statt eines erwarteten Anstiegs der Erwerbs-
+tätigkeit um 425.000 nahm die Beschäftigung trotz des ungünstigeren wirtschaftlichen Umfelds im Jahres-
+durchschnitt um mehr als 560.000 Personen zu. Die Arbeitslosigkeit sank statt der angenommenen 240.000
+zwar nur um 216.000, sie unterlag allerdings ab dem Sommer einer Sonderentwicklung infolge der Einbezie-
+hung von aus der Ukraine Geflüchteten in die Erwerbsstatistik. Die Arbeitslosenquote lag 2022 mit 5,3 Prozent
+nur geringfügig höher als die projizierten 5,1 Prozent.
+=== Seite 154
+152
+II. JAHRESPROJEKTION 2023 DER BUNDESREGIERUNG
+Übersicht 7: Gegenüberstellung der Jahresprojektion 2022 und der tatsächlichen Entwicklung
+Eckwerte der gesamtwirtschaftlichen Entwicklung in der Bundesrepublik Jahres projektion Tatsächliche Entwicklung
+Deutschland 1:c 2022 2022
+Veränderung gegenüber Vorjahr in Prozent, soweit nicht anders angegeben
+ENTSTEHUNG des Bruttoinlandsprodukts (BIP)
+BIP (preisbereinigt) 2,3 1,9
+Erwerbstätige (im Inland) 0,4 1,3
+BIP je Erwerbstätigen 1,9 0,6
+BIP je Erwerbstätigenstunde 1,0 0,3
+nachrichtlich:
+Erwerbslosenquote in Prozent (ESVG-Konzept) 2: 3,0 2,8
+Arbeitslosenquote in Prozent (Abgrenzung der BA) 2: 5,0 5,3
+VERWENDUNG des BIP in jeweiligen Preisen (nominal)
+Konsumausgaben
+Private Haushalte und private Organisationen ohne Erwerbszweck 4,4 11,9
+Staat 1,2 6,4
+Bruttoanlageinvestitionen 6,2 11,2
+Vorratsveränderungen und Nettozugang an Wertsachen (Mrd. Euro) 18,5 77,6
+Inlandsnachfrage 4,1 10,9
+Außenbeitrag (Mrd. Euro) 206,1 75,4
+Außenbeitrag (in Prozent des BIP) 5,2 2,0
+Saldo der Leistungsbilanz (in Prozent des BIP) 6,2 4,0
+Bruttoinlandsprodukt (nominal) 4,0 7,1
+VERWENDUNG des BIP preisbereinigt (real)
+Konsumausgaben
+Private Haushalte und private Organisationen ohne Erwerbszweck 2,6 4,6
+Staat -0,2 1,1
+Bruttoanlageinvestitionen 4,3 0,2
+Ausrüstungen 6,0 2,5
+Bauten 3,2 -1,6
+Sonstige Anlagen 4,4 2,1
+Vorratsveränderung und Nettozugang an Wertsachen (Impuls) 3: 0,0 0,6
+Inlandsnachfrage 2,4 3,4
+Exporte 4,0 3,2
+Importe 4,3 6,7
+Außenbeitrag (Impuls) 3 0,1 -1,3
+Bruttoinlandsprodukt (real) 2,3 1,9
+Preisentwicklung (2005 = 100)
+Verbraucherpreisindex 2,0 7,9
+Konsumausgaben der privaten Haushalte: 1,7 6,9
+Inlandsnachfrage 1,7 7,3
+Bruttoinlandsprodukt 4: 1,7 5,1
+VERTEILUNG des Bruttonationaleinkommens (BNE)
+(Inländerkonzept)
+Arbeitnehmerentgelte 3,5 5,5
+Unternehmens- und Vermögenseinkommen 5,1 -0,6
+Volkseinkommen 4,0 3,6
+Bruttonationaleinkommen 4,2 6,9
+nachrichtlich (Inländerkonzept):
+Arbeitnehmer 0,4 1,5
+Bruttolöhne und -gehälter 3,4 5,9
+Bruttolöhne und -gehälter je Arbeitnehmer 3,0 4,3
+Verfügbares Einkommen der privaten Haushalte 4,1 7,2
+Sparquote in Prozent 5: 10,6 11,2
+Quellen: Statistisches Bundesamt 2022; Jahresprojektion 2023 der Bundesregierung.
+1 Bis 2022 Ergebnisse des Statistischen Bundesamtes; Stand: Januar 2023.
+2 Bezogen auf alle Erwerbspersonen.
+3 Absolute Veränderung der Vorräte bzw. des Außenbeitrags in Prozent des BIP des Vorjahres (= Beitrag zur Zuwachsrate des BIP).
+4 Lohnstückkosten je Arbeitnehmer; Veränderung gegenüber Vorjahr: Jahresprojektion 2022: 1,8 %; tatsächliche Entwicklung 2022: 3,3 %.
+5 Sparen in Prozent des verfügbaren Einkommens der privaten Haushalte einschl. betrieblicher Versorgungsansprüche.
+=== Seite 155
+153
+ANHANG
+Abkürzungsverzeichnis
+AIFMD Alternative Investment Fund Mana­ DGA Data Governance Act
+gers Directive
+DMA Digital Markets Act
+BBPlG Bundesbedarfsplangesetz
+DNS Deutsche Nachhaltigkeitsstrategie
+BA Bundesagentur für Arbeit
+ECCC European Cybersecurity Competence
+BauGB Baugesetzbuch Centre, Europäisches Kompetenzzen­
+trum für Cybersicherheit in Industrie,
+BEG Bundesförderung für effiziente
+Technologie und Forschung
+Gebäude
+EEG Erneuerbare­Energien­Gesetz
+BEHG Brennstoffemissionshandelsgesetz
+EEW Bundesförderung für Energie­ und
+BImSchG Bundes­Immissionsschutzgesetz
+Ressourceneffizienz in der Wirtschaft
+BIP Bruttoinlandsprodukt
+EFRE Europäischer Fonds für regionale
+BME B undesverband Materialwirtschaft, Entwicklung
+Einkauf und Logistik
+EH Effizienzhausstandard
+BNE Bruttonationaleinkommen
+EHS Emissionshandelssystem
+BNetzA Bundesnetzagentur
+EIF European Investment Fund
+BVG Bundesversorgungsgesetz
+EKF Energie­ und Klimafonds
+CBAM C arbon Border Adjustment
+ELTIF European Long Termin Investment
+Mechanism
+Funds
+CO Kohlenstoffdioxid
+2 ENACT Enhancing Nature­based Solutions
+COP Conference of the Parties for an Accelerated Climate Transfor­
+mation
+CORSIA Carbon Offsetting and Reduction
+Scheme for International Aviation EnEfG Energieeffizienzgesetz
+CRM Critical Raw Materials­Act EnLAG Energieleitungsausbaugesetz
+CSDR Central Securities Depositiories EnSiG Energiesicherungsgesetz
+Regulation
+EnWG Energiewirtschaftsgesetz
+CSRD Corporate Sustainability Reporting
+ERP European Recovery Program
+Directive
+ESF Europäischer Sozialfonds
+CSDDD Corporate Sustainability Due
+Diligence Directive EStG Einkommenssteuergesetz
+DARP Deutscher Aufbau­ und Resilienzplan ETL Energietransportleitung
+DATI Deutsche Agentur für Transfer und EU Europäische Union
+Innovation
+FMC First Mover Coalition
+DEG Deutsche Investitions­ und Entwick­
+FSRU Floating Storage and Regasification
+lungsgesellschaft
+Units, schwimmende LNG­Terminals
+DERA Deutsche Rohstoffagentur
+=== Seite 158
+156
+ANHANG
+Stichwortverzeichnis
+Abgaben ......................................................................88 f., 111 Corona­Steuerhilfegesetz................................................54
+Abwehrschirm ................................11 f., 23 f., 41, 85, 142 Cybersicherheit .................................................................70 f.
+Allianz für Aus­ und Weiterbildung...........................46
+Angebotspolitik .....................................................14, 17, 44 Demografischer Wandel, Demografische
+Entwicklung ........10, 14, 17, 44 ff., 49, 53, 83, 87, 89 f.
+Arbeitslosigkeit ................................10, 19, 136, 144, 151
+Deindustrialisierung ..........................................................41
+Arbeitsmarkt, ­politik .......................................................14
+Dekarbonisierung .....10, 25, 36 f., 40, 42 f., 71, 83, 96,
+Arbeitslosenquote ...............................................16, 89, 151
+100, 102, 124, 131
+Auftragseingänge ..........................................................142 f.
+Digitalisierung ....17, 37, 45f., 46, 68, 70, 77, 80, 84, 90
+Ausbildung, ­smarkt .......................................................113 ff., 124
+Auszahlungsmechanismus ......................................11, 93 Digitale Infrastruktur........................................................68
+Außenhandel ...........................................60, 126, 140, 142 Digital Markets Act (DMA) ..............................................66
+Diversifizierung ................................................28, 61 ff., 85
+Bankenunion ........................................................................64
+Batterie, ­technologie, ­zellen .......................................68 EEG, Erneuerbare­Energien­Gesetz ...........................34
+Beschaffung, öffentliche ......................18, 29, 43, 59, 85 E­Fuels ....................................................................................101
+Bildung, Weiterbildung, berufliche Bildung .........16, Emissionshandel ..............................................15, 101, 103
+26, 45 f., 46 f., 47, 48, 52, 58, 75 f., 76, 83, 111 ff., 117, Energieeffizienz, ­maßnahmen, ­richtlinie ...........28,
+119 f., 124 37 ff., 82, 85, 98, 101, 131
+Binnenmarkt .........................................61, 64 ff., 69, 71, 92 Energieeinsparung ............................28, 37, 40, 130, 131
+Biodiversität ....................................14, 18, 93, 100, 103 ff. Energieforschungsprogramm .....................................102
+Brennstoffemissionshandelsgesetz (BEHG) .........103 Energieknappheit .................................................10, 27, 40
+Bruttoanlageinvestitionen ................84, 121, 124, 143 Energieleitungsausbaugesetz (EnLAG) .....................37
+Bruttoinlandsprodukt .............137, 140, 143, 149, 151 Energiepartnerschaft ..........................................29, 85, 98
+Bürgerenergie .......................................................................35 Energiesicherungsgesetz .....................................31 ff., 37
+Bürgergeld .........................................................13, 24, 48, 74 Energiesofortmaßnahmenpaket ..........................34, 37
+Bundesagentur für Arbeit ...................................47 f., 89, Energieversorgung .............10 f.,15, 18, 24 ff., 31 f., 34,
+Bundeshaushalt ...............................17, 22, 25 f.,83 ff., 90 37, 83, 135
+Bundesbedarfsplangesetz (BBPlG) .............................37 Energiewende ....................27 f., 36, 37, 41, 85, 94, 96 f.,
+99, 102 f.
+Bürokratie, ­abbau, ­entlastung .....................14, 55, 92
+Energiewirtschaftsgesetz .................................................29
+Energie­ und Klimafonds (EKF) ...................................41
+CO , ­Bepreisung, ­Emissionen, ­Einsparungen ..24,
+2
+36, 39, 42 f., 71, 79 f., 94, 101 ff. Entlastungspakete .........................11, 23, 75, 147, 148 f.
+Carbon Border Adjustment Mechanism ................101 Erneuerbare Energien ...........................28, 34, 40, 42, 98
+Carbon Leakage ...................................................................95 Erwerbstätige, Erwerbsbeteiligung ....................45, 114

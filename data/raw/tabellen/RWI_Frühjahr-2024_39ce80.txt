@@ -1,0 +1,311 @@
+=== Seite 9
+RWI Konjunkturbericht 75 (1)
+Summary: In Germany, economic output fell quite significantly in the final quarter after
+largely stagnating in the previous three quarters. The decline in GDP is primarily due to
+investment in equipment. The decline in construction investment also intensified once
+again. In comparison, private consumption developed relatively robustly. Permanently
+higher prices for energy, raw materials and materials are increasingly becoming a prob-
+lem for companies.
+In addition to these burdens, a number of other factors increase uncertainty about fu-
+ture developments and contribute to the unusually poor mood among companies at pre-
+sent. In particular the issues of "geopolitics" and "society" are currently associated with
+general uncertainty, which is weighing on investment and private consumption.
+Against this backdrop, the recovery in GDP is only likely to gain some momentum over
+the course of this year. The high level of uncertainty continues to weigh on domestic
+demand. Nevertheless, private households are likely to increase consumer demand in
+view of the significant rise in real disposable income. Falling interest rates and a slight
+increase in foreign demand should then also lead to a stronger upturn in investment.
+GDP is expected to expand by 0.3% on average this year. In 2025, GDP will probably
+increase by 1.2%.
+The economic weakness led to a noticeable rise in unemployment last year. Labor mar-
+ket indicators suggest weak employment growth at the beginning of the year. From the
+second half of 2024, employment is likely to have peaked, also due to demographic fac-
+tors, and fall slightly by the end of the forecast period. At the same time, unemployment
+is likely to fall again and average 5.7% in 2024 and 5.5% in 2025.
+The inflation rate continued to fall year-on-year in January and amounted to 2.9%.
+Falling prices for household energy in particular are currently dampening the general
+rise in prices. In view of weak consumer demand, inflation is likely to fall further in the
+coming months. The annual average inflation rate is likely to be 2.2% this year. The
+average annual inflation rate for 2025 is 2.0%.
+Fiscal policy will be restrictive in the two forecast years. The reasons for this include the
+abolition of the "electricity and gas price brakes" and probably the decline in the use of
+the tax-free inflation compensation premium. In addition, some consolidation measures
+were decided in response to the ruling of the Federal Constitutional Court of November
+15, 2023, such as the faster increase in the CO2 price than originally planned or the in-
+crease in air traffic tax. It is expected that adjustments to the income tax rate will provide
+relief for citizens over and above the legislation that has been passed. The general gov-
+ernment financing deficit is likely to fall to just under EUR 46 billion in the current year.
+In 2025, the financing deficit is likely to remain at a similar level and amount to a good
+EUR 48 billion.
+7
+=== Seite 16
+Frühjahr 2024
+erst später und langsamer die Zinsen zu senken. Für manche Länder, vor allem in
+Europa, kommt hinzu, dass die wirtschaftspolitische Unsicherheit hoch ist. Sollte sich
+diese langsamer als hier unterstellt verringern, würde dies die Kaufbereitschaft der
+Haushalte und die Investitionsbereitschaft der Unternehmen beeinträchtigen.
+Schließlich geht vom Immobilienmarkt in China ein Risiko für die Konjunktur dort
+und wegen der großen Bedeutung der chinesischen Volkswirtschaft auch für die
+Weltwirtschaft aus.
+2. Schwächere Konjunktur im Winterhalbjahr in Deutschland
+In Deutschland ist die Wirtschaftsleistung im Schlussquartal recht deutlich zurück-
+gegangen, nachdem sie in den drei Quartalen zuvor weitgehend stagniert hatte. Der
+Rückgang des BIP um 0,3% gegenüber dem Vorquartal ist vor allem auf sinkende
+Ausrüstungsinvestitionen zurückzuführen. Auch der Rückgang der Bauinvestitionen
+hat sich noch einmal verstärkt. Zwar wurden die Bauinvestitionen wohl auch auf-
+grund der schlechten Wetterbedingungen eingeschränkt. Gravierender dürften aber
+die anhaltend hohen Materialkosten, die gestiegenen Zinsen und die schwächere
+Nachfrage sein. Auch bei den Ausrüstungsinvestitionen dürften diese beiden Fakto-
+ren zu dem deutlichen Rückgang zum Jahresende beigetragen haben.
+Für die Unternehmen wird es anscheinend zunehmend zum Problem, dass sich die
+hohen Preise für Energie sowie Rohstoffe und Materialien als dauerhaft herausstel-
+len. Zwar sind die Preise für Gas und andere Rohstoffe im vergangenen Jahr deutlich
+gesunken (Schaubild 3). Sie liegen aber weiterhin deutlich über den Werten von vor
+der Corona-Krise, und gegenwertig spricht wenig dafür, dass die Preise in naher
+Zukunft weiter deutlich sinken. Dementsprechend sind die energieintensiven Wirt-
+schaftszweige nach wie vor stark belastet und die Produktion befindet sich hier weiter
+im Sinkflug. Dies spiegelt sich auch in aktuellen Umfragen wider, etwa der Konjunk-
+turumfrage der Deutschen Industrie- und Handelskammer (DIHK) zu Jahresbeginn
+2024 wider.
+Neben diesen realen Belastungen der Unternehmen gibt es derzeit eine Reihe wei-
+terer Faktoren, die die Unsicherheit über die zukünftige Entwicklung erhöhen und
+dazu beitragen, dass die Stimmung in den Unternehmen aktuell ungewöhnlich
+schlecht ist. Hinweise auf die Ursachen lassen sich aus den Komponenten des Indi-
+kators der Unsicherheitswahrnehmung ableiten (Schaubild 4). Bei der Konstruktion
+dieser Komponenten wird ermittelt, welche Begriffe in Zeitungsartikeln zusammen
+https://www.dihk.de/de/aktuelles-und-presse/aktuelle-informationen/deutsche-wirtschaft-
+kommt-nicht-auf-die-beine-112962
+14
+=== Seite 23
+RWI Konjunkturbericht 75 (1)
+Tabelle 3
+Statistische Komponenten der Veränderungsrate des realen Bruttoinlandsprodukts
+2022 bis 2025; in %
+2022 2023 2024p 2025p
+Statistischer Überhang1 0,9 -0,2 -0,2 0,5
+Jahresverlaufsrate2 0,8 -0,2 1,1 1,3
+Durchschnittliche Veränderung,
+kalenderbereinigt 1,9 -0,1 0,3 1,3
+Kalendereffekt3 -0,1 -0,2 0,0 -0,1
+Durchschnittliche Veränderung 1,8 -0,3 0,3 1,2
+Eigene Berechnungen nach Angaben des Statistischen Bundesamtes. – 1Saison- und kalenderbe-
+reinigtes BIP im vierten Quartal des Vorjahres in % des Quartalsdurchschnitts des Vorjahres. –
+2Veränderung des saison- und kalenderbereinigten BIP im vierten Quartal gegenüber dem vierten
+Quartal des Vorjahres. – 3In % des realen BIP.– PEigene Prognose.
+3.1 Leichte Belebung des Außenhandels
+Zum Ende des Jahres 2023 hat der Außenhandel seine Schwächephase fortgesetzt.
+Die Exporte gingen um 1,6% und die Importe um 1,7% zurück. Bei den Ausfuhren
+hat dabei insbesondere der Handel mit Maschinen und Investitionsgütern abgenom-
+men, bei den Einfuhren sind die Investitionsgüter und Vorleistungsgüter gefallen, die
+Konsumgüter haben hingegen leicht zugenommen. Im Vergleich der Handelspartner
+findet sich ein starker Rückgang der Exporte nach China und in die Europäische
+Union, nur die Nachfrage aus den USA hat den deutschen Aushandel gestützt. Auch
+die Importe haben sich aus den meisten Regionen verringert, auch hier bilden die
+USA eine Ausnahme.
+Zu Beginn dieses Jahres haben sich die Stimmungsindikatoren stabilisiert. Deswe-
+gen ist sowohl bei den Exporten als auch bei den Importen für das erste Quartal nur
+noch mit einer leichten Abnahme von 0,2% zu rechnen. Im weiteren Verlauf des Jah-
+res dürfte sich der Außenhandel allmählich erholen, da die internationale Nachfrage
+wieder anzieht und auch die deutsche Produktion wieder aufwärtsgerichtet ist. Zu-
+sammengenommen dürften die Exporte im Jahresdurchschnitt 2024 aber noch um
+1,6% abnehmen, bevor sie im nächsten Jahr voraussichtlich um 2,7% zunehmen. Die
+Importe dürften 2024 um 1,5% fallen und 2025 um 2,9% steigen (Tabelle 4).
+Im vierten Quartal sind die Preise mit 1,0% für die Exporte und 1,5% für die Importe
+überraschend stark gestiegen. Im Verlauf des Jahres 2024 dürfte sich die Entwicklung
+der Außenhandelspreise normalisieren. Bei den Terms-of-Trade scheint die Phase
+der Verbesserung nun weitgehend abgeschlossen, so dass diese sich im Prognose-
+verlauf voraussichtlich nur noch leicht verbessern werden.
+21
+=== Seite 24
+Frühjahr 2024
+Tabelle 4
+RWI-Konjunkturprognose vom März 2024
+2022 bis 2025, Veränderungen gegenüber dem Vorjahr in %
+Änderung zum
+2022 2023 2024p 2025p Dezember 2023
+2023 2024 2025
+Bruttoinlandsprodukt1 1,8 -0,3 0,3 1,2 0,0 -0,5 -0,2
+Verwendung1
+Konsumausgaben 3,2 -1,0 1,2 1,4 0,4 0,2 0,0
+Private Haushalte2 3,9 -0,7 0,9 1,3 0,4 0,0 0,0
+Staat 1,6 -1,5 1,8 1,5 0,6 0,7 0,0
+Anlageinvestitionen 0,1 -0,7 -1,8 1,1 -0,8 -1,4 -0,1
+Bauten -1,8 -2,7 -2,2 0,5 -1,3 -1,6 -0,3
+Ausrüstungen 4,0 3,0 -2,7 1,9 -0,4 -2,1 0,0
+Sonstige Anlagen -0,7 -0,6 1,3 1,8 0,2 0,5 0,5
+Vorratsveränd. (Wachstumsbeitrag) 0,7 0,0 -0,1 0,0 -0,2 0,0 0,0
+Inländische Verwendung 3,2 -0,9 0,4 1,3 0,0 -0,2 -0,1
+Außenbeitrag (Wachstumsbeitrag) -1,2 0,6 -0,1 0,0 0,1 -0,4 -0,1
+Ausfuhr 3,3 -2,2 -1,6 2,7 -0,2 -1,6 -0,4
+Einfuhr 6,6 -3,4 -1,5 2,9 -0,3 -0,9 -0,1
+Erwerbstätige3, in 1000 45 596 45 933 46 071 46 025 -17 61 61
+Arbeitslose4, in 1000 2 418 2 609 2 668 2 566 -1 15 16
+Arbeitslosenquote5, in % 5,3 5,7 5,7 5,5 0,0 0,0 0,0
+Verbraucherpreise6 6,9 5,9 2,2 2,0 -0,1 0,0 0,2
+Lohnstückkosten7 3,4 6,9 5,4 1,8 0,0 0,8 0,0
+Finanzierungssaldo des Staates8
+in Mrd.€ -96,9 -87,4 -46,0 -48,0 -31,0 -14,6 -12,8
+in % des nominalen BIP -2,5 -2,1 -1,1 -1,1 -0,7 -0,4 -0,3
+Leistungsbilanzsaldo9
+in Mrd.€ 170,9 280,3 277,5 271,6 -4,8 -31,2 -39,5
+in % des nominalen BIP 4,4 6,8 6,6 6,2 -0,1 -0,7 -0,9
+Eigene Berechnungen nach Angaben des Statistischen Bundesamtes, der Deutschen Bundesbank
+und der Bundesagentur für Arbeit. – 1Preisbereinigt. – 2Einschließlich privater Organisationen ohne
+Erwerbszweck. – 3Im Inland. – 4Nationale Abgrenzung. – 5Arbeitslose in % der inländischen Er-
+werbspersonen. – 6Verbraucherpreisindex. – 7Arbeitnehmerentgelte je Beschäftigten bezogen auf
+das reale BIP je Erwerbstätigen. – 8In der Abgrenzung der VGR. – 9In der Abgrenzung der Zah-
+lungsbilanzstatistik. – 10In %-Punkten, Abweichungen rundungsbedingt möglich. – pPrognose.
+22
+=== Seite 25
+RWI Konjunkturbericht 75 (1)
+3.2 Schwache Konjunktur bei den Ausrüstungsinvestitionen hält vorerst an
+Im Schlussquartal des vergangenen Jahres gingen die Ausrüstungsinvestitionen
+um3,6% zurück. Der Rückgang war bei den privaten Ausrüstungsinvestitionen sogar
+noch stärker ausgeprägt, wohingegen die öffentlichen Ausrüstungsinvestitionen aus-
+geweitet wurden. Hierfür dürften vor allem die Investitionen in die Bundeswehr ver-
+antwortlich gewesen sein. Bei den privaten Ausrüstungsinvestitionen sorgten unter
+anderem niedrige gewerbliche Kfz-Zulassungen für den starken Rückgang. Schwa-
+che Kapitalgüterimporte im Schlussquartal deuten darüber hinaus auf eine allgemein
+schlechte Konjunktur bei den Ausrüstungsinvestitionen hin.
+Die konjunkturelle Flaute dürfte auch in der ersten Hälfte des aktuellen Jahres an-
+halten. So waren die Auftragseingänge im Dezember rückläufig und die Geschäfts-
+erwartungen waren im Februar immer noch schwach. Ab dem dritten Quartal dieses
+Jahres dürften die Ausrüstungsinvestitionen dann allerdings sukzessive ausgeweitet
+werden. Weiter steigende öffentliche Investitionen, vor allem in die Bundeswehr, so-
+wie hohe Investitionsbedarfe zur Erneuerung des Kapitalstocks dürften hier in Ver-
+bindung mit sinkenden Zinsen den Ausschlag geben. Alles in allem ist zu erwarten,
+dass die Ausrüstungsinvestitionen in diesem Jahr um 2,7% zurückgehen. Im nächsten
+Jahr ist dann mit einer Ausweitung um 1,9% zu rechnen.
+Die Investitionen in sonstige Anlagegüter dürften einem ähnlichen Verlauf wie die
+Ausrüstungsinvestitionen folgen, wobei hier nicht mit einem Rückgang in der ersten
+Jahreshälfte zu rechnen ist. Alles in allem dürften die sonstigen Anlageinvestitionen
+in diesem Jahr um 1,3% und im kommenden um 1,8% ausgeweitet werden.
+3.3 Bauinvestitionen mitten in der Krise
+Die Bauinvestitionen sanken im vierten Quartal des vergangenen Jahres um 1,7%.
+Nach Abwärtsrevisionen des ersten und dritten Quartals ergibt sich für das Gesamt-
+jahr 2023 ein Rückgang von 2,7%. Damit sind Bauinvestitionen in Deutschland das
+dritte Jahr in Folge geschrumpft. Den stärksten Rückgang im Schlussquartal verzeich-
+nete der Wohnungsbau mit 2,7%. Der Wirtschaftsbau wurde dagegen sogar minimal
+um 0,2% ausgeweitet, während der öffentliche Nichtwohnungsbau um 1,2% zurück-
+ging. Eine Ursache für den deutlichen Rückgang dürften die hohen Niederschlags-
+mengen im Dezember gewesen sein, die zum höchsten Wert der ifo Produktionsein-
+schränkungen seit Beginn der Reihe 1991 beitrugen.
+In diesem und im nächsten Quartal dürften die Bauinvestitionen, vor allem im Woh-
+nungsbau, noch einmal zurückgehen. Zwar war die ifo Geschäftslage im Februar
+leicht aufwärtsgerichtet, die Geschäftserwartungen haben sich allerdings seit drei
+Monaten verschlechtert. Das Wetter dürfte im Januar die Produktion noch stark
+23
+=== Seite 40
+Frühjahr 2024
+Tabelle A4
+Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnungen für Deutschland
+Vorausschätzung für die Jahre 2023 bis 2025
+2022 2023 2024 2025 2024 2025
+1.Hj. 2.Hj. 1.Hj. 2.Hj.
+1. Entstehung des Inlandsprodukts
+Veränderung in % gegenüber dem Vorjahr
+Erwerbstätige 1,4 0,7 0,3 - 0,1 0,4 0,2 - 0,1 - 0,1
+Arbeitsvolumen 1,3 0,4 - 0,5 0,4 - 1,2 0,3 0,6 0,2
+Arbeitszeit je Erwerbstätigen - 0,1 - 0,3 - 0,8 0,5 - 1,6 0,1 0,7 0,3
+Produktivität1 0,5 - 0,7 0,8 0,8 1,0 0,5 0,4 1,2
+B ruttoinlandsprodukt, preisbereinigt 1,8 - 0,3 0,3 1,2 - 0,2 0,8 1,0 1,4
+2. Verwendung des Inlandsprodukts in jeweiligen Preisen
+a) Mrd. EUR
+Konsumausgaben 2 830,2 2 978,2 3 082,7 3 187,8 1 505,3 1 577,4 1 557,0 1 630,9
+Private Haushalte2 1 979,3 2 089,7 2 158,3 2 227,6 1 054,5 1 103,8 1 088,6 1 138,9
+Staat 850,9 888,5 924,4 960,3 450,8 473,6 468,3 491,9
+Anlageinvestitionen 856,2 904,2 898,4 917,0 437,5 460,9 441,9 475,1
+Bauten 463,5 486,8 481,2 485,1 239,0 242,2 238,2 246,9
+Ausrüstungen 253,4 275,5 272,8 281,4 130,8 142,0 133,4 148,0
+Sonstige Anlageinvestitionen 139,3 141,9 144,4 150,5 67,7 76,7 70,3 80,3
+Vorratsveränderung3 114,1 67,2 59,7 61,0 32,0 27,7 34,8 26,3
+Inländische Verwendung 3 800,5 3 949,6 4 040,8 4 165,9 1 974,8 2 066,0 2 033,6 2 132,3
+Außenbeitrag 76,3 171,5 177,6 180,0 99,7 78,0 99,6 80,3
+Nachrtl: in Relation zum BIP in % 2,0 4,2 4,2 4,1 4,8 3,6 4,7 3,6
+Exporte 1 974,2 1 942,5 1 929,5 2 003,3 953,9 975,5 984,1 1 019,2
+Importe 1 897,9 1 771,0 1 751,8 1 823,3 854,3 897,6 884,4 938,9
+Bruttoinlandsprodukt 3 876,8 4 121,2 4 218,4 4 345,8 2 074,4 2 144,0 2 133,3 2 212,6
+b) Veränderung in % gegenüber dem Vorja hr
+Konsumausgaben 9,6 5,2 3,5 3,4 3,9 3,1 3,4 3,4
+Private Haushalte 2 10,9 5,6 3,3 3,2 3,2 3,4 3,2 3,2
+Staat 6,8 4,4 4,0 3,9 5,5 2,7 3,9 3,9
+Anlageinvestitionen 11,1 5,6 - 0,6 2,1 - 1,2 - 0,1 1,0 3,1
+Bauten 14,0 5,0 - 1,2 0,8 - 1,7 - 0,6 - 0,3 1,9
+Ausrüstungen 11,4 8,7 - 1,0 3,1 - 1,3 - 0,6 2,0 4,2
+Sonstige Anlageinvestitionen 2,1 1,9 1,7 4,2 0,9 2,5 3,7 4,7
+Inländische Verwendung 11,1 3,9 2,3 3,1 2,3 2,3 3,0 3,2
+Exporte 15,4 - 1,6 - 0,7 3,8 - 2,7 1,4 3,2 4,5
+Importe 25,3 - 6,7 - 1,1 4,1 - 4,1 1,9 3,5 4,6
+B ruttoinlandsprodukt 7,2 6,3 2,4 3,0 2,7 2,0 2,8 3,2
+3. Verwendung des Inlandsprodukts, verkettete Volumenangabe n (Referenzjahr 2015)
+a) Mrd. EUR
+Konsumausgaben 2 417,4 2 394,4 2 422,8 2 455,6 1 192,7 1 230,1 1 208,2 1 247,5
+Private Haushalte 2 1 705,1 1 692,7 1 708,1 1 730,0 839,4 868,7 849,2 880,8
+Staat 711,2 700,5 713,5 724,4 352,7 360,8 358,3 366,1
+Anlageinvestitionen 661,7 657,4 645,7 652,8 314,3 331,3 315,1 337,7
+Bauten 314,6 306,2 299,6 300,9 148,4 151,2 148,1 152,8
+Ausrüstungen 222,5 229,2 223,0 227,2 106,9 116,0 107,6 119,7
+Sonstige Anlageinvestitionen 124,7 123,9 125,6 127,8 59,3 66,3 60,0 67,8
+Inländische Verwendung 3 127,1 3 099,7 3 112,1 3 151,1 1 530,4 1 581,8 1 547,2 1 603,9
+Exporte 1 640,6 1 605,2 1 580,2 1 622,7 784,0 796,1 800,0 822,6
+Importe 1 497,7 1 447,2 1 425,1 1 466,4 697,4 727,7 713,7 752,7
+Bruttoinlandsprodukt 3 274,9 3 264,9 3 274,9 3 315,1 1 620,4 1 654,5 1 636,9 1 678,2
+38
+=== Seite 41
+RWI Konjunkturbericht 75 (1)
+noch: Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnungen für Deutschland
+Vorausschätzung für die Jahre 2023 bis 2025
+2022 2023 2024 2025 2024 2025
+1.Hj. 2.Hj. 1.Hj. 2.Hj.
+b) Veränderung in % gegenüber dem Vorjahr
+Konsumausgaben 3,2 - 1,0 1,2 1,4 1,0 1,4 1,3 1,4
+Private Haushalte2 3,9 - 0,7 0,9 1,3 0,6 1,2 1,2 1,4
+Staat 1,6 - 1,5 1,8 1,5 2,0 1,7 1,6 1,5
+Anlageinvestitionen 0,1 - 0,7 - 1,8 1,1 - 2,6 - 1,0 0,3 1,9
+Bauten - 1,8 - 2,7 - 2,2 0,5 - 3,3 - 1,0 - 0,2 1,1
+Ausrüstungen 4,0 3,0 - 2,7 1,9 - 3,2 - 2,2 0,6 3,1
+Sonstige Anlageinvestitionen - 0,7 - 0,6 1,3 1,8 1,2 1,4 1,3 2,2
+Inländische Verwendung 3,2 - 0,9 0,4 1,3 - 0,2 1,0 1,1 1,4
+Exporte 3,3 - 2,2 - 1,6 2,7 - 3,2 0,1 2,0 3,3
+Importe 6,6 - 3,4 - 1,5 2,9 - 3,6 0,5 2,3 3,4
+B ruttoinlandsprodukt 1,8 - 0,3 0,3 1,2 - 0,2 0,8 1,0 1,4
+4. Preisniveau der Verwendungsseite des Inlandsprodukts (2015= 100)
+Veränderung in % gegenüber dem Vorjahr
+Private Konsumausgaben2 6,7 6,3 2,4 1,9 2,6 2,1 2,0 1,8
+Konsumausgaben des Staates 5,1 6,0 2,1 2,3 3,5 0,9 2,3 2,4
+Anlageinvestitionen 11,0 6,3 1,2 1,0 1,4 0,9 0,7 1,2
+Bauten 16,1 7,9 1,0 0,4 1,6 0,4 - 0,1 0,8
+Ausrüstungen 7,1 5,6 1,8 1,2 2,0 1,6 1,4 1,0
+Exporte 11,7 0,6 0,9 1,1 0,6 1,2 1,1 1,1
+Importe 17,5 - 3,4 0,5 1,1 - 0,5 1,4 1,2 1,1
+B ruttoinlandsprodukt 5,3 6,6 2,1 1,8 3,0 1,2 1,8 1,7
+5. Einkommensentstehung und –verteilung
+a) Mrd. EUR
+Primäreinkommen der privaten HH2 2 636,5 2 781,1 2 896,8 2 979,5 1 418,7 1 478,1 1 457,6 1 521,9
+Sozialbeiträge der Arbeitgeber 361,8 379,9 404,2 419,2 195,9 208,3 203,0 216,1
+Bruttolöhne und –gehälter 1 661,8 1 778,9 1 880,1 1 935,2 899,7 980,4 925,5 1 009,7
+Übrige Primäreinkommen 4 612,9 622,3 612,5 625,1 323,1 289,4 329,1 296,0
+Primäreinkommen der übr. Sektoren 602,3 657,0 619,7 657,1 292,4 327,3 308,1 348,9
+Nettonationaleink. (Primäreink.) 3 238,8 3 438,1 3 516,5 3 636,6 1 711,1 1 805,3 1 765,7 1 870,8
+Abschreibungen 788,8 848,1 870,7 883,2 432,4 438,3 438,6 444,6
+Bruttonationaleinkommen 4 027,6 4 286,2 4 387,2 4 519,8 2 143,6 2 243,6 2 204,4 2 315,4
+nachrichtlich:
+Volkseinkommen 2 890,9 3 080,4 3 106,5 3 210,7 1 510,1 1 596,4 1 557,3 1 653,4
+Arbeitnehmerentgelt 2 023,6 2 158,8 2 284,3 2 354,4 1 095,6 1 188,7 1 128,5 1 225,9
+Unternehmens- und Verm.einkomm 867,4 921,6 822,1 856,3 414,4 407,7 428,7 427,6
+b) Veränderung in % gegenüber dem Vorja hr
+Primäreinkommen der privaten HH2 6,7 5,5 4,2 2,9 4,3 4,0 2,7 3,0
+Sozialbeiträge der Arbeitgeber 4,3 5,0 6,4 3,7 7,0 5,9 3,6 3,8
+Bruttolöhne und –gehälter 5,8 7,0 5,7 2,9 6,4 5,1 2,9 3,0
+Bruttolöhne und -gehäl. je Besch. 4,1 6,1 5,2 3,0 5,8 4,7 2,9 3,1
+Übrige Primäreinkommen 4 10,8 1,5 - 1,6 2,1 - 2,4 - 0,7 1,9 2,3
+Primäreinkommen der übr. Sektoren 3,5 9,1 - 5,7 6,0 - 4,0 - 7,2 5,4 6,6
+Nettonationaleink. (Primäreink.) 6,1 6,2 2,3 3,4 2,8 1,8 3,2 3,6
+Abschreibungen 12,1 7,5 2,7 1,4 2,5 2,9 1,4 1,4
+Bruttonationaleinkommen 7,2 6,4 2,4 3,0 2,7 2,0 2,8 3,2
+nachrichtlich:
+Volkseinkommen 4,4 6,6 0,8 3,4 1,1 0,6 3,1 3,6
+Arbeitnehmerentgelt 5,5 6,7 5,8 3,1 6,5 5,2 3,0 3,1
+- - -
+Unternehmens- und Verm.einkomm. 1,9 6,3 10,8 4,2 10,8 10,8 3,5 4,9
+39

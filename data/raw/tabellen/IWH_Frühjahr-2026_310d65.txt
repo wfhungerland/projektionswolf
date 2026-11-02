@@ -1,0 +1,601 @@
+=== Seite 7
+Konjunktur aktuell — Jg. 14 (1), 2026 Ölpreisschock gefährdet Erholung in Deutschland
+Deutsche Konjunktur: Nach schwachem Jahresauftakt und Energiepreisschock eingetrübte
+Perspektiven
+Der Angriff der USA und Israels auf den Iran verschlechtert die Aussichten auch für die deutsche Konjunktur: Die
+gestiegenen Energiepreise belasten hierzulande die Einkommen der privaten Haushalte und erhöhen Produktions-
+kosten insbesondere für Unternehmen des Verarbeitenden Gewerbes. Allerdings sind die bislang zu beobachtenden
+Preisanstiege für Erdgas in Europa deutlich geringer als die Anstiege während der Energiekrise des Jahres 2022 im
+Zusammenhang mit dem russischen Angriff auf die Ukraine (vgl. Abbildung 3). Auch werden die Verbraucher von
+Erdgas wegen langfristiger Vertragsbindungen die Verteuerung nur mit einiger Verzögerung zu spüren bekommen.
+In der vorliegenden Prognose wird unterstellt, dass sich die Preise wieder zurückbilden, sobald die Kampfhandlungen
+enden, freilich auf ein höheres Niveau als vor Kriegsausbruch allgemein erwartet worden war, denn die geopoliti-
+schen Risiken werden sich kaum zur Gänze auflösen (vgl. Abschnitt Rahmenbedingungen für die Prognose). Weil die
+Energiepreise in diesem Fall nur vorübergehend deutlich erhöht sind, bleiben auch Zweitrundeneffekte gering. Unter
+solchen Voraussetzungen beträgt der Effekt auf die Inflation in Deutschland im Jahr 2026 etwa 0,5 Prozentpunkte,
+unAdb bdieldru Dnägm 3 pfer für die Realwirtschaft wäre nicht groß.
+Europäische Preise1 für Erdöl und Erdgas
+Euro je Barrel Brent Euro je Megawattstunde
+125 250
+Ölpreis (linke Achse)
+Prognose-
+100 Erdgaspreis (rechte Achse) zeitraum 200
+75 150
+50 100
+25 50
+0 0
+2019 2020 2021 2022 2023 2024 2025 2026 2027
+1
+Ab März 2026: Futures-Preise vom 9.3.2026 (12 Uhr) unter Annahme konstanter Wechselkurse.
+Quelle: LSEG Workspace.
+Die deutschen Konjunkturdaten deuten für sich genommen auf eine leichte Belebung hin; sie zeigen aber auch das Bild
+einer Wirtschaft, die sich noch in der Krise befindet. So liegt das ifo-Geschäftsklima auf sehr niedrigem Niveau, auch
+wenn es sich zuletzt etwas verbessert hat (vgl. Abbildung 4a). Im Schlussquartal 2025 hat das Bruttoinlandsprodukt
+nach zwei negativen Quartalsraten wieder expandiert, um 0,3% (vgl. Abbildung A3). Damit war die gesamt-
+wirtschaftliche Produktion aber immer noch kaum höher als im Jahr 2019 und der Produktionsindex für das Verarbei-
+tende Gewerbe niedriger als im Jahr 2018, für das Baugewerbe gar niedriger als 2017 (vgl. Abbildung 4f). Weiter sehr
+gering ist die aus Umfragen ermittelte Kapazitätsauslastung im Verarbeitenden Gewerbe (vgl. Abbildung 4c), und auch
+im vierten Quartal hat die Wertschöpfung in diesem Wirtschaftsbereich lediglich stagniert (vgl. Tabelle A12). Die Exporte
+(Waren und Dienstleistungen) sind sogar weiter zurückgegangen, vor allem aufgrund eines schlechten Geschäfts im
+Handel mit außereuropäischen Ländern. Zugelegt hat hingegen die binnenwirtschaftliche Verwendung und besonders
+stark der öffentliche Konsum, das einzige Verwendungsaggregat, das in den vergangenen Jahren in der Tendenz deutlich
+expandiert hat. Mehr ausgegeben haben aber auch die privaten Haushalte, obwohl die Beschäftigung in den vergangenen
+drei Quartalen leicht geschrumpft und die Arbeitslosenquote gestiegen ist (vgl. Abbildung 4b). Eine Erklärung für den
+robusten privaten Konsum liegt in dem (auch in realer Rechnung) spürbaren Anstieg der Arbeitnehmerentgelte im Jahr
+2025. Zwar lagen andererseits die übrigen Primäreinkommen real unter Vorjahresniveau, von diesen Einkommen
+wandert aber ein kleinerer Teil in den Konsum als von den Löhnen und Gehältern.
+Auch die Bruttoanlageinvestitionen sind zuletzt gestiegen, um 1%. Bemerkenswert ist, dass die Bauinvestitionen deutlich
+zulegten, und zwar sowohl im Wohnungs- als auch im Wirtschaftsbau, von öffentlicher wie von privater Seite. Auch die
+Wertschöpfung im Baugewerbe, welche im Trend seit fünf Jahren sinkt, hat expandiert. Stagniert haben dagegen die
+Ausrüstungsinvestitionen: Während die von privater Seite finanzierten deutlich (um 5%) zurückgingen, gab es einen
+7
+=== Seite 10
+Ölpreisschock gefährdet Erholung in Deutschland Konjunktur aktuell — Jg. 14 (1), 2026
+in den Jahren zuvor, und die Abführungen an die EU nehmen nur noch geringfügig zu. Das Finanzierungsdefizit des
+Staates dürfte sich bei einer nahezu unverändert schwachen konjunkturellen Dynamik nochmals erhöhen und im Jahr
+2027 bei 3,9% in Relation zum Bruttoinlandsprodukt liegen, nach 3,6% im Jahr zuvor. Der strukturelle Finanzierungs-
+saldo verringert sich von –1,7% in Relation zum Bruttoinlandsprodukt im Jahr 2025 auf –2,7% im Jahr 2026. Bis zum
+Jahr 2027 reduziert er sich weiter auf dann –3,4% in Relation zum Bruttoinlandsprodukt. Der strukturelle Primär-
+saldo verringert sich mit der expansiv ausgerichteten Finanzpolitik im laufenden Jahr um 1,0 Prozentpunkte und im
+kTaobmelmlee 1n den Jahr um 0,7 Prozentpunkte auf dann –2,2% in Relation zum Bruttoinlandsprodukt (vgl. Tabelle 1).
+Finanzierungssaldo, struktureller Finanzierungssaldo und struktureller Primärsaldo des Staates
+EU-Methode Modifizierte EU-Methode (MODEM)
+in Milliarden Euro
+2024 2025 2026 2027 2024 2025 2026 2027
+Gesamtstaatlicher Finanzierungssaldo –115,3 –119,1 –164,7 –185,6 –115,3 –119,1 –164,7 –185,6
+– Konjunkturkomponente1 –38,0 –45,0 –38,9 –21,6 –23,6 –27,1 –17,4 4,9
+= Konjunkturbereinigter Finanzie-
+–77,3 –74,2 –125,8 –164,0 –91,7 –92,0 –147,3 –190,5
+rungssaldo
+– Einmaleffekte2 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+= Struktureller Finanzierungssaldo –77,3 –74,2 –125,8 –164,0 –91,7 –92,0 –147,3 –190,5
++ Zinsausgaben des Staates 45,8 49,5 53,4 57,7 45,8 49,5 53,4 57,7
+= Struktureller Primärsaldo –31,4 –24,6 –72,4 –106,3 –45,9 –42,5 –93,9 –132,8
+Veränderung des strukturellen Primär-
+20,4 6,8 –47,7 –33,9 17,5 3,4 –51,5 –38,9
+saldos gegenüber dem Vorjahr
+Nachrichtlich: In Relation zum Bruttoinlandsprodukt in %
+Struktureller Finanzierungssaldo –1,8 –1,7 –2,7 –3,4 –2,1 –2,1 –3,2 –4,0
+Struktureller Primärsaldo –0,7 –0,6 –1,6 –2,2 –1,1 –0,9 –2,0 –2,8
+Veränderung des strukturellen Primär-
+0,5 0,2 –1,0 –0,7 0,4 0,1 –1,1 –0,7
+saldos gegenüber dem Vorjahr
+1 2
+Berechnet mit einer Budgetsemielastizität von 0,504. – Laut AMECO-Datenbank.
+Quellen: Statistisches Bundesamt; AMECO; Berechnungen und Schätzungen des IWH.
+Der Krieg am Persischen Golf stellt wie für die internationale Konjunktur so auch für die Wirtschaft in Deutschland
+ein erhebliches Risiko dar. Direkt wirkt der Krieg auf die deutsche Rechnung für importiertes Erdöl und Erdgas. In
+der vorliegenden Prognose ist unterstellt, dass sich der bei Kriegsausbruch erfolgte Preisanstieg nicht fortsetzt und
+die Preise in der zweiten Jahreshälfte wieder sinken. Es ist aber auch denkbar, dass sie weiter steigen und länger hoch
+bleiben, etwa wenn es für Tanker weiter zu riskant ist, die Straße von Hormus zu benutzen oder ein Teil der Produk-
+tionskapazitäten am Golf zerstört wird. Weil es für Flüssiggas ebenso wie für Erdöl einen integrierten Weltmarkt gibt,
+spielt es dabei keine große Rolle, dass die Golfregion bislang vor allem nach Asien und kaum nach Europa geliefert
+hat. Ein deutlich größerer und dauerhafter Preissprung für Energieträger in Europa würde die Inflationsraten stärker
+erhöhen als hier unterstellt und möglicherweise die EZB veranlassen, ihre geldpolitischen Zügel anzuziehen. Sollte es
+nach Kriegsende zu einer Reintegration des Iran in den Welthandel kommen, könnte dies mittelfristig positive Effekte
+auf die deutsche Wirtschaft haben.
+Ein anders geartetes Risiko für die deutsche Konjunktur besteht darin, dass schwer zu kalkulieren ist, wie sich die
+Wettbewerbsfähigkeit der deutschen Exportindustrien in nächster Zeit entwickelt. Eine Stabilisierung der deutschen
+Exporte ist nach vorliegender Prognose neben dem finanzpolitischen Impuls die zweite Ursache für die konjunktu-
+relle Erholung. Allerdings sind die Exporte im Jahr 2025 nicht nur wegen der US-Zollerhöhungen, die sich so wohl
+nicht wiederholen werden, zurückgegangen. Vielmehr verschlechtert sich die Wettbewerbsposition des deutschen
+Verarbeitenden Gewerbes gegenüber ausländischer und insbesondere chinesischer Konkurrenz schon seit einigen
+Jahren. Es fällt vielen deutschen Unternehmen schwer, technologisch mit der chinesischen Konkurrenz mitzuhalten.
+Dieser kommt aber auch zugute, dass der Yuan gegenüber dem Euro wegen der chinesischen Wechselkurspolitik und
+deflationären Tendenzen in China in den vergangenen Jahren real abgewertet hat. Sollten die deutschen Exportunter-
+nehmen gegenüber der chinesischen Konkurrenz weiter an Boden verlieren und die deutschen Exporte deshalb auch
+im Jahr 2026 weiter deutlich sinken, ist eine gesamtwirtschaftliche Erholung in Deutschland unwahrscheinlich.
+10
+=== Seite 17
+Konjunktur aktuell — Jg. 14 (1), 2026 Ölpreisschock gefährdet Erholung in Deutschland
+Tabelle A5
+Quartalsdaten zur wirtschaftlichen Entwicklung1
+Ve ränderung in % gegenüber dem Vorquartal 2025 2026 2027
+I II III IV I II III IV I II III IV
+private Konsumausgaben 0,8 0,4 0,0 0,5 0,1 0,0 0,2 0,2 0,2 0,2 0,2 0,2
+öffentlicher Konsum –0,8 0,3 0,6 1,1 0,0 0,6 0,4 0,5 0,5 0,5 0,5 0,6
+Bauten 0,5 –1,0 –0,7 1,6 0,0 0,5 0,5 0,5 0,3 0,3 0,3 0,3
+Ausrüstungen 0,3 –2,1 1,7 0,1 –0,7 0,0 0,5 0,5 0,7 0,7 0,6 0,6
+sonstige Anlagen 0,6 1,2 0,9 1,0 0,9 1,0 1,0 0,9 0,8 0,8 0,8 0,8
+Vorratsinvestitionen2 –0,5 0,2 0,5 –0,3 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+inländische Verwendung –0,1 0,2 0,8 0,4 0,0 0,2 0,3 0,4 0,4 0,4 0,4 0,4
+Außenbeitrag2 0,4 –0,4 –0,8 –0,1 0,0 0,0 –0,1 –0,1 –0,1 –0,2 –0,2 –0,2
+Exporte 2,5 0,2 –0,9 –0,6 0,2 0,3 0,5 0,6 0,6 0,6 0,6 0,6
+Importe 1,5 1,4 1,0 –0,3 0,2 0,4 0,7 0,8 0,9 0,9 1,0 1,0
+Bruttoinlandsprodukt 0,4 –0,2 0,0 0,3 0,0 0,1 0,3 0,3 0,2 0,2 0,2 0,2
+1 2
+Saison- und arbeitstäglich bereinigte Werte; in Vorjahrespreisen. – Beitrag zur Veränderung des Bruttoinlandprodukts in Prozentpunkten (Lundberg-
+Komponenten).
+Quellen: Statistisches Bundesamt; ab 1. Quartal 2026: Prognose des IWH.
+Tabelle A6
+Statistische Komponenten der BIP–Wachstumsrate
+In % bzw. Prozentpunkten 2024 2025 2026 2027
+statistischer Überhang1 –0,2 0,1 0,2 0,3
+Jahresverlaufsrate2 –0,2 0,4 0,7 0,9
+jahresdurchschnittliche BIP-Rate, kalenderbereinigt –0,5 0,4 0,5 0,9
+Kalendereffekt3 0,0 –0,1 0,2 0,1
+jahresdurchschnittliche BIP-Rate, kalenderjährlich4 –0,5 0,2 0,7 1,0
+1
+Saison- und kalenderbereinigtes reales Bruttoinlandsprodukt (BIP) im vierten Quartal des Vorjahres in Relation zum kalenderbereinigten Quartalsdurch-
+2 3 4
+schnitt des Vorjahres. – Jahresveränderungsrate im vierten Quartal, saison- und kalenderbereinigt. – In % des realen BIP. – Abweichungen in der Summe
+rundungsbedingt.
+Quellen: Statistisches Bundesamt; Berechnungen des IWH; 2026 und 2027: Prognose des IWH.
+T abelle A7
+Beiträge der Verwendungskomponenten zur Veränderung des Bruttoinlandsprodukts1
+In Prozentpunkten 2024 2025 2026 2027
+Konsumausgaben 0,8 1,1 0,9 0,9
+private Konsumausgaben 0,3 0,8 0,4 0,5
+Konsumausgaben des Staates 0,6 0,3 0,4 0,5
+Bruttoanlageinvestitionen –0,7 0,0 0,4 0,5
+Bauten –0,4 –0,1 0,2 0,2
+Ausrüstungen –0,4 –0,1 0,1 0,2
+sonstige Anlagen 0,0 0,2 0,2 0,1
+Vorratsveränderung 0,1 0,7 0,0 0,0
+inländische Verwendung 0,2 1,8 1,3 1,4
+Außenbeitrag –0,7 –1,5 –0,6 –0,4
+Exporte –0,9 –0,2 0,2 1,0
+Importe 0,2 –1,4 –0,8 –1,4
+Bruttoinlandsprodukt –0,5 0,2 0,7 1,0
+1
+Abweichungen in der Summe rundungsbedingt.
+Quellen: Statistisches Bundesamt; 2026 und 2027: Prognose des IWH.
+17
+=== Seite 18
+Ölpreisschock gefährdet Erholung in Deutschland Konjunktur aktuell — Jg. 14 (1), 2026
+Tabelle A8
+Erwerbstätigkeit nach Beschäftigtengruppen in Deutschland 2025 und 2026
+Veränderung in
+2025 20261
+1 000 Personen %
+Arbeitnehmer (Inland) 42 316 42 353 37 0,1
+sozialversicherungspflichtig Beschäftigte 34 963 35 011 49 0,1
+Geförderte2 157 160 4 2,3
+nicht geförderte 34 806 34 851 45 0,1
+ausschließlich geringfügig entlohnte Beschäftigte 4 120 4 056 –94 –1,6
+sonstige 3 233 3 286 53 1,6
+Selbstständige einschließlich mithelfender Familienangehöriger 3 666 3 641 –25 –0,7
+geförderte Selbstständigkeit 21 22 0 1,6
+nicht geförderte Selbstständigkeit 3 644 3 619 –25 –0,7
+Erwerbstätige (Inland) 45 982 45 994 12 0,0
+staatlich subventionierte Erwerbstätige 481 454 –28 –5,7
+geförderte Erwerbstätige3 178 182 4 2,2
+Kurzarbeit 303 272 –32 –10,4
+ungeförderte Erwerbstätigkeit 45 501 45 540 39 0,1
+nachrichtlich:
+Anteil der staatlich subventionierten Erwerbstätigen an den Erwerbstätigen
+1,0 1,0
+(Inland) in %
+1 2
+Prognose des IWH. – Eingliederungszuschüsse (einschl. für Schwerbehinderte); Einstiegsgeld bei abhängiger SV-pflichtiger Erwerbstätigkeit; Beschäftigungs-
+zuschuss; ESF Bundesprogramm zur Eingliederung langzeit3arbeitsloser Leistungsberechtigter; Eingliederung von Langzeitarbeitslosen (§16 e SGB II); Teilhabe
+am Arbeitsmarkt; Förderung von Arbeitsverhältnissen. – Geförderte sozialversicherungspflichtig Beschäftigte sowie geförderte Selbständige.
+Q uellen: Statistisches Bundesamt; Bundesagentur für Arbeit; Berechnungen bzw. Schätzungen des IWH.
+Tabelle A9
+Indikatoren zur Außenwirtschaft
+2024 2025 2026 2027
+Veränderung gegenüber dem Vorjahr in %
+Exporte, real –2,1 –0,4 0,6 2,5
+Importe, real –0,6 3,6 2,1 3,6
+% in Relation zum nominalen Bruttoinlandsprodukt
+Exporte, nominal 41,4 40,4 39,9 40,1
+Importe, nominal 37,7 38,1 38,7 39,0
+Außenbeitrag
+Mrd. Euro, nominal 163,5 105,3 59,7 51,6
+Q uellen: Statistisches Bundesamt; 2026 und 2027: Prognose des IWH.
+Tabelle A10
+Reale Anlageinvestitionen in Deutschland
+V eränderung gegenüber Vorjahr in % 2024 2025 2026 2027
+Anlageinvestitionen insgesamt –0,2 –0,2 2,0 2,4
+Bauinvestitionen insgesamt –0,6 –0,6 1,9 1,8
+Wohnbauten –2,0 –2,0 1,7 1,3
+Nichtwohnbauten insgesamt 1,4 1,4 2,2 2,7
+gewerbliche Bauten 2,5 2,5 0,8 1,3
+öffentliche Bauten 0,0 0,0 4,3 4,5
+Ausrüstungen –1,9 –1,9 1,0 2,7
+Sonstige Anlagen 3,8 3,8 3,9 3,5
+Quellen: Statistisches Bundesamt; 2026 und 2027: Prognose des IWH.
+18
+=== Seite 19
+Konjunktur aktuell — Jg. 14 (1), 2026 Ölpreisschock gefährdet Erholung in Deutschland
+Tabelle A11:
+Verfügbare Einkommen und Konsumausgaben der privaten Haus-
+halte1 in Deutschland
+V eränderung gegenüber dem Vorjahr in % 2024 2025 2026 2027
+verfügbare Einkommen, nominal 4,0 3,1 3,4 3,3
+darunter:
+Nettolöhne und -gehälter (Summe) 5,5 3,8 2,8 2,7
+monetäre Sozialleistungen 7,0 5,4 4,2 3,8
+Selbstständigen-, Vermögenseinkommen –1,2 0,9 3,5 3,3
+Sparen 12,4 –5,9 –0,9 6,0
+private Konsumausgaben, nominal 2,9 4,2 3,8 2,9
+nachrichtlich:
+Bruttolöhne und -gehälter (Summe) 5,5 4,6 3,5 3,5
+Sparquote (in %) 11,2 10,3 9,9 10,1
+Preisindex des privaten Konsums 2,4 2,6 3,0 2,0
+private Konsumausgaben, real 0,5 1,6 0,8 0,8
+1
+Einschließlich der privaten Organisationen ohne Erwerbszweck.
+Quellen: Statistisches Bundesamt; 2026 und 2027: Prognose des IWH.
+Tabelle A12
+Bruttoinlandsprodukt und Bruttowertschöpfung nach Wirtschaftsbereichen1
+Veränderungsrate gegenüber dem Vorquartal in % 2025 2026 2027
+1. Qu. 2. Qu. 3. Qu. 4. Qu. 1. Qu. 2. Qu. 3. Qu. 4. Qu. 1. Qu. 2. Qu. 3. Qu. 4. Qu.
+Bruttoinlandsprodukt 0,4 –0,2 0,0 0,3 0,0 0,1 0,2 0,2 0,2 0,2 0,2 0,2
+Darunter
+Bruttowertschöpfung 0,6 –0,1 0,0 0,4 0,0 0,1 0,3 0,3 0,2 0,2 0,2 0,2
+darunter
+Produzierendes Gewerbe ohne Bau 1,3 –0,2 –0,7 0,3 –1,1 0,1 0,2 0,2 0,2 0,2 0,2 0,2
+Verarbeitendes Gewerbe 1,6 –0,3 –0,9 0,0 –1,5 0,1 0,3 0,3 0,3 0,3 0,3 0,3
+Energie- und Wasserversorgung –0,3 0,3 0,7 1,5 0,8 0,2 0,2 0,2 0,2 0,2 0,1 0,1
+Baugewerbe 1,4 –2,2 –0,8 1,7 0,1 0,1 0,4 0,4 0,4 0,4 0,2 0,2
+Handel, Verkehr, Gastgewerbe 1,4 –0,4 0,4 0,0 0,2 0,1 0,3 0,3 0,3 0,3 0,3 0,2
+Information und Kommunikation 0,5 0,2 1,6 0,4 0,6 0,4 0,4 0,4 0,4 0,4 0,4 0,4
+Finanz- und Versicherungsdienstleister –0,6 –1,8 –0,6 0,4 0,2 –0,2 –0,2 –0,2 –0,2 –0,2 –0,2 –0,2
+Grundstücks- und Wohnungswesen 0,5 0,2 0,1 0,7 0,2 0,1 0,2 0,2 0,2 0,2 0,2 0,2
+Unternehmensdienstleister –0,3 0,4 0,0 0,2 0,2 0,2 0,3 0,3 0,3 0,3 0,3 0,3
+öffentliche Dienstleister 0,1 0,5 0,3 0,8 0,5 0,2 0,3 0,3 0,3 0,3 0,3 0,3
+sonstige Dienstleister –0,7 0,0 0,0 0,8 0,2 0,2 0,2 0,2 0,1 0,1 0,1 0,1
+1
+Verkettete Volumina, saison- und kalenderbereinigt.
+Quellen: Statistisches Bundesamt; ab 1. Quartal 2026: Prognose des IWH.
+19
+=== Seite 20
+Ölpreisschock gefährdet Erholung in Deutschland Konjunktur aktuell — Jg. 14 (1), 2026
+Abbildung A3 Abbildung A4
+Reales Bruttoinlandsprodukt in Deutschland Reale Exporte
+Saison- und arbeitstäglich bereinigter Verlauf Saison- und arbeitstäglich bereinigter Verlauf
+1 1
+Ursprungswerte: Veränderung gegenüber dem Vorjahr in %. Ursprungswerte: Veränderung gegenüber dem Vorjahr in %.
+Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH; Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH;
+ab 1. Quartal 2026: Prognose des IWH. ab 1. Quartal 2026: Prognose des IWH.
+Abbildung A5 Abbildung A6
+Reale Importe Reale Investitionen in Ausrüstungen
+Saison- und arbeitstäglich bereinigter Verlauf Saison- und arbeitstäglich bereinigter Verlauf
+1 1
+Ursprungswerte: Veränderung gegenüber dem Vorjahr in %. Ursprungswerte: Veränderung gegenüber dem Vorjahr in %.
+Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH; Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH;
+ab 1. Quartal 2026: Prognose des IWH. ab 1. Quartal 2026: Prognose des IWH.
+20
+=== Seite 21
+Konjunktur aktuell — Jg. 14 (1), 2026 Ölpreisschock gefährdet Erholung in Deutschland
+Abbildung A7 Abbildung A8
+Reale Bauinvestitionen Reale Konsumausgaben der privaten Haushalte1
+Saison- und arbeitstäglich bereinigter Verlauf Saison- und arbeitstäglich bereinigter Verlauf
+1 2
+Einschließlich Organisationen ohne Erwerbszweck. – Ursprungswerte:
+1
+Ursprungswerte: Veränderung gegenüber dem Vorjahr in %. Veränderung gegenüber dem Vorjahr in %.
+Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH; Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH;
+ab 1. Quartal 2026: Prognose des IWH. ab 1. Quartal 2026: Prognose des IWH.
+Abbildung A9 Abbildung A10
+Verbraucherpreise in Deutschland Erwerbstätige
+Saison- und arbeitstäglich bereinigter Verlauf Inlandskonzept, saisonbereinigter Verlauf
+1 1
+Ursprungswerte: Veränderung gegenüber dem Vorjahr in %. Ursprungswerte: Veränderung gegenüber dem Vorjahr in tausend Perso-
+n en.
+Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH; Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH;
+a b 1. Quartal 2026: Prognose des IWH. a b 1. Quartal 2026: Prognose des IWH.
+21
+=== Seite 24
+Ölpreisschock gefährdet Erholung in Deutschland Konjunktur aktuell — Jg. 14 (1), 2026
+Tabelle A14
+Hauptaggregate der Sektoren
+Jahresergebnisse 2025
+in Mrd. Euro gesamte Kapital- Staat priv. Haushalte und übrige Welt
+Volkswirtschaft gesellschaften priv. Org. o. E.
+1 = Bruttowertschöpfung 4 044,8 2 741,1 502,1 801,7 –
+2 – Abschreibungen 918,2 499,9 125,6 292,7 –
+3 = Nettowertschöpfung1 3 126,6 2 241,2 376,4 509,0 –105,3
+4 – geleistete Arbeitnehmerentgelte 2 471,0 1 780,9 384,3 305,8 21,0
+5 – geleistete sonstige Produktionsabgaben 41,0 29,9 0,4 10,7 –
+6 + empfangene sonstige Subventionen 58,3 55,9 0,2 2,1 –
+7 = Betriebsüberschuss/Selbstständigeneinkommen 672,9 486,3 –8,0 194,6 –126,3
+8 + empfangene Arbeitnehmerentgelte 2 477,1 – – 2 477,1 14,9
+9 – geleistete Subventionen 53,9 – 53,9 – 4,4
+10 + empfangene Produktions- und Importabgaben 460,1 – 460,1 – 5,9
+11 – geleistete Vermögenseinkommen 1 134,1 1 038,2 49,5 46,4 405,2
+12 + empfangene Vermögenseinkommen 1 291,3 737,6 30,8 522,9 248,0
+13 = Primäreinkommen (Nettonationaleinkommen) 3 713,5 185,7 379,6 3 148,2 –267,2
+14 – geleistete Einkommen- und Vermögensteuern 557,9 124,5 – 433,4 14,3
+15 + empfangene Einkommen- und Vermögensteuern 571,4 – 571,4 – 0,8
+16 – geleistete Nettosozialbeiträge2 992,2 – – 992,2 4,0
+17 + empfangene Nettosozialbeiträge2 990,9 167,2 822,9 0,8 5,3
+18 – geleistete monetäre Sozialleistungen 844,0 93,7 749,5 0,8 0,7
+19 + empfangene monetäre Sozialleistungen 834,9 – – 834,9 9,8
+20 – geleistete sonstige laufende Transfers 474,8 269,2 95,3 110,3 107,2
+21 + empfangene sonstige laufende Transfers 414,1 242,1 30,1 142,0 167,9
+22 = verfügbares Einkommen (Ausgabenkonzept) 3 655,9 107,5 959,3 2 589,1 –209,5
+23 – Konsumausgaben 3 384,2 – 1 006,4 2 377,9 –
+24 + Zunahme betrieblicher Versorgungsansprüche – –61,2 – 61,2 –
+25 = Sparen 271,6 46,3 –47,1 272,4 –209,5
+26 – geleistete Vermögenstransfers 109,6 10,2 78,4 21,1 6,6
+27 + empfangene Vermögenstransfers 90,7 50,9 24,9 14,9 25,6
+28 – Bruttoinvestitionen 980,3 555,5 144,8 280,0 –
+29 + Abschreibungen 918,2 499,9 125,6 292,7 –
+30 – Nettozugang an nicht produzierten Vermögensgütern 19,7 20,0 –0,6 0,3 –19,7
+31 = Finanzierungssaldo 170,9 11,4 –119,1 278,6 –170,9
+nachrichtlich:
+32 verfügbares Einkommen (Ausgabenkonzept) 3 655,9 107,5 959,3 2 589,1 –209,5
+33 – geleistete soziale Sachtransfers 629,1 – 629,1 – –
+34 + empfangene soziale Sachtransfers 629,1 – – 629,1 –
+35 = verfügbares Einkommen (Verbrauchskonzept) 3 655,9 107,5 330,2 3 218,2 –209,5
+36 – Konsum3 3 384,2 – 377,3 3 006,9 –
+37 + Zunahme betrieblicher Versorgungsansprüche – –61,2 – 61,2 –
+38 = Sparen 271,6 46,3 –47,1 272,4 –209,5
+1
+Für den Sektor übrige Welt Importe abzüglich Exporte aus der bzw. an die übrige Welt.
+2
+Einschließlich Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.
+3
+Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte, private Organisationen o. E. Individualkonsum (einschl. Konsumausgaben des
+S taates für den Individualverbrauch, d. h. einschließlich sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt.
+24
+=== Seite 25
+Konjunktur aktuell — Jg. 14 (1), 2026 Ölpreisschock gefährdet Erholung in Deutschland
+noch: Hauptaggregate der Sektoren
+Jahresergebnisse 2026
+in Mrd. Euro gesamte Kapital- Staat priv. Haushalte und übrige Welt
+Volkswirtschaft gesellschaften priv. Org. o. E.
+1 = Bruttowertschöpfung 4 185,3 2 833,5 521,7 830,2 –
+2 – Abschreibungen 949,8 518,9 130,6 300,4 –
+3 = Nettowertschöpfung1 3 235,5 2 314,6 391,1 529,9 –59,7
+4 – geleistete Arbeitnehmerentgelte 2 558,2 1 843,1 398,6 316,5 22,2
+5 – geleistete sonstige Produktionsabgaben 53,2 38,9 0,4 13,9 –
+6 + empfangene sonstige Subventionen 59,5 57,3 0,2 2,0 –
+7 = Betriebsüberschuss/Selbstständigeneinkommen 683,7 489,8 –7,6 201,5 –81,9
+8 + empfangene Arbeitnehmerentgelte 2 565,1 – – 2 565,1 15,3
+9 – geleistete Subventionen 61,1 – 61,1 – 4,4
+10 + empfangene Produktions- und Importabgaben 480,3 – 480,3 – 6,0
+11 – geleistete Vermögenseinkommen 1 090,4 989,2 53,4 47,8 404,8
+12 + empfangene Vermögenseinkommen 1 252,1 679,7 31,3 541,1 243,1
+13 = Primäreinkommen (Nettonationaleinkommen) 3 829,7 180,3 389,5 3 259,9 –226,8
+14 – geleistete Einkommen- und Vermögensteuern 570,1 121,7 – 448,4 15,0
+15 + empfangene Einkommen- und Vermögensteuern 584,3 – 584,3 – 0,8
+16 – geleistete Nettosozialbeiträge2 1 037,7 – – 1 037,7 4,2
+17 + empfangene Nettosozialbeiträge2 1 036,5 171,5 864,2 0,8 5,3
+18 – geleistete monetäre Sozialleistungen 878,9 96,9 781,1 0,8 0,7
+19 + empfangene monetäre Sozialleistungen 869,6 – – 869,6 9,9
+20 – geleistete sonstige laufende Transfers 484,4 268,9 109,3 106,1 115,6
+21 + empfangene sonstige laufende Transfers 428,6 256,6 31,3 140,7 171,4
+22 = verfügbares Einkommen (Ausgabenkonzept) 3 777,6 120,9 978,8 2 677,9 –174,8
+23 – Konsumausgaben 3 529,1 – 1 059,7 2 469,4 –
+24 + Zunahme betrieblicher Versorgungsansprüche – –61,5 – 61,5 –
+25 = Sparen 248,6 59,4 –80,8 270,0 –174,8
+26 – geleistete Vermögenstransfers 108,5 7,9 82,7 17,9 5,0
+27 + empfangene Vermögenstransfers 89,4 52,0 22,2 15,2 24,2
+28 – Bruttoinvestitionen 1 023,6 574,9 154,6 294,1 –
+29 + Abschreibungen 949,8 518,9 130,6 300,4 –
+30 – Nettozugang an nicht produzierten Vermögensgütern 19,7 19,1 –0,6 1,2 –19,7
+31 = Finanzierungssaldo 136,0 28,2 –164,7 272,4 –136,0
+nachrichtlich:
+32 verfügbares Einkommen (Ausgabenkonzept) 3 777,6 120,9 978,8 2 677,9 –174,8
+33 – geleistete soziale Sachtransfers 670,3 – 670,3 – –
+34 + empfangene soziale Sachtransfers 670,3 – – 670,3 –
+35 = verfügbares Einkommen (Verbrauchskonzept) 3 777,6 120,9 308,5 3 348,2 –174,8
+36 – Konsum3 3 529,1 – 389,4 3 139,7 –
+37 + Zunahme betrieblicher Versorgungsansprüche – –61,5 – 61,5 –
+38 = Sparen 248,6 59,4 –80,8 270,0 –174,8
+1
+Für den Sektor übrige Welt Importe abzüglich Exporte aus der bzw. an die übrige Welt.
+2
+Einschließlich Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.
+3
+Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte, private Organisationen o. E. Individualkonsum (einschl. Konsumausgaben des
+S taates für den Individualverbrauch, d. h. einschließlich sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt; 2026 und 2027: Prognose des IWH.
+25
+=== Seite 26
+Ölpreisschock gefährdet Erholung in Deutschland Konjunktur aktuell — Jg. 14 (1), 2026
+noch: Hauptaggregate der Sektoren
+Jahresergebnisse 2027
+in Mrd. Euro gesamte Kapital- Staat priv. Haushalte und übrige Welt
+Volkswirtschaft gesellschaften priv. Org. o. E.
+1 = Bruttowertschöpfung 4 333,8 2 940,8 539,1 853,9 –
+2 – Abschreibungen 984,3 539,6 135,8 308,9 –
+3 = Nettowertschöpfung1 3 349,5 2 401,2 403,3 545,0 –51,6
+4 – geleistete Arbeitnehmerentgelte 2 653,2 1 914,1 410,4 328,7 22,5
+5 – geleistete sonstige Produktionsabgaben 41,4 30,2 0,4 10,8 –
+6 + empfangene sonstige Subventionen 62,2 59,9 0,2 2,1 –
+7 = Betriebsüberschuss/Selbstständigeneinkommen 717,2 516,7 –7,2 207,7 –74,1
+8 + empfangene Arbeitnehmerentgelte 2 660,0 – – 2 660,0 15,7
+9 – geleistete Subventionen 63,9 – 63,9 – 4,4
+10 + empfangene Produktions- und Importabgaben 483,4 – 483,4 – 6,0
+11 – geleistete Vermögenseinkommen 1 172,4 1 065,4 57,7 49,3 404,9
+12 + empfangene Vermögenseinkommen 1 340,1 748,9 32,1 559,1 237,2
+13 = Primäreinkommen (Nettonationaleinkommen) 3 964,3 200,2 386,7 3 377,5 –224,4
+14 – geleistete Einkommen- und Vermögensteuern 593,3 123,2 – 470,1 15,7
+15 + empfangene Einkommen- und Vermögensteuern 608,2 – 608,2 – 0,8
+16 – geleistete Nettosozialbeiträge2 1 090,5 – – 1 090,5 4,3
+17 + empfangene Nettosozialbeiträge2 1 089,4 177,6 911,0 0,8 5,3
+18 – geleistete monetäre Sozialleistungen 912,4 100,3 811,2 0,8 0,7
+19 + empfangene monetäre Sozialleistungen 902,9 – – 902,9 10,1
+20 – geleistete sonstige laufende Transfers 487,9 279,8 111,9 96,2 124,7
+21 + empfangene sonstige laufende Transfers 434,0 260,2 32,3 141,5 178,7
+22 = verfügbares Einkommen (Ausgabenkonzept) 3 914,7 134,7 1 015,0 2 765,0 –174,8
+23 – Konsumausgaben 3 651,2 – 1 110,6 2 540,6 –
+24 + Zunahme betrieblicher Versorgungsansprüche – –61,8 – 61,8 –
+25 = Sparen 263,6 72,9 –95,6 286,2 –174,8
+26 – geleistete Vermögenstransfers 110,3 7,0 84,8 18,5 3,9
+27 + empfangene Vermögenstransfers 90,9 52,6 23,0 15,4 23,3
+28 – Bruttoinvestitionen 1 073,1 600,9 164,5 307,6 –
+29 + Abschreibungen 984,3 539,6 135,8 308,9 –
+30 – Nettozugang an nicht produzierten Vermögensgütern 19,7 13,9 –0,6 6,4 –19,7
+31 = Finanzierungssaldo 135,7 43,3 –185,6 278,0 –135,7
+nachrichtlich:
+32 verfügbares Einkommen (Ausgabenkonzept) 3 914,7 134,7 1 015,0 2 765,0 –174,8
+33 – geleistete soziale Sachtransfers 712,7 – 712,7 – –
+34 + empfangene soziale Sachtransfers 712,7 – – 712,7 –
+35 = verfügbares Einkommen (Verbrauchskonzept) 3 914,7 134,7 302,3 3 477,7 –174,8
+36 – Konsum3 3 651,2 – 397,9 3 253,2 –
+37 + Zunahme betrieblicher Versorgungsansprüche – –61,8 – 61,8 –
+38 = Sparen 263,6 72,9 –95,6 286,2 –174,8
+1
+Für den Sektor übrige Welt Importe abzüglich Exporte aus der bzw. an die übrige Welt.
+2
+Einschließlich Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.
+3
+Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte, private Organisationen o. E. Individualkonsum (einschl. Konsumausgaben des
+S taates für den Individualverbrauch, d. h. einschließlich sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt; 2026 und 2027: Prognose des IWH.
+26
+=== Seite 27
+Konjunktur aktuell — Jg. 14 (1), 2026 Ölpreisschock gefährdet Erholung in Deutschland
+Tabelle A15
+VGR–Tabellen
+Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnung für Deutschland
+2026 2027
+Vorausschätzung für die Jahre 2026 und 2027 2025 2026 2027
+1 Hj 2 Hj 1 Hj 2 Hj
+1 Entstehung des Inlandsprodukts
+Veränderung in % gegenüber dem Vorjahr
+Erwerbstätige 0,0 0,0 –0,1 –0,1 0,2 0,1 –0,2
+Arbeitsvolumen –0,2 0,2 0,2 –0,1 0,4 0,3 0,1
+Arbeitsstunden je Erwerbstätige –0,2 0,1 0,3 0,1 0,2 0,2 0,4
+Produktivität1 0,4 0,6 0,8 0,4 0,7 0,9 0,8
+Bruttoinlandsprodukt, preisbereinigt 0,2 0,7 1,0 0,3 1,1 1,2 0,9
+2 Verwendung des Inlandsprodukts in jeweiligen Preisen
+a) Mrd. EUR
+Konsumausgaben 3 384,2 3 529,1 3 651,2 1 722,4 1 806,7 1 778,4 1 872,8
+private Haushalte2 2 377,9 2 469,4 2 540,6 1 206,4 1 263,0 1 237,8 1 302,8
+Staat 1 006,4 1 059,7 1 110,6 516,0 543,7 540,6 570,0
+Anlageinvestitionen 908,0 951,5 1 001,6 455,9 495,6 481,8 519,8
+Bauten 461,8 485,6 510,6 235,1 250,4 248,8 261,7
+Ausrüstungen 267,2 275,3 288,5 129,5 145,7 136,0 152,5
+sonstige Anlageinvestitionen 179,0 190,6 202,5 91,2 99,4 97,0 105,5
+Vorratsveränderung3 72,4 72,2 71,5 44,6 27,5 43,7 27,8
+inländische Verwendung 4 364,6 4 552,7 4 724,2 2 222,9 2 329,8 2 303,9 2 420,4
+Außenbeitrag 105,3 59,7 51,6 40,4 19,4 37,8 13,8
+Exporte 1 807,4 1 842,4 1 915,7 905,5 936,9 942,8 972,9
+Importe 1 702,1 1 782,7 1 864,1 865,2 917,5 905,1 959,0
+Bruttoinlandsprodukt 4 469,9 4 612,4 4 775,8 2 263,2 2 349,2 2 341,6 2 434,2
+b) Veränderung in % gegenüber dem Vorjahr
+Konsumausgaben 4,6 4,3 3,5 4,6 4,0 3,3 3,7
+private Haushalte2 4,2 3,8 2,9 4,1 3,6 2,6 3,1
+Staat 5,7 5,3 4,8 5,8 4,8 4,8 4,8
+Anlageinvestitionen 2,5 4,8 5,3 4,0 5,5 5,7 4,9
+Bauten 2,5 5,1 5,1 4,0 6,2 5,8 4,5
+Ausrüstungen 0,0 3,0 4,8 2,4 3,6 5,0 4,7
+sonstige Anlageinvestitionen 6,6 6,5 6,2 6,5 6,5 6,4 6,1
+Inländische Verwendung 4,8 4,3 3,8 4,5 4,1 3,6 3,9
+Exporte 0,8 1,9 4,0 0,0 3,9 4,1 3,8
+Importe 4,4 4,7 4,6 3,7 5,8 4,6 4,5
+Bruttoinlandsprodukt 3,3 3,2 3,5 3,0 3,3 3,5 3,6
+nachrichtlich in % in Relation zum nominalen BIP:
+Außenbeitrag 2,4 1,3 1,1 1,8 0,8 1,6 0,6
+3 Verwendung des Inlandsprodukts, verkettete Volumenangaben (Referenzjahr 2020)
+a) Mrd. EUR
+Konsumausgaben 2 754,0 2 786,7 2 820,7 1 371,5 1 415,2 1 387,0 1 433,7
+private Haushalte2 1 926,8 1 943,0 1 959,4 954,0 989,0 961,4 998,1
+Staat 827,5 844,0 861,6 417,7 426,3 425,8 435,8
+Anlageinvestitionen 700,8 715,1 732,5 343,4 371,7 353,1 379,3
+Bauten 322,6 328,8 334,9 160,0 168,8 164,0 170,9
+Ausrüstungen 224,1 226,3 232,5 106,5 119,8 109,5 123,0
+sonstige Anlageinvestitionen 158,3 164,4 170,2 78,7 85,8 81,5 88,7
+inländische Verwendung 3 520,2 3 567,3 3 619,1 1 752,8 1 814,5 1 778,1 1 841,0
+Exporte 1 485,3 1 493,9 1 531,6 737,2 756,7 756,5 775,0
+Importe 1 393,6 1 422,8 1 474,1 694,1 728,7 717,7 756,4
+Bruttoinlandsprodukt 3 609,5 3 636,2 3 674,3 1 794,7 1 841,5 1 815,7 1 858,6
+b) Veränderung in % gegenüber dem Vorjahr
+Konsumausgaben 1,5 1,2 1,2 1,3 1,1 1,1 1,3
+private Haushalte2 1,6 0,8 0,8 0,9 0,8 0,8 0,9
+Staat 1,3 2,0 2,1 2,1 1,9 1,9 2,2
+Anlageinvestitionen –0,2 2,0 2,4 1,3 2,8 2,8 2,1
+Bauten –0,6 1,9 1,8 0,8 3,0 2,5 1,2
+Ausrüstungen –1,9 1,0 2,7 0,3 1,6 2,9 2,6
+sonstige Anlageinvestitionen 3,8 3,9 3,5 3,9 3,9 3,6 3,4
+inländische Verwendung 1,8 1,3 1,5 1,4 1,2 1,4 1,5
+Exporte –0,4 0,6 2,5 –0,8 2,0 2,6 2,4
+Importe 3,6 2,1 3,6 1,8 2,3 3,4 3,8
+Bruttoinlandsprodukt 0,2 0,7 1,0 0,3 1,1 1,2 0,9
+27
+=== Seite 28
+Ölpreisschock gefährdet Erholung in Deutschland Konjunktur aktuell — Jg. 14 (1), 2026
+noch: Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnung für Deutschland
+2026 2027
+Vorausschätzung für die Jahre 2026 und 2027 2025 2026 2027
+1 Hj 2 Hj 1 Hj 2 Hj
+4 Preisniveau der Verwendungsseite des Inlandsprodukts (2020=100)
+Veränderung in % gegenüber dem Vorjahr
+private Konsumausgaben2 2,6 3,0 2,0 3,2 2,8 1,8 2,2
+Konsumausgaben des Staates 4,4 3,2 2,7 3,6 2,9 2,8 2,6
+Anlageinvestitionen 2,7 2,7 2,8 2,7 2,7 2,8 2,8
+Bauten 3,1 3,2 3,3 3,2 3,1 3,2 3,3
+Ausrüstungen 2,0 2,0 2,0 2,1 2,0 2,1 2,0
+Exporte 1,2 1,4 1,4 0,9 1,8 1,5 1,4
+Importe 0,8 2,6 0,9 1,8 3,4 1,2 0,7
+Bruttoinlandsprodukt 3,0 2,4 2,5 2,7 2,2 2,3 2,7
+5 Einkommensentstehung und -verteilung
+a) Mrd. EUR
+Primäreinkommen der privaten Haushalte2 3 148,2 3 259,9 3 377,5 1 591,6 1 668,2 1 648,1 1 729,4
+Sozialbeiträge der Arbeitgeber 439,9 457,1 478,2 221,4 235,7 231,6 246,6
+Bruttolöhne und -gehälter 2 037,2 2 108,0 2 181,8 1 007,9 1 100,1 1 043,0 1 138,8
+übrige Primäreinkommen4 671,1 694,8 717,5 362,4 332,4 373,5 343,9
+Primäreinkommen der übrigen Sektoren 565,3 569,8 586,9 269,6 300,2 277,0 309,8
+Nettonationaleinkommen (Primäreinkommen) 3 713,5 3 829,7 3 964,3 1 861,3 1 968,4 1 925,1 2 039,2
+Abschreibungen 918,2 949,8 984,3 472,3 477,5 489,1 495,2
+Bruttonationaleinkommen 4 631,7 4 779,5 4 948,7 2 333,6 2 445,9 2 414,3 2 534,4
+nachrichtlich:
+Volkseinkommen 3 307,2 3 410,5 3 544,9 1 646,6 1 763,8 1 710,2 1 834,7
+Arbeitnehmerentgelt 2 477,1 2 565,1 2 660,0 1 229,3 1 335,8 1 274,6 1 385,4
+Unternehmens- und Vermögenseinkommen 830,1 845,4 884,9 417,4 428,0 435,6 449,2
+b) Veränderung in % gegenüber dem Vorjahr
+Primäreinkommen der privaten Haushalte2 4,1 3,5 3,6 3,6 3,5 3,5 3,7
+Sozialbeiträge der Arbeitgeber 7,1 3,9 4,6 4,0 3,8 4,6 4,6
+Bruttolöhne und -gehälter 4,6 3,5 3,5 3,6 3,4 3,5 3,5
+Bruttolöhne und -gehälter je Beschäftigten 4,5 3,4 3,5 3,7 3,1 3,3 3,8
+übrige Primäreinkommen4 0,9 3,5 3,3 3,2 3,9 3,1 3,5
+Primäreinkommen der übrigen Sektoren –0,3 0,8 3,0 –0,7 2,2 2,7 3,2
+Nettonationaleinkommen (Primäreinkommen) 3,4 3,1 3,5 2,9 3,3 3,4 3,6
+Abschreibungen 3,4 3,4 3,6 3,4 3,5 3,6 3,7
+Bruttonationaleinkommen 3,4 3,2 3,5 3,0 3,4 3,5 3,6
+nachrichtlich:
+Volkseinkommen 3,3 3,1 3,9 2,9 3,4 3,9 4,0
+Arbeitnehmerentgelt 5,1 3,6 3,7 3,7 3,4 3,7 3,7
+Unternehmens- und Vermögenseinkommen –1,4 1,8 4,7 0,6 3,1 4,4 5,0
+6 Einkommen und Einkommensverwendung der privaten Haushalte2
+a) Mrd. EUR
+Masseneinkommen 2 054,9 2 121,0 2 186,1 1 021,2 1 099,8 1 052,5 1 133,6
+Nettolöhne und -gehälter 1 407,4 1 446,6 1 485,8 685,8 760,8 704,0 781,8
+monetäre Sozialleistungen 834,9 869,6 902,9 431,0 438,6 447,6 455,2
+abz. Abgaben auf soziale Leistungen,
+verbrauchsnahe Steuern 187,4 195,1 202,6 95,5 99,7 99,2 103,4
+übrige Primäreinkommen4 671,1 694,8 717,5 362,4 332,4 373,5 343,9
+sonstige Transfers (Saldo)5 –136,9 –137,9 –138,5 –65,6 –72,3 –66,0 –72,5
+Verfügbares Einkommen 2 589,1 2 677,9 2 765,0 1 318,0 1 359,9 1 360,0 1 405,0
+Zunahme betrieblicher Versorgungsansprüche 61,2 61,5 61,8 29,8 31,7 29,9 31,8
+K onsumausgaben 2 377,9 2 469,4 2 540,6 1 206,4 1 263,0 1 237,8 1 302,8
+Sparen 272,4 270,0 286,2 141,4 128,6 152,1 134,1
+S parquote (%)6 10,3 9,9 10,1 10,5 9,2 10,9 9,3
+b) Veränderung in % gegenüber dem Vorjahr
+Masseneinkommen 3,9 3,2 3,1 3,3 3,2 3,1 3,1
+Nettolöhne und -gehälter 3,8 2,8 2,7 2,9 2,7 2,7 2,8
+monetäre Sozialleistungen 5,4 4,2 3,8 4,0 4,3 3,9 3,8
+abz. Abgaben auf soziale Leistungen,
+verbrauchsnahe Steuern 9,6 4,2 3,8 4,0 4,3 3,9 3,8
+übrige Primäreinkommen4 0,9 3,5 3,3 3,2 3,9 3,1 3,5
+Verfügbares Einkommen 3,1 3,4 3,3 3,4 3,5 3,2 3,3
+Konsumausgaben 4,2 3,8 2,9 4,1 3,6 2,6 3,1
+Sparen –5,9 –0,9 6,0 –2,8 1,2 7,6 4,3
+28

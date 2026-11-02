@@ -1,0 +1,1023 @@
+=== Seite 4
+KIELER KONJUNKTURBERICHTE NR. 117 (2024|Q3)
+stark rückläufig; die Unternehmensinvestitionen Die Jahre 2025 und 2026 stehen im Zeichen
+gaben um 4,9 Prozent nach, der Wohnbau um einer blutleeren Erholung. Je länger die ge-
+5,8 Prozent. Der private Verbrauch stagnierte auf samtwirtschaftliche Schwächephase andauert,
+Jahresfrist, zuletzt wurde sogar wieder ein leich- desto mehr sprechen auch strukturelle Gründe
+ter Rückgang verzeichnet. Damit ist zwar dort die für die geringe Dynamik. Trotz der abermaligen
+erwartete Erholung trotz anziehender Konsum- Abwärtsrevision des Produktionspotenzials
+entenkaufkraft abermals ausgeblieben, im Zuge (Boysen-Hogrefe et al. 2024a) dürfte die Produk-
+der amtlichen Generalrevision hat sich jedoch tionslücke derzeit jedoch weiterhin negativ sein,
+herausgestellt, dass der private Konsum bereits was im Einklang mit umfragebasierten Indikato-
+in den Vorjahren deutlicher angezogen hatte, als ren zur Kapazitätsauslastung steht (Abbil-
+bislang bekannt war (Kasten 1). So übertraf das dung 2). Die damit bestehenden Expansions-
+Konsumniveau im ersten Quartal des laufenden spielräume dürften in den kommenden beiden
+Jahres nach neuer Rechnung das Vorkrisenni- Jahren nach und nach ausgefüllt werden. Hierbei
+veau – gemessen am Jahresdurchschnitt 2019 – werden sich aber wohl die private Absorption als
+um 0,7 Prozent, nach alter Rechnung lag es auch die Exporte weniger dynamisch zeigen, als
+noch 1,5 Prozent darunter. Die Exporte gaben im von uns noch im Sommer vorausgesehen wor-
+Verlauf der vergangenen vier Quartale um den war. So dürften zwar die privaten Konsum-
+0,5 Prozent nach. Der kräftige Jahresauftakt hat ausgaben im Einklang mit steigenden Realein-
+sich als Strohfeuer entpuppt, nachdem sich auch kommen zulegen; da sich nach neuem Daten-
+die positiven Signale der Frühindikatoren nach stand die Sparquote der privaten Haushalte je-
+dem Frühjahr wieder eingetrübt hatten. Sympto- doch bereits weitgehend normalisiert hat, geht
+matisch für die schwache Konjunktur in Deutsch- von dieser Seite kein zusätzlicher Schub aus.
+land sind die Importe, die seit dem zweiten Quar- Das Investitionsklima dürfte derzeit auch durch
+tal 2023 um 2,5 Prozent nachgaben. Am aktuel- eine erhebliche Politikunsicherheit belastet sein,
+len Rand zeichnet sich ein weiterer leichter die maßgeblich den fehlenden Gemeinsamkei-
+Rückgang der ökonomischen Aktivität ab (Ta- ten über den wirtschafts- und finanzpolitischen
+belle 1). Insgesamt dürfte das Bruttoinlandspro- Kurs innerhalb der Bundesregierung geschuldet
+dukt in der zweiten Hälfte des laufenden Jahres ist. Da sich diesbezüglich keine Änderung ab-
+kraftlos bleiben. Für das Gesamtjahr läuft dies zeichnet, wird sich der Investitionsattentismus
+auf einen leichten Rückgang um 0,1 Prozent hin- wohl zunächst fortsetzen. Die sich bis zur Jah-
+aus (Abbildung 1). Gegenüber der Sommerprog- reswende 2022/2023 drastisch verschlechterte
+nose entspricht dies einer Abwärtsrevision um Erschwinglichkeit von Neubauten wird sich im
+0,3 Prozentpunkte.
+Tabelle 1:
+Quartalsdaten zur wirtschaftlichen Entwicklung
+2024 2025 2026
+I II III IV I II III IV I II III IV
+Bruttoinlandsprodukt 0,2 -0,1 -0,1 0,1 0,2 0,2 0,2 0,2 0,2 0,2 0,1 0,1
+Private Konsumausgaben 0,3 -0,2 0,1 0,2 0,2 0,2 0,2 0,2 0,1 0,1 0,1 0,1
+Konsumausgaben des Staates -0,1 1,0 0,5 0,5 0,4 0,4 0,3 0,3 0,3 0,3 0,3 0,2
+Ausrüstungsinvestitionen -1,6 -4,1 -1,9 0,0 1,1 1,8 1,8 1,5 0,8 0,6 0,5 0,5
+Bauinvestitionen 0,8 -2,0 -1,6 -0,4 0,0 0,3 0,6 0,7 0,5 0,5 0,5 0,5
+Sonstige Anlagen 1,4 0,6 0,0 0,3 0,6 0,7 0,8 0,7 0,6 0,6 0,6 0,6
+Vorratsveränderungen -0,2 0,4 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Inländische Verwendung 0,0 0,0 -0,1 0,1 0,3 0,3 0,4 0,3 0,3 0,2 0,2 0,2
+Ausfuhr 1,3 -0,2 -0,3 0,2 0,5 0,6 0,6 0,5 0,5 0,4 0,4 0,4
+Einfuhr 0,8 0,0 -0,3 0,2 0,6 0,9 1,0 0,8 0,7 0,6 0,6 0,6
+Außenbeitrag 0,2 -0,1 0,0 0,0 0,0 -0,1 -0,1 -0,1 -0,1 0,0 0,0 -0,1
+Erwerbstätige, Inland 46.125 46.178 46.205 46.225 46.245 46.255 46.255 46.245 46.235 46.225 46.215 46.205
+Arbeitslose 2.716 2.761 2.806 2.841 2.856 2.856 2.851 2.836 2.811 2.787 2.762 2.738
+Preis-, kalender- und saisonbereinigt. Veränderung gegenüber dem Vorquartal in Prozent; Vorratsveränderungen, Außenbeitrag: Lundberg-Kom-
+ponente; Erwerbstätige, Arbeitslose: saisonbereinigt, 1 000 Personen; Arbeitslose: Abgrenzung der Bundesagentur für Arbeit.
+Quelle: Statistisches Bundesamt, Fachserie 18, Reihe 1.3; Bundesagentur für Arbeit, Monatsbericht; grau hinterlegt: Prognose des IfW Kiel. .
+4
+=== Seite 10
+KIELER KONJUNKTURBERICHTE NR. 117 (2024|Q3)
+Tabelle 5
+Budgetwirkungen finanzpolitischer Maßnahmen
+2024 2025 2026
+Einnahmen der Gebietskörperschaften
+Temporär reduzierte Mehrwertsteuersatz für Erdgas und Gastro 6,7 3,8 0
+Inflationsausgleichsgesetz (kalte Progression) -13,2 -2,4 -0,9
+Ausgleich kalte Progression 2025/2026 0 -5,9 -5,4
+Anhebung Grund- und Kinderfreibetrag 2024 0 -3,3 1,3
+Abgabenfreiheit Inflationsausgleichsprämien 2,1 4,2 0
+Gewinnabschöpfung bei Energieherstellern -0,3 0,0 0,0
+Wachstumschancengesetz -1,0 -2,5 -0,7
+Wachstumsinitiative (Abschreibungen) 0,0 -2,9 -3,1
+Zukunftsfinanzierungsgesetz -0,3 -0,2 -0,1
+Anhebung der Luftverkehrsabgabe 0,4 0,1 0,0
+Rückführung der Agrar-Dieselbefreiung 0,0 0,1 0,1
+Einführung einer Plastiksteuer 0,0 1,4 0,0
+Jahressteuergesetz 2024 -0,4 0,3 0,7
+Stromsteuer -1,3 -0,5 2,8
+Sonstige steuerliche Maßnahmen 2,4 4,3 2,2
+Anhebung der CO2-Abgabe 4,6 2,9 1,8
+Anhebung Lkw-Maut 7,0 0,0 0,0
+Einnahmen der Sozialversicherungen
+Anhebung Beitragssatz in der gesetzlichen Krankenversicherung 3,8 2,1 2,1
+Anhebung Beitragssatz in der sozialen Pflegeversicherung 3,4 3,5 3,6
+Abgabenfreiheit Inflationsausgleichsprämien 3,8 7,5 0,0
+Ausgaben der Gebietskörperschaften
+"Strom- und Gaspreisbremse" 30,0 0,0 0,0
+Abschaffung der EEG-Umlage -18,0 -2,0 0,0
+Unternehmenshilfen in der Energiekrise 7,0 0,0 0,0
+Hilfen für Krankenhäuser und Pflegeeinrichtungen (Energiekrise) 5,0 1,0 0,0
+Startchancenprogramm Schulen -0,5 -0,7 -0,2
+Digitalpakt 0,0 0,7 0,0
+Einmalzahlungen Studierende -0,3 0,0 0,0
+Wohngeldreform / Heizkostenzuschuss -1,1 -0,5 0,0
+Deutschland-Ticket -1,0 -0,5 0,0
+Kürzungen bei Bürgergeld und Elterngeld 0,5 0,4 0,0
+Kindergeld 1,5 -1,0 -2,0
+Kürzung Förderung des ländlichen Raums 0,3 0,0 0,0
+Unterstützung der Ukraine -2,1 4,0 0,0
+Sondervermögen KTF (ohne EEG) 3,5 3,5 2,0
+Sondervermögen Bundeswehr -8,0 -4,0 -1,0
+Eigenkapitalhilfen für die DB -4,5 -0,5 0,0
+Sozialer Wohnungsbau -0,6 -0,4 0,0
+Ausgaben der Sozialversicherungen
+Maßnahmen im Bereich Pflege 0,0 -1,0 0,0
+Maßnahmen im Bereich Gesundheit -1,3 -2,5 -2,5
+Anpassung der Renten Ost -0,4 0,0 0,0
+Erwerbsminderungsrenten -0,1 -0,1 -0,1
+Grundrente -0,2 -0,1 -0,1
+Zwischensumme 27,4 8,8 0,5
+Automatische Reaktionen
+Progressionseffekte (Einkommensteuer) 10,7 7,2 5,5
+Endogener Rückgang von Steuerquoten (Mengensteuern) -2,0 -1,5 -1,3
+Summe 36,1 14,5 4,7
+In Relation zum BIP 0,9 0,4 0,1
+der vergleichsweise schwachen Expansion der berichteten, in Deutschland per Saldo doch deut-
+Exporte (die Warenausfuhren legten in diesem lich größer als in anderen Ländern des Eu-
+Zeitraum um knapp 1 Prozent zu) dürfte die Auf- roraums (Abbildung 6). Im zweiten Quartal sind
+wertung des effektiven Wechselkurses in diesem die Exporte leicht gesunken, die Importe stag-
+Zeitraum beigetragen haben. Freilich mehren nierten. Die Frühindikatoren hatten im Sommer –
+sich die Zeichen, dass auch strukturelle Prob- insbesondere der preisbereinigte Warenhandel
+leme auf der Exportwirtschaft lasten, so war der für den April - noch deutliche Anstiege signali-
+Anteil der Unternehmen, die in den vergangenen siert. Im Mai und Juli fielen die Warenlieferungen
+Quartalen von einer Verschlechterung ihrer Wett- jedoch merklich geringer aus.
+bewerbsposition auf Auslandsmärkten
+10
+=== Seite 11
+KIELER KONJUNKTURBERICHTE NR. 117 (2024|Q3)
+Abbildung 6:
+Abbildung 7:
+Veränderung der Wettbewerbsposition auf Aus-
+Exportindikatoren
+landsmärkten
+Prozent Index
+30 3
+Prozentpunkte Deutschland
+20 2
+20
+Euroraum
+15 10 1
+10
+0 0
+5
+0 -10 -1
+Exporte
+-5
+-20 -2
+Exportklima (rechte
+-10 Skala)
+-30 -3
+-15 2008 2011 2014 2017 2020 2023
+-20
+Prozent Index
+-25 15 30
+1997200020032006200920122015201820212024
+Quartalsdaten. Veränderung der Wettbewerbsposition 10 20
+außerhalb der Europäischen Union: Saldo der Anteile der
+Unternehmen, die von einer Verbesserung bzw. einer 5 10
+Verschlechterung ihrer Wettbewerbsposition ggü. dem
+Vorquartal berichten.
+0 0
+Quelle: Europäische Kommission.
+-5 -10
+Industrieproduktion
+im Ausland
+-10 -20
+Die Exporte schwenken wieder auf einen Ex- Exporterwartungen
+pansionskurs ein, entfalten aber keine große -15 (rechte Skala) -30
+Dynamik. Für das dritte Quartal deuten die Früh-
+-20 -40
+indikatoren auf einen weiteren Rückgang der Ex- 2008 2011 2014 2017 2020 2023
+porte hin. So sind die Exporterwartungen der Un-
+ternehmen zuletzt wieder gesunken, und die Un-
+Prozent Prozent
+ternehmenszuversicht in den Abnehmerländern 45 70
+befand sich bis zum August auf niedrigem Ni- 35
+50
+veau (Abbildung 7). Zudem sind die ohnehin ge-
+25
+ringen Auftragseingänge aus dem Ausland im 30
+15
+zweiten Quartal noch einmal zurückgegangen.
+5 10
+Alles in allem dürften die Exporte im dritten Quar-
+tal um 0,3 Prozent sinken (Abbildung 8). Im wei- -5 -10
+teren Verlauf werden die Exporte wohl auf einen -15
+-30
+moderaten Expansionskurs einschwenken, da Auftragseingang
+-25
+die Wirtschaftsleistung in den Abnehmerländern -50
+-35 Auftragsbestand
+recht stabil zulegen und der Welthandel weiter (rechte Skala)
+-45 -70
+expandieren dürfte (Gern et al. 2024). Allerdings
+2008 2011 2014 2017 2020 2023
+dürften sie vorerst weiter nicht mit dem Welthan- Quartalsdaten; Exporte, Industrieproduktion: preisbereinigt,
+del Schritt halten können (Abbildung 9). Dafür Veränderung gegenüber dem Vorjahr; Auftragseingang:
+preisbereinigt, Veränderung gegenüber dem Vorquartal;
+spricht neben den Umfragen zur Wettbewerbs- Auftragsbestand:NettoanteilderUnternehmen,derübergünstige
+Auftragsbestände berichtet; Unternehmenszuversicht,
+position auf den Auslandsmärkten auch, dass
+Industrieproduktion: in 42 Ländern, gewichtet mit Anteilen am
+sich die preisliche Wettbewerbsfähigkeit zuletzt deutschen Export; Unternehmenszuversicht, Exporterwartungen:
+WertfüraktuellesQuartalentspricht demDurchschnittderersten
+weiter verschlechtert hat. Erst für das Jahr 2026 beiden Monatswerte (dem ersten Monatswert) des jeweiligen
+Quartals.
+rechnen wir damit, dass die Exporte wieder in
+etwa mit der weltweiten Handelsaktivität Schritt Quelle:DeutscheBundesbank,SaisonbereinigteWirtschaftszahlen;
+Thomson Reuters Datastream; ifo, Konjunkturperspektiven;
+halten können – so wie dies auch vor dem Be-
+BerechnungendesIfWKiel.
+ginn der Pandemie zu beobachten war –, auch
+11
+=== Seite 12
+KIELER KONJUNKTURBERICHTE NR. 117 (2024|Q3)
+Abbildung 8: weil sich die preisliche Wettbewerbsfähigkeit bis
+Exporte
+dahin wieder etwas verbessern dürfte (Abbil-
+Kettenindex (2020=100) Prozent dung 10). Die Importe werden voraussichtlich mit
+125 4
+Veränderung der sich allmählich bessernden Konjunktur wie-
+Niveau der anziehen (Abbildung 11). Neben dem mode-
+raten Anstieg der Exporte und dem damit verbun-
+2 denen erhöhten Bedarf an Vorleistungsgütern
+dürfte dazu vor allem eine Belebung bei den Aus-
+120
+rüstungsinvestitionen beitragen.
+Die Terms of Trade dürften sich ausgehend
+0
+von ihrem mittlerweile wieder recht hohen Ni-
+veau leicht verschlechtern. Nachdem sich die
+115
+Terms of Trade im Zuge der Energiekrise massiv
+-2 verschlechtert hatten, haben sie sich im vergan-
+genen Jahr wieder erholt und befinden sich mitt-
+lerweile deutlich über ihrem langjährigen Durch-
+3,1 -0,3 -0,3 1,2 2,5
+schnitt, um den sie für gewöhnlich schwanken.
+110 -4
+I II IIIIV I II IIIIV I II IIIIV I II IIIIV I II IIIIV Für das dritte Quartal deuten die monatlichen
+2022 2023 2024 2025 2026 Warenpreise auf eine moderate Verbesserung
+hin. Für den Zeitraum danach rechnen wir mit ei-
+Quartalsdaten: preis-, kalender- und saisonbereinigt; Verän- ner leichten Verschlechterung der Terms of
+derunggegenüberdemVorquartal(rechteSkala).
+Jahresdaten:preisbereinigt, VeränderunggegenüberdemVor- Trade, so dass sie sich ihrem langfristigen
+jahrinProzent(gerahmt).
+Durchschnitt allmählich wieder annähern.
+Quelle:Statistisches Bundesamt, Fachserie18,Reihe 1.2 und
+1.3;grauhinterlegt:PrognosedesIfWKiel.
+Abbildung 9: Abbildung 10:
+Exportgewichtetes BIP, Welt-BIP und Welthandel Preisliche Wettbewerbsfähigkeit
+Prozent Prozent 5 Prozent, Prozentpunkte
+20 exportgewichtetes BIP 20
+Rest der Welt
+Exporte
+Welthandel 4 Schwellenländer
+15 15 Andere Industrieländer
+EU (ohne Euroraum)
+3
+10 10 Euroraum
+Insgesamt
+2
+5 5
+1
+0 0
+0
+-5 -5
+-1
+-10 -10
+-2
+-15 -15 2023 2024 2025 2026
+Jahresdaten, auf Basis der Verbraucherpreise und
+Wechselkurse gegenüber 55 Ländern; Gewichte gemäß dem
+-20 -20
+Indikator der Deutschen Bundesbank für die preisliche
+2000 2003 2006 2009 2012 2015 2018 2021 2024
+Wettbewerbsfähigkeit gegenüber 60Handelspartnerländern auf
+Jahresdaten; preisbereinigt; Veränderungsrate; Welthandel, Basis der Verbraucherpreise; Veränderung gegenüber Vorjahr;
+Exporte: Waren. Anstieg bedeutet Verschlechterung der preislichen
+Wettbewerbsfähigkeit.
+Quellen: CPB, Destatis;internationale Statistikämter; grau
+hinterlegt: Prognose des IfW Kiel. Quelle: Deutsche Bundesbank; nationale Quellen;
+BerechnungenundPrognosendesIfWKiel.
+12
+=== Seite 17
+KIELER KONJUNKTURBERICHTE NR. 117 (2024|Q3)
+Nettolöhne und -gehälter nicht mehr so kräftig allmählich auf einen demografisch bedingt deut-
+steigen werden – im kommenden Jahr trägt dazu lich flacheren Expansionspfad einschwenken.
+insbesondere der Wegfall der Einmalzahlungen
+Die gestiegenen Finanzierungskosten lasten
+im Rahmen der Inflationsausgleichsprämie bei.
+weiter auf den Bauinvestitionen, aber erste
+Insgesamt rechnen wir für die Jahre 2025 und
+Aufwärtssignale sind in Sicht. Die Bauinvesti-
+2026 mit Anstiegen der real verfügbaren Einkom-
+tionen gaben im zweiten Quartal um rund 2 Pro-
+men um rund 0,4 bzw. 0,8 Prozent.
+zent nach, nachdem sie zu Jahresbeginn um
+Der private Konsum legt zu, entfaltet aber 0,8 Prozent gestiegen waren (Abbildung 16). Im
+keine große Dynamik. Angesichts der steigen- kurzzeitigen Anstieg spiegelte sich jedoch wohl
+den real verfügbaren Einkommen dürfte der pri- nur ein produktionsseitiger Nachholeffekt auf-
+vate Konsum im Prognosezeitraum auf einen Ex- grund ungewöhnlich schlechter Witterungsbe-
+pansionskurs einschwenken. Kräftige Zuwächse dingungen im Schlussquartal 2023 wider, wäh-
+zeichnen sich indes nicht ab. So war das Kon- rend der Absturz der Nachfrage seit der Zins-
+sumklima zuletzt in der Tendenz zwar aufwärts- wende nun das Bild wieder stärker prägen dürfte.
+gerichtet, insbesondere die Anschaffungsnei- Für das dritte Quartal erwarten wir erneut rück-
+gung der privaten Haushalte blieb jedoch bis zu- läufige Bauinvestitionen. Die Kapazitätsauslas-
+letzt schwach. Nach deutlichen Zuwächsen im tung der Bauunternehmen im Bauhauptgewerbe
+laufenden Jahr, wird die Kaufkraft der privaten lag ausweislich der vorliegenden Monatswerte
+Haushalte im weiteren Prognosezeitraum nur für das dritte Quartal rund 5 Prozent unter dem
+moderat zulegen. Alles in allem rechnen wir mit Niveau des Vorquartals (Abbildung 17). Die La-
+einem Anstieg des privaten Konsums von geeinschätzung der Bauunternehmen stag-
+0,4 Prozent im laufenden Jahr und von 0,6 Pro- nierte, während die in Umfragen erhobene Bau-
+zent (2025) sowie 0,8 Prozent (2026) in den aktivität auf einem niedrigen Niveau stieg. Insge-
+kommenden beiden Jahren. Gegen Ende des samt rechnen wir für das Herbstquartal mit einem
+Prognosezeitraums dürfte der private Konsum Rückgang der Bauinvestitionen um 1,6 Prozent.
+Abbildung 16: Abbildung 17:
+Bauinvestitionen Auftragslage und Kapazitätsauslastung im Bau-
+hauptgewerbe
+Kettenindex (2020=100) Prozent
+100 2,5 2021=100 Prozent
+Veränderung 120 90
+gesamt
+Niveau Hochbau
+Tiefbau
+85
+Wohnungsbau
+95
+0,0
+100 80
+90 75
+-2,5 80 70
+85
+65
+-3,9 -3,4 -3,9 -1,1 2,8 Kapazitätsauslastung
+60 60
+80 -5,0
+I IIIIIIV I IIIIIIV I IIIIIIV I IIIIIIV I IIIIIIV I IIIIIIV
+I II IIIIV I II IIIIV I II IIIIV I II IIIIV I II IIIIV
+2019 2020 2021 2022 2023 2024
+2022 2023 2024 2025 2026
+Quartalsdaten. Kapazitätsauslastung (Abweichung vom
+Quartalsdaten: preis-, kalender- und saisonbereinigt; Verän- Normalniveau): saisonbereinigt, rechte Skala;
+derunggegenüberdemVorquartal(rechteSkala). Auftragsbestände:preisbereinigt.
+Jahresdaten: preisbereinigt, Veränderung gegenüber dem Vor-
+jahrinProzent(gerahmt). Quelle: Statistisches Bundesamt, GENESIS-Datenbank; ifo,
+Konjunkturperspektiven;eigeneBerechnungen.
+Quelle: Statistisches Bundesamt, Fachserie 18, Reihe 1.2 und
+1.3;grauhinterlegt:PrognosedesIfWKiel.
+17
+=== Seite 18
+KIELER KONJUNKTURBERICHTE NR. 117 (2024|Q3)
+Im Winterhalbjahr dürften die Bauinvestitionen,
+Abbildung 18:
+dominiert von der Entwicklung im besonders Hypothekenverträge
+zinsreagiblen Wohnbau, ihren Rückgang fortset-
+Index, 2019 = 100 Prozent
+zen. Die Baugenehmigungen im Wohnbau befin- 160 30
+den sich auf einem Abwärtstrend und liegen rund
+20
+140
+35 Prozent unter dem Niveau vor der Zinserhö-
+10
+hung im Schlussquartal 2021. Die Auftragsein-
+120
+gänge im Bauhauptgewerbe haben nun aber 0
+wohl auf niedrigem Niveau ihren Boden gefun- 100
+-10
+den.
+80 -20
+Im Laufe des Jahres 2025 werden die Bauin-
+-30
+vestitionen ihren Tiefpunkt durchschreiten. 60
+Dafür spricht ein steigender Trend der Immobili- -40
+40
+entransaktionen, des Neukreditvolumens sowie
+-50
+der Fallzahl der an die Schufa gemeldeten Hypo- Neue Hypothekenverträge (rA)
+20
+thekenverträge (Abbildungen 18 und 19). Ge- Neugeschäftsvol. WoBau -60
+Neugeschäftsvol. gemäß Hypotheken
+sunkene Kreditzinsen und vor allem gesunkene 0 -70
+2021 2022 2023 2024
+Immobilienpreise haben Wohneigentum bereits
+etwas erschwinglicher gemacht. Das Verhältnis
+aus Annuität und Einkommen ist geringfügig ge- Wochendaten, Änderung gegenüber dem Vorjahr in Prozent,
+Fallzahl der Hypothekenverträge von privaten Haushalten;
+sunken, wenngleich von hohem Niveau. Ebenso
+Monatsdaten, Neugeschäftsvolumina für Wohnungsbaukredite,
+sind die Erwartungen der Bauunternehmer seit Fortschreibung des Neugeschäftsvolumens mittels neuer
+Hypothekenverträge.
+Februar aufwärtsgerichtet. Diese positiven Sig-
+Quelle: SCHUFA Holding AG, Statistisches Bundesamt,
+nale dürften sich verzögert in den Auftragsein-
+Berechnungen desIfWKiel.
+gängen und im kommenden Jahr in den Bauin-
+vestitionen zeigen. Gestützt werden die Bauin-
+vestitionen durch den Tiefbau. Ausweislich auf- Abbildung 19:
+Hypothekenverträge
+wärtsgerichteter Auftragseingänge und hoher
+Auftragsbestände, nicht zuletzt für Investitionen Index, 2015 = 100
+140
+ins Schienennetz, dürften die Tiefbauinvestitio-
+nen im Prognosezeitraum weiter zulegen. Auch
+120
+die Produktion des Ausbaugewerbes nahm, ver-
+mutlich getrieben durch zusätzliche Energieeffi-
+100
+zienzmaßnahmen, seit Jahresbeginn zu und
+dürfte im Prognosezeitraum die Bauinvestitionen
+80
+stützen. Insgesamt erwarten wir für die Bauin-
+vestitionen der Jahre 2024 und 2025 Rückgänge
+60
+um 3,9 Prozent bzw. 1,2 Prozent (Tabelle 7). Im
+Jahr 2026 dürften die Bauinvestitionen das erste
+Mal nach 5 Jahren steigen (2,8 Prozent). Der 40
+Transaktionsvolumen
+enorme Preisauftrieb, der in den vergangenen
+drei Jahren zu beobachten war, dürfte im Prog- 20 Gleitender Durchschnitt
+nosezeitraum weiter abnehmen. Unterausgelas-
+tete Kapazitäten sowie bis zuletzt hohe Margen 0
+2015 2017 2019 2021 2023
+der Bauunternehmen sprechen sogar für Rück-
+gänge des Deflators für Bauinvestitionen. Die zu-
+Monatsdaten, Transaktionvolumen von Immobilien,
+letzt beschlossenen Tarifsteigerungen im Bau- preisbereinigt, auf Basis der Einnahmen aus der
+GrunderwerbssteuerderLänder.
+gewerbe dürften angesichts erhöhter Margen
+und schwacher Nachfrage nicht preistreibend Quelle: Bundesministerium der Finanzen, vdp Immobilien-
+preisindizes, BerechnungendesIfWKiel.
+wirken. Die Finanzierbarkeit von Immobilien,
+18
+=== Seite 19
+KIELER KONJUNKTURBERICHTE NR. 117 (2024|Q3)
+Tabelle 7:
+Anlageinvestitionen
+2023 2024 2025 2026
+Anlageinvestitionen -1,2 -3,6 0,2 3,4
+Unternehmensinvestitionen 0,7 -4,5 0,7 3,1
+Ausrüstungen -0,8 -7,2 1,4 5,0
+Wirtschaftsbau -4,1 -3,5 -0,1 1,8
+Sonstige Anlagen 4,7 3,6 2,1 2,7
+Wohnungsbau -4,1 -5,3 -1,7 3,7
+Öffentlicher Bau 0,8 1,1 -0,4 0,7
+Nachrichtlich:
+Bauinvestitionen -3,4 -3,9 -1,1 2,8
+Preisbereinigt; Veränderung gegenüber dem Vorjahr in Prozent.
+Quelle: Statistisches Bundesamt, Fachserie 18, Reihe 1.2; grau hinterlegt: Prognose des IfW Kiel.
+gemessen am Verhältnis aus Annuität und Ein- Abbildung 20:
+Ausrüstungsinvestitionen
+kommen, besserte sich bis zuletzt vor allem
+durch den Rückgang der Kreditzinsen und der
+Kettenindex (2020=100) Prozent
+130 6
+Immobilienpreise. Zusammen mit steigenden Veränderung
+Einkommen der privaten Haushalte würde eine Niveau
+4
+Abwärtskorrektur des Deflators die Finanzierbar- 120
+keit von Immobilien weiter verbessern. Umfragen
+signalisieren jedoch, dass die Bauunternehmen 2
+110
+zuletzt mehrheitlich wieder Preissteigerungen er-
+warten. Insgesamt rechnen wir mit einem leich- 0
+ten Rückgang des Deflators zum Jahreswechsel. 100
+Im weiteren Verlauf dürfte sich ein schwacher -2
+Preisauftrieb einstellen.
+90
+-4
+Das schwache Investitionsumfeld belastet
+weiterhin die Ausrüstungsinvestitionen. Die 4,5 -0,8 -7,2 1,4 5,0
+Ausrüstungsinvestitionen sanken im zweiten 80 -6
+I II IIIIV I II IIIIV I II IIIIV I II IIIIV I II IIIIV
+Quartal um 4,1 Prozent und damit das dritte
+2022 2023 2024 2025 2026
+Quartal in Folge deutlich (Abbildung 20). Maß-
+Quartalsdaten: preis-, kalender- und saisonbereinigt; Verän-
+geblich war der Rückgang der privaten Investiti- derunggegenüberdemVorquartal(rechteSkala).
+onen in Maschinen, Geräte und Fahrzeuge um Jahresdaten: preisbereinigt, Veränderung gegenüber dem Vor-
+jahrinProzent(gerahmt).
+rund 6 Prozent. Neben den schwachen Absatz-
+Quelle: Statistisches Bundesamt, Fachserie 18, Reihe 1.2 und
+aussichten dürfte die hohe Unsicherheit der Un- 1.3;grauhinterlegt:PrognosedesIfWKiel.
+ternehmen hinsichtlich wirtschaftspolitischer
+Rahmenbedingungen die Investitionstätigkeit
+als rückläufig. Alles in allem erwarten wir für das
+gedämpft haben (DIHK 2024). Außerdem belas-
+dritte Quartal einen Rückgang der Ausrüstungs-
+ten die gestiegenen Finanzierungskosten die In-
+investitionen um 1,9 Prozent. Im weiteren Verlauf
+vestitionstätigkeit der Unternehmen. Im Gegen-
+dürften die privaten Ausrüstungsinvestitionen zu-
+zug stiegen die sehr volatilen staatlichen Ausrüs-
+nächst weiter sinken. Die Geschäftserwartungen
+tungsinvestitionen nach einem starken Rück-
+der Investitionsgüterhersteller sind abwärtsge-
+gang zu Jahresbeginn (-9 Prozent) um rund 15
+richtet, während die wirtschaftspolitische Unsi-
+Prozent – vor allem gestützt durch die Ausgaben
+cherheit ausweislich von Medienauswertungen
+des Sondervermögens Bundeswehr. Für das
+in Deutschland weiterhin hoch ist und die nicht-
+zweite Quartal senden Frühindikatoren weiterhin
+staatliche Investitionstätigkeit belasten dürfte
+negative Signale. Die Kapazitätsauslastung so-
+(Baker et al. 2016). Erst im Verlauf des Jahres
+wie die Lageeinschätzung der Investitionsgüter-
+2025 dürften die privaten Ausrüstungs-investitio-
+hersteller sanken ausweislich der vorliegenden
+nen im Gleichklang mit der konjunkturellen Ent-
+Monatswerte im dritten Quartal. Investitionsgü-
+wicklung allmählich wieder auf einen
+terhersteller beurteilten ihre Produktion zudem
+19
+=== Seite 25
+KIELER KONJUNKTURBERICHTE NR. 117 (2024|Q3)
+Abbildung 27: Abbildung 28:
+Erwerbstätige
+Arbeitslose
+46,5 Mill. Tsd. 400 3,0 Mill. Tsd. 300
+Veränderung
+Veränderung
+350
+Niveau
+Niveau
+200
+46 300 2,8
+250
+100
+45,5 200 2,6
+150 0
+45 100 2,4
+-100
+50
+44,5 0 2,2
+-200
+-50
+623 336 173 67 -30 -195 191 172 69 -75
+44 -100 2,0 -300
+I II IIIIV I II IIIIV I II IIIIV I II IIIIV I II IIIIV I II IIIIV I II IIIIV I II IIIIV I II IIIIV I II IIIIV
+2022 2023 2024 2025 2026 2022 2023 2024 2025 2026
+Quartalsdaten: saisonbereinigt; Veränderung gegenüber dem Quartalsdaten: saisonbereinigt; Veränderung gegenüber dem
+Vorquartal(rechteSkala). Vorquartal(rechteSkala).
+Jahresdaten: Veränderung gegenüber dem Vorjahr in Tsd. Jahresdaten: Veränderung gegenüber dem Vorjahr in Tsd.
+(gerahmt). (gerahmt).
+Quelle:StatistischesBundesamt,Fachserie18,Reihe1.3;grau Quelle:StatistischesBundesamt,Fachserie18,Reihe1.3;grau
+hinterlegt:PrognosedesIfWKiel. hinterlegt:PrognosedesIfWKiel.
+Tabelle 9:
+Beschäftigung (1 000 Personen)
+2022 2023 2024 2025 2026
+Geleistete Arbeitsstunden der Erwerbstätigen (Inland, Mill. Std.) 61.211 61.437 61.832 62.241 62.538
+Erwerbstätige (Inland) 45.675 46.011 46.184 46.251 46.221
+Selbständige 3.895 3.847 3.820 3.800 3.780
+Arbeitnehmer (Inland) 41.781 42.163 42.364 42.451 42.441
+Sozialversicherungspflichtig Beschäftigte 34.507 34.790 34.954 35.071 35.141
+Ausschließlich geringfügig Beschäftigte 4.125 4.198 4.203 4.169 4.089
+Pendlersaldo 211 210 201 200 200
+Erwerbstätige (Inländer) 45.464 45.801 45.983 46.051 46.021
+Arbeitnehmer (Inländer) 41.570 41.954 42.163 42.251 42.241
+Registrierte Arbeitslose 2.418 2.609 2.780 2.849 2.774
+Arbeitslosenquote (Prozent) 5,3 5,7 6,0 6,1 5,9
+Erwerbslosenquote (Prozent) 2,9 2,8 3,1 3,1 3,0
+Selbständige: einschließlich mithelfender Familienangehöriger; Arbeitslosenquote: Abgrenzung der Bundesagentur für Arbeit; Erwerbslosenquote:
+standardisiert nach dem ILO-Konzept.
+Quelle: Statistisches Bundesamt, Fachserie 18, Reihe 1.2; Bundesagentur für Arbeit, Monatsbericht; Bundesagentur für Arbeit, Beschäftigungs-
+statistik; grau hinterlegt: Prognose des IfW Kiel.
+Öffentliche Haushalte im Defizit öffentlichen Haushalten, die nicht unter die
+Schuldenbremse fallen, dürfte der verbleibende
+Das Finanzierungsdefizit des Staates sinkt im Fehlbetrag mit den Vorgaben der Schulden-
+Verlauf, bleibt aber deutlich erhöht. Im laufen- bremse vereinbar sein. Im kommenden Jahr wer-
+den Jahr sorgen der spürbare Anstieg der abga- den wohl kaum noch Rücklagen in den Kern-
+benbelasteten Lohneinkommen sowie der Weg- haushalten zur Verfügung stehen. Ein wesentli-
+fall der Energiepreisbremsen für ein merklich ge- cher Teil des Finanzierungsdefizits wird aus dem
+ringeres Finanzierungsdefizit. Angesichts von Sondervermögen Bundeswehr stammen, und
+noch bestehenden Rücklagen sowie Defiziten in die derzeit bestehende Haushaltsplanung des
+25
+=== Seite 33
+KIELER KONJUNKTURBERICHTE NR. 117 (2024|Q3)
+vollständig in Konsumzuwächse übersetzen werden. Schließlich haben wir unsere Prognose für die Zu-
+wachsrate des Deflators der privaten Konsumausgaben in der laufenden Prognose von 2,1 Prozent auf
+2,7 Prozent erhöht, so dass die Kaufkraft der verfügbaren Einkommen durch den Preisauftrieb stärker
+verringert wird. Maßgeblich dafür waren amtliche Aufwärtsrevisionen für die erste Jahreshälfte, denen
+zufolge der Deflator nun deutlich stärker gestiegen ist als die Verbraucherpreise, für die wir die Prognose
+seit dem Herbst 2023 kaum korrigieren mussten.
+Die Prognose der Exporte und der Importe wurde in den vergangenen Quartalen in beide Richtungen
+angepasst. Die Außenhandelsprognose unterliegt für gewöhnlich größeren Korrekturen als andere bedeu-
+tende Aggregate. Im historischen Vergleich war lediglich die Aufwärtskorrektur der Exporte in der Som-
+merprognose auffällig hoch. Zu den Revisionen beigetragen hat, dass die monatliche Außenhandelssta-
+tistik als besonders wichtiger Frühindikator für die Prognose des jeweils laufenden Quartals zuletzt etwas
+an Informationsgehalt eingebüßt hat. So war die Volatilität der monatlichen Zuwachsraten hoch, so dass
+sich Signale dieses Indikators rasch wieder umkehrten. Zudem war der Gleichlauf zwischen der Außen-
+handelsstatistik und den Warenexporten in den Volkswirtschaftlichen Gesamtrechnungen zuletzt im histo-
+rischen Vergleich eher gering.a Die Prognosen für die Zuwachsrate des Bruttoinlandsprodukts in den Ab-
+satzmärkten und des Welthandels haben wir kaum angepasst. Die preisliche Wettbewerbsfähigkeit wird
+sich im laufenden Jahr jedoch voraussichtlich deutlich schlechter entwickeln als von uns ursprünglich un-
+terstellt.
+Die Prognose für die Ausrüstungsinvestitionen haben wir in den vergangenen Quartalen kräftig nach
+unten angepasst. Während wir vor einem Jahr noch von einem deutlichen Anstieg ausgegangen waren,
+zeichnet sich mittlerweile ein Rückgang für das laufende Jahr ab. Die Ausrüstungsinvestitionen, die für
+gewöhnlich sehr prozyklisch auf konjunkturelle Schwankungen reagieren, haben dem Gegenwind der
+Energiekrise und der damit ins Stocken geratenen Erholung zunächst getrotzt. Dazu beigetragen haben
+die außergewöhnlich hohen Auftragsbestände für Investitionsgüter aus dem Inland, die sich zu Zeiten der
+massiven Lieferengpässe aufgetürmt hatten – in den deutlich nachlassenden Auftragseingängen für In-
+vestitionsgüter aus dem Inland hat sich das gewohnte zyklische Muster dagegen bereits seit Längerem
+gezeigt. In unseren Prognosen waren wir zunächst davon ausgegangen, dass die hohen Auftragsbestände
+zu einem Anstieg der Ausrüstungsinvestitionen führen würden, zumal die von uns erwartete konjunkturelle
+Erholung zusätzlich stimuliert hätte. Mittlerweile hat sich aber gezeigt, dass die ausweislich der Angaben
+des Statistischen Bundesamts nach wie vor ausgesprochen hohen Auftragsbestände im starken Kontrast
+zur Beurteilung der Auftragslage der Unternehmen stehen und Rückgängen der Ausrüstungsinvestitionen
+nicht mehr entgegenwirken können. Zudem ist die Konjunktur schwächer als von uns erwartet und die
+wirtschaftspolitische Unsicherheit ausgesprochen hoch, wodurch die Investitionstätigkeit der Unterneh-
+men zusätzlich gedämpft wird.
+Die Bauinvestitionen unterliegen im Quartalsverlauf großen Schwankungen, zu denen beispielsweise Wit-
+terungseinflüsse beitragen können. Trotz der insgesamt ausgesprochen schwachen Rahmenbedingungen
+kam es in Vergangenheit in einzelnen Quartalen immer einmal wieder zu kräftigen Anstiegen. Solche
+Schwankungen im Quartalsverlauf haben dazu beigetragen, dass wir die Zuwachsrate für die Bauinvesti-
+tionen in unserer Sommerprognose deutlich nach oben angepasst haben. Den schwachen Rahmenbedin-
+gungen, die sich beispielsweise in den Auftragseingängen und Baugenehmigungen zeigen, haben wir
+Rechnung getragen, indem wir unsere Prognose für das Jahr 2025 nach unten angepasst haben. Insge-
+samt hatten sich zuletzt aber auch die Zeichen gemehrt, dass eine leichte Erholung in den Bauinvestitio-
+nen insgesamt etwas früher einsetzen könnte als von uns zuvor erwartet. Die recht großen Prognosekor-
+rekturen bei den Bauinvestitionen und den sonstigen Anlageinvestitionen in der vorliegenden Prognose
+gehen fast vollständig auf die amtlichen Revisionen im Zuge der Generalrevision zurück.
+a Für einige Prognosen standen aufgrund der Veröffentlichungstermine die Informationen für den jeweils ersten Monats des
+Quartals aus der Außenhandelsstatistik zudem nicht zur Verfügung
+33
+=== Seite 38
+KIELER KONJUNKTURBERICHTE NR. 117 (2024|Q3)
+Tabellenanhang
+Tabelle 11:
+Jahresdaten zur wirtschaftlichen Entwicklung
+2023 2023 2024 2025 2026
+Mrd. Euro Vorjahresveränderung in Prozent
+Aufkommen und Verwendung in Vorjahrespreisen
+Bruttoinlandsprodukt -0,3 -0,1 0,5 1,1
+Private Konsumausgaben -0,4 0,4 0,6 0,8
+Konsumausgaben des Staates -0,1 2,1 1,8 1,1
+Anlageinvestitionen -1,2 -3,6 0,2 3,4
+Ausrüstungsinvestitionen -0,8 -7,2 1,4 5,0
+Bauinvestitionen -3,4 -3,9 -1,1 2,8
+Sonstige Anlagen 4,7 3,6 2,1 2,7
+Vorratsveränderung 0,1 -0,4 0,0 0,0
+Inländische Verwendung -0,4 -0,6 0,7 1,4
+Ausfuhr -0,3 -0,3 1,2 2,5
+Einfuhr -0,6 -1,5 1,9 3,4
+Außenbeitrag 0,1 0,5 -0,2 -0,2
+Aufkommen und Verwendung in jeweiligen Preisen
+Bruttoinlandsprodukt 4.185,6 5,9 3,1 2,0 2,7
+Private Konsumausgaben 2.205,6 6,3 3,1 2,3 2,5
+Konsumausgaben des Staates 905,2 4,1 5,1 3,7 2,9
+Anlageinvestitionen 899,9 4,9 -0,9 1,4 5,2
+Ausrüstungsinvestitionen 275,7 4,8 -5,1 3,6 6,9
+Bauinvestitionen 466,1 4,4 -1,0 -1,1 4,8
+Sonstige Anlagen 158,0 6,2 6,9 4,8 4,0
+Vorratsveränderung (Mrd. Euro) 7,2 -11,4 -12,7 -15,3
+Inländische Verwendung 4.017,9 4,2 2,2 2,4 3,2
+Ausfuhr 1.816,6 0,4 0,6 2,1 3,2
+Einfuhr 1.649,0 -3,6 -1,9 3,1 4,4
+Außenbeitrag (Mrd. Euro) 167,7 209,5 198,2 184,6
+Bruttonationaleinkommen 4.332,2 5,7 3,0 2,2 2,9
+Deflatoren
+Bruttoinlandsprodukt 6,1 3,2 1,5 1,6
+Private Konsumausgaben 6,7 2,7 1,8 1,8
+Konsumausgaben des Staates 4,2 3,0 1,9 1,8
+Ausrüstungsinvestitionen 5,7 2,3 2,1 1,7
+Bauinvestitionen 8,1 3,0 0,1 1,9
+Sonstige Anlagen 1,4 3,1 2,7 1,3
+Ausfuhr 0,7 0,9 0,9 0,7
+Einfuhr -3,0 -0,4 1,1 1,0
+Nachrichtlich: Verbraucherpreise 5,9 2,2 2,0 2,0
+Einkommensverteilung
+Volkseinkommen 3.134,5 6,8 1,7 2,4 3,0
+Arbeitnehmerentgelt 2.229,0 6,8 5,6 3,8 2,8
+in Prozent des Volkseinkommens (Lohnquote) 71,1 73,8 74,9 74,8
+Unternehmens- und Vermögenseinkommen 905,4 6,7 -7,9 -1,8 3,5
+Verfügbares Einkommen der privaten Haushalte 2.404,4 6,9 4,1 2,2 2,5
+Sparquote (Prozent) 10,4 11,2 11,0 11,0
+Bruttolöhne und -gehälter (Inländer) 1.846,0 7,4 5,7 3,4 2,6
+Effektivlohn, Stundenbasis 6,6 4,7 2,6 2,0
+Lohnstückkosten, Stundenbasis 6,7 5,4 3,2 1,6
+Produktivität, Stundenbasis -0,6 -0,7 -0,2 0,6
+Arbeitslose (1 000) 2.609 2.780 2.849 2.774
+Arbeitslosenquote (Prozent) 5,7 6,0 6,1 5,9
+Erwerbstätige, Inlandskonzept (1 000) 46.011 46.184 46.251 46.221
+Finanzierungssaldo des Staates
+in Mrd. Euro -107,5 -82,0 -76,7 -76,6
+in Relation zum Bruttoinlandsprodukt (Prozent) -2,6 -1,9 -1,7 -1,7
+Öffentliche Schulden (Prozent) 62,7 62,5 63,2 63,4
+Vorratsveränderung, Außenbeitrag: Lundberg-Komponente; Arbeitslose, Arbeitslosenquote: Abgrenzung der Bundesagentur
+für Arbeit; Öffentliche Schulden: in Relation zum Bruttoinlandsprodukt.
+Quelle: Statistisches Bundesamt, Fachserie 18, Reihe 1.2; grau hinterlegt: Prognose des IfW Kiel.
+38
+=== Seite 39
+KIELER KONJUNKTURBERICHTE NR. 117 (2024|Q3)
+Wichtige Größen der Volkswirtschaftlichen Gesamtrechnungen
+Vorausschätzung für die Jahre 2024 bis 2026
+2024 2025 2026
+2024 2025 2026
+1.Hj. 2.Hj. 1.Hj. 2.Hj. 1.Hj. 2.Hj.
+1. Entstehung des Bruttoinlandsproduktes
+Veränderung in % gegenüber dem Vorjahr
+Erwerbstätige 0,4 0,1 - 0,1 0,4 0,4 0,2 0,1 0,0 - 0,1
+Arbeitsvolumen 0,6 0,7 0,5 0,1 1,1 0,5 0,8 0,3 0,6
+Arbeitszeit je Erwerbstätigen 0,3 0,5 0,5 - 0,3 0,8 0,3 0,7 0,4 0,7
+Produktivität 1 - 0,7 - 0,2 0,6 - 0,3 - 1,1 - 0,5 0,2 0,6 0,6
+Bruttoinlandsprodukt, preisbereinigt - 0,1 0,5 1,1 - 0,2 0,0 0,0 1,0 1,0 1,2
+2. Verwendung des Inlandsprodukts in jeweiligen Preisen
+a) Mrd. EUR
+Konsumausgaben 3 225,4 3 313,7 3 401,5 1 573,6 1 651,8 1 615,2 1 698,5 1 658,4 1 743,2
+Private Haushalte 2 2 273,9 2 326,7 2 385,5 1 112,3 1 161,6 1 134,7 1 191,9 1 163,7 1 221,9
+Staat 951,5 987,1 1 016,0 461,3 490,2 480,5 506,6 494,7 521,3
+Anlageinvestitionen 891,9 904,4 951,7 438,3 453,7 434,6 469,7 454,3 497,4
+Ausrüstungen 261,7 271,1 289,7 127,2 134,5 126,3 144,8 136,0 153,7
+Bauten 461,3 456,2 477,9 230,2 231,1 223,3 233,0 232,1 245,9
+Sonstige Anlageinvestitionen 168,9 177,0 184,1 80,9 88,0 85,1 92,0 86,2 97,9
+Vorratsveränderung 3 - 11,4 - 12,7 - 15,3 6,5 - 17,9 7,8 - 20,5 8,3 - 23,6
+Inländische Verwendung 4 106,0 4 205,3 4 338,0 2 018,4 2 087,6 2 057,6 2 147,7 2 121,0 2 217,0
+Außenbeitrag 209,5 198,2 184,6 113,7 95,8 110,6 87,5 102,0 82,6
+Exporte 1 827,6 1 866,1 1 926,3 911,3 916,3 920,9 945,2 948,6 977,7
+Importe 1 618,1 1 667,9 1 741,7 797,6 820,5 810,3 857,7 846,6 895,1
+Bruttoinlandsprodukt 4 315,5 4 403,5 4 522,5 2 132,1 2 183,4 2 168,2 2 235,3 2 223,0 2 299,6
+b) Veränderung in % gegenüber dem Vorjahr
+Konsumausgaben 3,7 2,7 2,6 4,0 3,4 2,6 2,8 2,7 2,6
+Private Haushalte 2 3,1 2,3 2,5 3,4 2,8 2,0 2,6 2,5 2,5
+Staat 5,1 3,7 2,9 5,6 4,7 4,2 3,3 3,0 2,9
+Anlageinvestitionen - 0,9 1,4 5,2 - 0,8 - 1,0 - 0,8 3,5 4,5 5,9
+Ausrüstungen - 5,1 3,6 6,9 - 4,1 - 6,0 - 0,7 7,7 7,7 6,2
+Bauten - 1,0 - 1,1 4,8 - 1,4 - 0,7 - 3,0 0,8 4,0 5,5
+Sonstige Anlageinvestitionen 6,9 4,8 4,0 7,0 6,8 5,1 4,5 1,4 6,4
+Inländische Verwendung 2,2 2,4 3,2 2,3 2,1 1,9 2,9 3,1 3,2
+Exporte 0,6 2,1 3,2 - 0,5 1,8 1,1 3,2 3,0 3,4
+Importe - 1,9 3,1 4,4 - 4,1 0,4 1,6 4,5 4,5 4,4
+Bruttoinlandsprodukt 3,1 2,0 2,7 3,6 2,6 1,7 2,4 2,5 2,9
+3. Verwendung des Inlandsprodukts, verkettete Volumenangaben (Referenzjahr 2010)
+a) Mrd. EUR
+Konsumausgaben 2 700,4 2 725,2 2 748,9 1 332,6 1 367,9 1 342,7 1 382,5 1 354,5 1 394,3
+Private Haushalte 2 1 888,9 1 899,3 1 913,7 930,4 958,4 932,3 966,9 939,4 974,3
+Staat 811,9 826,4 835,8 402,3 409,6 410,7 415,7 415,5 420,3
+Anlageinvestitionen 704,5 706,1 730,3 348,0 356,5 339,8 366,3 349,8 380,5
+Ausrüstungen 222,0 225,2 236,5 108,3 113,7 105,2 120,0 111,2 125,4
+Bauten 332,8 329,0 338,1 166,9 165,9 161,1 167,9 165,0 173,1
+Sonstige Anlageinvestitionen 152,8 155,9 160,1 73,8 79,0 74,9 81,0 75,2 84,9
+Inländische Verwendung 3 422,4 3 447,6 3 494,9 1 693,7 1 728,8 1 696,1 1 751,5 1 718,8 1 776,1
+Exporte 1 522,9 1 541,1 1 579,7 761,9 761,0 762,2 778,9 779,3 800,4
+Importe 1 332,0 1 357,5 1 404,0 659,3 672,7 662,2 695,2 684,6 719,4
+Bruttoinlandsprodukt 3 612,0 3 629,7 3 668,7 1 795,9 1 816,1 1 795,5 1 834,2 1 812,6 1 856,0
+b) Veränderung in % gegenüber dem Vorjahr
+Konsumausgaben 0,9 0,9 0,9 1,0 0,8 0,8 1,1 0,9 0,9
+Private Haushalte 2 0,4 0,6 0,8 0,4 0,3 0,2 0,9 0,8 0,8
+Staat 2,1 1,8 1,1 2,2 2,0 2,1 1,5 1,2 1,1
+Anlageinvestitionen - 3,6 0,2 3,4 - 3,2 - 4,0 - 2,4 2,8 3,0 3,9
+Ausrüstungen - 7,2 1,4 5,0 - 6,1 - 8,2 - 2,9 5,6 5,7 4,4
+Bauten - 3,9 - 1,1 2,8 - 4,1 - 3,7 - 3,5 1,2 2,4 3,1
+Sonstige Anlageinvestitionen 3,6 2,1 2,7 4,6 2,8 1,5 2,6 0,4 4,7
+Inländische Verwendung - 0,6 0,7 1,4 - 0,9 - 0,3 0,1 1,3 1,3 1,4
+Exporte - 0,3 1,2 2,5 - 0,9 0,4 0,0 2,4 2,2 2,8
+Importe - 1,5 1,9 3,4 - 2,6 - 0,3 0,4 3,3 3,4 3,5
+Bruttoinlandsprodukt - 0,1 0,5 1,1 - 0,2 0,0 0,0 1,0 1,0 1,2
+39
+=== Seite 40
+KIELER KONJUNKTURBERICHTE NR. 117 (2024|Q3)
+noch: Wichtige Größen der Volkswirtschaftlichen Gesamtrechnungen
+Vorausschätzung für die Jahre 2024 bis 2026
+2024 2025 2026
+2024 2025 2026
+1.Hj. 2.Hj. 1.Hj. 2.Hj. 1.Hj. 2.Hj.
+4. Preisniveau der Verwendungsseite des Inlandsprodukts (2010=100)
+Veränderung in % gegenüber dem Vorjahr
+Private Konsumausgaben 2 2,7 1,8 1,8 2,9 2,5 1,8 1,7 1,8 1,7
+Konsumausgaben des Staates 3,0 1,9 1,8 3,3 2,6 2,0 1,8 1,8 1,8
+Anlageinvestitionen 2,8 1,2 1,8 2,5 3,2 1,6 0,8 1,5 2,0
+Ausrüstungen 2,3 2,1 1,7 2,1 2,5 2,2 2,0 1,9 1,6
+Bauten 3,0 0,1 1,9 2,8 3,2 0,5 - 0,4 1,5 2,3
+Exporte 0,9 0,9 0,7 0,4 1,3 1,0 0,8 0,7 0,7
+Importe - 0,4 1,1 1,0 - 1,5 0,7 1,1 1,1 1,1 0,9
+Bruttoinlandsprodukt 3,2 1,5 1,6 3,8 2,6 1,7 1,4 1,6 1,7
+5. Einkommensentstehung und -verteilung
+a) Mrd. EUR
+Primäreinkommen der
+privaten Haushalte 2 3 015,3 3 102,5 3 189,1 1 478,5 1 536,8 1 520,2 1 582,3 1 562,7 1 626,4
+Sozialbeiträge der Arbeitgeber 402,0 425,8 441,3 193,6 208,4 206,2 219,6 213,5 227,7
+Bruttolöhne und -gehälter 1 951,3 2 017,9 2 070,9 931,0 1 020,3 968,2 1 049,8 992,8 1 078,1
+Übrige Primäreinkommen 4 662,0 658,9 677,0 353,9 308,1 345,9 312,9 356,3 320,6
+Primäreinkommen der
+übrigen Sektoren 562,2 560,9 582,2 270,7 291,5 261,2 299,7 269,3 313,0
+Nettonationaleinkommen
+(Primäreinkommen) 3 577,5 3 663,4 3 771,4 1 749,2 1 828,3 1 781,5 1 882,0 1 831,9 1 939,4
+Abschreibungen 885,7 900,1 925,9 440,5 445,2 449,3 450,8 460,5 465,4
+Bruttonationaleinkommen 4 463,2 4 563,5 4 697,3 2 189,7 2 273,5 2 230,8 2 332,7 2 292,5 2 404,8
+nachrichtlich:
+Volkseinkommen 3 186,6 3 261,9 3 359,0 1 557,9 1 628,7 1 584,8 1 677,1 1 629,9 1 729,1
+Unternehmens- und
+Vermögenseinkommen 833,3 818,2 846,8 433,3 400,0 410,5 407,7 423,5 423,3
+Arbeitnehmerentgelt 2 353,3 2 443,7 2 512,2 1 124,6 1 228,7 1 174,3 1 269,4 1 206,4 1 305,8
+b) Veränderung in % gegenüber dem Vorjahr
+Primäreinkommen der
+privaten Haushalte 2 4,1 2,9 2,8 4,6 3,6 2,8 3,0 2,8 2,8
+Sozialbeiträge der Arbeitgeber 4,9 5,9 3,6 4,9 5,0 6,5 5,4 3,6 3,7
+Bruttolöhne und -gehälter 5,7 3,4 2,6 6,1 5,3 4,0 2,9 2,5 2,7
+Bruttolöhne und -gehälter
+je Beschäftigten 5,2 3,2 2,7 5,6 4,9 3,7 2,8 2,6 2,8
+Übrige Primäreinkommen 4 - 0,7 - 0,5 2,7 0,8 - 2,5 - 2,3 1,6 3,0 2,5
+Primäreinkommen der übrigen
+Sektoren - 2,8 - 0,2 3,8 - 1,8 - 3,6 - 3,5 2,8 3,1 4,4
+Nettonationaleinkommen
+(Primäreinkommen) 3,0 2,4 2,9 3,6 2,4 1,8 2,9 2,8 3,1
+Abschreibungen 3,2 1,6 2,9 3,2 3,2 2,0 1,2 2,5 3,2
+Bruttonationaleinkommen 3,0 2,2 2,9 3,5 2,6 1,9 2,6 2,8 3,1
+nachrichtlich:
+Volkseinkommen 1,7 2,4 3,0 2,5 0,9 1,7 3,0 2,8 3,1
+Unternehmens- und
+Vermögenseinkommen - 8,0 - 1,8 3,5 - 5,5 - 10,5 - 5,3 1,9 3,2 3,8
+Arbeitnehmerentgelt 5,6 3,8 2,8 5,9 5,3 4,4 3,3 2,7 2,9
+6. Einkommen und Einkommensverwendung der privaten Haushalte 2
+a) Mrd. EUR
+Masseneinkommen 1 965,8 2 030,1 2 082,8 944,4 1 021,3 980,0 1 050,1 1 005,0 1 077,7
+Nettolöhne und -gehälter 1 360,7 1 393,9 1 428,3 644,7 716,0 664,7 729,1 680,5 747,9
+Monetäre Sozialleistungen 774,7 814,6 841,5 382,8 391,9 402,7 411,9 416,0 425,5
+abz. Abgaben auf soziale Leistungen,
+verbrauchsnahe Steuern 169,6 178,4 187,0 83,1 86,5 87,4 91,0 91,4 95,6
+Übrige Primäreinkommen 4 662,0 658,9 677,0 353,9 308,1 345,9 312,9 356,3 320,6
+Sonstige Transfers (Saldo) 5 - 125,0 - 132,0 - 137,7 - 58,8 - 66,2 - 63,1 - 68,9 - 66,6 - 71,0
+Verfügbares Einkommen 2 502,8 2 556,9 2 622,1 1 239,5 1 263,3 1 262,8 1 294,1 1 294,7 1 327,3
+Zunahme betrieblicher
+Versorgungsansprüche 57,8 58,1 58,3 28,0 29,7 28,2 29,9 28,3 30,0
+Konsumausgaben 2 273,9 2 326,7 2 385,5 1 112,3 1 161,6 1 134,7 1 191,9 1 163,7 1 221,9
+Sparen 286,6 288,3 294,9 155,2 131,4 156,2 132,1 159,4 135,5
+Sparquote (%) 6 11,2 11,0 11,0 12,2 10,2 12,1 10,0 12,0 10,0
+b) Veränderung in % gegenüber dem Vorjahr
+Masseneinkommen 5,8 3,3 2,6 6,4 5,3 3,8 2,8 2,6 2,6
+Nettolöhne und -gehälter 5,8 2,4 2,5 6,6 5,0 3,1 1,8 2,4 2,6
+Monetäre Sozialleistungen 6,0 5,1 3,3 6,2 5,8 5,2 5,1 3,3 3,3
+abz. Abgaben auf soziale Leistungen,
+verbrauchsnahe Steuern 6,6 5,1 4,9 7,3 5,8 5,2 5,1 4,6 5,1
+Übrige Primäreinkommen 4 - 0,7 - 0,5 2,7 0,8 - 2,5 - 2,3 1,6 3,0 2,5
+Verfügbares Einkommen 4,1 2,2 2,5 4,7 3,5 1,9 2,4 2,5 2,6
+Konsumausgaben 3,1 2,3 2,5 3,4 2,8 2,0 2,6 2,5 2,5
+Sparen 11,8 0,6 2,3 14,1 9,1 0,6 0,6 2,0 2,6
+40
+=== Seite 42
+KIELER KONJUNKTURBERICHTE NR. 117 (2024|Q3)
+Hauptaggregate der Sektoren
+Mrd. EUR
+2024
+Nichtfinan-
+Ge- Private
+zielle und
+samte Haushalte
+Gegenstand der Nachweisung finanzielle Übrige
+Volks- Staat und pri-
+Kapital-ge- Welt
+wirt- vate Org.
+sellschaf-
+schaft o.E.
+ten
+S 1 S 11/S12 S 13 S 14/S 15 S 2
+1 = Bruttowertschöpfung ................................................... 3 911,4 2 639,2 463,6 808,7 –
+2 – Abschreibungen ........................................................... 885,7 487,6 119,1 279,0 –
+3 = Nettowertschöpfung 1) ................................................ 3 025,7 2 151,6 344,5 529,7 – 209,5
+4 – Geleistete Arbeitnehmerentgelte ................................... 2 347,6 1 706,6 353,1 287,9 20,0
+5 – Geleistete sonstige Produktionsabgaben ...................... 41,1 29,6 0,3 11,1 –
+6 + Empfangene sonstige Subventionen ............................ 53,6 51,7 0,2 1,8 –
+7 = Betriebsüberschuss/Selbstständigeneinkommen ......... 690,7 467,1 – 8,8 232,4 – 229,5
+8 + Empfangene Arbeitnehmerentgelte ............................... 2 353,3 – – 2 353,3 14,3
+9 – Geleistete Subventionen ............................................... 49,5 – 49,5 – 4,5
+10 + Empfangene Produktions- und Importabgaben ............. 440,3 – 440,3 – 5,1
+11 – Geleistete Vermögenseinkommen ................................. 1 095,3 1 003,4 45,0 46,9 421,0
+12 + Empfangene Vermögenseinkommen ............................. 1 238,1 726,6 34,9 476,6 278,1
+13 = Primäreinkommen (Nettonationaleinkommen) ................ 3 577,6 190,3 372,0 3 015,3 – 357,3
+14 – Geleistete Einkommen- und Vermögensteuern ............. 537,7 129,2 – 408,5 15,0
+15 + Empfangene Einkommen- und Vermögensteuern ......... 551,9 – 551,9 – 0,7
+16 – Geleistete Nettosozialbeiträge 2) .................................. 909,3 – – 909,3 3,6
+17 + Empfangene Nettosozialbeiträge 2) .............................. 907,9 153,4 753,7 0,8 4,9
+18 – Geleistete monetäre Sozialleistungen ........................... 784,6 84,7 699,1 0,8 0,7
+19 + Empfangene monetäre Sozialleistungen ....................... 774,7 – – 774,7 10,6
+20 – Geleistete sonstige laufende Transfers ....................... 466,2 278,5 87,6 100,1 101,3
+21 + Empfangene sonstige laufende Transfers ................... 404,9 240,8 33,7 130,5 162,6
+22 = Verfügbares Einkommen (Ausgabenkonzept) .............. 3 519,4 91,9 924,7 2 502,8 – 299,1
+23 – Konsumausgaben ......................................................... 3 225,4 – 951,5 2 273,9 –
+24 + Zunahme betrieblicher Versorgungsansprüche ........... – – 57,8 – 57,8 –
+25 = Sparen .......................................................................... 293,9 34,2 – 26,8 286,6 – 299,1
+26 – Geleistete Vermögenstransfers ................................... 95,0 13,0 66,7 15,4 6,9
+27 + Empfangene Vermögenstransfers ............................... 79,0 39,4 20,5 19,2 23,0
+28 – Bruttoinvestitionen ........................................................ 880,6 479,2 128,5 272,9 –
+29 + Abschreibungen ........................................................... 885,7 487,6 119,1 279,0 –
+30 – Nettozugang an nichtprod. Vermögensgütern .............. 14,2 14,4 – 0,5 0,2 – 14,2
+31 = Finanzierungssaldo ....................................................... 268,8 54,6 – 82,0 296,2 – 268,8
+Nachrichtlich:
+34 Verfügbares Einkommen (Ausgabenkonzept) .............. 3 519,4 91,9 924,7 2 502,8 – 299,1
+35 – Geleistete soziale Sachtransfers ................................. 598,8 – 598,8 – –
+36 + Empfangene soziale Sachtransfers ............................. 598,8 – – 598,8 –
+37 = Verfügbares Einkommen (Verbrauchskonzept) ........... 3 519,4 91,9 325,8 3 101,6 – 299,1
+38 – Konsum 2) ..................................................................... 3 225,4 – 352,7 2 872,7 –
+39 + Zunahme betrieblicher Versorgungsansprüche ........... – – 57,8 – 57,8 –
+40 = Sparen .......................................................................... 293,9 34,2 – 26,8 286,6 – 299,1
+1) Für den Sektor übrige Welt Importe abzügl. Exporte aus der bzw. an die übrige Welt. – 2) Sozialbeiträge einschl. Sozialbei-
+träge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.- 3) Für den Sektor Staat Kollektiv-
+konsum, für den Sektor private Haushalte, private Organisationen o. E. Individualkonsum (einschl. Konsumausgaben des
+Staates für den Individualverbrauch, d.h. einschl. sozialer Sachleistungen).
+Quelle: Statistisches Bundesamt, Hauptaggregate der Sektoren.
+42
+=== Seite 43
+KIELER KONJUNKTURBERICHTE NR. 117 (2024|Q3)
+Hauptaggregate der Sektoren
+Mrd. EUR
+2025
+Nichtfinan-
+Private
+zielle und
+Gesamte Haushalte
+Gegenstand der Nachweisung finanzielle Übrige
+Volkswirt- Staat und pri-
+Kapital-ge- Welt
+schaft vate Org.
+sellschaf-
+o.E.
+ten
+S 1 S 11/S12 S 13 S 14/S 15 S 2
+1 = Bruttowertschöpfung ................................................... 3 988,2 2 690,3 480,2 817,6 –
+2 – Abschreibungen ........................................................... 900,1 498,9 122,3 278,8 –
+3 = Nettowertschöpfung 1) ................................................ 3 088,1 2 191,4 357,9 538,8 – 198,2
+4 – Geleistete Arbeitnehmerentgelte ................................... 2 438,0 1 773,0 365,9 299,1 20,6
+5 – Geleistete sonstige Produktionsabgaben ...................... 43,3 31,2 0,3 11,8 –
+6 + Empfangene sonstige Subventionen ............................ 56,2 54,1 0,2 1,9 –
+7 = Betriebsüberschuss/Selbstständigeneinkommen ......... 663,0 441,3 – 8,2 229,8 – 218,8
+8 + Empfangene Arbeitnehmerentgelte ............................... 2 443,7 – – 2 443,7 14,9
+9 – Geleistete Subventionen ............................................... 51,9 – 51,9 – 4,5
+10 + Empfangene Produktions- und Importabgaben ............. 453,4 – 453,4 – 5,4
+11 – Geleistete Vermögenseinkommen ................................. 1 110,3 1 018,5 46,7 45,2 442,0
+12 + Empfangene Vermögenseinkommen ............................. 1 265,6 755,2 36,1 474,2 286,7
+13 = Primäreinkommen (Nettonationaleinkommen) ................ 3 663,4 178,1 382,8 3 102,5 – 358,2
+14 – Geleistete Einkommen- und Vermögensteuern ............. 556,8 131,3 – 425,4 15,4
+15 + Empfangene Einkommen- und Vermögensteuern ......... 571,4 – 571,4 – 0,8
+16 – Geleistete Nettosozialbeiträge 2) .................................. 962,8 – – 962,8 3,7
+17 + Empfangene Nettosozialbeiträge 2) .............................. 961,5 157,2 803,4 0,9 5,1
+18 – Geleistete monetäre Sozialleistungen ........................... 821,7 86,8 734,0 0,9 0,8
+19 + Empfangene monetäre Sozialleistungen ....................... 814,6 – – 814,6 7,9
+20 – Geleistete sonstige laufende Transfers ....................... 479,6 285,5 91,6 102,6 103,8
+21 + Empfangene sonstige laufende Transfers ................... 416,8 252,0 34,2 130,6 166,7
+22 = Verfügbares Einkommen (Ausgabenkonzept) .............. 3 606,7 83,6 966,2 2 556,9 – 301,4
+23 – Konsumausgaben ......................................................... 3 313,7 – 987,1 2 326,7 –
+24 + Zunahme betrieblicher Versorgungsansprüche ........... – – 58,1 – 58,1 –
+25 = Sparen .......................................................................... 293,0 25,6 – 20,9 288,3 – 301,4
+26 – Geleistete Vermögenstransfers ................................... 92,4 13,6 63,3 15,6 7,1
+27 + Empfangene Vermögenstransfers ............................... 76,8 37,3 20,5 19,0 22,8
+28 – Bruttoinvestitionen ........................................................ 891,6 489,5 135,9 266,3 –
+29 + Abschreibungen ........................................................... 900,1 498,9 122,3 278,8 –
+30 – Nettozugang an nichtprod. Vermögensgütern .............. 13,5 13,7 – 0,5 0,2 – 13,5
+31 = Finanzierungssaldo ....................................................... 272,3 45,0 – 76,7 304,1 – 272,3
+Nachrichtlich:
+34 Verfügbares Einkommen (Ausgabenkonzept) .............. 3 606,7 83,6 966,2 2 556,9 – 301,4
+35 – Geleistete soziale Sachtransfers ................................. 626,9 – 626,9 – –
+36 + Empfangene soziale Sachtransfers ............................. 626,9 – – 626,9 –
+37 = Verfügbares Einkommen (Verbrauchskonzept) ........... 3 606,7 83,6 339,3 3 183,8 – 301,4
+38 – Konsum 3) ..................................................................... 3 313,7 – 360,2 2 953,5 –
+39 + Zunahme betrieblicher Versorgungsansprüche ........... – – 58,1 – 58,1 –
+40 = Sparen .......................................................................... 293,0 25,6 – 20,9 288,3 – 301,4
+1) Für den Sektor übrige Welt Importe abzügl. Exporte aus der bzw. an die übrige Welt. – 2) Sozialbeiträge einschl. Sozialbei-
+träge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.- 3) Für den Sektor Staat Kollektiv-
+konsum, für den Sektor private Haushalte, private Organisationen o. E. Individualkonsum (einschl. Konsumausgaben des
+Staates für den Individualverbrauch, d.h. einschl. sozialer Sachleistungen).
+Quelle: Statistisches Bundesamt, Hauptaggregate der Sektoren.
+43
+=== Seite 44
+KIELER KONJUNKTURBERICHTE NR. 117 (2024|Q3)
+Hauptaggregate der Sektoren
+Mrd. EUR
+2026
+Nichtfinan-
+Private
+zielle und
+Gesamte Haushalte
+Gegenstand der Nachweisung finanzielle Übrige
+Volkswirt- Staat und pri-
+Kapital-ge- Welt
+schaft vate Org.
+sellschaf-
+o.E.
+ten
+S 1 S 11/S12 S 13 S 14/S 15 S 2
+1 = Bruttowertschöpfung ................................................... 4 097,2 2 763,8 493,9 839,5 –
+2 – Abschreibungen ........................................................... 925,9 514,5 125,9 285,5 –
+3 = Nettowertschöpfung 1) ................................................ 3 171,2 2 249,3 368,0 554,0 – 184,6
+4 – Geleistete Arbeitnehmerentgelte ................................... 2 506,5 1 823,7 375,3 307,5 21,2
+5 – Geleistete sonstige Produktionsabgaben ...................... 45,3 32,7 0,3 12,3 –
+6 + Empfangene sonstige Subventionen ............................ 57,2 55,1 0,2 1,9 –
+7 = Betriebsüberschuss/Selbstständigeneinkommen ......... 676,6 448,0 – 7,5 236,1 – 205,8
+8 + Empfangene Arbeitnehmerentgelte ............................... 2 512,2 – – 2 512,2 15,5
+9 – Geleistete Subventionen ............................................... 52,9 – 52,9 – 4,5
+10 + Empfangene Produktions- und Importabgaben ............. 465,3 – 465,3 – 5,6
+11 – Geleistete Vermögenseinkommen ................................. 1 114,6 1 023,5 45,9 45,2 464,1
+12 + Empfangene Vermögenseinkommen ............................. 1 284,8 761,4 37,3 486,1 293,9
+13 = Primäreinkommen (Nettonationaleinkommen) ................ 3 771,4 185,9 396,3 3 189,1 – 359,3
+14 – Geleistete Einkommen- und Vermögensteuern ............. 572,2 134,8 – 437,4 15,8
+15 + Empfangene Einkommen- und Vermögensteuern ......... 587,3 – 587,3 – 0,8
+16 – Geleistete Nettosozialbeiträge 2) .................................. 998,6 – – 998,6 3,8
+17 + Empfangene Nettosozialbeiträge 2) .............................. 997,2 161,1 835,2 0,9 5,2
+18 – Geleistete monetäre Sozialleistungen ........................... 849,5 89,0 759,7 0,9 0,8
+19 + Empfangene monetäre Sozialleistungen ....................... 841,5 – – 841,5 8,8
+20 – Geleistete sonstige laufende Transfers ....................... 495,3 292,7 97,5 105,1 106,4
+21 + Empfangene sonstige laufende Transfers ................... 430,9 263,5 34,7 132,6 170,8
+22 = Verfügbares Einkommen (Ausgabenkonzept) .............. 3 712,5 94,2 996,3 2 622,1 – 300,5
+23 – Konsumausgaben ......................................................... 3 401,5 – 1 016,0 2 385,5 –
+24 + Zunahme betrieblicher Versorgungsansprüche ........... – – 58,3 – 58,3 –
+25 = Sparen .......................................................................... 311,0 35,8 – 19,7 294,9 – 300,5
+26 – Geleistete Vermögenstransfers ................................... 94,3 14,3 64,1 15,9 7,3
+27 + Empfangene Vermögenstransfers ............................... 78,5 38,6 20,6 19,2 23,1
+28 – Bruttoinvestitionen ........................................................ 936,4 515,1 139,8 281,5 –
+29 + Abschreibungen ........................................................... 925,9 514,5 125,9 285,5 –
+30 – Nettozugang an nichtprod. Vermögensgütern .............. 13,3 13,6 – 0,5 0,2 – 13,3
+31 = Finanzierungssaldo ....................................................... 271,3 46,0 – 76,6 302,0 – 271,3
+Nachrichtlich:
+34 Verfügbares Einkommen (Ausgabenkonzept) .............. 3 712,5 94,2 996,3 2 622,1 – 300,5
+35 – Geleistete soziale Sachtransfers ................................. 651,1 – 651,1 – –
+36 + Empfangene soziale Sachtransfers ............................. 651,1 – – 651,1 –
+37 = Verfügbares Einkommen (Verbrauchskonzept) ........... 3 712,5 94,2 345,2 3 273,1 – 300,5
+38 – Konsum 2) ..................................................................... 3 401,5 – 365,0 3 036,6 –
+39 + Zunahme betrieblicher Versorgungsansprüche ........... – – 58,3 – 58,3 –
+40 = Sparen .......................................................................... 311,0 35,8 – 19,7 294,9 – 300,5
+1) Für den Sektor übrige Welt Importe abzügl. Exporte aus der bzw. an die übrige Welt. – 2) Sozialbeiträge einschl. Sozialbei-
+träge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.- 3) Für den Sektor Staat Kollektiv-
+konsum, für den Sektor private Haushalte, private Organisationen o. E. Individualkonsum (einschl. Konsumausgaben des
+Staates für den Individualverbrauch, d.h. einschl. sozialer Sachleistungen).
+Quelle: Statistisches Bundesamt, Hauptaggregate der Sektoren.
+44

@@ -1,0 +1,724 @@
+=== Seite 2
+Konjunkturelle Belebung in Deutschland – strukturelle Probleme und … Konjunktur aktuell — Jg. 13 (2), 2025
+Konjunktur aktuell: Konjunkturelle Belebung in Deutschland –
+strukturelle Probleme und US-Handelspolitik belasten
+*
+AZrubseaitmskmreiesn Kfoansjsuunnktgu r des IWH
+Die Erwartung deutlich höherer Zollsätze hat im ersten Quartal 2025 einen Boom der US-Importe ausgelöst. Im Euro-
+raum bekam die gesamtwirtschaftliche Expansion dadurch einen kleinen Schub. Die Preisdynamik hat in den USA wie
+im Euroraum in den vergangenen Monaten weiter nachgelassen, auch wegen des Rückgangs des Erdölpreises. In bei-
+den Wirtschaftsräumen dürften die Leitzinsen im Jahresverlauf weiter gesenkt werden. Dagegen belastet die Finanz-
+politik in den USA die Konjunktur in diesem und im nächsten Jahr spürbar. Im Euroraum ist die Finanzpolitik in etwa
+neutral ausgerichtet. In der zweiten Jahreshälfte 2025 wird der Welthandel aufgrund der Zollerhöhungen in den USA
+wohl deutlich zurückgehen. Unter der in dieser Prognose getroffenen Annahme, dass die Handelskonflikte nicht es-
+kalieren, kommt es aber zu keiner Rezession. Alles in allem steigt die Weltproduktion nach vorliegender Prognose in
+den Jahren 2025 und 2026 um jeweils 2,3%.
+Für die deutsche Wirtschaft gibt es mehr und mehr Anzeichen für eine konjunkturelle Erholung. So hellen sich die
+Geschäftsaussichten der Unternehmen seit Jahresanfang langsam auf, und die Produktion hat im ersten Quartal 2025
+um 0,4% expandiert. Dass die Exporte um 3,2% zunahmen, liegt allerdings zu einem Gutteil an der vorübergehend
+höheren Nachfrage aus den USA. Neben den Exporten expandierte auch der private Konsum das erste Mal seit länge-
+rer Zeit wieder deutlich. Die privaten Ausrüstungsinvestitionen sind dagegen gesunken, wie sie es im Trend schon
+seit zwei Jahren tun. Nach wie vor belasten strukturelle Probleme die deutsche Wirtschaft (Demografie, Energie-
+wende, Strukturwandel in China). Dabei stützt die geldpolitische Lockerung durch die Europäische Zentralbank die
+Konjunktur, insbesondere über günstigere Finanzierungskonditionen für die Immobilienwirtschaft. Im zweiten und
+vor allem im dritten Quartal dürfte es zu einem Rückschlag für den deutschen Export kommen. Die konjunkturelle
+Belebung wird dadurch deutlich gedämpft, aber nicht abgewürgt. Die finanzpolitische Wende dürfte sich erst ab dem
+Tabelle
+Jahr 2026 spürbar in der Produktion niederschlagen.
+Gesamtwirtschaftliche Eckdaten der Prognose des IWH für Deutschland in den Jahren 2023 bis 2026
+2023 2024 2025 2026
+Veränderung des preisbereinigten BIP gegenüber dem Vorjahr in %
+Deutschland –0,3 –0,2 0,4 1,1
+darunter: Ostdeutschland1 0,0 –0,1 0,4 0,9
+Veränderung gegenüber dem Vorjahr in %
+Arbeitsvolumen 0,4 –0,1 –0,1 0,2
+Tariflöhne je Stunde 3,6 4,7 2,6 2,6
+Effektivlöhne je Stunde 6,6 5,6 3,5 2,4
+Lohnstückkosten2 6,7 5,6 3,3 1,6
+Verbraucherpreisindex 5,9 2,3 2,0 1,9
+in 1 000 Personen
+Erwerbstätige (Inland) 46 011 46 081 46 101 46 138
+Arbeitslose3 2 609 2 787 2 950 2 927
+in %
+Arbeitslosenquote4 5,7 6,0 6,3 6,2
+darunter: Ostdeutschland1 6,7 7,5 7,8 7,7
+% in Relation zum nominalen Bruttoinlandsprodukt
+Finanzierungssaldo des Staates –2,5 –2,7 –2,2 –3,0
+Leistungsbilanzsaldo 5,6 5,7 5,5 5,1
+1 2 3 4
+Ostdeutschland einschließlich Berlin. – Berechnungen des IWH auf Stundenbasis. – Definition gemäß der Bundesagentur für Arbeit (BA). – Arbeitslose
+in % der zivilen Erwerbspersonen (Definition gemäß der Bundesagentur für Arbeit).
+Quellen: Statistisches Bundesamt; ab 2025: Prognose des IWH (Stand: 11.06.2025).
+*
+Drygalla, Andrej; Exß, Franziska; Fourné, Marius; Heinisch, Katja; Holtemöller, Oliver; Kämpfe, Martina; Kozyrev, Boris;
+Lindner, Axel; Mukherjee, Sukanya; Sardone, Alessandro; Schultz, Birgit; Zeddies, Götz.
+https://doi.org/10.18717/kaw6x2-7h95
+36
+=== Seite 4
+Konjunkturelle Belebung in Deutschland – strukturelle Probleme und … Konjunktur aktuell — Jg. 13 (2), 2025
+Abbildung 1
+Warenhandel der USA
+Sa3is5o0nbereinigt; in Mrd. US Dollar
+Importe
+300
+Exporte
+250
+200
+150
+100
+50
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Quelle: US Census Bureau.
+realwirtschaftliche Lage
+Zu Beginn des Jahres hat sich auch die in den USA eingetrübt: Die Produktion ging leicht
+(um 0,1%) zurück. Rückläufig war die Staatsnachfrage, und der private Konsum wurde nur verhalten ausgeweitet.
+Die oben angesprochene starke Ausweitung der Importe (um 9,3%) dürfte die Produktion ein Stück weit gedämpft
+haben, nämlich insoweit die Nachfrage nach heimischen Produkten deshalb zurückgestellt wurde. Ansonsten erhöh-
+ten die Importe den Lagerbestand. Auch die US-Anlageinvestitionen expandierten weiter deutlich. In China hat sich
+die Konjunktur gegenüber den vorigen Quartalen wenig geändert: Mit 1,2% wurde die Produktion weiter deutlich
+ausgeweitet, wenn auch etwas schwächer als zuletzt. Dabei sind die Exporte die große Stütze der Konjunktur,
+während die Krise im Immobiliensektor noch nicht ausgestanden ist. Im Euroraum bekam die an sich verhaltene
+gesamtwirtschaftliche Expansion einen kleinen Schub durch die hohe Nachfrage aus den USA; sie betrug 0,6% (vgl.
+3
+Abbildung 2). Leicht gesunken ist schließlich die Produktion in Japan und Südkorea. Insgesamt hat sich die
+weltwirtschaftliche Dynamik im ersten Quartal spürbar abgeschwächt.
+Abbildung 2
+Bruttoinlandsprodukt der Welt, der USA und des Euroraums
+V ie r2t,e5ljährliche Zuwachsraten in % 2,5
+Welt Euroraum USA
+2,0 2,0
+Mittelwert des Produktionszuwachses in
+der Welt seit 1996
+1,5 1,5
+1,0 1,0
+0,5 0,5
+0,0 0,0
+Prognosezeitraum
+–0,5 –0,5
+2021 2022 2023 2024 2025 2026
+Quellen: OECD; IWF; Eurostat; nationale Statistikämter; 2025 und 2026: Schätzung und Prognose des IWH.
+Preisdynamik
+Die hat in den USA wie im Euroraum in den vergangenen Monaten weiter langsam nachgelassen. Dabei
+haben die Zollerhöhungen in den USA auch im April noch nicht sichtbar auf die Verbraucherpreise durchgeschlagen,
+was auch an den stark rückläufig en Energiepreisen liegen mag. Jedenfalls ist die Verbraucherpreisinflation zuletzt
+3
+Besonders stark stiegen mit 14,8% die Warenexporte Irlands. Auch die dortigen Investitionen legten mit 28,5% deutlich zu –
+wohl infolge der Verlagerung immaterieller Vermögenswerte durch multinationale Unternehmen.
+38
+=== Seite 7
+Konjunktur aktuell — Jg. 13 (2), 2025 Konjunkturelle Belebung in Deutschland – strukturelle Probleme und …
+weise im Jahr 2025 wirksam, wie beispielsweise Erleichterungen bei Abschreibungen oder die Senkung der Strom-
+steuer und der Netzentgelte. Alles in allem ergibt sich ein restriktiver finanzpolitischer Impuls in Höhe von 16 Mrd.
+EImur oJ abhzwr . 200,42%6 in Relation zum Bruttoinlandsprodukt (vgl. Tabelle A13).
+ist die Finanzpolitik aufgrund der im Koalitionsvertrag vereinbarten Maßnahmen expansiv
+ausgerichtet. So entlasten die Steuerbefreiung von Überstundenzuschlägen und die Anhebung der
+Entfernungspauschale die Arbeitnehmer. Ebenso gibt es nochmals einen deutlichen Effekt durch die Erleichterungen
+bei Abschreibungen, und auch die Absenkung des Umsatzsteuersatzes in der Gastronomie auf 7% und die Fixierung
+des Rentenniveaus bei 48% wirken expansiv. Nachfragestimulierend wirken zudem die Änderungen am
+Einkommensteuertarif im Rahmen des Steuerfortentwicklungsgesetzes sowie ein weiterer Anstieg der Ausgaben für
+2
+Verteidigung und Infrastruktur. Nachfragedämpfend wirkt dann erneut die weitere Anhebung der CO -Bepreisung in
+den Bereichen Wärme und Verkehr. Zudem führt die Einführung der globalen Mindestbesteuerung und der
+Plastikabgabe zu Mehreinnahmen. Auch ist in dieser Prognose unterstellt, dass sich der durchschnittlich erhobene
+Zusatzbeitrag zur gesetzlichen Krankenversicherung im Jahr 2026 um 0,3 Prozentpunkte und der
+Pflegeversicherungsbeitragssatz um 0,2 Prozentpunkte erhöhen wird. Insgesamt wird von einem expansiven
+Dfineauntzspcohlieti sKchoennj uImnpkutulsr i:n B Heölheeb vuonng 3 2d Murrcdh. E UurSo- bHzawn. 0d,7e%lsp ino Rlietilka tgioenf zäuhmrd Berut ttoinlandsprodukt ausgegangen.
+Die deutsche Wirtschaft produzierte Ende 2024 nicht mehr als fünf Jahre zuvor, im Jahr 2019. Mittlerweile gibt es
+aber mehr und mehr Anzeichen für eine konjunkturelle Erholung. So hellen sich die Geschäftsaussichten der Unter-
+im ersten Quartal 2025
+nehmen seit Jahresanfang langsam auf, die Auftragseingänge im Verarbeitenden Gewerbe sind etwas gestiegen, und
+die Produktion hat um 0,4% expandiert (vgl. Abbildung A3), das ist die höchste Rate seit
+zweieinhalb Jahren. Ein Teil des Zuwachses dürfte allerdings einem Sondereffekt geschuldet sein: Dass die Exporte
+um 3,2% zunahmen, nachdem sie die vergangenen zwei Jahre im Trend rückläufig gewesen waren (vgl. Tabelle A5),
+liegt zu einem Gutteil an der höheren Nachfrage aus den USA, wo Importeure den erwarteten Zollerhöhungen zuvor-
+kommen wollten. Auch der Anstieg der Exporte in europäische Nachbarländer dürfte teilweise über Vorleistungs-
+verflechtungen auf die hohe US-Nachfrage zurückgehen. Neben den Exporten expandierte auch der private Konsum
+mit 0,5% das erste Mal seit längerer Zeit wieder deutlich. Die im vergangenen Jahr erhöhte Sparquote der privaten
+Haushalte ist mit 10,4% in etwa wieder auf ihr langjähriges Mittel gesunken. Differenziert ist das Bild bei den Brutto-
+anlageinvestitionen: Wie schon im Schlussquartal 2024 wurden die öffentlichen Investitionen zu Jahresbeginn 2025
+deutlich ausgeweitet. Das gilt auch für den privaten Wohnungsbau, der zuvor lange Zeit geschrumpft war, um insge-
+samt etwa 15% gegenüber seinem Niveau von 2020. Die privaten Ausrüstungsinvestitionen sind dagegen gesunken,
+wie sie es im Trend schon seit zwei Jahren tun. Wertschöpfung
+Das wieder lebhaftere Konsumgeschäft spiegelt sich in einem Anstieg der bei Handel, Verkehr und
+Gastgewerbe, der höhere Export in gestiegener Wertschöpfung im Verarbeitenden Gewerbe (vgl. Tabelle A12). In der
+Beschäftigung hat die Belebung keinen sichtbaren Niederschlag gefunden: Die Zahl der Erwerbstätigen blieb im ers-
+ten Quartal praktisch konstant, im Verarbeitenden Gewerbe ging sie weiter zurück, und einen nennenswerten Be-
+schäftigungsaufbau gab es wie schon seit Längerem nur bei den öffentlichen Dienstleistern.
+Nach wie vor belasten strukturelle Probleme die deutsche Wirtschaft (Demografie, Energiewende, Strukturwandel in
+4 geldpolitische Locke-
+China). Für den Konjunkturverlauf sind darüber hinaus folgende drei Faktoren von Bedeutung: die geldpolitischen
+rung
+Rahmenbedingungen, die US-Handelspolitik und die deutsche Finanzpolitik. Dabei stützt die
+durch die EZB die Konjunktur, insbesondere über günstigere Finanzierungskonditionen für die Immobilienwirt-
+schaft. Die Hypothekenzinsen sinken langsam, und die Kreditvergabebedingungen der Banken waren zuletzt weniger
+restriktiv. Seit Anfang des Jahres steigen auch wieder die Baugenehmigungen. Zu einem regelrechten Aufschwung
+wird es am Bau aber nicht kommen. Dagegen sprechen die nach wie vor zu hohen Kosten insbesondere der Erstellung
+von Wohnraum. Der Tiefbau profitiert allerdings von höheren öffentlichen Infrastrukturinvestitionen.
+Projektgruppe Gemeinschaftsdiagnose:
+4
+Vgl. dazu Geopolitischer Umbruch verschärft Krise – Strukturreformen noch dringlicher,
+Gemeinschaftsdiagnose Frühjahr 2025, Essen, 2025, 34 f.
+41
+=== Seite 8
+Konjunkturelle Belebung in Deutschland – strukturelle Probleme und … Konjunktur aktuell — Jg. 13 (2), 2025
+Handelskonflikten
+Was aus den der USA mit ihren Haupthandelspartnern wird, ist nicht vorherzusagen. Wie im Ab-
+schnitt über die Rahmenbedingungen erläutert, wird in dieser Prognose unterstellt, dass die US-Zölle in etwa auf dem
+gegenwärtigen Niveau bleiben (vgl. Tabelle 1). Unter dieser Annahme kommt es im zweiten und vor allem im dritten
+Quartal zu einem Rückschlag für den deutschen Export, da die Vorzieheffekte auslaufen und darüber hinaus die US-
+5
+Importe wegen der gestiegenen Kosten unter denen aus der Zeit vor den Handelskonflikten liegen werden. Die kon-
+junkturelle Belebung dürfte dadurch deutlich gedämpft, aber nicht abgewürgt werden. Allerdings werden die Unter-
+nehmen ihre Investitionen wohl erst dann deutlich ausweiten, wenn mehr Klarheit über die außenwirtschaftlichen
+Rahmenbedingungen herrscht. In der Prognose ist unterstellt, dass dfiiensa anbz pHoelribtisstc 2h0e2 W5 deenrd Feall ist.
+Wie ebenfalls in den Rahmenbedingungen erläutert, dürfte sich die erst ab dem Jahr 2026
+spürbar in der Produktion niederschlagen. Dafür sprechen Erfahrungswerte. So haben von den Käufen militärischer
+Güter, welche durch die Grundgesetzänderung vom März 2025 ermöglicht wurden, etwa 85% eine Lieferzeit von min-
+destens zwei Jahren. Als Beispiel dafür, wie lange es dauert, Planungen von Infrastrukturinvestitionen umzusetzen,
+kann das im Herbst 2017 in Kraft getretene Kommunalinvestitionsförderungsgesetz dienen: nach drei Jahren waren
+erst 10% der bereitgestellten Mittel abgerufen worden, im Jahr 2024 waren es knapp drei Viertel. Realwirtschaftlich
+wirksam werden im Jahr 2025 hingegen vor allem die höheren Sozialbeiträge. Sie führen dazu, dass die Nettolöhne
+Abbildung 3
+Prognoseunsicherheit1 und -gehälter in realer Rechnung lediglich stagnie-
+ren und der private Konsum insgesamt in den
+V erä 5n,d0erung gegenüber Vorjahr in % kAollmesm ienn daellne Qmuartalen nur schwach zulegen wird.
+legt das Bruttoinlandsprodukt in
+2,5 Deutschland nach vorliegender Prognose im Jahr
+2025 um 0,4% zu; im Jahr 2026 expandiert die
+Produktion um 1,1% (arbeitstäglich bereinigt um
+0,0
+0,5% und 0,9%, vgl. Tabelle A6).Für das Jahr 2025
+reicht das 68%-Prognoseintervall für das Brutto-
+–2,5
+inlandsprodukt von 0% bis 0,8% und für das Jahr
+6
+2026 von –0,7% bis 2,9%(vgl. Abbildung 3). Nach
+–5,0 vorliegender Prognose kommt die deutsche Wirt-
+2020 2021 2022 2023 2024 2025 2026
+schaft Ende 2026 wieder auf ihren langfristigen,
+BIP Konfidenz 68% U Konfidenz 68% O
+mittlerweile deutlich abgeflachten Wachstums-
+Konfidenz 85% U Konfidenz 85% O
+pfad (vgl. Kasten). Die Verbraucherpreisinflation
+dürfte im Jahr 2025 bei 2,0% liegen und im Jahr
+1
+Zur Berechnung werden die Prognosefehler der Vergangenheit herangezogen,
+2026 bei 1,9%.Die Zahl der Erwerbstätigen wird
+d. h. die tatsächliche Prognoseunsicherheit unter Einbeziehung extremer Risiken
+– wie der Coronakrise – ist höher als hier angegeben. zum Ende des Jahres 2025 leicht steigen und im
+Quellen: Statistisches Bundesamt; Berechnungen des IWH. Laufe des Jahres 2026 demographiebedingt
+gesamtstaatliche Haushaltsdefizit wieder sinken.
+Das dürfte, ausgehend von 2,7% in Relation zum Bruttoinlandsprodukt im Jahr
+2024, im gesamten Prognosezeitraum hoch bleiben. Im Jahr 2025 wird das Defizit zunächst geringfügig zurückgehen,
+auf 2,2%. Dazu trägt die restriktive Finanzpolitik bei. So sind der Beitragssatz zur Pflegeversicherung und der Zusatz-
+beitrag zur gesetzlichen Krankenversicherung zu Jahresbeginn gestiegen, und die steuer- und beitragsfreie Inflations-
+ausgleichsprämie ist ausgelaufen. Auf der Ausgabeseite dürfte die vorläufige Haushaltsführung in der ersten Jahres-
+hälfte mit Minderausgaben einhergehen. Die monetären Transfers werden langsamer ausgeweitet als im vergangenen
+Jahr. Zwar nimmt die Zahl der Arbeitslosen weiter zu, die Rentenanpassung zum 1. Juli 2025 fällt aber geringer aus
+als noch im Jahr zuvor. Im Jahr 2026 dürfte das Haushaltsdefizit des Staates wieder steigen. Zwar ziehen dann die
+Unternehmens- und Vermögenseinkommen an, die Bruttolöhne und -gehälter entwickeln sich jedoch schwächer als
+5 OECD Economic Outlook
+Die Wertschöpfung, welche direkt oder über Drittländer in US-Importe fließt, wird von der OECD für Deutschland auf knapp
+2½% in Relation zum Bruttoinlandsprodukt geschätzt, vgl. 2025/1, 19.
+6
+Zur Berechnung werden die Prognosefehler für den Zuwachs des IWH aus der Vergangenheit herangezogen und
+Risikoszenarien ausgeblendet, d. h. die tatsächliche Prognoseunsicherheit unter Einbeziehung extremer Risiken ist höher als
+hier angegeben.
+42
+=== Seite 17
+Konjunktur aktuell — Jg. 13 (2), 2025 Konjunkturelle Belebung in Deutschland – strukturelle Probleme und …
+Tabelle A5
+Quartalsdaten zur wirtschaftlichen Entwicklung1
+Ve ränderung in % gegenüber dem Vorquartal 2024 2025 2026
+I II III IV I II III IV I II III IV
+private Konsumausgaben –0,1 0,1 0,3 0,2 0,5 0,2 0,3 0,2 0,2 0,2 0,2 0,2
+öffentlicher Konsum 0,5 1,5 1,2 0,4 –0,3 –0,1 0,6 0,5 0,3 0,3 0,4 0,4
+Bauten 0,5 –1,8 –0,3 0,8 0,5 0,2 0,3 0,4 0,5 0,5 0,5 0,5
+Ausrüstungen –0,9 –3,2 –1,1 0,2 0,7 –0,2 0,3 0,5 0,7 0,9 1,1 1,3
+sonstige Anlagen 1,0 0,5 0,7 0,2 2,0 0,6 0,5 0,7 0,8 0,8 0,9 0,9
+Vorratsinvestitionen2 0,0 0,0 0,9 0,5 –0,9 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+inländische Verwendung 0,2 0,0 1,3 0,9 –0,5 0,2 0,4 0,3 0,4 0,3 0,3 0,3
+Außenbeitrag2 0,1 –0,3 –1,1 –1,1 0,9 0,1 –0,4 0,0 –0,1 –0,1 –0,1 –0,1
+Exporte 0,1 1,8 –2,6 –3,1 3,2 –0,1 –1,6 0,2 0,4 0,4 0,4 0,4
+Importe –0,3 2,8 –0,1 –0,7 1,1 –0,4 –0,7 0,3 0,6 0,7 0,8 0,8
+Bruttoinlandsprodukt 0,2 –0,3 0,1 –0,2 0,4 0,3 0,1 0,2 0,3 0,2 0,2 0,2
+1 2
+Saison- und arbeitstäglich bereinigte Werte; in Vorjahrespreisen. – Beitrag zur Veränderung des Bruttoinlandprodukts in Prozentpunkten (Lundberg-
+Komponenten).
+Quellen: Statistisches Bundesamt; ab 2. Quartal 2025: Prognose des IWH.
+T abelle A6
+Statistische Komponenten der BIP–Wachstumsrate
+In % bzw. Prozentpunkten 2023 2024 2025 2026
+statistischer Überhang1 –0,1 –0,2 –0,2 0,3
+Jahresverlaufsrate2 –0,2 –0,2 1,0 0,9
+jahresdurchschnittliche BIP-Rate, kalenderbereinigt –0,1 –0,2 0,5 0,9
+Kalendereffekt3 –0,2 0,0 –0,1 0,3
+jahresdurchschnittliche BIP-Rate, kalenderjährlich4 –0,3 –0,2 0,4 1,1
+1
+Saison- und kalenderbereinigtes reales Bruttoinlandsprodukt (BIP) im vierten Quartal des Vorjahres in Relation zum kalenderbereinigten Quartalsdurch-
+2 3 4
+schnitt des Vorjahres. – Jahresveränderungsrate im vierten Quartal, saison- und kalenderbereinigt. – In % des realen BIP. – Abweichungen in der Summe
+rundungsbedingt.
+Quellen: Statistisches Bundesamt; Berechnungen des IWH; 2025 und 2026: Prognose des IWH.
+Tabelle A7
+Beiträge der Verwendungskomponenten zur Veränderung des Bruttoinlandsprodukts1
+In Prozentpunkten 2023 2024 2025 2026
+Konsumausgaben –0,2 0,8 0,9 0,9
+private Konsumausgaben –0,2 0,1 0,6 0,5
+Konsumausgaben des Staates 0,0 0,7 0,3 0,3
+Bruttoanlageinvestitionen –0,3 –0,6 0,2 0,6
+Bauten –0,4 –0,4 0,1 0,3
+Ausrüstungen –0,1 –0,4 0,0 0,2
+sonstige Anlagen 0,2 0,2 0,1 0,1
+Vorratsveränderung 0,1 0,1 0,0 0,0
+inländische Verwendung –0,4 0,3 1,0 1,5
+Außenbeitrag 0,1 –0,5 –0,6 –0,4
+Exporte –0,1 –0,8 –0,4 0,4
+Importe 0,3 0,3 –0,2 –0,7
+Bruttoinlandsprodukt –0,3 –0,2 0,4 1,1
+1
+Abweichungen in der Summe rundungsbedingt.
+Quellen: Statistisches Bundesamt; 2025 und 2026: Prognose des IWH.
+51
+=== Seite 18
+Konjunkturelle Belebung in Deutschland – strukturelle Probleme und … Konjunktur aktuell — Jg. 13 (2), 2025
+Tabelle A8
+Erwerbstätigkeit nach Beschäftigtengruppen in Deutschland 2024 und 2025
+Veränderung in
+2024 20251
+1 000 Personen %
+Arbeitnehmer (Inland) 42 307 42 385 78 0,2
+sozialversicherungspflichtig Beschäftigte 34 934 35 008 74 0,2
+Geförderte2 77 60 –17 –22,0
+nicht geförderte 34 857 34 948 91 0,3
+ausschließlich geringfügig entlohnte Beschäftigte 4 180 4 141 –40 –0,9
+sonstige 3 193 3 237 44 1,4
+Selbstständige einschließlich mithelfender Familienangehöriger 3 774 3 716 –58 –1,5
+geförderte Selbstständigkeit 2 1 –1 –30,0
+nicht geförderte Selbstständigkeit 3 772 3 715 –57 –1,5
+Erwerbstätige (Inland) 46 081 46 101 20 0,0
+staatlich subventionierte Erwerbstätige 334 344 10 2,9
+geförderte Erwerbstätige3 79 62 –18 –22,2
+Kurzarbeit 255 282 27 10,7
+ungeförderte Erwerbstätigkeit 45 747 45 758 11 0,0
+nachrichtlich:
+Anteil der staatlich subventionierten Erwerbstätigen an den Erwerbstätigen
+0,7 0,7
+(Inland) in %
+1 2
+Prognose des IWH. – Eingliederungszuschüsse (einschl. für Schwerbehinderte); Einstiegsgeld bei abhängiger SV-pflichtiger Erwerbstätigkeit;
+Beschäftigungszuschuss; ESF Bundesprogramm zur Eingliederung langzeitarbeitsloser Leistungsberechtigter; Eingliederung von Langzeitarbeitslosen
+3
+(§16 e SGB II); Teilhabe am Arbeitsmarkt; Förderung von Arbeitsverhältnissen. – Geförderte sozialversicherungspflichtig Beschäftigte sowie geförderte
+Selbständige.
+Q uellen: Statistisches Bundesamt; Bundesagentur für Arbeit; Berechnungen bzw. Schätzungen des IWH.
+Tabelle A9
+Indikatoren zur Außenwirtschaft
+2023 2024 2025 2026
+Veränderung gegenüber dem Vorjahr in %
+Exporte, real –0,3 –1,8 –1,0 0,9
+Importe, real –0,6 –0,7 0,5 2,0
+% in Relation zum nominalen Bruttoinlandsprodukt
+Exporte, nominal 43,4 41,8 40,6 40,3
+Importe, nominal 39,4 37,9 37,4 37,4
+Außenbeitrag
+Mrd. Euro, nominal 167,7 169,0 144,2 129,7
+Q uellen: Statistisches Bundesamt; 2025 und 2026: Prognose des IWH.
+Tabelle A10
+Reale Anlageinvestitionen in Deutschland
+V eränderung gegenüber Vorjahr in % 2023 2024 2025 2026
+Anlageinvestitionen insgesamt –1,2 –2,7 0,9 2,9
+Bauinvestitionen insgesamt –3,4 –3,2 0,7 2,4
+Wohnbauten –4,1 –5,0 0,5 2,2
+Nichtwohnbauten insgesamt –2,3 –0,3 1,1 2,6
+gewerbliche Bauten –4,1 –2,9 1,0 2,4
+öffentliche Bauten 0,8 3,9 1,4 3,0
+Ausrüstungen –0,8 –5,4 –0,6 3,7
+sonstige Anlagen 4,7 3,9 3,6 3,1
+Quellen: Statistisches Bundesamt; 2025 und 2026: Prognose des IWH.
+52
+=== Seite 19
+Konjunktur aktuell — Jg. 13 (2), 2025 Konjunkturelle Belebung in Deutschland – strukturelle Probleme und …
+Tabelle A11:
+Verfügbare Einkommen und Konsumausgaben der privaten
+Haushalte1 in Deutschland
+V eränderung gegenüber dem Vorjahr in % 2023 2024 2025 2026
+verfügbare Einkommen, nominal 6,9 4,0 2,8 2,7
+darunter:
+Nettolöhne und -gehälter (Summe) 9,5 6,0 2,5 2,3
+monetäre Sozialleistungen 6,1 6,4 5,7 4,6
+Selbstständigen-, Vermögenseinkommen 3,5 –1,3 1,4 2,5
+Sparen 8,1 12,6 –3,2 1,4
+private Konsumausgaben, nominal 6,3 2,9 3,5 2,8
+nachrichtlich:
+Bruttolöhne und -gehälter (Summe) 7,4 5,8 3,6 2,7
+Sparquote (in %) 10,4 11,3 10,6 10,5
+Preisindex des privaten Konsums 6,7 2,7 2,4 1,8
+private Konsumausgaben, real –0,4 0,2 1,1 1,0
+1
+Einschließlich der privaten Organisationen ohne Erwerbszweck.
+Quellen: Statistisches Bundesamt; 2025 und 2026: Prognose des IWH.
+Tabelle A12
+Bruttoinlandsprodukt und Bruttowertschöpfung nach Wirtschaftsbereichen1
+Veränderungsrate gegenüber dem Vorquartal in % 2024 2025
+1. Quartal 2. Quartal 3. Quartal 4. Quartal 1. Quartal 2. Quartal 3. Quartal 4. Quartal
+Bruttoinlandsprodukt 0,2 –0,3 0,1 –0,2 0,4 0,3 0,1 0,2
+darunter
+Bruttowertschöpfung –0,5 –0,3 –0,4 –0,3 0,6 0,3 0,1 0,2
+darunter
+Produzierendes Gewerbe ohne Bau –3,8 –0,4 –1,7 –0,8 1,5 0,1 –0,3 0,1
+Verarbeitendes Gewerbe –0,7 –0,6 –1,3 –0,3 1,0 0,2 –0,3 0,1
+Energie- und Wasserversorgung –20,7 0,4 –3,7 –3,2 4,7 –0,3 –0,2 0,2
+Baugewerbe 0,6 –2,8 –1,0 –0,1 0,9 0,7 0,2 0,2
+Handel, Verkehr, Gastgewerbe 0,4 –0,7 –0,1 0,6 1,1 0,3 0,1 0,4
+Information und Kommunikation 2,1 –0,2 –0,6 –0,3 1,7 0,5 0,2 0,4
+Finanz- und Versicherungsdienstleister 1,1 –0,5 –1,0 –1,6 –0,8 –0,2 –0,2 –0,1
+Grundstücks- und Wohnungswesen 0,6 0,1 –0,5 –0,4 0,2 0,3 0,3 0,3
+Unternehmensdienstleister –0,2 0,2 –0,7 –0,3 0,0 0,3 0,1 0,4
+öffentliche Dienstleister 0,7 0,3 1,5 0,0 –0,2 0,4 0,2 0,3
+sonstige Dienstleister 0,8 0,0 0,5 –0,3 –0,3 0,0 0,2 0,2
+1
+Verkettete Volumina, saison- und kalenderbereinigt.
+Quellen: Statistisches Bundesamt; ab 2. Quartal 2025: Prognose des IWH.
+53
+=== Seite 20
+Konjunkturelle Belebung in Deutschland – strukturelle Probleme und … Konjunktur aktuell — Jg. 13 (2), 2025
+Abbildung A3 Abbildung A4
+Reales Bruttoinlandsprodukt in Deutschland Reale Exporte
+S aison- und arbeitstäglich bereinigter Verlauf S aison- und arbeitstäglich bereinigter Verlauf
+1
+Ursprungswerte: Veränderung gegenüber dem Vorjahr in %.
+1
+Ursprungswerte: Veränderung gegenüber dem Vorjahr in %.
+Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH; Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH;
+ab 2. Quartal 2025: Prognose des IWH. ab 2. Quartal 2025: Prognose des IWH.
+Abbildung A5 Abbildung A6
+Reale Importe Reale Investitionen in Ausrüstungen
+S aison- und arbeitstäglich bereinigter Verlauf S aison- und arbeitstäglich bereinigter Verlauf
+1 1
+Ursprungswerte: Veränderung gegenüber dem Vorjahr in %. Ursprungswerte: Veränderung gegenüber dem Vorjahr in %.
+Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH; Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH;
+ab 2. Quartal 2025: Prognose des IWH. ab 2. Quartal 2025: Prognose des IWH.
+54
+=== Seite 21
+Konjunktur aktuell — Jg. 13 (2), 2025 Konjunkturelle Belebung in Deutschland – strukturelle Probleme und …
+Abbildung A7 Abbildung A8
+Reale Bauinvestitionen Reale Konsumausgaben der privaten Haushalte1
+S aison- und arbeitstäglich bereinigter Verlauf S aison- und arbeitstäglich bereinigter Verlauf
+1 2
+Einschließlich Organisationen ohne Erwerbszweck. – Ursprungswerte:
+1
+Ursprungswerte: Veränderung gegenüber dem Vorjahr in %. V eränderung gegenüber dem Vorjahr in %.
+Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH; Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH;
+ab 2. Quartal 2025: Prognose des IWH. ab 2. Quartal 2025: Prognose des IWH.
+Abbildung A9 Abbildung A10
+Verbraucherpreise in Deutschland Erwerbstätige
+S aison- und arbeitstäglich bereinigter Verlauf I nlandskonzept, saisonbereinigter Verlauf
+1
+1 Ursprungswerte: Veränderung gegenüber dem Vorjahr in tausend
+Ursprungswerte: Veränderung gegenüber dem Vorjahr in %. P ersonen.
+Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH; Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH;
+ab 2. Quartal 2025: Prognose des IWH. ab 2. Quartal 2025: Prognose des IWH.
+55
+=== Seite 24
+Konjunkturelle Belebung in Deutschland – strukturelle Probleme und … Konjunktur aktuell — Jg. 13 (2), 2025
+Tabelle A14
+Hauptaggregate der Sektoren
+Jahresergebnisse 2024
+in Mrd. Euro gesamte Kapital- Staat priv. Haushalte und übrige Welt
+Volkswirtschaft gesellschaften priv. Org. o. E.
+1 = Bruttowertschöpfung 3 899,6 2 620,0 469,2 810,4 –
+2 – Abschreibungen 886,8 487,1 119,4 280,2 –
+3 = Nettowertschöpfung1 3 012,8 2 132,9 349,7 530,2 –169,0
+4 – geleistete Arbeitnehmerentgelte 2 350,2 1 704,1 358,3 287,8 20,0
+5 – geleistete sonstige Produktionsabgaben 41,5 30,6 0,3 10,6 –
+6 + empfangene sonstige Subventionen 64,0 61,7 0,2 2,2 –
+7 = Betriebsüberschuss/Selbstständigeneinkommen 685,2 460,0 –8,7 233,9 –188,9
+8 + empfangene Arbeitnehmerentgelte 2 355,9 – – 2 355,9 14,2
+9 – geleistete Subventionen 54,4 – 54,4 – 9,8
+10 + empfangene Produktions- und Importabgaben 441,8 – 441,8 – 5,6
+11 – geleistete Vermögenseinkommen 1 100,6 1 007,6 46,1 46,9 431,7
+12 + empfangene Vermögenseinkommen 1 248,2 742,5 34,3 471,4 284,1
+13 = Primäreinkommen (Nettonationaleinkommen) 3 576,1 194,9 366,9 3 014,3 –326,5
+14 – geleistete Einkommen- und Vermögensteuern 539,0 128,2 – 410,8 14,8
+15 + empfangene Einkommen- und Vermögensteuern 553,1 – 553,1 – 0,7
+16 – geleistete Nettosozialbeiträge2 910,9 – – 910,9 3,7
+17 + empfangene Nettosozialbeiträge2 909,6 153,0 755,7 0,8 5,0
+18 – geleistete monetäre Sozialleistungen 787,8 84,7 702,3 0,8 0,8
+19 + empfangene monetäre Sozialleistungen 777,7 – – 777,7 10,9
+20 – geleistete sonstige laufende Transfers 464,4 271,2 90,4 102,7 98,1
+21 + empfangene sonstige laufende Transfers 402,7 237,2 31,4 134,1 159,8
+22 = verfügbares Einkommen (Ausgabenkonzept) 3 517,1 101,0 914,4 2 501,7 –267,5
+23 – Konsumausgaben 3 230,6 – 960,2 2 270,4 –
+24 + Zunahme betrieblicher Versorgungsansprüche – –57,7 – 57,7 –
+25 = Sparen 286,4 43,3 –45,9 289,0 –267,5
+26 – geleistete Vermögenstransfers 113,6 13,2 84,4 16,1 8,4
+27 + empfangene Vermögenstransfers 91,2 50,7 20,6 19,9 30,8
+28 – Bruttoinvestitionen 905,7 503,0 125,7 277,1 –
+29 + Abschreibungen 886,8 487,1 119,4 280,2 –
+30 – Nettozugang an nicht produzierten Vermögensgütern 16,4 16,6 –0,2 0,0 –16,4
+31 = Finanzierungssaldo 228,7 48,3 –115,6 296,0 –228,7
+nachrichtlich:
+32 verfügbares Einkommen (Ausgabenkonzept) 3 517,1 101,0 914,4 2 501,7 –267,5
+33 – geleistete soziale Sachtransfers 594,9 – 594,9 – –
+34 + empfangene soziale Sachtransfers 594,9 – – 594,9 –
+35 = verfügbares Einkommen (Verbrauchskonzept) 3 517,1 101,0 319,5 3 096,6 –267,5
+36 – Konsum3 3 230,6 – 365,4 2 865,3 –
+37 + Zunahme betrieblicher Versorgungsansprüche – –57,7 – 57,7 –
+38 = Sparen 286,4 43,3 –45,9 289,0 –267,5
+1
+Für den Sektor übrige Welt Importe abzüglich Exporte aus der bzw. an die übrige Welt.
+2
+Einschließlich Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.
+3
+Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte, private Organisationen o. E. Individualkonsum (einschl. Konsumausgaben des
+S taates für den Individualverbrauch, d. h. einschließlich sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt.
+58
+=== Seite 25
+Konjunktur aktuell — Jg. 13 (2), 2025 Konjunkturelle Belebung in Deutschland – strukturelle Probleme und …
+noch: Hauptaggregate der Sektoren
+Jahresergebnisse 2025
+in Mrd. Euro gesamte Kapital- Staat priv. Haushalte und übrige Welt
+Volkswirtschaft gesellschaften priv. Org. o. E.
+1 = Bruttowertschöpfung 4 008,5 2 690,2 484,3 834,0 –
+2 – Abschreibungen 917,7 505,1 123,3 289,4 –
+3 = Nettowertschöpfung1 3 090,8 2 185,2 361,1 544,6 –144,2
+4 – geleistete Arbeitnehmerentgelte 2 444,8 1 774,9 368,6 301,3 21,1
+5 – geleistete sonstige Produktionsabgaben 46,7 34,3 0,3 12,1 –
+6 + empfangene sonstige Subventionen 62,0 59,0 0,2 2,8 –
+7 = Betriebsüberschuss/Selbstständigeneinkommen 661,3 434,9 –7,7 234,0 –165,4
+8 + empfangene Arbeitnehmerentgelte 2 451,3 – – 2 451,3 14,6
+9 – geleistete Subventionen 52,8 – 52,8 – 9,2
+10 + empfangene Produktions- und Importabgaben 465,3 – 465,3 – 5,6
+11 – geleistete Vermögenseinkommen 1 091,9 990,1 54,5 47,3 473,6
+12 + empfangene Vermögenseinkommen 1 254,4 739,0 34,6 480,8 311,2
+13 = Primäreinkommen (Nettonationaleinkommen) 3 687,6 183,8 385,0 3 118,8 –316,8
+14 – geleistete Einkommen- und Vermögensteuern 552,5 130,8 – 421,7 15,9
+15 + empfangene Einkommen- und Vermögensteuern 567,7 – 567,7 – 0,8
+16 – geleistete Nettosozialbeiträge2 968,8 – – 968,8 3,8
+17 + empfangene Nettosozialbeiträge2 967,6 157,0 809,8 0,8 5,0
+18 – geleistete monetäre Sozialleistungen 831,1 87,2 743,1 0,8 0,8
+19 + empfangene monetäre Sozialleistungen 821,9 – – 821,9 10,0
+20 – geleistete sonstige laufende Transfers 480,6 275,3 92,4 112,9 107,7
+21 + empfangene sonstige laufende Transfers 422,2 254,6 32,3 135,3 166,1
+22 = verfügbares Einkommen (Ausgabenkonzept) 3 633,9 102,0 959,4 2 572,5 –263,1
+23 – Konsumausgaben 3 348,3 – 998,4 2 350,0 –
+24 + Zunahme betrieblicher Versorgungsansprüche – –57,4 – 57,4 –
+25 = Sparen 285,6 44,7 –39,0 279,9 –263,1
+26 – geleistete Vermögenstransfers 106,2 7,6 77,5 21,1 8,7
+27 + empfangene Vermögenstransfers 90,9 48,3 23,8 18,8 24,0
+28 – Bruttoinvestitionen 940,2 522,1 130,5 287,6 –
+29 + Abschreibungen 917,7 505,1 123,3 289,4 –
+30 – Nettozugang an nicht produzierten Vermögensgütern 14,4 14,3 –0,3 0,4 –14,4
+31 = Finanzierungssaldo 233,4 54,0 –99,6 279,0 –233,4
+nachrichtlich:
+32 verfügbares Einkommen (Ausgabenkonzept) 3 633,9 102,0 959,4 2 572,5 –263,1
+33 – geleistete soziale Sachtransfers 625,4 – 625,4 – –
+34 + empfangene soziale Sachtransfers 625,4 – – 625,4 –
+35 = verfügbares Einkommen (Verbrauchskonzept) 3 633,9 102,0 334,0 3 197,9 –263,1
+36 – Konsum3 3 348,3 – 373,0 2 975,3 –
+37 + Zunahme betrieblicher Versorgungsansprüche – –57,4 – 57,4 –
+38 = Sparen 285,6 44,7 –39,0 279,9 –263,1
+1
+Für den Sektor übrige Welt Importe abzüglich Exporte aus der bzw. an die übrige Welt.
+2
+Einschließlich Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.
+3
+Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte, private Organisationen o. E. Individualkonsum (einschl. Konsumausgaben des
+S taates für den Individualverbrauch, d. h. einschließlich sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt; 2025 und 2026: Prognose des IWH.
+59
+=== Seite 26
+Konjunkturelle Belebung in Deutschland – strukturelle Probleme und … Konjunktur aktuell — Jg. 13 (2), 2025
+noch: Hauptaggregate der Sektoren
+Jahresergebnisse 2026
+in Mrd. Euro gesamte Kapital- Staat priv. Haushalte und übrige Welt
+Volkswirtschaft gesellschaften priv. Org. o. E.
+1 = Bruttowertschöpfung 4 143,6 2 783,5 501,6 858,6 –
+2 – Abschreibungen 951,1 526,2 127,4 297,6 –
+3 = Nettowertschöpfung1 3 192,5 2 257,3 374,2 561,0 –129,7
+4 – geleistete Arbeitnehmerentgelte 2 514,5 1 824,2 380,7 309,6 21,6
+5 – geleistete sonstige Produktionsabgaben 53,9 39,7 0,3 14,0 –
+6 + empfangene sonstige Subventionen 59,2 56,4 0,2 2,6 –
+7 = Betriebsüberschuss/Selbstständigeneinkommen 683,3 449,8 –6,6 240,1 –151,3
+8 + empfangene Arbeitnehmerentgelte 2 521,0 – – 2 521,0 15,1
+9 – geleistete Subventionen 50,0 – 50,0 – 9,2
+10 + empfangene Produktions- und Importabgaben 474,7 – 474,7 – 5,7
+11 – geleistete Vermögenseinkommen 1 112,8 1 003,8 60,3 48,6 521,9
+12 + empfangene Vermögenseinkommen 1 280,8 752,4 35,5 493,0 353,8
+13 = Primäreinkommen (Nettonationaleinkommen) 3 797,0 198,3 393,2 3 205,5 –307,8
+14 – geleistete Einkommen- und Vermögensteuern 566,5 139,6 – 426,9 16,7
+15 + empfangene Einkommen- und Vermögensteuern 582,4 – 582,4 – 0,8
+16 – geleistete Nettosozialbeiträge2 1 007,1 – – 1 007,1 3,9
+17 + empfangene Nettosozialbeiträge2 1 006,0 161,5 843,7 0,8 5,0
+18 – geleistete monetäre Sozialleistungen 868,7 89,9 777,9 0,8 0,8
+19 + empfangene monetäre Sozialleistungen 859,6 – – 859,6 9,8
+20 – geleistete sonstige laufende Transfers 502,2 278,1 100,5 123,6 118,3
+21 + empfangene sonstige laufende Transfers 442,2 273,3 33,5 135,4 178,2
+22 = verfügbares Einkommen (Ausgabenkonzept) 3 742,8 125,5 974,4 2 643,0 –253,6
+23 – Konsumausgaben 3 452,9 – 1 036,9 2 416,0 –
+24 + Zunahme betrieblicher Versorgungsansprüche – –57,0 – 57,0 –
+25 = Sparen 289,9 68,5 –62,5 283,9 –253,6
+26 – geleistete Vermögenstransfers 105,4 6,2 81,2 18,0 9,5
+27 + empfangene Vermögenstransfers 90,3 49,4 21,7 19,3 24,7
+28 – Bruttoinvestitionen 987,4 544,5 141,5 301,4 –
+29 + Abschreibungen 951,1 526,2 127,4 297,6 –
+30 – Nettozugang an nicht produzierten Vermögensgütern 14,4 13,1 –0,3 1,6 –14,4
+31 = Finanzierungssaldo 224,1 80,2 –135,8 279,8 –224,1
+nachrichtlich:
+32 verfügbares Einkommen (Ausgabenkonzept) 3 742,8 125,5 974,4 2 643,0 –253,6
+33 – geleistete soziale Sachtransfers 655,0 – 655,0 – –
+34 + empfangene soziale Sachtransfers 655,0 – – 655,0 –
+35 = verfügbares Einkommen (Verbrauchskonzept) 3 742,8 125,5 319,4 3 298,0 –253,6
+36 – Konsum3 3 452,9 – 381,8 3 071,1 –
+37 + Zunahme betrieblicher Versorgungsansprüche – –57,0 – 57,0 –
+38 = Sparen 289,9 68,5 –62,5 283,9 –253,6
+1
+Für den Sektor übrige Welt Importe abzüglich Exporte aus der bzw. an die übrige Welt.
+2
+Einschließlich Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.
+3
+Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte, private Organisationen o. E. Individualkonsum (einschl. Konsumausgaben des
+S taates für den Individualverbrauch, d. h. einschließlich sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt; 2025 und 2026: Prognose des IWH.
+60
+=== Seite 27
+Konjunktur aktuell — Jg. 13 (2), 2025 Konjunkturelle Belebung in Deutschland – strukturelle Probleme und …
+Tabelle A15
+VGR–Tabellen
+Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnung für Deutschland
+2025 2026
+Vorausschätzung für die Jahre 2025 und 2026 2024 2025 2026
+1 Hj 2 Hj 1 Hj 2 Hj
+1 Entstehung des Inlandsprodukts
+Veränderung in % gegenüber dem Vorjahr
+Erwerbstätige 0,2 0,0 0,1 –0,1 0,2 0,3 –0,2
+Arbeitsvolumen –0,1 –0,1 0,2 –0,2 0,0 –0,1 0,5
+Arbeitsstunden je Erwerbstätige –0,3 –0,2 0,1 –0,1 –0,2 –0,4 0,7
+Produktivität1 –0,1 0,5 0,9 0,2 0,9 0,9 0,9
+Bruttoinlandsprodukt, preisbereinigt –0,2 0,4 1,1 0,0 0,8 0,9 1,4
+2 Verwendung des Inlandsprodukts in jeweiligen Preisen
+a) Mrd. EUR
+Konsumausgaben 3 230,6 3 348,3 3 452,9 1 633,0 1 715,3 1 681,4 1 771,5
+private Haushalte2 2 270,4 2 350,0 2 416,0 1 145,6 1 204,4 1 174,7 1 241,4
+Staat 960,2 998,4 1 036,9 487,4 510,9 506,8 530,1
+Anlageinvestitionen 898,5 930,8 978,3 450,0 480,8 469,4 509,0
+Ausrüstungen 464,8 482,4 507,1 236,0 246,4 246,7 260,4
+Bauten 265,3 268,9 281,9 127,7 141,3 131,8 150,1
+Ausrüstungen 168,4 179,4 189,3 86,3 93,1 90,9 98,4
+Vorratsveränderung3 7,2 9,4 9,1 12,3 -2,9 12,9 -3,8
+inländische Verwendung 4 136,3 4 288,6 4 440,4 2 095,3 2 193,2 2 163,8 2 276,6
+Außenbeitrag 169,0 144,2 129,7 82,5 61,8 77,2 52,5
+Exporte 1 799,6 1 801,6 1 840,1 902,8 898,8 905,0 935,1
+Importe 1 630,6 1 657,3 1 710,4 820,3 837,0 827,8 882,5
+Bruttoinlandsprodukt 4 305,3 4 432,8 4 570,1 2 177,8 2 255,0 2 241,0 2 329,1
+b) Veränderung in % gegenüber dem Vorjahr
+Konsumausgaben 3,9 3,6 3,1 3,7 3,6 3,0 3,3
+private Haushalte2 2,9 3,5 2,8 3,3 3,7 2,5 3,1
+Staat 6,1 4,0 3,9 4,7 3,3 4,0 3,8
+Anlageinvestitionen –0,2 3,6 5,1 2,4 4,7 4,3 5,9
+Bauten –0,3 3,8 5,1 2,7 4,9 4,5 5,7
+Ausrüstungen –3,8 1,4 4,8 –0,7 3,4 3,3 6,2
+sonstige Anlageinvestitionen 6,6 6,5 5,5 6,7 6,4 5,3 5,7
+Inländische Verwendung 2,9 3,7 3,5 4,1 3,3 3,3 3,8
+Exporte –0,9 0,1 2,1 –0,9 1,1 0,2 4,0
+Importe –1,1 1,6 3,2 2,7 0,6 0,9 5,4
+Bruttoinlandsprodukt 2,9 3,0 3,1 2,5 3,5 2,9 3,3
+nachrichtlich in % in Relation zum nominalen BIP:
+Außenbeitrag 3,9 3,3 2,8 3,8 2,7 3,4 2,3
+3 Verwendung des Inlandsprodukts, verkettete Volumenangaben (Referenzjahr 2020)
+a) Mrd. EUR
+Konsumausgaben 2 705,4 2 736,4 2 767,6 1 345,7 1 390,7 1 360,3 1 407,3
+private Haushalte2 1 885,3 1 905,8 1 924,9 934,7 971,1 943,5 981,4
+Staat 820,7 831,2 843,4 411,4 419,9 417,3 426,2
+Anlageinvestitionen 711,4 717,5 738,4 347,8 369,7 354,9 383,4
+Bauten 335,2 337,6 345,6 166,0 171,6 168,8 176,8
+Ausrüstungen 226,3 225,0 233,4 106,7 118,3 109,0 124,4
+sonstige Anlageinvestitionen 153,1 158,5 163,4 76,4 82,1 78,5 84,9
+inländische Verwendung 3 452,7 3 489,4 3 543,3 1 717,1 1 772,3 1 740,5 1 802,7
+Exporte 1 499,0 1 483,3 1 496,8 744,1 739,3 739,1 757,8
+Importe 1 342,4 1 348,9 1 375,8 666,9 682,0 670,1 705,7
+Bruttoinlandsprodukt 3 606,9 3 621,4 3 661,9 1 793,1 1 828,3 1 808,4 1 853,5
+b) Veränderung in % gegenüber dem Vorjahr
+Konsumausgaben 1,1 1,1 1,1 1,2 1,1 1,1 1,2
+private Haushalte2 0,2 1,1 1,0 0,9 1,3 0,9 1,1
+Staat 3,2 1,3 1,5 1,9 0,7 1,4 1,5
+Anlageinvestitionen –2,7 0,9 2,9 –0,4 2,1 2,0 3,7
+Bauten –3,2 0,7 2,4 –0,4 1,8 1,7 3,0
+Ausrüstungen –5,4 –0,6 3,7 –2,8 1,5 2,2 5,2
+sonstige Anlageinvestitionen 3,9 3,6 3,1 3,5 3,6 2,7 3,3
+inländische Verwendung 0,3 1,1 1,5 1,4 0,7 1,4 1,7
+Exporte –1,8 –1,0 0,9 –2,3 0,3 –0,7 2,5
+Importe –0,7 0,5 2,0 1,0 0,0 0,5 3,5
+Bruttoinlandsprodukt –0,2 0,4 1,1 0,0 0,8 0,9 1,4
+61
+=== Seite 28
+Konjunkturelle Belebung in Deutschland – strukturelle Probleme und … Konjunktur aktuell — Jg. 13 (2), 2025
+noch: Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnung für Deutschland
+2025 2026
+Vorausschätzung für die Jahre 2025 und 2026 2024 2025 2026
+1 Hj 2 Hj 1 Hj 2 Hj
+4 Preisniveau der Verwendungsseite des Inlandsprodukts (2020=100)
+Veränderung in % gegenüber dem Vorjahr
+private Konsumausgaben2 2,7 2,4 1,8 2,5 2,3 1,6 2,0
+Konsumausgaben des Staates 2,8 2,7 2,4 2,7 2,6 2,5 2,2
+Anlageinvestitionen 2,6 2,7 2,1 2,8 2,6 2,2 2,1
+Bauten 3,0 3,1 2,7 3,1 3,0 2,7 2,6
+Ausrüstungen 1,7 2,0 1,0 2,1 1,9 1,1 1,0
+Exporte 0,9 1,2 1,2 1,5 0,8 0,9 1,5
+Importe –0,4 1,1 1,2 1,7 0,6 0,4 1,9
+Bruttoinlandsprodukt 3,1 2,6 2,0 2,5 2,6 2,0 1,9
+5 Einkommensentstehung und -verteilung
+a) Mrd. EUR
+Primäreinkommen der privaten Haushalte2 3 014,3 3 118,8 3 205,5 1 525,9 1 592,9 1 563,8 1 641,7
+Sozialbeiträge der Arbeitgeber 402,6 427,5 442,2 208,0 219,4 215,6 226,7
+Bruttolöhne und -gehälter 1 953,3 2 023,8 2 078,7 970,7 1 053,1 999,8 1 079,0
+übrige Primäreinkommen4 658,4 667,5 684,5 347,2 320,3 348,4 336,1
+Primäreinkommen der übrigen Sektoren 561,8 568,8 591,6 265,3 303,5 276,4 315,1
+Nettonationaleinkommen (Primäreinkommen) 3 576,1 3 687,6 3 797,0 1 791,3 1 896,3 1 840,2 1 956,8
+Abschreibungen 886,8 917,7 951,1 456,0 461,7 472,4 478,8
+Bruttonationaleinkommen 4 462,8 4 605,3 4 748,2 2 247,3 2 358,0 2 312,5 2 435,6
+nachrichtlich:
+Volkseinkommen 3 188,7 3 275,0 3 372,3 1 589,2 1 685,8 1 633,9 1 738,4
+Arbeitnehmerentgelt 2 355,9 2 451,3 2 521,0 1 178,7 1 272,5 1 215,3 1 305,6
+Unternehmens- und Vermögenseinkommen 832,8 823,8 851,3 410,4 413,3 418,6 432,8
+b) Veränderung in % gegenüber dem Vorjahr
+Primäreinkommen der privaten Haushalte2 4,1 3,5 2,8 3,5 3,4 2,5 3,1
+Sozialbeiträge der Arbeitgeber 5,1 6,2 3,5 6,9 5,5 3,6 3,3
+Bruttolöhne und -gehälter 5,8 3,6 2,7 3,9 3,3 3,0 2,5
+Bruttolöhne und -gehälter je Beschäftigten 5,4 3,4 2,6 3,9 3,0 2,6 2,6
+übrige Primäreinkommen4 –1,3 1,4 2,5 0,6 2,3 0,4 4,9
+Primäreinkommen der übrigen Sektoren –3,1 1,2 4,0 –1,4 3,8 4,2 3,8
+Nettonationaleinkommen (Primäreinkommen) 2,9 3,1 3,0 2,8 3,4 2,7 3,2
+Abschreibungen 3,6 3,5 3,6 3,4 3,5 3,6 3,7
+Bruttonationaleinkommen 3,0 3,2 3,1 2,9 3,5 2,9 3,3
+nachrichtlich:
+Volkseinkommen 1,8 2,7 3,0 2,4 3,0 2,8 3,1
+Arbeitnehmerentgelt 5,7 4,0 2,8 4,4 3,7 3,1 2,6
+Unternehmens- und Vermögenseinkommen –7,8 –1,1 3,3 –3,1 1,0 2,0 4,7
+6 Einkommen und Einkommensverwendung der privaten Haushalte2
+a) Mrd. EUR
+Masseneinkommen 1 971,8 2 040,0 2 101,5 982,9 1 057,1 1 016,1 1 085,3
+Nettolöhne und -gehälter 1 364,1 1 398,7 1 430,8 664,7 734,0 682,9 747,8
+monetäre Sozialleistungen 777,7 821,9 859,6 407,7 414,2 427,0 432,7
+abz Abgaben auf soziale Leistungen,
+verbrauchsnahe Steuern 170,0 180,6 188,9 89,5 91,1 93,7 95,2
+übrige Primäreinkommen4 658,4 667,5 684,5 347,2 320,3 348,4 336,1
+sonstige Transfers (Saldo)5 –128,5 –135,0 –143,0 –62,0 –73,0 –66,0 –77,0
+Verfügbares Einkommen 2 501,7 2 572,5 2 643,0 1 268,1 1 304,4 1 298,6 1 344,4
+Zunahme betrieblicher Versorgungsansprüche 57,7 57,4 57,0 27,9 29,5 27,7 29,3
+K onsumausgaben 2 270,4 2 350,0 2 416,0 1 145,6 1 204,4 1 174,7 1 241,4
+Sparen 289,0 279,9 283,9 150,3 129,5 151,6 132,3
+S parquote (%)6 11,3 10,6 10,5 11,6 9,7 11,4 9,6
+b) Veränderung in % gegenüber dem Vorjahr
+Masseneinkommen 6,1 3,5 3,0 3,7 3,3 3,4 2,7
+Nettolöhne und -gehälter 6,0 2,5 2,3 2,7 2,4 2,7 1,9
+monetäre Sozialleistungen 6,4 5,7 4,6 6,0 5,3 4,7 4,5
+abz Abgaben auf soziale Leistungen,
+verbrauchsnahe Steuern 6,8 6,3 4,6 7,2 5,3 4,7 4,5
+übrige Primäreinkommen4 –1,3 1,4 2,5 0,6 2,3 0,4 4,9
+Verfügbares Einkommen 4,0 2,8 2,7 2,7 2,9 2,4 3,1
+Konsumausgaben 2,9 3,5 2,8 3,3 3,7 2,5 3,1
+Sparen 12,6 –3,2 1,4 –2,4 –4,1 0,8 2,2
+62

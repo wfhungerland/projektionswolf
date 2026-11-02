@@ -1,0 +1,600 @@
+=== Seite 2
+Deutschland in der Stagnation festgefahren Konjunktur aktuell — Jg. 12 (1), 2024
+Konjunktur aktuell: Deutschland in der Stagnation festgefahren –
+privater Konsum weiter unter dem Niveau von vor der Pandemie
+*
+Arbeitskreis Konjunktur des IWH
+Zusammenfassung
+Zu Beginn des Jahres 2024 zeigen Stimmungsindikatoren etwas aufgehellte Aussichten für die internationale
+Konjunktur. Dabei war die weltweite Produktionsdynamik noch bis Ende 2023 zurückgegangen. Ursachen waren
+hohe Inflation, restriktive Geldpolitik und in Europa der russische Krieg gegen die Ukraine sowie in China die dortige
+Immobilienkrise. Die Finanzmärkte sind vor diesem Hintergrund bemerkenswert optimistisch, vor allem in Erwar-
+tung von Leitzinssenkungen ab dem Sommer. Zudem erwarten sich die Anleger wohl Wachstumsimpulse von Inno-
+vationen auf dem Gebiet der Künstlichen Intelligenz. Für die USA kann die Tatsache optimistisch stimmen, dass die
+restriktive Geldpolitik bisher überraschend wenig gedämpft hat. In Europa dürfte die Dynamik dagegen recht schwach
+bleiben. Gründe sind unter anderem die höheren Energiekosten des Verarbeitenden Gewerbes und industrie-
+politische Maßnahmen in den USA und in China, welche europäische Anbieter benachteiligen.
+Deutschland befindet sich in einer lang anhaltenden Stagnation. Ende 2023 waren privater Konsum und Investitionen
+immer noch niedriger als vor Pandemieausbruch vor vier Jahren. Für die schlechte Wirtschaftslage gibt es mehrere
+Ursachen. Hohe Inflation hat die Realeinkommen gedrückt, und die Haushalte halten sich mit Konsumausgaben zu-
+rück. Die Industrieproduktion der energieintensiven Wirtschaftszweige ist deutlich rückläufig. Aber auch allgemeine
+Sorgen um die Wettbewerbsfähigkeit des Standorts Deutschland drücken die Ausgabenneigung von Haushalten und
+Unternehmen. Was die Konjunktur stützt, ist der recht robuste Arbeitsmarkt. Der jüngste Anstieg der realen Arbeit-
+nehmereinkommen dürfte sich im Jahr 2024 fortsetzen und ein deshalb wieder höherer privater Konsum die Unter-
+nehmensinvestitionen stabilisieren. Allerdings werden die Bauinvestitionen weiter durch die gestiegenen Finanzie-
+rungskosten belastet. Die wirtschaftliche Stagnation wird sich im ersten Halbjahr fortsetzen, für die Zeit danach ist mit
+eTianbeemll ele ichten Anziehen der Konjunktur zu rechnen.
+Gesamtwirtschaftliche Eckdaten der Prognose des IWH für Deutschland in den Jahren 2022 bis 2025
+2022 2023 2024 2025
+Veränderung des preisbereinigten BIP gegenüber dem Vorjahr in %
+Deutschland 1,8 –0,3 0,2 1,5
+darunter: Ostdeutschland1 3,0 0,5 0,4 1,4
+Veränderung gegenüber dem Vorjahr in %
+Arbeitsvolumen 1,3 0,4 –0,2 0,1
+Tariflöhne je Stunde 2,2 3,7 4,0 2,7
+Effektivlöhne je Stunde 4,3 6,3 4,3 3,0
+Lohnstückkosten2 3,5 6,7 4,1 2,2
+Verbraucherpreisindex 6,9 5,9 2,6 1,8
+in 1 000 Personen
+Erwerbstätige (Inland) 45 596 45 933 46 097 46 071
+Arbeitslose3 2 418 2 609 2 682 2 569
+in %
+Arbeitslosenquote4 5,3 5,7 5,8 5,6
+darunter: Ostdeutschland1 6,7 7,2 7,3 7,1
+% in Relation zum nominalen Bruttoinlandsprodukt
+Finanzierungssaldo des Staates –2,5 –2,1 –1,3 –1,2
+Leistungsbilanzsaldo 4,4 6,8 7,2 7,3
+1 2 3 4
+Ostdeutschland einschließlich Berlin. – Berechnungen des IWH auf Stundenbasis. – Definition gemäß der Bundesagentur für Arbeit (BA). – Arbeitslose
+in % der zivilen Erwerbspersonen (Definition gemäß der Bundesagentur für Arbeit).
+Quellen: Statistisches Bundesamt; ab 2024: Prognose des IWH (Stand: 06.03.2024).
+*
+Drygalla, Andrej; Exß, Franziska; Heinisch, Katja; Holtemöller, Oliver; Kämpfe, Martina; Kozyrev, Boris; Lindner, Axel;
+Mukherjee, Sukanya; Sardone, Alessandro; Schult, Christoph; Schultz, Birgit; Zeddies, Götz.
+2
+=== Seite 7
+Konjunktur aktuell — Jg. 12 (1), 2024 Deutschland in der Stagnation festgefahren
+wirkt erneut das Inflationsausgleichsgesetz, und die Ausgaben für die Landesverteidigung und die Verkehrsinfra-
+struktur werden weiter ausgeweitet. Schließlich wirkt die Einführung der Kindergrundsicherung zum 1. Januar 2025
+expansiv. Alles in allem beläuft sich der restriktive Effekt aus diskretionären finanzpolitischen Maßnahmen im Jahr
+R20ü2c5k aläuuf 0fi,g5%e Iinn vReeslatittiioonn zeunm uBnrudt tsocinhlawnadcsphreo dEuxkpt,o nratech d 0r,7ü%ck iemn J adhire z uKvoonr.j unktur in Deutschland
+Deutschland befindet sich gegenwärtig in einer lang anhaltenden Stagnation. Im vergangenen Jahr ging das Brutto-
+inlandsprodukt sogar um 0,3% gegenüber 2022 zurück, und Ende 2023 war es lediglich ein halbes Prozent höher als
+vier Jahre zuvor, also vor Ausbruch der Pandemie. Zugelegt hat seitdem lediglich der öffentliche Konsum (um knapp
+7½%), während private Konsumausgaben und Investitionen unter ihrem Niveau von vor vier Jahren liegen (vgl. Ab-
+bildung 6). Die Exporte hatten sich zwischenzeitlich erholt, sinken aber bereits seit Ende 2022. Die Bauinvestitionen
+sind sogar seit drei Jahren trendmäßig rückläufig.
+Abbildung 6
+Reale Konsumausgaben der privaten Haushalte und reale Anlageinvestitionen
+105
+Index 2019Q4 = 100, saison- und kalenderbereinigt
+100
+Privater Konsum
+95
+Anlageinvestitionen
+90 Prognosezeitraum
+85
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Quellen: Statistisches Bundesamt; Berechnungen des IWH; ab 1. Quartal 2024: Prognose des IWH.
+Auch das Bruttoinlandsprodukt ist zuletzt gesunken; gegenüber dem Vorquartal ist die Produktion im vierten Quartal
+2023 um 0,3% zurückgegangen (vgl. Tabelle A5). Lediglich der private und der öffentliche Konsum haben im Schluss-
+quartal leicht zugelegt, während Investitionen und Exporte kräftig gesunken sind. Für die schlechte Wirtschaftslage
+lassen sich mehrere Ursachen ausmachen. So haben Angebotsrestriktionen infolge der Pandemie und danach die
+Energiekrise ab dem Jahr 2021 zu hoher Inflation geführt und die real verfügbaren Einkommen der privaten Haus-
+halte gedrückt. Die Realeinkommen sind gegenwärtig etwas niedriger als vor der Pandemie, im vierten Quartal haben
+sie (bei sinkender Teuerung) in etwa stagniert. Auch ist die Sparquote der privaten Haushalte mit 11,4% etwa einen
+Prozentpunkt höher als vor der Pandemie. Hier dürfte sich eine erhebliche Verunsicherung der Konsumenten wider-
+spiegeln, die auch Stimmungsumfragen wie das GfK Konsumklima zeigen. Dabei spielt die Unsicherheit über den künf-
+2
+tigen Kurs der Wirtschaftspolitik eine Rolle, aber viele Menschen machen sich auch Sorgen um die internationale
+Wettbewerbsposition der deutschen Wirtschaft. Anlass zu solchen Sorgen gibt vor allem die Lage im Verarbeitenden
+Gewerbe. Dort lag die Bruttowertschöpfung im vierten Quartal 2023 um etwa 2% unter Vorjahresniveau (vgl. Tabelle
+A12). Ein Grund dafür sind die wohl auch langfristig höheren Energiepreise in Europa aufgrund des Wegfalls russi-
+schen Erdgases. Die Industrieproduktion in den besonders energieintensiven Wirtschaftszweigen ist seit Anfang 2022
+3
+deutlich zurückgegangen, in der Chemieindustrie um über 20%. Dabei sind gegenwärtig, auch wegen der schwachen
+2
+Dass die wirtschaftspolitische Unsicherheit in Deutschland gegenwärtig und auch im Vergleich zu den europäischen Nachbar-
+ländern besonders hoch ist, zeigt etwa der auf der Auswertung von Zeitungsartikeln beruhende Economic Policy Uncertainty
+Index von Baker, Blohm und Davies.
+3
+Allerdings könnte der Rückgang der Wertschöpfung im Wirtschaftszweig Chemie (für die keine amtlichen Zahlen vorliegen)
+geringer als der Rückgang der Industrieproduktion sein. So verhält es sich nämlich, wenn der Verlauf der Wertschöpfung im
+gesamten Verarbeitenden Gewerbes in den vergangenen Jahren mit dem der Industrieproduktion verglichen wird. Die Diffe-
+renzen dürften damit zusammenhängen, dass bei der Messung der Industrieproduktion nicht aktuelle Gewichte und Vorleis-
+tungsquoten verwendet werden.
+7
+=== Seite 19
+Konjunktur aktuell — Jg. 12 (1), 2024 Deutschland in der Stagnation festgefahren
+Tabelle A5
+Quartalsdaten zur wirtschaftlichen Entwicklung1
+Ve ränderung in % gegenüber dem Vorquartal 2023 2024 2025
+I II III IV I II III IV I II III IV
+private Konsumausgaben –0,6 0,2 0,0 0,2 0,1 0,1 0,2 0,5 0,6 0,5 0,4 0,3
+öffentlicher Konsum –1,4 –0,2 1,1 0,3 0,1 0,5 0,2 0,2 0,3 0,3 0,3 0,3
+Bauten 1,5 –0,5 –0,8 –1,7 –1,0 –0,8 0,2 0,5 0,5 0,5 0,5 0,5
+Ausrüstungen 1,9 0,8 1,4 –3,5 0,4 1,4 1,2 0,7 0,4 1,8 1,2 0,7
+sonstige Anlagen –1,6 0,0 0,3 0,7 –0,8 0,2 0,8 1,1 –0,2 0,5 0,8 1,0
+Vorratsinvestitionen2 –0,5 0,5 –0,6 –0,1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+inländische Verwendung –0,9 0,6 –0,4 –0,3 0,0 0,1 0,4 0,5 0,5 0,5 0,4 0,3
+Außenbeitrag2 1,0 –0,5 0,4 0,0 0,1 0,0 0,1 0,1 0,0 –0,1 –0,1 –0,1
+Exporte –0,2 –0,9 –0,7 –1,6 0,9 0,9 1,0 0,9 0,9 0,8 0,8 0,8
+Importe –2,2 0,1 –1,5 –1,7 0,9 1,0 1,0 0,9 0,9 1,0 1,1 1,0
+Bruttoinlandsprodukt 0,1 0,0 0,0 –0,3 0,0 0,2 0,4 0,5 0,5 0,4 0,3 0,2
+1 2
+Saison– und arbeitstäglich bereinigte Werte; in Vorjahrespreisen. – Beitrag zur Veränderung des Bruttoinlandprodukts in Prozentpunkten (Lundberg–
+Komponenten).
+Quellen: Statistisches Bundesamt; ab 1. Quartal 2024: Prognose des IWH.
+T abelle A6
+Beiträge der Verwendungskomponenten zur Veränderung des Bruttoinlandsprodukts1
+In Prozentpunkten 2022 2023 2024 2025
+Konsumausgaben 2,3 –0,7 0,6 1,1
+private Konsumausgaben 1,9 –0,4 0,3 0,8
+Konsumausgaben des Staates 0,3 –0,3 0,3 0,2
+Bruttoanlageinvestitionen 0,0 –0,1 –0,3 0,5
+Bauten –0,2 –0,3 –0,4 0,1
+Ausrüstungen 0,3 0,2 0,0 0,3
+sonstige Anlagen 0,0 0,0 0,0 0,1
+Vorratsveränderung 0,7 0,0 –0,2 0,0
+inländische Verwendung 3,0 –0,9 0,1 1,6
+Außenbeitrag –1,2 0,6 0,1 0,0
+Exporte 1,6 –1,1 0,2 1,6
+Importe –2,8 1,7 –0,1 –1,6
+Bruttoinlandsprodukt 1,8 –0,3 0,2 1,5
+1
+Abweichungen in der Summe rundungsbedingt.
+Quellen: Statistisches Bundesamt; 2024 und 2025: Prognose des IWH.
+T abelle A7
+Statistische Komponenten der BIP-Wachstumsrate
+In % bzw. Prozentpunkten 2022 2023 2024 2025
+statistischer Überhang1 0,9 –0,2 –0,2 0,6
+Jahresverlaufsrate2 0,8 –0,2 1,1 1,5
+jahresdurchschnittliche BIP-Rate, kalenderbereinigt 1,9 –0,1 0,2 1,7
+Kalendereffekt3 –0,1 –0,2 0,0 0,0
+jahresdurchschnittliche BIP-Rate, kalenderjährlich4 1,8 –0,3 0,2 1,5
+1
+Saison- und kalenderbereinigtes reales Bruttoinlandsprodukt (BIP) im vierten Quartal des Vorjahres in Relation zum kalenderbereinigten Quartalsdurch-
+2 3 4
+schnitt des Vorjahres. – Jahresveränderungsrate im vierten Quartal, saison- und kalenderbereinigt. – In % des realen BIP. – Abweichungen in der Summe
+rundungsbedingt.
+Quellen: Statistisches Bundesamt; Berechnungen des IWH; 2024 und 2025: Prognose des IWH.
+19
+=== Seite 20
+Deutschland in der Stagnation festgefahren Konjunktur aktuell — Jg. 12 (1), 2024
+Tabelle A8
+Erwerbstätigkeit nach Beschäftigtengruppen in Deutschland 2023 und 2024
+Veränderung in
+2023 20241
+1 000 Personen %
+Arbeitnehmer (Inland) 42 054 42 242 188 0,4
+sozialversicherungspflichtig Beschäftigte 34 791 34 968 177 0,5
+Geförderte2 100 90 –10 –10,0
+nicht geförderte 34 691 34 878 187 0,5
+ausschließlich geringfügig entlohnte Beschäftigte 4 197 4 190 –6 –0,2
+sonstige 3 066 3 084 18 0,6
+Selbstständige einschließlich mithelfender Familienangehöriger 3 879 3 855 –24 –0,6
+geförderte Selbstständigkeit3 2 2 0 –10,0
+nicht geförderte Selbstständigkeit 3 877 3 853 –24 –0,6
+Erwerbstätige (Inland) 45 933 46 097 164 0,4
+staatlich subventionierte Erwerbstätige 291 269 –21 –7,3
+geförderte Erwerbstätige4 102 92 –10 –10,0
+Kurzarbeit 188 177 –11 –5,8
+ungeförderte Erwerbstätigkeit 45 642 45 828 185 0,4
+nachrichtlich:
+Anteil der staatlich subventionierten Erwerbstätigen an den Erwerbstätigen
+0,6 0,6
+(Inland) in %
+1 2
+Prognose des IWH. – Eingliederungszuschüsse (einschl. für Schwerbehinderte); Einstiegsgeld bei abhängiger SV-pflichtiger Erwerbstätigkeit; Beschäfti-
+gungszuschuss; ESF Bundesprogramm zur Eingliederung langzeitarbeitsloser Leistungsberechtigter; Eingliederung von Langzeitarbeitslosen (§16 e SGB II);
+3 4
+Teilhabe am Arbeitsmarkt; Förderung von Arbeitsverhältnissen. – ohne Gründungszuschuss – Geförderte sozialversicherungspflichtig Beschäftigte sowie
+geförderte Selbstständige.
+Q uellen: Statistisches Bundesamt; Bundesagentur für Arbeit; Berechnungen bzw. Schätzungen des IWH.
+Tabelle A9
+Indikatoren zur Außenwirtschaft
+2022 2023 2024 2025
+Veränderung gegenüber dem Vorjahr in %
+Exporte, real 3,3 –2,2 0,4 3,4
+Importe, real 6,6 –3,4 0,2 3,9
+% in Relation zum nominalen Bruttoinlandsprodukt
+Exporte, nominal 50,9 47,1 46,6 47,5
+Importe, nominal 49,0 43,0 42,2 43,1
+Außenbeitrag
+Mrd. Euro, nominal 76,3 171,5 189,5 194,3
+Q uellen: Statistisches Bundesamt; 2024 und 2025: Prognose des IWH.
+Tabelle A10
+Reale Anlageinvestitionen in Deutschland
+V eränderung gegenüber Vorjahr in % 2022 2023 2024 2025
+Anlageinvestitionen insgesamt 0,1 –0,7 –1,5 2,2
+Bauinvestitionen insgesamt –1,8 –2,7 –3,2 1,3
+Wohnbauten –2,2 –3,4 –5,1 1,5
+Nichtwohnbauten insgesamt –1,1 –1,5 –0,3 1,1
+gewerbliche Bauten –1,6 –2,9 –0,3 1,3
+öffentliche Bauten –0,1 1,7 –0,2 0,7
+Ausrüstungen 4,0 3,0 0,2 3,8
+Sonstige Anlagen –0,7 –0,6 0,7 2,0
+Quellen: Statistisches Bundesamt; 2024 und 2025: Prognose des IWH.
+20
+=== Seite 21
+Konjunktur aktuell — Jg. 12 (1), 2024 Deutschland in der Stagnation festgefahren
+Tabelle A11
+Verfügbare Einkommen und Konsumausgaben der privaten Haus-
+halte1 in Deutschland
+V eränderung gegenüber dem Vorjahr in % 2022 2023 2024 2025
+verfügbare Einkommen, nominal 6,3 6,1 3,2 2,9
+darunter:
+Nettolöhne und -gehälter (Summe) 5,3 9,0 3,8 2,5
+monetäre Sozialleistungen 1,7 6,4 4,6 4,9
+Selbstständigen-, Vermögenseinkommen 10,8 1,5 1,2 1,8
+Sparen –20,7 8,1 1,2 –1,2
+private Konsumausgaben, nominal 10,9 5,6 3,3 3,3
+nachrichtlich:
+Bruttolöhne und -gehälter (Summe) 5,8 7,0 4,2 3,3
+Sparquote (in %) 11,1 11,4 11,2 10,7
+Preisindex des privaten Konsums 6,7 6,3 2,6 1,7
+private Konsumausgaben, real 3,9 –0,7 0,7 1,6
+1
+Einschließlich der privaten Organisationen ohne Erwerbszweck.
+Quellen: Statistisches Bundesamt; 2024 und 2025: Prognose des IWH.
+Tabelle A12
+Bruttoinlandsprodukt und Bruttowertschöpfung nach Wirtschaftsbereichen1
+Veränderungsrate gegenüber dem Vorquartal in % 2023 2024
+1. Quartal 2. Quartal 3. Quartal 4. Quartal 1. Quartal 2. Quartal 3. Quartal 4. Quartal
+Bruttoinlandsprodukt 0,1 0,0 0,0 –0,3 0,0 0,2 0,4 0,5
+Darunter
+Bruttowertschöpfung 0,3 0,0 0,0 –0,4 0,0 0,2 0,4 0,5
+darunter
+Produzierendes Gewerbe ohne Bau –0,2 –0,4 –1,4 –0,2 –0,2 0,2 0,4 0,6
+Verarbeitendes Gewerbe 0,1 0,3 –0,9 –1,4 –0,2 0,0 0,4 0,6
+Energie- und Wasserversorgung –1,9 –4,8 –4,6 8,6 –0,7 1,0 0,5 0,5
+Baugewerbe 5,0 –0,4 –0,1 –2,6 –0,5 –0,5 0,1 0,6
+Handel, Verkehr, Gastgewerbe –0,7 0,1 0,9 –0,9 0,2 0,4 0,7 0,7
+Information und Kommunikation 0,0 1,9 0,9 –0,6 0,4 0,4 0,6 0,5
+Finanz- und Versicherungsdienstleister –2,2 –1,0 0,9 0,8 0,3 0,1 0,1 0,1
+Grundstücks- und Wohnungswesen 0,9 0,4 0,6 –0,6 0,1 0,1 0,2 0,2
+Unternehmensdienstleister –0,1 0,6 0,0 0,2 0,2 0,2 0,3 0,6
+öffentliche Dienstleister 1,0 –0,6 0,0 0,1 0,2 0,1 0,4 0,4
+sonstige Dienstleister 2,6 0,3 1,0 –0,9 0,6 0,2 0,3 0,3
+1
+Verkettete Volumina, saison- und kalenderbereinigt.
+Quellen: Statistisches Bundesamt; ab 1. Quartal 2024: Prognose des IWH.
+21
+=== Seite 22
+Deutschland in der Stagnation festgefahren Konjunktur aktuell — Jg. 12 (1), 2024
+Abbildung A3 Abbildung A4
+Reales Bruttoinlandsprodukt in Deutschland Reale Exporte
+Saison- und arbeitstäglich bereinigter Verlauf Saison- und arbeitstäglich bereinigter Verlauf
+1 1
+Ursprungswerte: Veränderung gegenüber dem Vorjahr in %. Ursprungswerte: Veränderung gegenüber dem Vorjahr in %.
+Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH; Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH;
+ab 1. Quartal 2024: Prognose des IWH. ab 1. Quartal 2024: Prognose des IWH.
+Abbildung A5 Abbildung A6
+Reale Importe Reale Investitionen in Ausrüstungen
+Saison- und arbeitstäglich bereinigter Verlauf Saison- und arbeitstäglich bereinigter Verlauf
+1 1
+Ursprungswerte: Veränderung gegenüber dem Vorjahr in %. Ursprungswerte: Veränderung gegenüber dem Vorjahr in %.
+Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH; Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH;
+a b 1. Quartal 2024: Prognose des IWH. a b 1. Quartal 2024: Prognose des IWH.
+22
+=== Seite 23
+Konjunktur aktuell — Jg. 12 (1), 2024 Deutschland in der Stagnation festgefahren
+Abbildung A7 Abbildung A8
+Reale Bauinvestitionen Reale Konsumausgaben der privaten Haushalte1
+Saison- und arbeitstäglich bereinigter Verlauf Saison- und arbeitstäglich bereinigter Verlauf
+1 2
+1 Einschließlich Organisationen ohne Erwerbszweck. - Ursprungswerte:
+Ursprungswerte: Veränderung gegenüber dem Vorjahr in %. Veränderung gegenüber dem Vorjahr in %.
+Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH; Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH;
+ab 1. Quartal 2024: Prognose des IWH. ab 1. Quartal 2023: Prognose des IWH.
+Abbildung A9 Abbildung A10
+Verbraucherpreise in Deutschland Erwerbstätige
+Saison- und arbeitstäglich bereinigter Verlauf Inlandskonzept, saisonbereinigter Verlauf
+1
+1 Ursprungswerte: Veränderung gegenüber dem Vorjahr in tausend Perso-
+Ursprungswerte: Veränderung gegenüber dem Vorjahr in %. nen.
+Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH; Quellen: Statistisches Bundesamt; Berechnungen und Darstellung des IWH;
+a b 1. Quartal 2024: Prognose des IWH. a b 1. Quartal 2024: Prognose des IWH.
+23
+=== Seite 26
+Deutschland in der Stagnation festgefahren Konjunktur aktuell — Jg. 12 (1), 2024
+Tabelle A14
+Hauptaggregate der Sektoren
+Jahresergebnisse 2023
+in Mrd. Euro gesamte Kapitalgesell- Staat priv. Haushalte und übrige Welt
+Volkswirtschaft schaften priv. Org. o. E.
+1 = Bruttowertschöpfung 3 765,8 2 585,7 430,1 750,0 –
+2 – Abschreibungen 848,1 471,7 111,0 265,4 –
+3 = Nettowertschöpfung1 2 917,8 2 114,0 319,1 484,6 –171,5
+4 – geleistete Arbeitnehmerentgelte 2 154,9 1 560,4 327,4 267,2 18,6
+5 – geleistete sonstige Produktionsabgaben 41,1 30,5 0,3 10,3 –
+6 + empfangene sonstige Subventionen 33,9 31,8 0,2 2,0 –
+7 = Betriebsüberschuss/Selbstständigeneinkommen 755,7 554,9 –8,4 209,2 –190,1
+8 + empfangene Arbeitnehmerentgelte 2 158,8 – – 2 158,8 14,7
+9 – geleistete Subventionen 66,3 – 66,3 – 4,0
+10 + empfangene Produktions- und Importabgaben 424,0 – 424,0 – 8,8
+11 – geleistete Vermögenseinkommen 896,5 820,2 36,1 40,2 339,2
+12 + empfangene Vermögenseinkommen 1 062,5 579,1 30,0 453,4 173,3
+13 = Primäreinkommen (Nettonationaleinkommen) 3 438,1 313,8 343,2 2 781,1 –336,5
+14 – geleistete Einkommen- und Vermögensteuern 515,8 126,3 – 389,6 14,5
+15 + empfangene Einkommen- und Vermögensteuern 529,7 – 529,7 – 0,6
+16 – geleistete Nettosozialbeiträge2 859,8 – – 859,8 4,9
+17 + empfangene Nettosozialbeiträge2 860,0 149,5 709,6 0,9 4,7
+18 – geleistete monetäre Sozialleistungen 741,1 78,8 661,4 0,9 0,7
+19 + empfangene monetäre Sozialleistungen 732,7 – – 732,7 9,0
+20 – geleistete sonstige laufende Transfers 440,7 248,9 91,5 100,3 85,6
+21 + empfangene sonstige laufende Transfers 382,8 220,4 31,1 131,3 143,5
+22 = verfügbares Einkommen (Ausgabenkonzept) 3 386,0 229,8 860,7 2 295,5 –284,5
+23 – Konsumausgaben 2 978,2 – 888,5 2 089,7 –
+24 + Zunahme betrieblicher Versorgungsansprüche – –62,4 – 62,4 –
+25 = Sparen 407,8 167,4 –27,8 268,2 –284,5
+26 – geleistete Vermögenstransfers 121,1 22,7 82,6 15,8 7,4
+27 + empfangene Vermögenstransfers 104,1 57,5 19,4 27,3 24,4
+28 – Bruttoinvestitionen 971,4 564,2 108,0 299,1 –
+29 + Abschreibungen 848,1 471,7 111,0 265,4 –
+30 – Nettozugang an nicht produzierten Vermögensgütern 19,1 19,4 –0,7 0,4 –19,1
+31 = Finanzierungssaldo 248,4 90,2 –87,4 245,6 –248,4
+nachrichtlich:
+32 verfügbares Einkommen (Ausgabenkonzept) 3 386,0 229,8 860,7 2 295,5 –284,5
+33 – geleistete soziale Sachtransfers 550,0 – 550,0 – –
+34 + empfangene soziale Sachtransfers 550,0 – – 550,0 –
+35 = verfügbares Einkommen (Verbrauchskonzept) 3 386,0 229,8 310,7 2 845,5 –284,5
+36 – Konsum3 2 978,2 – 338,5 2 639,7 –
+37 + Zunahme betrieblicher Versorgungsansprüche – –62,4 – 62,4 –
+38 = Sparen 407,8 167,4 –27,8 268,2 –284,5
+1
+Für den Sektor übrige Welt Importe abzüglich Exporte aus der bzw. an die übrige Welt.
+2
+Einschließlich Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.
+3
+Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte, private Organisationen o. E. Individualkonsum (einschl. Konsumaus-
+g aben des Staates für den Individualverbrauch, d. h. einschließlich sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt.
+26
+=== Seite 27
+Konjunktur aktuell — Jg. 12 (1), 2024 Deutschland in der Stagnation festgefahren
+noch: Hauptaggregate der Sektoren
+Jahresergebnisse 2024
+in Mrd. Euro gesamte Kapitalgesell- Staat priv. Haushalte und übrige Welt
+Volkswirtschaft schaften priv. Org. o. E.
+1 = Bruttowertschöpfung 3 846,0 2 617,0 456,0 773,0 –
+2 – Abschreibungen 876,8 489,4 116,3 271,1 –
+3 = Nettowertschöpfung1 2 969,3 2 127,6 339,7 501,9 –189,5
+4 – geleistete Arbeitnehmerentgelte 2 249,9 1 624,2 347,7 278,1 20,6
+5 – geleistete sonstige Produktionsabgaben 47,3 35,2 0,3 11,8 –
+6 + empfangene sonstige Subventionen 30,7 28,2 0,2 2,3 –
+7 = Betriebsüberschuss/Selbstständigeneinkommen 702,7 496,5 –8,1 214,3 –210,1
+8 + empfangene Arbeitnehmerentgelte 2 254,9 – – 2 254,9 15,6
+9 – geleistete Subventionen 36,8 – 36,8 – 4,0
+10 + empfangene Produktions- und Importabgaben 447,4 – 447,4 – 8,8
+11 – geleistete Vermögenseinkommen 694,1 616,1 42,2 35,7 374,7
+12 + empfangene Vermögenseinkommen 868,1 385,0 32,2 450,9 200,6
+13 = Primäreinkommen (Nettonationaleinkommen) 3 542,4 265,4 392,5 2 884,4 –363,7
+14 – geleistete Einkommen- und Vermögensteuern 534,6 127,6 – 407,0 15,2
+15 + empfangene Einkommen- und Vermögensteuern 549,2 – 549,2 – 0,6
+16 – geleistete Nettosozialbeiträge2 900,1 – – 900,1 5,2
+17 + empfangene Nettosozialbeiträge2 900,6 155,1 744,7 0,9 4,7
+18 – geleistete monetäre Sozialleistungen 774,5 80,9 692,8 0,9 0,7
+19 + empfangene monetäre Sozialleistungen 766,1 – – 766,1 9,1
+20 – geleistete sonstige laufende Transfers 459,0 255,2 96,6 107,3 90,2
+21 + empfangene sonstige laufende Transfers 399,6 234,5 31,9 133,2 149,7
+22 = verfügbares Einkommen (Ausgabenkonzept) 3 489,6 191,4 928,9 2 369,3 –310,9
+23 – Konsumausgaben 3 087,8 – 928,2 2 159,6 –
+24 + Zunahme betrieblicher Versorgungsansprüche – –61,8 – 61,8 –
+25 = Sparen 401,8 129,6 0,7 271,5 –310,9
+26 – geleistete Vermögenstransfers 104,1 8,9 79,3 15,8 7,0
+27 + empfangene Vermögenstransfers 89,5 47,3 19,7 22,5 21,6
+28 – Bruttoinvestitionen 967,6 562,1 114,2 291,3 –
+29 + Abschreibungen 876,8 489,4 116,3 271,1 –
+30 – Nettozugang an nicht produzierten Vermögensgütern 19,1 19,2 –0,7 0,5 –19,1
+31 = Finanzierungssaldo 277,3 76,1 –56,1 257,4 –277,3
+nachrichtlich:
+32 verfügbares Einkommen (Ausgabenkonzept) 3 489,6 191,4 928,9 2 369,3 –310,9
+33 – geleistete soziale Sachtransfers 575,0 – 575,0 – –
+34 + empfangene soziale Sachtransfers 575,0 – – 575,0 –
+35 = verfügbares Einkommen (Verbrauchskonzept) 3 489,6 191,4 353,9 2 944,3 –310,9
+36 – Konsum3 3 087,8 – 353,2 2 734,6 –
+37 + Zunahme betrieblicher Versorgungsansprüche – –61,8 – 61,8 –
+38 = Sparen 401,8 129,6 0,7 271,5 –310,9
+1
+Für den Sektor übrige Welt Importe abzüglich Exporte aus der bzw. an die übrige Welt.
+2
+Einschließlich Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.
+3
+Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte, private Organisationen o. E. Individualkonsum (einschl. Konsumaus-
+g aben des Staates für den Individualverbrauch, d. h. einschließlich sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt; 2024 und 2025: Prognose des IWH.
+27
+=== Seite 28
+Deutschland in der Stagnation festgefahren Konjunktur aktuell — Jg. 12 (1), 2024
+noch: Hauptaggregate der Sektoren
+Jahresergebnisse 2025
+in Mrd. Euro gesamte Kapitalgesell- Staat priv. Haushalte und übrige Welt
+Volkswirtschaft schaften priv. Org. o. E.
+1 = Bruttowertschöpfung 3 970,5 2 698,5 477,0 795,0 –
+2 – Abschreibungen 905,3 504,7 121,8 278,7 –
+3 = Nettowertschöpfung1 3 065,2 2 193,8 355,2 516,3 –194,3
+4 – geleistete Arbeitnehmerentgelte 2 338,7 1 686,7 363,2 288,8 21,3
+5 – geleistete sonstige Produktionsabgaben 52,0 38,6 0,3 13,1 –
+6 + empfangene sonstige Subventionen 28,7 25,7 0,2 2,9 –
+7 = Betriebsüberschuss/Selbstständigeneinkommen 703,3 494,1 –8,1 217,3 –215,6
+8 + empfangene Arbeitnehmerentgelte 2 343,4 – – 2 343,4 16,6
+9 – geleistete Subventionen 34,4 – 34,4 – 4,0
+10 + empfangene Produktions- und Importabgaben 465,9 – 465,9 – 8,9
+11 – geleistete Vermögenseinkommen 615,0 532,9 46,6 35,4 407,3
+12 + empfangene Vermögenseinkommen 794,9 302,9 33,2 458,8 227,3
+13 = Primäreinkommen (Nettonationaleinkommen) 3 658,2 264,1 410,0 2 984,2 –374,1
+14 – geleistete Einkommen- und Vermögensteuern 551,6 127,3 – 424,2 15,9
+15 + empfangene Einkommen- und Vermögensteuern 566,9 – 566,9 – 0,6
+16 – geleistete Nettosozialbeiträge2 949,5 – – 949,5 5,4
+17 + empfangene Nettosozialbeiträge2 950,2 160,8 788,6 0,9 4,7
+18 – geleistete monetäre Sozialleistungen 812,5 83,1 728,5 0,9 0,7
+19 + empfangene monetäre Sozialleistungen 803,9 – – 803,9 9,3
+20 – geleistete sonstige laufende Transfers 477,8 263,4 102,8 111,7 95,1
+21 + empfangene sonstige laufende Transfers 418,0 249,5 32,8 135,8 154,9
+22 = verfügbares Einkommen (Ausgabenkonzept) 3 605,8 200,5 966,9 2 438,4 –321,7
+23 – Konsumausgaben 3 191,7 – 960,4 2 231,3 –
+24 + Zunahme betrieblicher Versorgungsansprüche – –61,2 – 61,2 10,0
+25 = Sparen 414,2 139,3 6,6 268,3 –321,7
+26 – geleistete Vermögenstransfers 104,3 6,6 81,4 16,3 6,6
+27 + empfangene Vermögenstransfers 89,7 46,9 20,5 22,3 21,2
+28 – Bruttoinvestitionen 997,7 577,1 118,9 301,7 –
+29 + Abschreibungen 905,3 504,7 121,8 278,7 –
+30 – Nettozugang an nicht produzierten Vermögensgütern 19,1 18,5 –0,7 1,2 –19,1
+31 = Finanzierungssaldo 288,1 88,7 –50,7 250,1 –288,1
+nachrichtlich:
+32 verfügbares Einkommen (Ausgabenkonzept) 3 605,8 200,5 966,9 2 438,4 –321,7
+33 – geleistete soziale Sachtransfers 593,3 – 593,3 – –
+34 + empfangene soziale Sachtransfers 593,3 – – 593,3 –
+35 = verfügbares Einkommen (Verbrauchskonzept) 3 605,8 200,5 373,7 3 031,7 –321,7
+36 – Konsum3 3 191,7 – 367,1 2 824,6 –
+37 + Zunahme betrieblicher Versorgungsansprüche – –61,2 – 61,2 –
+38 = Sparen 414,2 139,3 6,6 268,3 –321,7
+1
+Für den Sektor übrige Welt Importe abzüglich Exporte aus der bzw. an die übrige Welt.
+2
+Einschließlich Sozialbeiträge aus Kapitalerträgen abzüglich Dienstleistungsentgelt privater Sozialschutzsysteme.
+3
+Für den Sektor Staat Kollektivkonsum, für den Sektor private Haushalte, private Organisationen o. E. Individualkonsum (einschl. Konsumaus-
+g aben des Staates für den Individualverbrauch, d. h. einschließlich sozialer Sachleistungen).
+Quellen: Statistisches Bundesamt; 2024 und 2025: Prognose des IWH.
+28
+=== Seite 29
+Konjunktur aktuell — Jg. 12 (1), 2024 Deutschland in der Stagnation festgefahren
+Tabelle A15
+VGR-Tabellen
+Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnung für Deutschland
+2024 2025
+Vorausschätzung für die Jahre 2024 und 2025 2023 2024 2025
+1 Hj 2 Hj 1 Hj 2 Hj
+1 Entstehung des Inlandsprodukts
+Veränderung in % gegenüber dem Vorjahr
+Erwerbstätige 0,7 0,4 –0,1 0,4 0,3 0,0 –0,2
+Arbeitsvolumen 0,4 –0,2 0,1 –0,7 0,3 0,0 0,3
+Arbeitsstunden je Erwerbstätige –0,3 –0,5 0,2 –1,1 0,0 –0,1 0,4
+Produktivität1 –0,7 0,4 1,4 0,3 0,4 1,4 1,4
+Bruttoinlandsprodukt, preisbereinigt –0,3 0,2 1,5 –0,4 0,8 1,4 1,7
+2 Verwendung des Inlandsprodukts in jeweiligen Preisen
+a) Mrd. EUR
+Konsumausgaben 2 978,2 3 087,8 3 191,7 1 507,7 1 580,1 1 559,1 1 632,6
+private Haushalte2 2 089,7 2 159,6 2 231,3 1 054,6 1 105,0 1 090,6 1 140,7
+Staat 888,5 928,2 960,4 453,1 475,2 468,5 491,8
+Anlageinvestitionen 904,2 906,1 939,3 439,6 466,6 452,5 487,0
+Ausrüstungen 486,8 479,7 494,1 237,5 242,3 242,4 251,8
+Bauten 275,5 281,4 295,4 133,6 147,8 139,5 156,0
+Ausrüstungen 141,9 145,0 149,8 68,4 76,6 70,6 79,2
+Vorratsveränderung3 67,2 61,5 58,4 32,2 29,3 33,7 24,7
+inländische Verwendung 3 949,6 4 055,4 4 189,4 1 979,5 2 076,1 2 045,3 2 144,3
+Außenbeitrag 171,5 189,5 194,3 102,5 87,0 106,9 87,3
+Exporte 1 942,5 1 979,6 2 082,2 972,7 1 006,9 1 020,3 1 061,9
+Importe 1 771,0 1 790,1 1 888,0 870,2 919,9 913,4 974,6
+Bruttoinlandsprodukt 4 121,2 4 245,0 4 383,6 2 082,0 2 163,1 2 152,2 2 231,6
+b) Veränderung in % gegenüber dem Vorjahr
+Konsumausgaben 5,2 3,7 3,4 4,1 3,3 3,4 3,3
+private Haushalte2 5,6 3,3 3,3 3,2 3,5 3,4 3,2
+Staat 4,4 4,5 3,5 6,1 3,0 3,4 3,5
+Anlageinvestitionen 5,6 0,2 3,7 –0,7 1,2 2,9 4,4
+Bauten 5,0 –1,5 3,0 –2,3 –0,5 2,1 3,9
+Ausrüstungen 8,7 2,1 5,0 0,8 3,4 4,4 5,6
+sonstige Anlageinvestitionen 1,9 2,2 3,3 1,9 2,4 3,2 3,4
+Inländische Verwendung 3,9 2,7 3,3 2,6 2,8 3,3 3,3
+Exporte –1,6 1,9 5,2 –0,7 4,6 4,9 5,5
+Importe –6,7 1,1 5,5 –2,3 4,5 5,0 5,9
+Bruttoinlandsprodukt 6,3 3,0 3,3 3,1 2,9 3,4 3,2
+nachrichtlich in % in Relation zum nominalen BIP:
+Außenbeitrag 4,2 4,5 4,4 4,9 4,0 5,0 3,9
+3 Verwendung des Inlandsprodukts, verkettete Volumenangaben (Referenzjahr 2015)
+a) Mrd. EUR
+Konsumausgaben 2 394,4 2 415,9 2 451,1 1 190,6 1 225,3 1 205,5 1 245,7
+private Haushalte2 1 692,7 1 704,4 1 732,0 838,4 866,0 849,4 882,5
+Staat 700,5 710,2 717,9 351,6 358,7 355,4 362,6
+Anlageinvestitionen 657,4 647,2 661,5 313,8 333,4 318,3 343,2
+Bauten 306,2 296,3 300,2 146,8 149,6 147,4 152,9
+Ausrüstungen 229,2 229,7 238,5 109,0 120,7 112,4 126,1
+sonstige Anlageinvestitionen 123,9 124,8 127,4 58,7 66,2 59,7 67,6
+inländische Verwendung 3 099,7 3 102,9 3 154,1 1 526,6 1 576,4 1 547,8 1 606,3
+Exporte 1 605,2 1 610,9 1 666,2 795,6 815,2 820,6 845,6
+Importe 1 447,2 1 450,1 1 506,4 707,9 742,3 732,0 774,4
+Bruttoinlandsprodukt 3 264,9 3 270,8 3 321,2 1 617,5 1 653,3 1 639,4 1 681,7
+b) Veränderung in % gegenüber dem Vorjahr
+Konsumausgaben –1,0 0,9 1,5 0,8 1,0 1,2 1,7
+private Haushalte2 –0,7 0,7 1,6 0,5 0,9 1,3 1,9
+Staat –1,5 1,4 1,1 1,7 1,1 1,1 1,1
+Anlageinvestitionen –0,7 –1,5 2,2 –2,7 –0,4 1,5 2,9
+Bauten –2,7 –3,2 1,3 –4,4 –2,0 0,4 2,2
+Ausrüstungen 3,0 0,2 3,8 –1,3 1,7 3,1 4,5
+sonstige Anlageinvestitionen –0,6 0,7 2,0 0,2 1,2 1,9 2,2
+inländische Verwendung –0,9 0,1 1,6 –0,5 0,7 1,4 1,9
+Exporte –2,2 0,4 3,4 –1,8 2,6 3,1 3,7
+Importe –3,4 0,2 3,9 –2,1 2,5 3,4 4,3
+Bruttoinlandsprodukt –0,3 0,2 1,5 –0,4 0,8 1,4 1,7
+29
+=== Seite 30
+Deutschland in der Stagnation festgefahren Konjunktur aktuell — Jg. 12 (1), 2024
+noch: Die wichtigsten Daten der Volkswirtschaftlichen Gesamtrechnung für Deutschland
+2024 2025
+Vorausschätzung für die Jahre 2024 und 2025 2023 2024 2025
+1 Hj 2 Hj 1 Hj 2 Hj
+4 Preisniveau der Verwendungsseite des Inlandsprodukts (2015=100)
+Veränderung in % gegenüber dem Vorjahr
+private Konsumausgaben2 6,3 2,6 1,7 2,7 2,5 2,1 1,3
+Konsumausgaben des Staates 6,0 3,0 2,4 4,3 1,9 2,3 2,4
+Anlageinvestitionen 6,3 1,8 1,4 2,1 1,6 1,5 1,4
+Bauten 7,9 1,8 1,6 2,2 1,5 1,6 1,7
+Ausrüstungen 5,6 1,9 1,1 2,2 1,7 1,2 1,0
+Exporte 0,6 1,6 1,7 1,1 2,0 1,7 1,7
+Importe –3,4 0,9 1,5 –0,2 1,9 1,5 1,5
+Bruttoinlandsprodukt 6,6 2,8 1,7 3,5 2,1 2,0 1,4
+5 Einkommensentstehung und -verteilung
+a) Mrd. EUR
+Primäreinkommen der privaten Haushalte2 2 781,1 2 884,4 2 984,2 1 411,4 1 473,0 1 463,3 1 520,8
+Sozialbeiträge der Arbeitgeber 379,9 400,8 428,6 194,5 206,4 208,6 220,0
+Bruttolöhne und -gehälter 1 778,9 1 854,1 1 914,8 885,2 968,9 915,1 999,7
+übrige Primäreinkommen4 622,3 629,5 640,7 331,7 297,8 339,6 301,1
+Primäreinkommen der übrigen Sektoren 657,0 657,9 674,0 302,7 355,3 310,9 363,3
+Nettonationaleinkommen (Primäreinkommen) 3 438,1 3 542,4 3 658,2 1 714,1 1 828,3 1 774,3 1 884,1
+Abschreibungen 848,1 876,8 905,3 439,3 437,5 451,8 453,5
+Bruttonationaleinkommen 4 286,2 4 419,1 4 563,5 2 153,4 2 265,8 2 226,1 2 337,6
+nachrichtlich:
+Volkseinkommen 3 080,4 3 131,7 3 226,7 1 509,3 1 622,6 1 562,0 1 664,9
+Arbeitnehmerentgelt 2 158,8 2 254,9 2 343,4 1 079,7 1 175,3 1 123,8 1 219,7
+Unternehmens- und Vermögenseinkommen 921,6 876,8 883,3 429,6 447,3 438,2 445,3
+b) Veränderung in % gegenüber dem Vorjahr
+Primäreinkommen der privaten Haushalte2 5,5 3,7 3,5 3,8 3,7 3,7 3,2
+Sozialbeiträge der Arbeitgeber 5,0 5,5 6,9 6,2 4,9 7,3 6,6
+Bruttolöhne und -gehälter 7,0 4,2 3,3 4,6 3,9 3,4 3,2
+Bruttolöhne und -gehälter je Beschäftigten 6,1 3,7 3,3 4,1 3,4 3,3 3,3
+übrige Primäreinkommen4 1,5 1,2 1,8 0,2 2,2 2,4 1,1
+Primäreinkommen der übrigen Sektoren 9,1 0,1 2,4 –0,6 0,8 2,7 2,3
+Nettonationaleinkommen (Primäreinkommen) 6,2 3,0 3,3 3,0 3,1 3,5 3,1
+Abschreibungen 7,5 3,4 3,3 4,1 2,7 2,8 3,7
+Bruttonationaleinkommen 6,4 3,1 3,3 3,2 3,0 3,4 3,2
+nachrichtlich:
+Volkseinkommen 6,6 1,7 3,0 1,0 2,3 3,5 2,6
+Arbeitnehmerentgelt 6,7 4,5 3,9 4,9 4,0 4,1 3,8
+Unternehmens- und Vermögenseinkommen 6,3 –4,9 0,7 –7,5 –2,1 2,0 –0,5
+6 Einkommen und Einkommensverwendung der privaten Haushalte2
+a) Mrd. EUR
+Masseneinkommen 1 795,6 1 868,8 1 930,7 898,7 970,1 927,6 1 003,1
+Nettolöhne und -gehälter 1 219,3 1 266,2 1 298,4 598,6 667,6 613,3 685,1
+monetäre Sozialleistungen 732,7 766,1 803,9 380,2 385,9 398,3 405,5
+abz Abgaben auf soziale Leistungen,
+verbrauchsnahe Steuern 156,4 163,5 171,5 80,1 83,3 83,9 87,6
+übrige Primäreinkommen4 622,3 629,5 640,7 331,7 297,8 339,6 301,1
+sonstige Transfers (Saldo)5 –122,4 –129,0 –133,0 –62,0 –67,0 –64,0 –69,0
+Verfügbares Einkommen 2 295,5 2 369,3 2 438,4 1 168,4 1 200,9 1 203,2 1 235,2
+Zunahme betrieblicher Versorgungsansprüche 62,4 61,8 61,2 29,9 31,9 29,6 31,5
+K onsumausgaben 2 089,7 2 159,6 2 231,3 1 054,6 1 105,0 1 090,6 1 140,7
+Sparen 268,2 271,5 268,3 143,7 127,8 142,3 126,0
+S parquote (%)6 11,4 11,2 10,7 12,0 10,4 11,5 9,9
+b) Veränderung in % gegenüber dem Vorjahr
+Masseneinkommen 8,1 4,1 3,3 4,6 3,6 3,2 3,4
+Nettolöhne und -gehälter 9,0 3,8 2,5 4,4 3,4 2,5 2,6
+monetäre Sozialleistungen 6,4 4,6 4,9 5,1 4,0 4,8 5,1
+abz Abgaben auf soziale Leistungen,
+verbrauchsnahe Steuern 6,5 4,5 4,9 5,1 4,0 4,8 5,1
+übrige Primäreinkommen4 1,5 1,2 1,8 0,2 2,2 2,4 1,1
+Verfügbares Einkommen 6,1 3,2 2,9 3,0 3,4 3,0 2,9
+Konsumausgaben 5,6 3,3 3,3 3,2 3,5 3,4 3,2
+Sparen 8,1 1,2 –1,2 0,9 1,6 –1,0 –1,4
+30

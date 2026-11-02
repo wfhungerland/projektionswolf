@@ -1,0 +1,366 @@
+=== Seite 2
+Tariff chaos overshadowing the global
+economy; fiscal package bolstering the
+German economy
+By Geraldine Dany-Knedlik, Guido Baldi, Nina Maria Brehl, Hella Engerer, Angelina Hackmann, Konstantin A. Kholodilin,
+Frederik Kurcz, Laura Pagenhardt, Jan-Christopher Scherer, Teresa Schildmann, Hannah Magdalena Seidl, Ruben Staffa, and
+K ristin Trautmann
+EXECUTIVE SUMMARY
+Despite a strong start to 2025, the German economy will the United States due to the threats of tariffs by the Trump
+experience middling growth for the time being before administration. However, private consumption also grew,
+beginning a long-awaited upturn at the end of the year. while the seasonally adjusted savings rate experienced
+DIW Berlin’s forecast indicates growth of 0.3 percent an exceptional decline. Glimmers of hope emerged for
+for 2025 and of 1.7 percent for 2026; thus, DIW Berlin is the manufacturing industry, but sentiment among service
+increasing its forecast significantly. providers dampened somewhat recently. In the second
+quarter, only slight front-loading is expected for exports,
+Expansionary fiscal policy is counteracting the effects of
+although not as strongly as in the first three months of the
+higher tariffs. From 2026 onwards, the multi-billion euro
+year. Private consumption should continue to increase,
+fiscal package is expected to provide considerable funds
+albeit at a slower pace. The situation on the labor market
+to boost consumption and investment. The new fiscal
+remains tense, as the unemployment rate is rising and
+leeway will hardly have any impact this year, as the public
+people are worried about job losses. During the second
+budget for 2025 is not expected to be passed until the
+half of 2025, the economy should cool down slightly before
+fall, which will delay planning, approval, and procurement
+speeding up at the end of the year as the fiscal policy
+procedures. Even for 2026, the funds provided are likely to
+measures gradually begin to have an impact. At 2.1 percent
+fall short of the average annual 40 billion euros that would
+in 2025, inflation will remain stable before rising slightly to
+be invested in infrastructure if the funds were distributed
+evenly over the intended 12-year period. Nevertheless, 2.2 percent in 2026. Some EU Member States, and thus the
+the positive effects will be noticeable and counteract the entire euro area, should benefit from the overall positive
+dampening effects of the structural weakness of industrial development in Germany. On balance, though, the global
+production and of foreign trade, which has been hit by economy remains clouded by US tariff policy. However,
+high US tariffs. However, risks to economic development this tariff policy will probably affect the United States itself
+remain: ongoing geopolitical tensions and a possible the most; its economy is expected to grow by only 1.4 per-
+escalation of the trade conflict between the United States cent in 2025 and by 1.6 percent in 2026. For the global
+and the EU. The German economy had a strong start to the economy, growth of 3.3 percent in 2025 and of 3.4 percent
+year primarily due to the front-loading of goods exports to in 2026 is expected.
+130 DIW Weekly Report 22–24/2025 DOI: https://doi.org/10.18723/diw_dwr:2025-22-1
+=== Seite 3
+GGEERRMMAANN EECCOONNOOMMYY
+German economy: Fiscal package providing hope
+for stronger domestic economy
+The German economy got off to a strong start in 2025: With Figure 1
+0.4 percent quarter-on-quarter growth, economic output
+Growth of real GDP in Germany
+expanded powerfully in the first three months (Figure 1).
+In billions of euros (left axis) and quarter-on-quarter in percent
+This growth was driven in part by strong exports to the United
+(right axis)
+States, which, however, were probably front-loaded due to
+the expectation of further increases in US tariffs. US trade
+930 1.5
+Forecast
+policy and the uncertainty stemming from it continue to
+1.7
+weigh on the German economy. Furthermore, the German
+925 1.0
+economy is in the middle of structural change: It is grap-
+pling with weakened competitiveness, a shortage of skilled
+920 0.5
+workers, and decarbonization. One ray of hope for long-term
+growth expectations comes in the form of the new German
+915 0
+Federal Government’s planned public investments, which
+0.3
+should support the German economy noticeably, especially
+910 –0.5
+from 2026 onward.
+–0.2
+Overall, exports increased by 3.2 percent at the beginning of 905 −1.0
+−0.3
+the year (Table 1) after shrinking by over 2.5 percent in the last
+two quarters each. In particular, goods exports to the United 900 −1.5
+2023 2024 2025 2026
+States increased markedly, whereas goods exports to other
+Level (left axis) Quarterly growth rates (right axis)
+important trade partners rose only slightly. Although exports
+Annual growth rate in percent
+are characterized by a high import intensity, meaning many
+intermediary goods for the production process are purchased Note: Forecast from the second quarter of 2025; adjusted for price, seasonal, and calendar effects..
+from abroad, imports developed less dynamically. This could Sources: National Statistical Offices; DIW Berlin Economic Outlook Summer 2025.
+indicate that the front-loaded deliveries to the United States
+© DIW Berlin 2025
+were partially supplied from existing inventories, thereby
+contributing to an unusually strong negative growth contri- The German economy will grow significantly from the end of the year.
+bution from inventories to GDP in the first quarter.
+In addition to rising exports, strong growth in private con- Trade conflict also shaping the second quarter
+sumption also supported economic performance at the begin-
+ning of the year. Although real disposable income declined Since “Liberation Day” on April 2, the United States has sig-
+slightly overall, the private households that are able to save nificantly increased tariffs on over one hundred countries,
+from their current income put aside noticeably less in the including the EU. Since then, the United States has been
+first quarter: The seasonally-adjusted savings rate fell unu- switching between threats, announcements, and tempo-
+sually sharply from 11.3 to 10.4 percent. rary suspensions to the tariffs. This caused stock markets
+to slide at times and increased uncertainty. For example,
+Besides the strong growth in private consumption, invest- tariffs on EU exports of aluminum and steel products cur-
+ments in equipment, construction, and other facilities also rently stand at 50 percent, while 25 percent tariffs continue
+saw strong growth of 0.9 percent in the first quarter, sup- to apply to vehicles and vehicle parts. In addition, there is
+porting the German domestic economy. Businesses’ strong a base tariff rate of ten percent (Box 1). Due to the uncer-
+start to the year was reflected in gross value added. The man- tain development of the trade conflict and the risk of escala-
+ufacturing industry recorded growth of one percent follow- tion, slight front-loading effects in foreign trade can also be
+ing six consecutive quarters of decline, and the services sec- expected for this quarter.
+tor also experienced growth of one percent in gross value
+added. Overall, gross value added expanded by 0.6 percent. Corporate sentiment will likely remain reserved in the cur-
+Despite this, the industrial sector in particular is still expe- rent quarter for these reasons as well. According to the
+riencing difficulties, which is reflected in the labor market. Purchasing Managers’ Index, the assessment of the busi-
+Overall, employment stagnated, while it declined in the man- ness situation in the industry remains tense and is stagnat-
+ufacturing industry once more. Furthermore, unemploy- ing slightly below the expansion threshold. At the same time,
+ment continued to rise. according to ifo Institut surveys, the first signs of a stabili-
+zation are present: The business climate has improved in
+both the manufacturing industries as well as the services
+DIW Weekly Report 22–24/2025 131
+=== Seite 4
+GERMAN ECONOMY
+Table 1
+Quarterly data on the development of expenditure and gross value-added components of real GDP
+in Germany
+In percent (quarter-on-quarter, seasonally and calendar adjusted)
+2024 2025 2026
+1 II III IV I II III IV I II III IV
+Private consumption expenditure –0.1 0.1 0.3 0.2 0.5 0.2 0.2 0.2 0.3 0.3 0.3 0.3
+Public consumption expenditure 0.5 1.5 1.2 0.4 –0.3 0.2 0.9 0.7 0.3 0.5 0.6 0.6
+Gross fixed capital formation 0.2 –1.8 –0.4 0.5 0.9 –0.2 0.3 0.8 1.1 1.4 1.6 1.8
+Construction 0.5 –1.8 –0.3 0.8 0.5 –0.4 0.1 0.4 0.7 0.8 1.2 1.4
+Machinery and equipment –0.9 –3.2 –1.1 0.2 0.7 –0.5 0.4 1.1 1.4 2.0 2.3 2.5
+Other investment 1.0 0.5 0.7 0.2 2.0 0.7 0.8 1.2 1.5 1.7 1.7 1.9
+Inventory changes1 0.0 0.0 0.9 0.5 –0.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Domestic use 0.2 0.0 1.3 0.9 –0.5 0.1 0.4 0.5 0.5 0.6 0.7 0.7
+Net exports1 0.1 –0.3 –1.1 –1.1 0.9 0.1 –0.3 –0.2 –0.1 –0.1 –0.1 –0.1
+Exports 0.1 1.8 –2.6 –3.1 3.2 0.5 –1.0 –0.2 0.2 0.2 0.2 0.2
+Imports –0.3 2.8 –0.1 –0.7 1.1 0.4 –0.2 0.3 0.3 0.5 0.6 0.6
+GDP 0.2 –0.3 0.1 –0.2 0.4 0.1 0.0 0.3 0.4 0.5 0.5 0.6
+Gross value added –0.5 –0.3 –0.4 –0.3 0.6 0.1 0.0 0.3 0.4 0.5 0.5 0.6
+Manufacturing –0.7 –0.6 –1.3 –0.3 1.0 0.1 –0.2 0.2 0.3 0.4 0.4 0.4
+Construction 0.6 –2.8 –1.0 –0.1 0.9 –0.4 0.1 0.5 0.8 1.1 1.3 1.6
+Trade, hospitality, transport 0.4 –0.7 –0.1 0.6 1.1 0.1 0.1 0.2 0.3 0.5 0.5 0.5
+Professional services provider –0.2 0.2 –0.7 –0.3 0.0 0.0 0.0 0.2 0.3 0.4 0.5 0.6
+Public services, education, health 0.7 0.3 1.5 0.0 –0.2 0.3 0.2 0.3 0.4 0.5 0.5 0.5
+1 Contribution to growth in percentage points.
+Note: Forecast from the second quarter of 2025; adjusted for price, seasonal, and calendar effects.
+Sources: National Statistical Offices; DIW Berlin Economic Outlook Summer 2025.
+© DIW Berlin 2025
+sector; in particular, corporate expectations have increased Private consumption is likely to increase, although not as
+noticeably since the beginning of the year. However, it is a strongly as in the first quarter. It is supported by contin-
+mixed picture. Uncertainty remains high, particularly in busi- ually rising wages and lower-than-expected energy prices
+ness-related services. The Purchasing Managers’ Index for (Box 2). Ongoing job worries given the rising unemployment
+the services sector has fallen noticeably since January and may on the other hand dampen households’ willingness to
+was clearly below the growth threshold of 50 index points spend. Following a decline in the first quarter, government
+in May. The ongoing weakness in the industry continues to consumption will probably only expand marginally for now
+weigh on the order situation in sectors such as engineer- due to the ongoing provisional budget. Investment activity is
+ing and IT services: According to ifo surveys, the share of likely to slow down temporarily after the strong start to the
+companies in these sectors whose business was being neg- year: For now, the unclear tariff policy and the still uncertain
+atively affected by a lack of demand has in part tripled since design of fiscal policy are making it difficult to plan invest-
+2023. The situation looks somewhat better in the consum- ment projects. There should be some slight growth from
+er-related service sectors, even if the upswing hoped for still foreign trade: Front-loaded exports to the United States will
+seems to be delayed. According to GfK, consumer sentiment probably boost exports a little overall, while imports should
+is slowly improving, but retail sales fell again in April com- only increase moderately due to weak domestic economic
+pared to the first quarter. development.
+Overall, the German economy is likely to expand by 0.1 per- Fiscal policy gradually stemming the tide
+cent in the second quarter compared to the first. The indus- against tariffs
+trial sector will probably continue to stagnate: Although man-
+ufacturing should experience a slight expansion, falling pro- Tariffs will continue to weigh on foreign trade and thus
+duction in the construction industry is expected to prevent slow down economic activity over the course of the forecast.
+stronger growth. Public service sectors are expected to sup- Following a brief ramp-up period, the comprehensive fiscal
+port production. Consumer-related and business-related ser- package should mainly boost the domestic economy. Overall,
+vices, in contrast, should contribute little to growth due to the economy is therefore expected to cool down somewhat
+the tense economic situation. at first before picking up speed again by the end of the year.
+132 DIW Weekly Report 22–24/2025
+=== Seite 5
+GERMAN ECONOMY
+Box 1
+Tariff assumptions
+Trade barriers have increased once again since the beginning of Table
+the second quarter of 2025. On April 2, so-called “Liberation Day,”
+Trade policy assumptions
+US President Trump announced country-specific tariffs on goods
+for over one hundred trade partners that came into immediate ef-
+Tariff-issuing
+fect. The tariffs were described as reciprocal, but their calculations country Trade partner Product category Tariff rate/notes
+do not correspond with the calculation method used for reciprocal United States World General Base tariff rate of 10 percent
+tariff adjustments. Instead of aligning US tariffs with other coun- United States China General 40 percent
+tries’ tariffs on US exports, the new tariffs are based on calculations 25 percent with the exception of trade compliant
+United States Mexico General
+with USMCA
+of “implied tariffs.” In this calculation, the United States’ trade
+25 percent, 10 percent on energy and potash with
+balance deficit with a country is divided by that country’s exports United States Canada General
+the exception of trade compliant with USMCA
+to the United States. These “reciprocal” tariffs are country-specific United States World Steel and aluminum 25 percent
+base tariff rates that are generally half as high as the implied tariffs Vehicles and vehicle
+United States World 25 percent
+parts
+calculated. In any case, the United States levies a base tariff of ten
+Retaliatory tariffs
+percent on every country listed. Overall, the process seems to be
+China United States General 10 percent
+arbitrary and not based on scientific results. For example, the base
+25 percent on imports over 29.8 billion Canadian
+Canada United States Selected products
+tariff for goods from China and the EU were set at 125 and 20 per- dollars
+cent, respectively. Countries exporting Amount according to the effect of US vehicle
+United States Selected products
+vehicles tariffs
+Targeted and more moderate than US tariffs
+The April 2 tariffs initially resulted in turbulence on the stock EU United States Selected products from July
+markets. For example, the Dow Jones and DAX fell by four and
+three percent, respectively, on April 3. Between April 1 and 8, they Source: DIW Berlin Economic Outlook Summer 2025.
+fell by 11 and nine. In addition, because of an increased risk pre-
+© DIW Berlin 2025
+mium, yields on ten-year US government bonds rose by almost
+0.5 percentage points. These distortions probably led to the US
+government temporarily suspending many of the very high tariffs
+on April 9. For example, the base tariff rate for imports from the take countermeasures based on the list of goods published by the
+EU was reduced from 20 to ten percent for 90 days. By the end of EU Commission for future counter tariffs, which will affect US in-
+May, the stock markets had recovered and returned to their previ- dustrial and agricultural imports in the amount of 95 billion euros.1
+ous growth paths. Even if the US tariffs from April 2 speed up trade Imposing a 35 percent tariff on this list of goods would roughly
+agreements between the United States and other countries, the represent proportional retaliation. However, as in the past, the EU
+resulting trade relationships with the United States will probably is likely to respond more cautiously in order to protect companies
+have much higher average tariffs than under the previous admin- based in the EU. Therefore, it is instead assumed that the EU will
+istration. introduce 25-percent tariffs on goods worth around 21 billion euros
+and adopt the US tariff rate of ten percent for the remaining goods
+This forecast assumes that current trade agreements will remain on the list. Although these measures are milder, they take into
+in place, such as the tariff rates between the United States and account the fact that the EU was already imposing higher average
+China, Mexico, or the United Kingdom (Table). It further assumes tariffs on US imports than vice versa before the escalation under
+that a trade agreement between the EU and United States will be the Trump administration.
+reached with a base tariff rate of ten percent. It is also assumed
+that there will be a concession on aluminum and steel tariffs, so
+that these products, vehicles, and vehicle parts will only be subject
+1 Cf. European Commission, "Reaktion auf US-Zölle: Kommission startet Konsultation und bere-
+to tariffs of 25 percent in the future. In return, the EU is likely to itet WTO-Verfahren vor," press release from May 9, 2025 (in German; available online).
+In particular, a counter effect in foreign trade is likely to Total unemployment will probably rise somewhat over the
+emerge in the second half of the year when the front-loaded course of 2025 and exacerbate the job concerns of private
+demand from the United States drops off. Furthermore, households. At the same time, real disposable income should
+Germany’s continued weak competitiveness as a business continue to grow, primarily driven by growth in the middle
+location and its consistently declining exports to China are to upper labor income groups (Box 3), as was the case in
+weighing on exports. Accordingly, it is expected that employ- 2024. Private households in these income groups may, due
+ment in the manufacturing industry will continue to decline to job concerns, decide to save a larger share of their income.
+at first while businesses adjust to these structural changes. Thus, it can be expected that the savings rate will remain
+above its long-term level for a while longer. In contrast, per-
+sistently stable prices are improving households’ willingness
+DIW Weekly Report 22–24/2025 133
+=== Seite 8
+GERMAN ECONOMY
+and consumption noticeably in 2026 while only resulting in to the demographic changes. Given the only moderate eco-
+moderate price increases. Consistent with the literature, the nomic upturn in 2025, the output gap is likely to narrow
+prospect of long-term additional public spending in antici- only marginally, amounting to an average of –1.0 percent
+pation of future contracts is likely to stimulate investments of potential GDP for 2025. With the recovery expected over
+and job creation. Private investment activity is already bene- the forecast period, the production gap will close almost
+fiting in the short term from higher depreciation allowances entirely by the end of 2026 and become noticeably positive
+as a part of the immediate investment program. A large share in the medium term.
+of state funds will likely flow into defense-related projects
+and infrastructure and thus primarily into the construction Consumer price inflation should rise slightly over the course
+industry. With a current capacity utilization of slightly below of the forecast. Following 2.2 percent inflation in 2024, fall-
+70 percent, there are short-term reserves to increase con- ing energy prices are dampening inflation, while moderate
+struction activity. The services sector, as planning and con- price increases due to expansionary fiscal policy are expected
+sulting services, should also be stimulated early on through in 2026. Overall, the DIW Berlin is maintaining its inflation
+government consumption in the form of advance payments forecast of an annual average rate of 2.1 percent for 2025. At
+for public projects. However, the situation is different for 2.2 percent, inflation should be slightly higher in 2026 than
+defense spending: Here, short-term production bottlenecks expected in spring.
+will probably limit the growth-stimulating effect. Domestic
+capacities for providing modern defense equipment and ser- The results of this forecast are subject to considerable risks.
+vices must be expanded first, which is why more imports are The uncertain nature of current US trade policy continues to
+expected in the short term. weigh on the German economy and poses a downside risk
+for both the German and global economies. Should tariffs
+Excluding major growth stimuli from the public sector in on European and German goods turn out to be higher than
+the form of infrastructure and defense orders, the structural expected, this would have negative consequences on the
+changes resulting from intensified international competi- export economy and the manufacturing industry in Germany.
+tion, higher domestic production costs, and demographic In turn, this could have negative effects on the labor market,
+changes are likely to further weigh on the recovery of the private investments, and consumption.
+German economy over the course of the forecast. Exports, in
+particular, are likely to stagnate. Although German exports The fiscal package effects estimated are also subject to con-
+are expected to stabilize and benefit from the gradual upturn siderable uncertainty. On the one hand, due to incomplete
+in corporate investment—especially in other European coun- budget planning, it is still unclear how exactly these funds
+tries—rampant protectionism and the continued decline in will be used and thus when which fund outflows are expected.
+the competitiveness of German companies, particularly com- On the other hand, the macroeconomic effect is uncertain.
+pared to Chinese producers in the manufacturing indus- For example, the effect could be smaller due to capacity bottle-
+try, render it unlikely that the domestic export industry will necks in sectors particularly affected, such as civil engineer-
+regain its former strength. ing or defense, and result only in noticeable price increases.
+On the other hand, the fiscal policy measures could be imple-
+Overall, price-adjusted GDP in Germany will expand by mented more quickly and efficiently if bureaucratic processes
+0.3 percent in 2025 due to the strong start to the year. In and approval procedures were simplified.
+2026, much stronger growth of 1.7 percent is projected. This
+is primarily a result of the fiscal stimuli, but partially also A further upside risk is posed by the upcoming increase of
+due to a higher number of work days than in 2025 and a sta- the minimum wage. If the current practice of aligning it with
+tistical overhang.2 Accordingly, the DIW Berlin is raising its past collective wage developments continues, the minimum
+forecast for 2025 by 0.3 percentage points and for 2026 by wage is likely to rise in 2026 due to noticeable wage growth in
+0.6 percentage points. 2024. If the minimum wage commission were also to align
+its decision with the 60-percent threshold of the median
+Potential GDP will develop until 2029 at an average rate of wage, as is anchored in the Directive on Adequate Minimum
+0.4 percent. Labor volume should continue to decline due Wages, the increase would likely be even more significant and
+further drive up effective earnings. This could have a posi-
+tive impact on disposable income and private consumption
+2 When adjusted for calender effects, the increase in economic output will only be 1.4 percent in
+2026. The statistical overhang should be 0.3 percentage points for 2026. and lead to a stronger upturn than assumed in this forecast.
+136 DIW Weekly Report 22–24/2025
+=== Seite 9
+GLOBAL ECONOMY
+Global economy: Effects of Trump’s tariff policy
+becoming visible, especially in the United States
+Following a phase of solid economic development, global Figure 2
+growth weakened noticeably in the first quarter of 2025:
+Real GDP growth
+Global GDP increased by only 0.8 percent quarter-on-quar-
+Quarter-on-quarter percentage growth (left axis); index 2015 Q1 =
+ter, compared to 1.1 percent in the fourth quarter of 2024
+100 (right axis)
+(Figure 2). Advanced economies as well as emerging econo-
+mies experienced lower growth at the start of 2025 compared
+1.6 160
+to the end of 2024. Due to heightened trade barriers, a strong Forecast
+upturn is not expected in the coming quarters.
+1.2 3.4 150
+The weaker start to the year was mainly due to US politics:
+3.3
+Higher US tariffs and the resulting countermeasures led
+to increased trade barriers worldwide. Additionally, con- 0.8 4.0 140
+stant changes to tariffs that had already been announced and 4.2
+enacted further fueled uncertainty. With this trade policy in
+0.4 130
+place, many regions are experiencing economic pressure.
+Short-term effects of the tariff policy have been affecting
+0.0 120
+economies in many countries around the world since the 2023 2024 2025 2026
+start of the year. Due to concerns about upcoming higher World (index, right axis) Annual growth rate (in percent)
+import taxes or price increases, many companies based in the Emerging economies (left axis) Advanced economies (left axis)
+United States front-loaded deliveries from abroad. As a result,
+Sources: National Statistical Offices; DIW Berlin Economic Outlook Summer 2025.
+imports to the United States in particular rose sharply in the
+first quarter, simultaneously boosting exports in closely inter- © DIW Berlin 2025
+linked economies. Due to these anticipatory effects, macro-
+Heightened trade barriers are weighing on advanced as well as emerging economies.
+economic activity in the United States cooled down with an
+abrupt decline of 0.1 percent quarter-on-quarter. However,
+this underestimates the previously robust domestic economic
+development in the United States, which is reflected in the In some Asian countries, front-loaded deliveries to the
+ongoing stability of the labor market, among other things. United States played a subordinated role. For example, robust
+domestic demand was the primary contributor to strong, sus-
+In the short term, the correspondingly higher exports to the tained economic activity in India. In Japan and South Korea,
+United States supported economic development in many countries with domestic economies already struggling and
+countries with close ties to the United States. In China, these no front-loading of exports, economic activity fell by 0.2 per-
+high exports continued to contribute to growth noticeably, cent respectively in the first quarter.
+as was the case in the final quarter of 2024. Chinese com-
+panies have probably front-loaded deliveries to the United As a result of front-loaded exports to the United States, global
+States, primarily delivering via southeast Asia. In contrast, trade picked up considerably: Quarterly growth increased
+Chinese domestic demand continued to slow due to the per- from 0.5 percent in the final quarter of 2024 to 2.0 percent
+sistently weak real estate sector: Overall, growth declined in the first quarter of 2025. However, this temporary boost is
+from 1.6 percent at the end of 2024 to 1.2 percent in the first likely to fade gradually as the year progresses, which is why
+quarter. Mexico experienced a similar pattern, where an oth- the consequences of the increased trade barriers on global
+erwise weak first quarter was temporarily stabilized by exter- trade will materialize.
+nal economic impulses.
+Tariff chaos dragging down global economy
+Front-loaded US purchases have also left their mark on sev-
+eral European economies. In the United Kingdom, con- Trade policy tensions worsened in the second quarter and
+sumption, investments, and front-loading of exports drove should continue to weigh on the global economy in the sec-
+strong growth of 0.7 percent. In the euro area, front-loaded ond and third quarters. On so-called “Liberation Day” on
+exports to the United States stimulated growth, especially in April 2, the Trump administration announced a number of
+Germany and Ireland. Overall, the European Union experi- new import tariffs on nearly all countries, which resulted in
+enced strong growth of 0.6 percent in the first quarter, sup- major uncertainty for companies and increased volatility on
+ported by robust consumption and vigorous investment activ- the financial markets (Figure 3). Numerous trade partners
+ity in many places.
+DIW Weekly Report 22–24/2025 137

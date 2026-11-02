@@ -53,6 +53,15 @@ def bundesregierung(root: Path = bmwe.BMWE_DIR, results: dict | None = None) -> 
                 row["produktionsluecke"] = out["ygap"][y]
             rows.append(row)
     df = pd.DataFrame(rows)
+    ek_path = Path("data/bmwe_eckwerte.csv")
+    infl = pd.Series(dtype=float)
+    if ek_path.exists():  # Verbraucherpreise aus den Eckwerten derselben Runde
+        ek = pd.read_csv(ek_path)
+        ek = ek[(ek["variable"] == "Verbraucherpreise") & (~ek["ist"])].copy()
+        ek["runde"] = ek["runde"].map(bmwe.vintage_label)
+        infl = ek.set_index(["runde", "jahr"])["wert"]
+        df["inflation"] = [infl.get((r, y)) for r, y in zip(df["runde"], df["zieljahr"])]
+        df["inflation_index"] = "VPI"
     if ECKWERTE.exists():  # Runden ohne Rechengrundlage (z. B. Herbst 2026)
         ew = pd.read_csv(ECKWERTE)
         have = set(df["runde"])
@@ -60,9 +69,10 @@ def bundesregierung(root: Path = bmwe.BMWE_DIR, results: dict | None = None) -> 
             label = bmwe.vintage_label(r["runde"])
             if label in have:
                 continue
-            df.loc[len(df)] = {"institution": "Bundesregierung", "runde": label,
-                               "veroeffentlicht": pd.Timestamp(r["veroeffentlicht"]), "zieljahr": int(r["jahr"]),
-                               "bip": r["bip_wachstum"], "quelle": r["quelle"], "geprueft": "ja"}
+            row = {"institution": "Bundesregierung", "runde": label, "veroeffentlicht": pd.Timestamp(r["veroeffentlicht"]),
+                   "zieljahr": int(r["jahr"]), "bip": r["bip_wachstum"], "quelle": r["quelle"], "geprueft": "ja",
+                   "inflation": infl.get((label, int(r["jahr"]))), "inflation_index": "VPI"}
+            df.loc[len(df)] = row
     return df
 
 
@@ -85,6 +95,17 @@ def load_all(root: Path = bmwe.BMWE_DIR) -> pd.DataFrame:
         m = df.merge(pr, on=["institution", "runde", "zieljahr"], how="left", suffixes=("", "_q"))
         df["pruefung"] = m["pruefung_q"].fillna(m["pruefung"]).values
     return df[COLUMNS + ["horizont", "pruefung"]].sort_values(["veroeffentlicht", "institution", "zieljahr"]).reset_index(drop=True)
+
+
+def actuals_inflation() -> pd.Series:
+    """Verbraucherpreise (Ist) laut jüngster Eckwerttabelle, die das Jahr als Ist ausweist."""
+    p = Path("data/bmwe_eckwerte.csv")
+    if not p.exists():
+        return pd.Series(dtype=float)
+    from . import eckwerte
+
+    a = eckwerte.actuals(pd.read_csv(p))
+    return a[a["variable"] == "Verbraucherpreise"].set_index("jahr")["ist"]
 
 
 def actuals(root: Path = bmwe.BMWE_DIR) -> pd.Series:

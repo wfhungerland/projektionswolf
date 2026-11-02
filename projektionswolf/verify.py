@@ -23,6 +23,7 @@ from .prognosen import PROGNOSEN
 
 log = logging.getLogger(__name__)
 OUT = Path("data/raw/prognosen_pruefung.csv")
+TEXTS = Path("data/raw/quellen_text")  # Volltext nicht bestätigter Quellen, zum Nachprüfen
 CHECK_COLS = ["bip", "inflation", "potenzialwachstum", "produktionsluecke"]
 HEADERS = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36",
            "Accept-Language": "de,en;q=0.8"}
@@ -86,6 +87,18 @@ def verify(path: Path = PROGNOSEN, out: Path = OUT, pause: float = 0.5) -> pd.Da
         status = "bestätigt" if vals and n == len(vals) else ("teilweise" if n else "nicht gefunden")
         rows.append({"zeile": i, "pruefung": status, "fehlend": ", ".join(c for c, h in hits.items() if not h)})
     res = df.join(pd.DataFrame(rows).set_index("zeile"))
+    import hashlib
+
+    TEXTS.mkdir(parents=True, exist_ok=True)
+    for f in TEXTS.glob("*.txt"):
+        f.unlink()
+    bad = res[res["pruefung"].isin(["teilweise", "nicht gefunden"])]
+    index = []
+    for url in bad["quelle"].unique():
+        h = hashlib.sha1(url.encode()).hexdigest()[:12]
+        (TEXTS / f"{h}.txt").write_text(cache[url] or "", encoding="utf-8")
+        index.append({"datei": f"{h}.txt", "quelle": url})
+    pd.DataFrame(index, columns=["datei", "quelle"]).to_csv(TEXTS / "index.csv", index=False)
     out.parent.mkdir(parents=True, exist_ok=True)
     res.to_csv(out, index=False)
     return res

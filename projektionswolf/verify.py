@@ -57,6 +57,30 @@ def found(text: str, v: float) -> bool:
     return False
 
 
+BLOCK_MARKERS = (b"Radware", b"Client Challenge", b"JavaScript is disabled", b"captcha", b"Access Denied")
+
+
+def _blocked(content: bytes) -> bool:
+    """Sperr- oder Challenge-Seite statt Inhalt? Solche Quellen gelten als nicht abrufbar."""
+    head = content[:4000]
+    return len(content) < 1500 or any(m in head for m in BLOCK_MARKERS)
+
+
+def split_urls(q) -> list[str]:
+    return re.findall(r"https?://[^\s|;,]+", str(q or ""))
+
+
+def _fetch(s: requests.Session, url: str) -> str | None:
+    try:
+        r = s.get(url, timeout=60)
+        if not r.ok or _blocked(r.content):
+            return None
+        return _text(r.content, r.headers.get("content-type", ""))
+    except Exception as e:  # Netz- oder Parserfehler
+        log.warning("%s: %s", url, e)
+        return None
+
+
 def verify(path: Path = PROGNOSEN, out: Path = OUT, pause: float = 0.5) -> pd.DataFrame:
     df = pd.read_csv(path)
     cache: dict[str, str | None] = {}
@@ -64,20 +88,17 @@ def verify(path: Path = PROGNOSEN, out: Path = OUT, pause: float = 0.5) -> pd.Da
     s.headers.update(HEADERS)
     rows = []
     for i, r in df.iterrows():
-        url = str(r.get("quelle") or "")
-        if not url.startswith("http"):
+        urls = split_urls(r.get("quelle")) + split_urls(r.get("anmerkung"))
+        if not urls:
             rows.append({"zeile": i, "pruefung": "keine URL"})
             continue
-        if url not in cache:
-            try:
-                resp = s.get(url, timeout=60)
-                ok = resp.ok and len(resp.content) > 500 and b"Radware" not in resp.content[:3000]
-                cache[url] = _text(resp.content, resp.headers.get("content-type", "")) if ok else None
-            except Exception as e:  # Netz- oder Parserfehler: Zeile als nicht abrufbar markieren
-                log.warning("%s: %s", url, e)
-                cache[url] = None
-            time.sleep(pause)
-        text = cache[url]
+        for u in urls:
+            if u not in cache:
+                cache[u] = _fetch(s, u)
+                time.sleep(pause)
+        texts = [cache[u] for u in urls if cache[u]]
+        cache[r["quelle"]] = "\n".join(texts) if texts else None
+        text = cache[r["quelle"]]
         if text is None:
             rows.append({"zeile": i, "pruefung": "nicht abrufbar"})
             continue

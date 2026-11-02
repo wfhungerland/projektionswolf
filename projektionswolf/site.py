@@ -73,7 +73,7 @@ def build_payload(res: Results) -> dict:
     act = prognosen.actuals()
     payload["prognosen"] = [
         {k: _clean(r[k]) for k in ("institution", "runde", "veroeffentlicht", "zieljahr", "bip", "inflation",
-                                    "potenzialwachstum", "produktionsluecke", "quelle", "geprueft")}
+                                    "potenzialwachstum", "produktionsluecke", "quelle", "pruefung")}
         for _, r in df.iterrows()
     ]
     payload["ist"] = {str(int(y)): _clean(v) for y, v in act.dropna().items()}

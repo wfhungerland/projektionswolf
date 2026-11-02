@@ -68,11 +68,11 @@
 
   <section id="prognosen">
     <h2>Prognosen im Vergleich</h2>
-    <p class="lead">BIP-Wachstum (real, unbereinigt) für ein Zieljahr, wie es die Bundesregierung, die Gemeinschaftsdiagnose, die Bundesbank und die Institute zu verschiedenen Zeitpunkten erwartet haben. Jeder Punkt ist eine Veröffentlichung. Die gestrichelte Linie ist das Ist, sobald es vorliegt.</p>
+    <p class="lead">BIP-Wachstum (real, unbereinigt) für ein Zieljahr, wie es die Bundesregierung, die Gemeinschaftsdiagnose, die Bundesbank und die Institute zu verschiedenen Zeitpunkten erwartet haben. Jeder Punkt ist eine Veröffentlichung; gefüllt heißt, der Wert ist automatisch an der Quelle bestätigt, hohl heißt ungeprüft. Die gestrichelte Linie ist das Ist, sobald es vorliegt.</p>
     <div class="controls" id="zieljahre"></div>
     <div class="grid">
       <div class="card"><h3 id="prog-title"></h3><p class="sub">in %, nach Datum der Veröffentlichung</p><div class="chart" id="c-prog"></div></div>
-      <div class="card"><h3>Jüngste Veröffentlichung je Institution</h3><p class="sub">BIP-Wachstum und, falls genannt, Potenzialwachstum in %</p><div class="tablewrap" id="t-latest"></div></div>
+      <div class="card"><h3>Jüngste Veröffentlichung je Institution</h3><p class="sub">BIP-Wachstum in %; Prüfung: Wert automatisch an der Quelle gefunden (geprüft) oder nicht (offen)</p><div class="tablewrap" id="t-latest"></div></div>
     </div>
   </section>
 
@@ -191,8 +191,8 @@ function drawProg() {
       .sort((a, b) => a.veroeffentlicht.localeCompare(b.veroeffentlicht));
     return { x: pts.map(p => p.veroeffentlicht), y: pts.map(p => p.bip), name: inst, type: "scatter", mode: "lines+markers",
              line: { color: INST_COLOR[inst] || "#7F7F7F", width: inst === "Bundesregierung" ? HS.line : 1.6, shape: "hv" },
-             marker: { size: inst === "Bundesregierung" ? 8 : 6 },
-             text: pts.map(p => p.runde), hovertemplate: "%{y:.1f} % (%{text})<extra>" + inst + "</extra>" };
+             marker: { size: inst === "Bundesregierung" ? 8 : 6, symbol: pts.map(p => p.pruefung === "bestätigt" || p.pruefung === "amtliche Rechengrundlage" ? "circle" : "circle-open") },
+             text: pts.map(p => `${p.runde}; ${p.pruefung}`), hovertemplate: "%{y:.1f} % (%{text})<extra>" + inst + "</extra>" };
   }).filter(t => t.x.length);
   const ist = DATA.ist[String(ziel)];
   const shapes = ist == null ? [] : [{ type: "line", xref: "paper", x0: 0, x1: 1, y0: ist, y1: ist,
@@ -211,10 +211,10 @@ drawProg();
   const rows = DATA.institutionen.filter(i => by[i]).map(i => {
     const r = by[i].rows, f = y => r.find(p => p.zieljahr === y) || {};
     const src = r[0].quelle && r[0].quelle.startsWith("http") ? `<a href="${esc(r[0].quelle)}">Quelle</a>` : esc(r[0].quelle || "");
-    return [esc(i), esc(r[0].runde), r[0].veroeffentlicht.split("-").reverse().join("."), num(f(y0).bip), num(f(y1).bip),
-            num(f(y0).potenzialwachstum), src];
+    return [esc(i), `${esc(r[0].runde)}<br><span class="note">${r[0].veroeffentlicht.split("-").reverse().join(".")}</span>`,
+            num(f(y0).bip), num(f(y1).bip), ({"bestätigt": "geprüft", "amtliche Rechengrundlage": "amtlich"}[f(y0).pruefung || r[0].pruefung] || "offen"), src];
   });
-  table("t-latest", ["", "Runde", "Datum", `BIP ${y0}`, `BIP ${y1}`, `Potenzial ${y0}`, ""], rows);
+  table("t-latest", ["", "Runde", `BIP ${y0}`, `BIP ${y1}`, "Prüfung", ""], rows);
 })();
 
 // Treffsicherheit

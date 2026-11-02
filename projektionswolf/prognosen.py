@@ -18,6 +18,7 @@ from . import bmwe
 
 PROGNOSEN = Path("data/manuell/prognosen.csv")
 ECKWERTE = Path("data/manuell/eckwerte_projektionen.csv")
+PRUEFUNG = Path("data/raw/prognosen_pruefung.csv")
 COLUMNS = ["institution", "runde", "veroeffentlicht", "zieljahr", "bip", "bip_kalenderbereinigt", "inflation",
            "inflation_index", "potenzialwachstum", "produktionsluecke", "quelle", "geprueft", "anmerkung"]
 MONATE = {m: i for i, m in enumerate(["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August",
@@ -77,7 +78,13 @@ def load_all(root: Path = bmwe.BMWE_DIR) -> pd.DataFrame:
             df[c] = np.nan
     df["veroeffentlicht"] = pd.to_datetime(df["veroeffentlicht"], format="mixed")
     df["horizont"] = df["zieljahr"] - df["veroeffentlicht"].dt.year
-    return df[COLUMNS + ["horizont"]].sort_values(["veroeffentlicht", "institution", "zieljahr"]).reset_index(drop=True)
+    amtlich = (df["institution"] == "Bundesregierung") & ~df["quelle"].astype(str).str.startswith("http")
+    df["pruefung"] = np.where(amtlich, "amtliche Rechengrundlage", "nicht geprüft")
+    if PRUEFUNG.exists():
+        pr = pd.read_csv(PRUEFUNG)[["institution", "runde", "zieljahr", "pruefung"]].drop_duplicates(["institution", "runde", "zieljahr"])
+        m = df.merge(pr, on=["institution", "runde", "zieljahr"], how="left", suffixes=("", "_q"))
+        df["pruefung"] = m["pruefung_q"].fillna(m["pruefung"]).values
+    return df[COLUMNS + ["horizont", "pruefung"]].sort_values(["veroeffentlicht", "institution", "zieljahr"]).reset_index(drop=True)
 
 
 def actuals(root: Path = bmwe.BMWE_DIR) -> pd.Series:

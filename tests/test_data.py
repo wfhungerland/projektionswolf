@@ -68,3 +68,24 @@ def test_eckwerte_parse_and_gdp_matches_bmwe():
         s = df[(df["runde"] == code) & (df["variable"] == "BIP real")]
         for r in s.itertuples():
             assert abs(r.wert - g[r.jahr]) <= 0.06, (code, r.jahr)
+
+
+def test_komponenten_only_gdp_matched_tables():
+    from projektionswolf import komponenten
+
+    df = komponenten.build_all()
+    assert {"GD", "IWH", "IfW", "DIW", "ifo", "Bundesbank"} <= set(df["institution"])
+    prog = pd.read_csv(komponenten.PROGNOSEN)
+    prog["key"] = prog["runde"].map(komponenten._season_key)
+    ref = prog.set_index(["institution", "key", "zieljahr"])[["bip", "bip_kalenderbereinigt"]]
+    bip = df[(df["variable"] == "BIP real") & ~df["ist"]]
+    hits = 0
+    for r in bip.itertuples():
+        k = (r.institution, r.runde, r.jahr)
+        if k in ref.index:
+            cand = [c for c in ref.loc[[k]].values.ravel() if c == c]
+            if not cand:  # kein geprüfter Vergleichswert für dieses Jahr
+                continue
+            assert any(abs(r.wert - c) <= 0.051 for c in cand), k
+            hits += 1
+    assert hits >= 40

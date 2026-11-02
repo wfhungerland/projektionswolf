@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-02T11:59:31Z",
+ "retrieved_at": "2026-11-02T12:27:11Z",
  "vintages": {
   "fruehjahr-2023": "7 Dateien",
   "herbst-2023": "7 Dateien",
@@ -11,6 +11,6 @@
   "herbst-2025": "7 Dateien",
   "2026": "7 Dateien",
   "fruehjahr-2026": "7 Dateien",
-  "herbst-2026": "kein ZIP (200)"
+  "herbst-2026": "kein ZIP (404)"
  }
 }

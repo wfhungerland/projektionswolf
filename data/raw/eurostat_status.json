@@ -1,0 +1,65 @@
+{
+ "retrieved_at": "2026-11-02T07:37:29Z",
+ "series": {
+  "gdp_qoq": {
+   "ok": true,
+   "n": 142,
+   "last": "2026-Q3"
+  },
+  "ip": {
+   "ok": true,
+   "n": 428,
+   "last": "2026-08"
+  },
+  "ip_manuf": {
+   "ok": true,
+   "n": 428,
+   "last": "2026-08"
+  },
+  "construction": {
+   "ok": true,
+   "n": 428,
+   "last": "2026-08"
+  },
+  "retail": {
+   "ok": true,
+   "n": 392,
+   "last": "2026-08"
+  },
+  "esi": {
+   "ok": true,
+   "n": 562,
+   "last": "2026-10"
+  },
+  "conf_industry": {
+   "ok": true,
+   "n": 562,
+   "last": "2026-10"
+  },
+  "conf_services": {
+   "ok": true,
+   "n": 379,
+   "last": "2026-10"
+  },
+  "conf_consumer": {
+   "ok": true,
+   "n": 502,
+   "last": "2026-10"
+  },
+  "conf_retail": {
+   "ok": true,
+   "n": 513,
+   "last": "2026-10"
+  },
+  "conf_construction": {
+   "ok": true,
+   "n": 562,
+   "last": "2026-10"
+  },
+  "unemp": {
+   "ok": true,
+   "n": 429,
+   "last": "2026-09"
+  }
+ }
+}

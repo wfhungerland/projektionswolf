@@ -1,0 +1,15 @@
+variable,beschreibung
+y,"BIP, preisbereinigt in Mrd. Euro"
+iq,"Bruttoanlage-investitionen, preisbereinigt in Mrd. Euro"
+k,"Bruttoanlage-vermögen, preisbereinigt in Mrd. Euro"
+l,"Erwerbstätige (ET), Inland in Tsd."
+hpere,"Arbeitszeit je ET, in Stunden"
+lur,"Erwerbslosen-quote, in %"
+popw,"Erwerbs-bevölkerung (15-74), in Tsd."
+nairu,"NAWRU, in %"
+pop,"Wohn-bevölkerung, in Tsd."
+yn,"BIP, nominal in Mrd. Euro"
+tfp,Trend der Totalen Faktor-produktivität (log)
+popw_fl,"Differenz der Zahl Geflüchteter in DEU (15-74) ggü. Referenzjahr 2013, in Tsd. (vgl. ergänzende Hinweise in Spalte P)"
+part_fl,"Unterstellte Partizipations-rate der Geflüchteten in DEU (15-74) bezogen auf ""popw_fl"", in %"
+popw_nfl,"Differenz zwischen ""popw"" und ""popw_fl"""

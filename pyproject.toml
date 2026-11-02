@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "projektionswolf"
+version = "0.1.0"
+description = "Nachbau der Potenzialschätzung der Bundesregierung und BIP-Nowcast für Deutschland"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.0",
+  "scipy>=1.11",
+  "statsmodels>=0.14",
+  "requests>=2.31",
+  "xlrd>=2.0",
+  "openpyxl>=3.1",
+  "python-calamine>=0.2",
+  "XlsxWriter>=3.1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.setuptools]
+packages = ["projektionswolf"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

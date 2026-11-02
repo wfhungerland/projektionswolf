@@ -13,7 +13,7 @@ Nachbau der Potenzialschätzung der Bundesregierung in Python, ergänzt um eigen
 ## Was die Bausteine leisten
 
 1. **Nachbau** (`projektionswolf/potential.py`): Das EViews-Programm von BMWE und BMF Zeile für Zeile in Python. Es trifft die veröffentlichten Ergebnisse aller Runden seit Frühjahr 2024 auf Rundungsgenauigkeit (Abweichung der Produktionslücke unter 10⁻⁷ Prozentpunkten). Die Runden davor nutzen eine ältere Programmfassung und werden nur für den Projektions-Backtest gelesen.
-2. **Eigene Filter** (`projektionswolf/filters.py`): Die Bundesregierung übernimmt NAWRU und TFP-Trend aus dem EU-Programm GAP (Bayes-Schätzung). Hier stehen dieselben Modelle als Zustandsraummodelle: NAWRU per Maximum Likelihood in den GAP-Parametergrenzen, TFP per Posterior-Modus mit den EU-Prioren für Deutschland. Das Workbook zeigt, wie sich Potenzial und Lücke damit ändern.
+2. **Eigene Filter** (`projektionswolf/filters.py`): Die Bundesregierung übernimmt NAWRU und TFP-Trend aus dem EU-Programm GAP. Hier stehen dieselben Modelle als Zustandsraummodelle. Der TFP-Trend ist wie in GAP der Posterior-Mittelwert einer MCMC-Kette (20.000 Ziehungen, 10.000 Burn-in) mit den EU-Prioren für Deutschland aus `priorsDE_<Runde>.mat`. Sein Wachstum trifft die Werte der Bundesregierung seit 2020 auf rund 0,04 Prozentpunkte, Mittelfrist eingeschlossen. Die NAWRU ist per Maximum Likelihood in den GAP-Parametergrenzen geschätzt. Mit beiden eigenen Filtern weicht die Produktionslücke der letzten Runde in keinem Jahr mehr als 0,07 Punkte ab.
 3. **Nowcast** (`projektionswolf/nowcast.py`): dynamisches Faktormodell mit gemischten Frequenzen (Produktion, Bau, Einzelhandel, EU-Umfragen, Arbeitslosigkeit; Quartals-BIP), dazu eine Bridge-Gleichung als Gegenprobe. Corona-Monate gehen als fehlend in die Schätzung ein.
 4. **Backtests** (`projektionswolf/pipeline.py`): BIP-Projektionen der Bundesregierung je Runde gegen den letzten Datenstand; Nowcast in Pseudo-Echtzeit seit 2014 gegen AR(1) und Mittelwert.
 
@@ -39,7 +39,7 @@ python -m projektionswolf check
 
 ## Grenzen
 
-- Die eigenen Filter treffen GAP nicht exakt: GAP schätzt per MCMC den Posterior-Mittelwert, hier steht der Modus bzw. ML. Die NAWRU liegt historisch rund 0,1 Punkte über dem Wert der Bundesregierung. Beim TFP-Trend landet die Dämpfung am Rand (0,99); deshalb flacht der eigene Trend ab 2028 ab, während GAP wieder anzieht.
+- Die eigenen Filter treffen GAP nicht exakt. Die NAWRU (ML statt Bayes) liegt historisch rund 0,1 Punkte über dem Wert der Bundesregierung. Beim TFP-Trend ist die Lesart der Priorendatei erschlossen: Zeile 1 der Parametermatrizen als Mittelwert und Standardabweichung, Normal-Prioren für Amplitude und Dämpfung. Diese Wahl stützt sich auf die Übereinstimmung mit den GAP-Ergebnissen, nicht auf eine Dokumentation.
 - Die NAWRU-Fortschreibung ab T+2 ist eine vereinfachte Ankerregel (lineare Annäherung an 3,6 % über acht Jahre).
 - Der Nowcast nutzt kalenderbereinigte Raten; die Projektion der Bundesregierung nennt unbereinigte Jahresraten. Der Backtest arbeitet mit heutigem Datenstand, nicht mit Echtzeit-Vintages.
 - Die Variante des Nowcasts (Umfragen als Vorjahresveränderung, Corona maskiert) wurde auf demselben Zeitraum gewählt, auf dem sie getestet wird.

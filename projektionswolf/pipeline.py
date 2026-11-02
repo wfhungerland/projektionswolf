@@ -83,7 +83,7 @@ def own_filters(code: str, root: Path = bmwe.BMWE_DIR) -> dict:
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
         nw = filters.estimate_nawru(v["gap_nawru"])
-        tf = filters.estimate_tfp_bayes(v["gap_tfp"], n_forecast=hz.endy_mt - int(v["gap_tfp"]["DE_TFP08"].last_valid_index()))
+        tf = filters.estimate_tfp_mcmc(v["gap_tfp"], n_forecast=hz.endy_mt - int(v["gap_tfp"]["DE_TFP08"].last_valid_index()))
     nawru = filters.nawru_medium_term(nw.trend, hz.endy_mt)
     tfp = tf.trend.loc[: hz.endy_mt]
     variants = {}
@@ -97,13 +97,18 @@ def own_filters(code: str, root: Path = bmwe.BMWE_DIR) -> dict:
         variants[name] = potential.estimate(x, hz)
     comp_n = filters.compare(nawru, inp["nairu"]).loc[2000:]
     comp_t = filters.compare(100 * tfp.diff(), 100 * inp["tfp"].diff()).loc[2000:]
+    comp_t["eigen P5"] = 100 * tf.extra["trend_growth_p05"].reindex(comp_t.index)
+    comp_t["eigen P95"] = 100 * tf.extra["trend_growth_p95"].reindex(comp_t.index)
     years = list(range(2018, hz.endy_mt + 1))
     summary = pd.DataFrame({
         **{f"Potenzialwachstum: {k}": growth(r["ypot"]).reindex(years) for k, r in variants.items()},
         **{f"Lücke: {k}": r["ygap"].reindex(years) for k, r in variants.items()},
     })
     summary.index.name = "jahr"
-    params = pd.concat([pd.Series(nw.params, name="NAWRU (ML)"), pd.Series(tf.params, name="TFP (Posterior-Modus)")], axis=1)
+    params = pd.concat([pd.Series(nw.params, name="NAWRU (ML)"), pd.Series(tf.params, name="TFP (Posterior-Mittelwert)"),
+                        pd.Series(tf.extra["params_p05"], name="TFP P5"), pd.Series(tf.extra["params_p95"], name="TFP P95")], axis=1)
+    params.loc["MCMC Annahmequote", "TFP (Posterior-Mittelwert)"] = tf.extra["acceptance"]
+    params.loc["MCMC behaltene Ziehungen", "TFP (Posterior-Mittelwert)"] = tf.extra["kept"]
     return {"summary": summary, "nawru": comp_n, "tfp_growth": comp_t, "params": params, "variants": variants}
 
 

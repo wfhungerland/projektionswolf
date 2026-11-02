@@ -261,30 +261,33 @@ def compare(own: pd.Series, official: pd.Series) -> pd.DataFrame:
 # ---------------------------------------------------------------- Bayes (Posterior-Modus) für TFP
 from scipy import stats  # noqa: E402
 
-# Prioren der EU-Kommission für Deutschland aus priorsDE_<K>.mat (Zeile 0: Mittelwert, Std.-Abw.;
-# Zeilen 2/3: Unter- und Obergrenze). Die Datei ist in allen Runden seit 2023 identisch.
+# Prioren der EU-Kommission für Deutschland aus priorsDE_<K>.mat (Struktur data.M, je Parameter
+# eine 8x2-Matrix). Genutzt wird Zeile 1 (Mittelwert, Std.-Abw.) mit den Grenzen aus Zeile 2/3,
+# Spalte 0. Mit dieser Lesart und Normal-Prioren für Amplitude und Dämpfung trifft der
+# Posterior-Mittelwert die GAP-Ergebnisse der Bundesregierung (siehe tests/test_filters.py).
+# Die Datei ist in allen Runden seit 2023 identisch.
 TFP_PRIORS_DE = {
-    "amplitude": ("beta", 0.417013, 0.07, 0.0, 1.0),
-    "period": ("normal", 3.598562, 2.5, 2.0, 32.0),
-    "omega": ("beta", 0.9396, 0.0691, 0.0, 0.99),
-    "slope_mean": ("normal", 0.0117, 0.0033, 0.0, 0.03),
-    "var_slope": ("invgamma", 2.0e-06, 2.0e-06, 2.426325e-09, 2.674973e-02),
-    "var_cycle": ("invgamma", 5.298e-05, 5.298e-05, 3.015291e-07, 5.349945e-02),
-    "alpha": ("normal", 0.0065, 0.0125, -0.1, 0.1),
-    "beta": ("normal", 0.64, 0.3592, 0.0, 5.0),
-    "var_cubs": ("invgamma", 2.722e-04, 2.722e-04, 4.500238e-07, 8.543948e-02),
+    "amplitude": ("normal", 0.422013, 0.17, 0.0, 1.0),
+    "period": ("normal", 7.998562, 3.5, 2.0, 32.0),
+    "omega": ("normal", 0.7984656, 0.2381, 0.0, 0.99),
+    "slope_mean": ("normal", 0.01499845, 0.01002463, 0.0, 0.03),
+    "var_slope": ("invgamma", 2.426325e-06, 2.426325e-06, 2.426325e-09, 2.674973e-02),
+    "var_cycle": ("invgamma", 3.015291e-04, 3.023870e-04, 3.015291e-07, 5.349945e-02),
+    "alpha": ("normal", 4.0e-04, 3.133616e-02, -0.1, 0.1),
+    "beta": ("normal", 1.4, 0.705, 0.0, 5.0),
+    "var_cubs": ("invgamma", 3.003773e-03, 3.003773e-03, 4.500238e-07, 8.543948e-02),
 }
 
 
 def load_tfp_priors(path) -> dict:
-    """Liest die Prioren aus einer GAP-.mat-Datei (gleiche Struktur wie TFP_PRIORS_DE)."""
+    """Liest die Prioren aus einer GAP-.mat-Datei (Zeile 1: Mittelwert und Std.-Abw.)."""
     import scipy.io
 
     M = scipy.io.loadmat(path, squeeze_me=True, struct_as_record=False)["data"].M
-    row = lambda a: (float(a[0, 0]), float(a[0, 1]), float(a[2, 0]), float(a[3, 0]))  # noqa: E731
+    row = lambda a: (float(a[1, 0]), float(a[1, 1]), float(a[2, 0]), float(a[3, 0]))  # noqa: E731
     keys = {"amplitude": "amplitude", "period": "period", "omega": "damp", "slope_mean": "dampmean",
-            "var_slope": "slope", "var_cycle": "cycle", "beta": "beta", "var_cubs": "inf"}
-    out = dict(TFP_PRIORS_DE)
+            "var_slope": "slope", "var_cycle": "cycle", "alpha": "exog2", "beta": "beta", "var_cubs": "inf"}
+    out = {}
     for k, f in keys.items():
         m, s, lb, ub = row(getattr(M, f))
         out[k] = (TFP_PRIORS_DE[k][0], m, s, lb, ub)
@@ -365,3 +368,83 @@ def estimate_tfp_bayes(gap: pd.DataFrame, n_forecast: int = 3, priors: dict = TF
         fc[df.index[-1] + h] = P
     trend = pd.concat([trend, pd.Series(fc)])
     return FilterResult(trend=trend, cycle=pd.Series(st[2], index=df.index), params=p, loglike=-best.fun)
+
+
+# ---------------------------------------------------------------- Bayes (Posterior-Mittelwert per MCMC) für TFP
+def _trend_path(model: "TfpBayesModel", params: np.ndarray, n_forecast: int) -> np.ndarray:
+    """Geglätteter TFP-Trend plus Fortschreibung über ``n_forecast`` Jahre für einen Parametersatz."""
+    res = model.smooth(params, transformed=True)
+    st = res.smoothed_state
+    p = dict(zip(model.param_names, params))
+    P, mu, fc = st[0, -1], st[1, -1], []
+    for _ in range(n_forecast):
+        P = P + mu
+        mu = (1 - p["omega"]) * p["slope_mean"] + p["omega"] * mu
+        fc.append(P)
+    return np.concatenate([st[0], fc])
+
+
+def estimate_tfp_mcmc(gap: pd.DataFrame, n_forecast: int = 3, priors: dict = TFP_PRIORS_DE,
+                      draws: int = 20000, burn: int = 10000, thin: int = 5, seed: int = 0) -> FilterResult:
+    """TFP-Trend als Posterior-Mittelwert wie in GAP (dort 20.000 Ziehungen, 10.000 Burn-in).
+
+    Adaptiver Random-Walk-Metropolis im unbeschränkten Raum (Logit-Transformation samt
+    Jacobi-Term), Start im Posterior-Modus. Trend und Fortschreibung werden über die
+    behaltenen Ziehungen gemittelt.
+    """
+    df = gap.rename(columns={"DE_TFP08": "sr", "DE_CUBS08": "CUBS"})[["sr", "CUBS"]]
+    df = df.loc[df["sr"].first_valid_index() : df["sr"].last_valid_index()]
+    m = TfpBayesModel(df, priors)
+    spec = m.params_spec
+    rng = np.random.default_rng(seed)
+
+    def logpost(x):
+        c = m.transform_params(x)
+        lp = m.logprior(c)
+        if not np.isfinite(lp):
+            return -np.inf
+        try:
+            ll = m.loglike(c, transformed=True)
+        except Exception:
+            return -np.inf
+        if not np.isfinite(ll):
+            return -np.inf
+        sig = 1 / (1 + np.exp(-x))
+        jac = sum(np.log(p.ub - p.lb) + np.log(s) + np.log1p(-s) for p, s in zip(spec, sig))
+        return ll + lp + jac
+
+    mode = estimate_tfp_bayes(gap, n_forecast=n_forecast, priors=priors, n_starts=2)
+    x = m.untransform_params(np.array([mode.params[k] for k in m.param_names]))
+    lp = logpost(x)
+    k = len(x)
+    cov = np.eye(k) * 0.05
+    hist, kept_p, kept_t = [], [], []
+    accepted = 0
+    for i in range(draws):
+        if i >= 1000 and i % 500 == 0:  # Vorschlagsverteilung an bisherige Ziehungen anpassen
+            cov = np.cov(np.array(hist[-5000:]).T) * (2.38**2 / k) + 1e-8 * np.eye(k)
+        prop = rng.multivariate_normal(x, cov)
+        lpp = logpost(prop)
+        if np.log(rng.uniform()) < lpp - lp:
+            x, lp = prop, lpp
+            accepted += 1
+        hist.append(x)
+        if i >= burn and (i - burn) % thin == 0:
+            c = m.transform_params(x)
+            kept_p.append(c)
+            kept_t.append(_trend_path(m, c, n_forecast))
+    P = np.array(kept_p)
+    T = np.array(kept_t)
+    idx = list(df.index) + [df.index[-1] + h for h in range(1, n_forecast + 1)]
+    trend = pd.Series(T.mean(axis=0), index=idx, name="tfp")
+    params = dict(zip(m.param_names, P.mean(axis=0)))
+    extra = {
+        "acceptance": accepted / draws,
+        "kept": len(P),
+        "params_p05": dict(zip(m.param_names, np.percentile(P, 5, axis=0))),
+        "params_p95": dict(zip(m.param_names, np.percentile(P, 95, axis=0))),
+        "trend_growth_p05": pd.Series(np.percentile(np.diff(T, axis=1), 5, axis=0), index=idx[1:]),
+        "trend_growth_p95": pd.Series(np.percentile(np.diff(T, axis=1), 95, axis=0), index=idx[1:]),
+        "mode": mode.params,
+    }
+    return FilterResult(trend=trend, cycle=pd.Series(dtype=float), params=params, loglike=float(lp), extra=extra)

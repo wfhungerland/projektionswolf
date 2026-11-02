@@ -12,7 +12,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-from . import bmwe, prognosen
+from . import bmwe, eckwerte, prognosen
 from .pipeline import Results
 
 SITE = Path("site")
@@ -81,6 +81,14 @@ def build_payload(res: Results) -> dict:
     payload["fehler"] = [{k: _clean(r[k]) if k != "institution" else str(r[k]) for k in st.columns} for _, r in st.iterrows()]
     payload["institutionen"] = [i for i in prognosen.ORDER if i in set(df["institution"])] + \
         sorted(set(df["institution"]) - set(prognosen.ORDER))
+    # Eckwerte der Bundesregierung (volle VGR)
+    if eckwerte.OUT.exists():
+        ek = eckwerte.load()
+        payload["eckwerte"] = [{k: _clean(r[k]) for k in ("runde", "variable", "jahr", "wert", "ist")} for _, r in ek.iterrows()]
+        payload["eckwerte_runden"] = {c: bmwe.vintage_label(c) for c in eckwerte.CODES}
+        est = eckwerte.error_stats(eckwerte.errors(ek))
+        payload["eckwerte_fehler"] = [{k: _clean(r[k]) for k in est.columns} for _, r in est.iterrows()]
+        payload["eckwerte_gruppen"] = eckwerte.GROUPS
     return payload
 
 

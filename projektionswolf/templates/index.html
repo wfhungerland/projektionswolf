@@ -58,7 +58,7 @@
   <h1>projektionswolf</h1>
   <span class="stand" id="stand"></span>
   <nav>
-    <a href="#prognosen">Prognosen</a><a href="#treffer">Treffsicherheit</a><a href="#potenzial">Potenzial</a>
+    <a href="#prognosen">Prognosen</a><a href="#treffer">Treffsicherheit</a><a href="#eckwerte">Eckwerte</a><a href="#potenzial">Potenzial</a>
     <a href="#revisionen">Revisionen</a><a href="#filter">Eigene Filter</a><a href="#nowcast">Nowcast</a><a href="#methodik">Methodik</a>
   </nav>
   <a class="btn" href="projektionswolf.xlsx">Excel</a>
@@ -83,6 +83,17 @@
       <div class="card"><h3>Mittlerer absoluter Fehler</h3><p class="sub">in Prozentpunkten</p><div class="chart" id="c-mae"></div></div>
       <div class="card"><h3>Kennzahlen</h3><p class="sub">Fehler = Prognose minus Ist; positiv heißt zu optimistisch</p><div class="tablewrap" id="t-fehler"></div></div>
     </div>
+  </section>
+
+  <section id="eckwerte">
+    <h2>Eckwerte der Bundesregierung</h2>
+    <p class="lead">Alle Größen der Eckwertetabellen seit der Jahresprojektion 2023: Verwendung, Arbeitsmarkt, Preise, Einkommen. Fehler = Projektion minus Ist; als Ist gilt der jüngste Wert, den eine spätere Runde als Ist ausweist. Für das Folgejahr liegen erst vier Fälle vor. Das Staatskonto (Finanzierungssaldo) steht nicht in den Eckwertetabellen.</p>
+    <div class="controls" id="ek-gruppen"></div>
+    <div class="grid">
+      <div class="card"><h3>Mittlerer Fehler im laufenden Jahr</h3><p class="sub">Projektion minus Ist, in Prozentpunkten; rechts von null heißt zu hoch</p><div class="chart" id="c-ek-bias"></div></div>
+      <div class="card"><h3 id="ek-title"></h3><p class="sub" id="ek-sub"></p><div class="controls" id="ek-vars"></div><div class="chart" id="c-ek"></div></div>
+    </div>
+    <div class="card" style="margin-top:16px"><h3>Kennzahlen je Größe</h3><p class="sub">in Punkten; Anteil zu hoch: Anteil der Projektionen über dem Ist</p><div class="tablewrap" id="t-ek"></div></div>
   </section>
 
   <section id="potenzial">
@@ -229,6 +240,49 @@ drawProg();
   table("t-fehler", ["", "Horizont", "n", "mittl. Fehler", "MAE", "RMSE"],
     F.map(f => [esc(f.institution), f.horizont === 0 ? "laufendes Jahr" : "Folgejahr", f.n, num(f["mittlerer Fehler"], 2), num(f.MAE, 2), num(f.RMSE, 2)]));
 })();
+
+
+// Eckwerte
+if (DATA.eckwerte) {
+  const G = DATA.eckwerte_gruppen, EF = DATA.eckwerte_fehler;
+  let gruppe = "Verwendung", ekVar = null;
+  function drawEk() {
+    document.getElementById("ek-gruppen").innerHTML = Object.keys(G).map(g =>
+      `<button class="btn${g === gruppe ? " on" : ""}" data-g="${esc(g)}">${esc(g)}</button>`).join("");
+    document.querySelectorAll("#ek-gruppen .btn").forEach(b => b.onclick = () => { gruppe = b.dataset.g; ekVar = null; drawEk(); });
+    const vars = G[gruppe].filter(v => DATA.eckwerte.some(e => e.variable === v));
+    if (!ekVar || !vars.includes(ekVar)) ekVar = vars[0];
+    const h0 = vars.map(v => EF.find(f => f.variable === v && f.horizont === 0) || {});
+    plot("c-ek-bias", [{ type: "bar", orientation: "h", y: vars, x: h0.map(f => f["mittlerer Fehler"] ?? null),
+      marker: { color: h0.map(f => (f["mittlerer Fehler"] ?? 0) > 0 ? PALETTE[3] : PALETTE[1]) },
+      customdata: h0.map(f => [f.MAE, f.n]), hovertemplate: "%{x:.2f} Pp. (MAE %{customdata[0]:.2f}, n=%{customdata[1]})<extra></extra>" }],
+      { hovermode: "closest", yaxis: { autorange: "reversed", automargin: true, side: "left", showgrid: false },
+        xaxis: { showgrid: true, gridcolor: HS.gridH, gridwidth: 0.5, zeroline: true, zerolinecolor: HS.zero }, margin: { l: 8, r: 8, t: 10, b: 30 } });
+    document.getElementById("ek-vars").innerHTML = vars.map(v =>
+      `<button class="btn${v === ekVar ? " on" : ""}" data-v="${esc(v)}">${esc(v)}</button>`).join("");
+    document.querySelectorAll("#ek-vars .btn").forEach(b => b.onclick = () => { ekVar = b.dataset.v; drawEk(); });
+    document.getElementById("ek-title").textContent = ekVar;
+    document.getElementById("ek-sub").textContent = "Projektion je Runde (Linien) und Ist (schwarz)";
+    const rows = DATA.eckwerte.filter(e => e.variable === ekVar);
+    const runden = Object.keys(DATA.eckwerte_runden).filter(r => rows.some(e => e.runde === r && !e.ist));
+    const ist = {}; Object.keys(DATA.eckwerte_runden).forEach(r => rows.filter(e => e.runde === r && e.ist).forEach(e => ist[e.jahr] = e.wert));
+    const yrs = Object.keys(ist).map(Number).sort();
+    const traces = runden.map((r, i) => {
+      const pts = rows.filter(e => e.runde === r).sort((a, b) => a.jahr - b.jahr);
+      return { x: pts.map(p => p.jahr), y: pts.map(p => p.wert), name: DATA.eckwerte_runden[r], type: "scatter", mode: "lines+markers",
+               line: { color: `rgba(0,112,192,${0.3 + 0.7 * i / Math.max(1, runden.length - 1)})`, width: 1.5 }, marker: { size: 5 },
+               hovertemplate: "%{y:.1f}<extra>" + DATA.eckwerte_runden[r] + "</extra>" };
+    });
+    traces.push({ x: yrs, y: yrs.map(y => ist[y]), name: "Ist", type: "scatter", mode: "lines+markers",
+                  line: { color: "#000", width: HS.line }, marker: { size: 8 }, hovertemplate: "%{y:.1f}<extra>Ist</extra>" });
+    plot("c-ek", traces, { hovermode: "closest", showlegend: false, xaxis: { dtick: 1, showgrid: false } });
+    table("t-ek", ["Größe", "lfd. Jahr: mittl. Fehler", "MAE", "zu hoch", "n", "Folgejahr: mittl. Fehler", "MAE", "n"],
+      vars.map(v => { const a = EF.find(f => f.variable === v && f.horizont === 0) || {}, b = EF.find(f => f.variable === v && f.horizont === 1) || {};
+        return [esc(v), num(a["mittlerer Fehler"], 2), num(a.MAE, 2), a["Anteil zu hoch"] == null ? "–" : Math.round(100 * a["Anteil zu hoch"]) + " %", a.n ?? "–",
+                num(b["mittlerer Fehler"], 2), num(b.MAE, 2), b.n ?? "–"]; }));
+  }
+  drawEk();
+}
 
 // Potenzial
 document.getElementById("pot-lead").textContent =

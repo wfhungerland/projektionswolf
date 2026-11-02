@@ -10,6 +10,8 @@ Nachbau der Potenzialschätzung der Bundesregierung in Python, ergänzt um eigen
 | `data/raw/` | Eurostat-Monatsindikatoren, AMECO-Reihen, Abrufstatus |
 | `data/manuell/prognosen.csv` | Prognosen von GD, Bundesbank, ifo, IfW, DIW, RWI und IWH seit 2023, je Wert mit Quellenlink |
 | `data/manuell/eckwerte_projektionen.csv` | Eckwerte der Bundesregierung, die noch nicht als Rechengrundlage vorliegen |
+| `data/bmwe_eckwerte.csv` | Eckwerte der Bundesregierung je Runde seit 2023 (Verwendung, Arbeitsmarkt, Preise, Einkommen), aus den Eckwert-PDFs gelesen |
+| `data/manuell/eckwerte_urls.csv` | Fundstellen der Eckwert-Tabellen; neue Runde: Zeile ergänzen, Workflow „Eckwerte laden“ lädt sie |
 | `data/raw/prognosen_pruefung.csv` | Ergebnis der automatischen Quellenprüfung je Prognosewert |
 | Webseite | GitHub Pages, gebaut bei jedem Lauf auf `main` |
 
@@ -19,7 +21,8 @@ Nachbau der Potenzialschätzung der Bundesregierung in Python, ergänzt um eigen
 2. **Eigene Filter** (`projektionswolf/filters.py`): Die Bundesregierung übernimmt NAWRU und TFP-Trend aus dem EU-Programm GAP. Hier stehen dieselben Modelle als Zustandsraummodelle. Der TFP-Trend ist wie in GAP der Posterior-Mittelwert einer MCMC-Kette (20.000 Ziehungen, 10.000 Burn-in) mit den EU-Prioren für Deutschland aus `priorsDE_<Runde>.mat`. Sein Wachstum trifft die Werte der Bundesregierung seit 2020 auf rund 0,04 Prozentpunkte, Mittelfrist eingeschlossen. Die NAWRU ist per Maximum Likelihood in den GAP-Parametergrenzen geschätzt. Mit beiden eigenen Filtern weicht die Produktionslücke der letzten Runde in keinem Jahr mehr als 0,07 Punkte ab.
 3. **Nowcast** (`projektionswolf/nowcast.py`): dynamisches Faktormodell mit gemischten Frequenzen (Produktion, Bau, Einzelhandel, EU-Umfragen, Arbeitslosigkeit; Quartals-BIP), dazu eine Bridge-Gleichung als Gegenprobe. Corona-Monate gehen als fehlend in die Schätzung ein.
 4. **Backtests** (`projektionswolf/pipeline.py`): BIP-Projektionen der Bundesregierung je Runde gegen den letzten Datenstand; Nowcast in Pseudo-Echtzeit seit 2014 gegen AR(1) und Mittelwert.
-5. **Prognosevergleich** (`projektionswolf/prognosen.py`, `projektionswolf/verify.py`): Projektionen der Bundesregierung neben GD, Bundesbank und Instituten, mit Treffsicherheit je Institution. `verify` lädt jede Quelle und prüft, ob die eingetragenen Zahlen dort stehen. Seiten mit Bot-Schutz (derzeit ifo) gelten als nicht abrufbar; ihre Werte bleiben als „offen“ markiert.
+5. **Eckwerte** (`projektionswolf/eckwerte.py`): liest die volle Eckwertetabelle jeder Runde und misst die Treffsicherheit je Größe gegen das jüngste von der Bundesregierung selbst ausgewiesene Ist. Das BIP stimmt in allen Runden mit den Rechengrundlagen überein. Das Staatskonto steht nicht in den Eckwertetabellen.
+6. **Prognosevergleich** (`projektionswolf/prognosen.py`, `projektionswolf/verify.py`): Projektionen der Bundesregierung neben GD, Bundesbank und Instituten, mit Treffsicherheit je Institution. `verify` lädt jede Quelle und prüft, ob die eingetragenen Zahlen dort stehen. Seiten mit Bot-Schutz (derzeit ifo) gelten als nicht abrufbar; ihre Werte bleiben als „offen“ markiert.
 
 ## Start
 

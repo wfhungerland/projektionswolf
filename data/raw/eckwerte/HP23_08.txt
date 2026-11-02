@@ -1,0 +1,62 @@
+=== Seite 1
+Berlin, 11.10.2023
+Eckwerte der Herbstprojektion 2023
+Herbst- Herbst- Herbst-
+Gesamtwirtschaftliche Entwicklung projektion projektion projektion
+in der Bundesrepublik DEUTSCHLAND 1) 2022 2023 2024 2025
+Veränderung gegenüber Vorjahr in %, soweit nicht anders angegeben
+ENTSTEHUNG des Bruttoinlandsprodukts (BIP)
+BIP (preisbereinigt) 1,8 -0,4 1,3 1,5
+Erwerbstätige (im Inland) 1,4 0,7 0,3 0,2
+BIP je Erwerbstätigen 0,4 -1,1 0,9 1,4
+BIP je Erwerbstätigenstunde 0,5 -1,3 0,3 1,3
+nachrichtlich:
+Erwerbslosenquote in % (ESVG-Konzept) 2) 2,9 2,8 2,8 2,7
+Arbeitslosenquote in % (Abgrenzung der BA) 2) 5,3 5,7 5,7 5,5
+VERWENDUNG des BIP in jeweiligen Preisen (nominal)
+Konsumausgaben
+Private Haushalte und priv. Organisationen ohne Erwerbszweck 10,9 5,6 4,3 3,7
+Staat 6,8 3,0 6,0 3,3
+Bruttoanlageinvestitionen 11,1 6,5 2,9 4,2
+Vorratsveränderungen und Nettozugang an Wertsachen (Mrd. EURO) 114,1 86,1 94,2 97,3
+Inlandsnachfrage 11,1 4,3 4,4 3,7
+Außenbeitrag (Mrd. EURO) 76,3 164,7 169,6 169,2
+Außenbeitrag (in % des BIP) 2,0 4,0 3,9 3,8
+Saldo der Leistungsbilanz (in % des BIP) 4,2 6,5 6,8 6,7
+Bruttoinlandsprodukt (nominal) 7,2 6,5 4,4 3,5
+VERWENDUNG des BIP preisbereinigt (real)
+Konsumausgaben
+Private Haushalte und priv. Organisationen ohne Erwerbszweck 3,9 -0,5 1,8 1,7
+Staat 1,6 -2,2 1,3 1,1
+Bruttoanlageinvestitionen 0,1 0,4 0,4 2,0
+Ausrüstungen 4,0 3,8 2,9 3,3
+Bauten -1,8 -1,3 -1,7 1,1
+Sonstige Anlagen -0,7 0,0 2,6 2,5
+Vorratsveränderung und Nettozugang an Wertsachen (Impuls) 3) 0,7 0,1 0,1 0,0
+Inlandsnachfrage 3,2 -0,6 1,5 1,6
+Exporte 3,3 -1,1 1,8 3,3
+Importe 6,6 -1,5 2,4 3,6
+Außenbeitrag (Impuls) 3) -1,2 0,2 -0,2 0,0
+Bruttoinlandsprodukt (real) 1,8 -0,4 1,3 1,5
+Preisentwicklung
+Verbraucherpreisindex 6,9 6,1 2,6 2,0
+Konsumausgaben der privaten Haushalte 6,7 6,1 2,4 2,0
+Inlandsnachfrage 7,6 5,0 2,9 2,1
+Bruttoinlandsprodukt 4) 5,3 7,0 3,1 2,0
+VERTEILUNG des Bruttonationaleinkommens (BNE)
+(Inländerkonzept)
+Arbeitnehmerentgelte 5,5 6,2 5,5 3,5
+Unternehmens- und Vermögenseinkommen 1,9 11,6 -0,4 2,2
+Volkseinkommen 4,4 7,8 3,7 3,1
+Bruttonationaleinkommen 7,2 6,7 4,3 3,4
+nachrichtlich (Inländerkonzept):
+Arbeitnehmer 1,6 0,8 0,4 0,2
+Bruttolöhne und -gehälter 5,8 6,4 5,5 3,4
+Bruttolöhne und -gehälter je Arbeitnehmer 4,1 5,6 5,1 3,2
+Verfügbares Einkommen der privaten Haushalte 6,3 5,8 3,9 3,9
+Sparquote in % 5) 11,1 11,1 10,7 10,7
+1) Bis 2022 Ergebnisse des Statistischen Bundesamtes; Stand: August 2023;
+2) Bezogen auf alle Erwerbspersonen;
+3) Absolute Veränderung der Vorräte bzw. des Außenbeitrags in Prozent des BIP des Vorjahres (= Beitrag zur Zuwachsrate des BIP);
+4) Lohnstückkosten je Arbeitnehmer; Veränderung gegenüber Vorjahr: 2022: 3,4%; 2023: 6,6%; 2024: 4,1%; 2025: 1,9%;
+5) Sparen in Prozent des verfügbaren Einkommens der privaten Haushalte einschl. betrieblicher Versorgungsansprüche.

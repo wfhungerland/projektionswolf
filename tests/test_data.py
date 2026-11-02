@@ -56,3 +56,15 @@ def test_verify_value_matching():
     t = "Das BIP schrumpft um 0,5 Prozent. 2026 wächst es um 1,3 %. Inflation jeweils 2 Prozent. 11,3 und −0,2."
     assert verify.found(t, -0.5) and verify.found(t, 1.3) and verify.found(t, 2.0) and verify.found(t, -0.2)
     assert not verify.found(t, 0.2) and not verify.found(t, 1.1) and not verify.found(t, 3.0)
+
+
+def test_eckwerte_parse_and_gdp_matches_bmwe():
+    from projektionswolf import bmwe, eckwerte
+
+    df = eckwerte.build()
+    assert set(eckwerte.CODES) <= set(df["runde"])
+    for code in bmwe.list_vintages():
+        g = 100 * bmwe.load_vintage(code)["input"]["y"].pct_change()
+        s = df[(df["runde"] == code) & (df["variable"] == "BIP real")]
+        for r in s.itertuples():
+            assert abs(r.wert - g[r.jahr]) <= 0.06, (code, r.jahr)

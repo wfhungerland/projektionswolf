@@ -234,6 +234,13 @@ def run(backtest_nowcast: bool = True, bt_start: str = "2014Q1") -> Results:
         st = pd.concat([st.rename(index={"nowcast": "DFM"}), stb])
         st["RMSE relativ zu AR(1)"] = st["RMSE"] / st.loc["ar1", "RMSE"]
         res.tables["Backtest Nowcast Kennzahlen"] = st.round(3)
+    from . import eckwerte
+
+    if eckwerte.RAW.exists():
+        ek = eckwerte.build()
+        res.tables["Eckwerte Bundesregierung"] = ek.pivot_table(index=["variable", "jahr"], columns="runde", values="wert")[
+            [c for c in eckwerte.CODES if c in set(ek["runde"])]]
+        res.tables["Eckwerte Treffsicherheit"] = eckwerte.error_stats(eckwerte.errors(ek)).round(3)
     am = ameco_comparison()
     if am is not None:
         res.tables["EU-Kommission"] = am.round(3)

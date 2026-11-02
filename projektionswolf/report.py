@@ -39,6 +39,8 @@ SHEET_NOTES = {
     "Backtest Nowcast": "Pseudo-Echtzeit-Nowcast zum Ende des Quartals (heutiger Datenstand, ohne Revisionen).",
     "Backtest Nowcast Kennzahlen": "Ohne 2020Q1 bis 2021Q1. RMSE relativ zu AR(1) < 1 heißt besser als AR(1).",
     "EU-Kommission": "AMECO: Potenzialwachstum, Lücke und NAWRU der EU-Kommission.",
+    "Eckwerte Bundesregierung": "Eckwerte je Projektionsrunde (Veränderung gg. Vorjahr in %, soweit nicht anders angegeben); erste Jahresspalte einer Runde ist Ist.",
+    "Eckwerte Treffsicherheit": "Fehler = Projektion minus jüngstes ausgewiesenes Ist, in Punkten; Horizont 0 = laufendes Jahr, 1 = Folgejahr.",
 }
 
 

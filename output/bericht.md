@@ -1,4 +1,4 @@
-# projektionswolf: Lauf vom 2026-11-02 12:46 UTC
+# projektionswolf: Lauf vom 2026-11-09 16:57 UTC
 
 ## Nachbau der Potenzialschätzung
 Nachgerechnet: 7 Runden (FP24, HP24, JP25, FP25, HP25, JP26, FP26). Größte Abweichung der Produktionslücke: 7.1e-08 Prozentpunkte.
@@ -47,8 +47,8 @@ Nachgerechnet: 7 Runden (FP24, HP24, JP25, FP25, HP25, JP26, FP26). Größte Abw
 | 2026Q1 | 0.40 |  |  |
 | 2026Q2 | 0.30 |  |  |
 | 2026Q3 | 0.20 |  |  |
-| 2026Q4 |  | 0.43 | 0.38 |
-| 2027Q1 |  | 0.36 | 0.32 |
+| 2026Q4 |  | 0.43 | 0.55 |
+| 2027Q1 |  | 0.36 | 0.31 |
 
 Jahreswachstum 2026 (kalenderbereinigt) aus dem Faktormodell: 1.06 %. Datenstand Monatsindikatoren: 2026-10.
 Setzt man dieses Wachstum in die Frühjahrsprojektion 2026 ein (0.51 % dort), ändert sich die Lücke 2026 von -1.84 auf -1.30 % des Potenzials.
@@ -59,7 +59,7 @@ Setzt man dieses Wachstum in die Frühjahrsprojektion 2026 ein (0.51 % dort), ä
 | DFM | 0.453 | 0.323 | 46.000 | 0.813 |
 | ar1 | 0.557 | 0.405 | 46.000 | 1.000 |
 | mittelwert | 0.537 | 0.386 | 46.000 | 0.964 |
-| bridge | 0.544 | 0.367 | 46.000 | 0.976 |
+| bridge | 0.544 | 0.368 | 46.000 | 0.976 |
 
 ## Backtest BIP-Projektionen der Bundesregierung
 | horizont | n | mittlerer_fehler | RMSE | MAE |

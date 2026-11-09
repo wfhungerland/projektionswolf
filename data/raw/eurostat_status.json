@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-02T12:39:58Z",
+ "retrieved_at": "2026-11-09T16:49:24Z",
  "series": {
   "gdp_qoq": {
    "ok": true,
@@ -8,18 +8,18 @@
   },
   "ip": {
    "ok": true,
-   "n": 428,
-   "last": "2026-08"
+   "n": 429,
+   "last": "2026-09"
   },
   "ip_manuf": {
    "ok": true,
-   "n": 428,
-   "last": "2026-08"
+   "n": 429,
+   "last": "2026-09"
   },
   "construction": {
    "ok": true,
-   "n": 428,
-   "last": "2026-08"
+   "n": 429,
+   "last": "2026-09"
   },
   "retail": {
    "ok": true,
